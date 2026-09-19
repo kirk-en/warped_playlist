@@ -253,8 +253,8 @@
       "displayTime": "1:15"
     },
     {
-      "id": "volcom-pistolia",
-      "band": "Pistolia",
+      "id": "volcom-pistolita",
+      "band": "Pistolita",
       "stageId": "volcom",
       "startTime": "14:15",
       "displayTime": "2:15"
@@ -401,7 +401,7 @@
     },
     {
       "id": "smartpunk-i-am-the-avalanche",
-      "band": "I Am the Avalanche",
+      "band": "I am the Avalanche",
       "stageId": "smartpunk",
       "startTime": "17:30",
       "displayTime": "5:30"

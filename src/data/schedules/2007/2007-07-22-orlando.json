@@ -37,8 +37,8 @@
       "name": "East Coast Indie Stage"
     },
     {
-      "id": "famly-clothing",
-      "name": "Famly Clothing Stage"
+      "id": "family-clothing",
+      "name": "Family Clothing Stage"
     }
   ],
   "sets": [
@@ -156,7 +156,7 @@
     },
     {
       "id": "13-cute-is-what-we-aim-for",
-      "band": "Cute Is What We Aim For",
+      "band": "Cute is What We Aim For",
       "stageId": "13",
       "startTime": "19:10",
       "displayTime": "7:10"
@@ -401,7 +401,7 @@
     },
     {
       "id": "ernie-ball-scenes-from-a-movie",
-      "band": "Scenes From A Movie",
+      "band": "Scenes from a Movie",
       "stageId": "ernie-ball",
       "startTime": "14:30",
       "displayTime": "2:30"
@@ -485,7 +485,7 @@
     },
     {
       "id": "kevin-says-fallen-from-the-sky",
-      "band": "Fallen From the Sky",
+      "band": "Fallen from the Sky",
       "stageId": "kevin-says",
       "startTime": "14:00",
       "displayTime": "2:00"
@@ -624,8 +624,8 @@
       "displayTime": "4:20"
     },
     {
-      "id": "skullcandy-mix-tent-skull-candy-mix",
-      "band": "Skull Candy Mix",
+      "id": "skullcandy-mix-tent-skullcandy-mix",
+      "band": "Skullcandy Mix",
       "stageId": "skullcandy-mix-tent",
       "startTime": "17:15",
       "displayTime": "5:15"
@@ -638,8 +638,8 @@
       "displayTime": "12:00"
     },
     {
-      "id": "east-coast-indie-refelctive-insight",
-      "band": "Refelctive Insight",
+      "id": "east-coast-indie-reflective-insight",
+      "band": "Reflective Insight",
       "stageId": "east-coast-indie",
       "startTime": "13:00",
       "displayTime": "1:00"
@@ -666,16 +666,16 @@
       "displayTime": "4:00"
     },
     {
-      "id": "famly-clothing-allura",
+      "id": "family-clothing-allura",
       "band": "Allura",
-      "stageId": "famly-clothing",
+      "stageId": "family-clothing",
       "startTime": "10:00",
       "displayTime": "10:00"
     },
     {
-      "id": "famly-clothing-phathom",
+      "id": "family-clothing-phathom",
       "band": "Phathom",
-      "stageId": "famly-clothing",
+      "stageId": "family-clothing",
       "startTime": "10:30",
       "displayTime": "10:30"
     }

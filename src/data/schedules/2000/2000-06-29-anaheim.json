@@ -1,0 +1,299 @@
+{
+  "stages": [
+    {
+      "id": "stage-1",
+      "name": "Stage 1"
+    },
+    {
+      "id": "stage-2",
+      "name": "Stage 2"
+    },
+    {
+      "id": "3rd",
+      "name": "3rd Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "tiki-tent",
+      "name": "Tiki Tent"
+    }
+  ],
+  "sets": [
+    {
+      "id": "stage-1-tsol",
+      "band": "TSOL",
+      "stageId": "stage-1",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "stage-1-good-riddance",
+      "band": "Good Riddance",
+      "stageId": "stage-1",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "stage-1-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "stage-1",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "stage-1-millencolin",
+      "band": "Millencolin",
+      "stageId": "stage-1",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "stage-1-nofx",
+      "band": "NOFX",
+      "stageId": "stage-1",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "stage-1-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "stage-1",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "stage-1-mxpx",
+      "band": "MxPx",
+      "stageId": "stage-1",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "stage-1-long-beach-dub-allstars",
+      "band": "Long Beach Dub Allstars",
+      "stageId": "stage-1",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "stage-2-lunachicks",
+      "band": "Lunachicks",
+      "stageId": "stage-2",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "stage-2-snapcase",
+      "band": "Snapcase",
+      "stageId": "stage-2",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "stage-2-the-donnas",
+      "band": "The Donnas",
+      "stageId": "stage-2",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "stage-2-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "stage-2",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "stage-2-jurassic-5",
+      "band": "Jurassic 5",
+      "stageId": "stage-2",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "stage-2-weezer",
+      "band": "Weezer",
+      "stageId": "stage-2",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "stage-2-green-day",
+      "band": "Green Day",
+      "stageId": "stage-2",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "stage-2-papa-roach",
+      "band": "Papa Roach",
+      "stageId": "stage-2",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "3rd-b-side-players",
+      "band": "B-Side Players",
+      "stageId": "3rd",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "3rd-one-man-army",
+      "band": "One Man Army",
+      "stageId": "3rd",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "3rd-deviates",
+      "band": "Deviates",
+      "stageId": "3rd",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "3rd-hot-water-music",
+      "band": "Hot Water Music",
+      "stageId": "3rd",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "3rd-mike-watt",
+      "band": "Mike Watt",
+      "stageId": "3rd",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "3rd-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "3rd",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "3rd-ugly-duckling",
+      "band": "Ugly Duckling",
+      "stageId": "3rd",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "3rd-the-dickies",
+      "band": "The Dickies",
+      "stageId": "3rd",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "volcom-relish",
+      "band": "Relish",
+      "stageId": "volcom",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "volcom-full-metal-racket",
+      "band": "Full Metal Racket",
+      "stageId": "volcom",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "volcom-open-hand",
+      "band": "Open Hand",
+      "stageId": "volcom",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "volcom-kroq-band",
+      "band": "KROQ Band",
+      "stageId": "volcom",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "volcom-turn-down",
+      "band": "Turn Down",
+      "stageId": "volcom",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "volcom-relish-2",
+      "band": "Relish",
+      "stageId": "volcom",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "volcom-bueno",
+      "band": "Bueno",
+      "stageId": "volcom",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "volcom-the-line",
+      "band": "The Line",
+      "stageId": "volcom",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "tiki-tent-cheap-leis",
+      "band": "Cheap Leis",
+      "stageId": "tiki-tent",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "tiki-tent-lefty",
+      "band": "Lefty",
+      "stageId": "tiki-tent",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "tiki-tent-f-o-n",
+      "band": "F.O.N.",
+      "stageId": "tiki-tent",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "tiki-tent-the-stingrays",
+      "band": "The Stingrays",
+      "stageId": "tiki-tent",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "tiki-tent-the-tiki-tones",
+      "band": "The Tiki Tones",
+      "stageId": "tiki-tent",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "tiki-tent-toledo-show",
+      "band": "Toledo Show",
+      "stageId": "tiki-tent",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "tiki-tent-the-cover-ups",
+      "band": "The Cover Ups",
+      "stageId": "tiki-tent",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    }
+  ]
+}

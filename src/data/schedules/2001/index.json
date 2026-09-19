@@ -1,0 +1,393 @@
+[
+  {
+    "id": "2001-06-22-peoria",
+    "year": 2001,
+    "date": "2001-06-22",
+    "city": "Peoria",
+    "state": "AZ",
+    "venue": "Peoria Sports Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-06-23-las-vegas",
+    "year": 2001,
+    "date": "2001-06-23",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Thomas & Mack Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-06-24-fresno",
+    "year": 2001,
+    "date": "2001-06-24",
+    "city": "Fresno",
+    "state": "CA",
+    "venue": "Fresno State Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-06-27-chula-vista",
+    "year": 2001,
+    "date": "2001-06-27",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheater Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-06-28-ventura",
+    "year": 2001,
+    "date": "2001-06-28",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-06-29-los-angeles",
+    "year": 2001,
+    "date": "2001-06-29",
+    "city": "Los Angeles",
+    "state": "CA",
+    "venue": "Los Angeles Coliseum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-06-30-san-francisco",
+    "year": 2001,
+    "date": "2001-06-30",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-01-lake-tahoe",
+    "year": 2001,
+    "date": "2001-07-01",
+    "city": "Lake Tahoe",
+    "state": "NV",
+    "venue": "Boreal Ridge",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-02-boise",
+    "year": 2001,
+    "date": "2001-07-02",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Idaho Center"
+  },
+  {
+    "id": "2001-07-03-george",
+    "year": 2001,
+    "date": "2001-07-03",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-05-calgary",
+    "year": 2001,
+    "date": "2001-07-05",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-06-bozeman",
+    "year": 2001,
+    "date": "2001-07-06",
+    "city": "Bozeman",
+    "state": "MT",
+    "venue": "Gallatin County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-07-salt-lake-city",
+    "year": 2001,
+    "date": "2001-07-07",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-08-brighton",
+    "year": 2001,
+    "date": "2001-07-08",
+    "city": "Brighton",
+    "state": "CO",
+    "venue": "Adams County Fairgrounds"
+  },
+  {
+    "id": "2001-07-10-bonner-springs",
+    "year": 2001,
+    "date": "2001-07-10",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Sandstone Amphitheatre Lot"
+  },
+  {
+    "id": "2001-07-11-maryland-heights",
+    "year": 2001,
+    "date": "2001-07-11",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Plaza at Riverport Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-12-noblesville",
+    "year": 2001,
+    "date": "2001-07-12",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center"
+  },
+  {
+    "id": "2001-07-13-milwaukee",
+    "year": 2001,
+    "date": "2001-07-13",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "The Rave/Eagles Ballroom"
+  },
+  {
+    "id": "2001-07-14-somerset",
+    "year": 2001,
+    "date": "2001-07-14",
+    "city": "Somerset",
+    "state": "WI",
+    "venue": "Float-Rite Park Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-15-tinley-park",
+    "year": 2001,
+    "date": "2001-07-15",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "Tweeter Center Chicago",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-17-sparta",
+    "year": 2001,
+    "date": "2001-07-17",
+    "city": "Sparta",
+    "state": "KY",
+    "venue": "Kentucky Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-18-antioch",
+    "year": 2001,
+    "date": "2001-07-18",
+    "city": "Antioch",
+    "state": "TN",
+    "venue": "AmSouth Amphitheatre"
+  },
+  {
+    "id": "2001-07-19-little-rock",
+    "year": 2001,
+    "date": "2001-07-19",
+    "city": "Little Rock",
+    "state": "AR",
+    "venue": "Riverfest Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-20-dallas",
+    "year": 2001,
+    "date": "2001-07-20",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-21-selma",
+    "year": 2001,
+    "date": "2001-07-21",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-22-the-woodlands",
+    "year": 2001,
+    "date": "2001-07-22",
+    "city": "The Woodlands",
+    "state": "TX",
+    "venue": "Cynthia Woods Mitchell Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-23-corpus-christi",
+    "year": 2001,
+    "date": "2001-07-23",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "venue": "Concrete Street Amphitheater"
+  },
+  {
+    "id": "2001-07-24-new-orleans",
+    "year": 2001,
+    "date": "2001-07-24",
+    "city": "New Orleans",
+    "state": "LA",
+    "venue": "Pontchartrain Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-25-atlanta",
+    "year": 2001,
+    "date": "2001-07-25",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "HiFi Buys Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-26-charlotte",
+    "year": 2001,
+    "date": "2001-07-26",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-27-orlando",
+    "year": 2001,
+    "date": "2001-07-27",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2001-07-28-pompano-beach",
+    "year": 2001,
+    "date": "2001-07-28",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Beach Amphitheatre"
+  },
+  {
+    "id": "2001-07-29-tampa",
+    "year": 2001,
+    "date": "2001-07-29",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "USF Soccer Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-07-31-bristow",
+    "year": 2001,
+    "date": "2001-07-31",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion"
+  },
+  {
+    "id": "2001-08-01-virginia-beach",
+    "year": 2001,
+    "date": "2001-08-01",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "GTE Virginia Beach Amphitheater"
+  },
+  {
+    "id": "2001-08-02-pittsburgh",
+    "year": 2001,
+    "date": "2001-08-02",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "IC Light Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-08-03-camden",
+    "year": 2001,
+    "date": "2001-08-03",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Tweeter Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-08-04-new-york",
+    "year": 2001,
+    "date": "2001-08-04",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island"
+  },
+  {
+    "id": "2001-08-05-asbury-park",
+    "year": 2001,
+    "date": "2001-08-05",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Asbury Park Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-08-07-cleveland",
+    "year": 2001,
+    "date": "2001-08-07",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Nautica Stage"
+  },
+  {
+    "id": "2001-08-08-buffalo",
+    "year": 2001,
+    "date": "2001-08-08",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "La Salle Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-08-09-boston",
+    "year": 2001,
+    "date": "2001-08-09",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Suffolk Downs"
+  },
+  {
+    "id": "2001-08-10-montreal",
+    "year": 2001,
+    "date": "2001-08-10",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc des Îles",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-08-11-toronto",
+    "year": 2001,
+    "date": "2001-08-11",
+    "city": "Toronto",
+    "state": "ON",
+    "venue": "SkyDome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2001-08-12-detroit",
+    "year": 2001,
+    "date": "2001-08-12",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Phoenix Plaza Amphitheatre",
+    "note": "Set times are not known for this date."
+  }
+]

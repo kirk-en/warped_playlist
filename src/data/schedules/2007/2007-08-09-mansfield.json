@@ -300,8 +300,8 @@
       "displayTime": "12:30"
     },
     {
-      "id": "smartpunk-maylene-and-the-sons-of-disater",
-      "band": "Maylene and the Sons of Disater",
+      "id": "smartpunk-maylene-and-the-sons-of-disaster",
+      "band": "Maylene and the Sons of Disaster",
       "stageId": "smartpunk",
       "startTime": "13:25",
       "displayTime": "1:25"
@@ -461,8 +461,8 @@
       "displayTime": "7:45"
     },
     {
-      "id": "ernie-ball-jonzetta",
-      "band": "Jonzetta",
+      "id": "ernie-ball-jonezetta",
+      "band": "Jonezetta",
       "stageId": "ernie-ball",
       "startTime": "20:25",
       "displayTime": "8:25"

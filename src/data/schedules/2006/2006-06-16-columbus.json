@@ -378,7 +378,7 @@
     },
     {
       "id": "vagrant-senses-fail-acoustic",
-      "band": "Senses Fail (Acoustic)",
+      "band": "Senses Fail (acoustic)",
       "stageId": "vagrant",
       "startTime": "17:45",
       "displayTime": "5:45"

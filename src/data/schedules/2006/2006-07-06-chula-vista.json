@@ -294,7 +294,7 @@
     },
     {
       "id": "smartpunk-dork",
-      "band": "Dork",
+      "band": "DORK",
       "stageId": "smartpunk",
       "startTime": "11:15",
       "displayTime": "11:15"
@@ -364,7 +364,7 @@
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "11:55",
       "displayTime": "11:55"

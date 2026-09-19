@@ -1,0 +1,362 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "drive-thru-records",
+      "name": "Drive-Thru Records Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-wanted-dead",
+      "band": "Wanted Dead",
+      "stageId": "teal",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "teal-alkaline-trio",
+      "band": "Alkaline Trio",
+      "stageId": "teal",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "teal-no-use-for-a-name",
+      "band": "No Use for a Name",
+      "stageId": "teal",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "teal-good-charlotte",
+      "band": "Good Charlotte",
+      "stageId": "teal",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "teal-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "teal",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "teal-ozma",
+      "band": "Ozma",
+      "stageId": "teal",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "teal-something-corporate",
+      "band": "Something Corporate",
+      "stageId": "teal",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "teal-nofx",
+      "band": "NOFX",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "teal-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "teal",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "brian-useless-i-d",
+      "band": "Useless I.D.",
+      "stageId": "brian",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "brian-morgan-heritage",
+      "band": "Morgan Heritage",
+      "stageId": "brian",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "brian-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "brian",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "brian-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-hot-water-music",
+      "band": "Hot Water Music",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-mxpx",
+      "band": "MxPx",
+      "stageId": "brian",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "brian-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "brian",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "maurice-thursday",
+      "band": "Thursday",
+      "stageId": "maurice",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "maurice-dynamite-boy",
+      "band": "Dynamite Boy",
+      "stageId": "maurice",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "maurice-the-casualties",
+      "band": "The Casualties",
+      "stageId": "maurice",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "maurice-student-rick",
+      "band": "Student Rick",
+      "stageId": "maurice",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "maurice-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "maurice",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "maurice-sw1tched",
+      "band": "Sw1tched",
+      "stageId": "maurice",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "maurice-the-used",
+      "band": "The Used",
+      "stageId": "maurice",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "maurice-thrice",
+      "band": "Thrice",
+      "stageId": "maurice",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "maurice-western-waste",
+      "band": "Western Waste",
+      "stageId": "maurice",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "maurice-quarashi",
+      "band": "Quarashi",
+      "stageId": "maurice",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "volcom-3rd-strike",
+      "band": "3rd Strike",
+      "stageId": "volcom",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "volcom-places-to-park",
+      "band": "Places to Park",
+      "stageId": "volcom",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "volcom-the-line",
+      "band": "The Line",
+      "stageId": "volcom",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "volcom-pistol-grip",
+      "band": "Pistol Grip",
+      "stageId": "volcom",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "volcom-handsome-devil",
+      "band": "Handsome Devil",
+      "stageId": "volcom",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "volcom-stavesacre",
+      "band": "Stavesacre",
+      "stageId": "volcom",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "volcom-arkham",
+      "band": "Arkham",
+      "stageId": "volcom",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "volcom-1208",
+      "band": "1208",
+      "stageId": "volcom",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "volcom-death-by-stereo",
+      "band": "Death by Stereo",
+      "stageId": "volcom",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "drive-thru-records-last-place-champs",
+      "band": "Last Place Champs",
+      "stageId": "drive-thru-records",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "drive-thru-records-contingency-plan",
+      "band": "Contingency Plan",
+      "stageId": "drive-thru-records",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "drive-thru-records-five-speed",
+      "band": "Five Speed",
+      "stageId": "drive-thru-records",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "drive-thru-records-duke-45",
+      "band": "Duke 45",
+      "stageId": "drive-thru-records",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "drive-thru-records-allister",
+      "band": "Allister",
+      "stageId": "drive-thru-records",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "drive-thru-records-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "drive-thru-records",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "drive-thru-records-finch",
+      "band": "Finch",
+      "stageId": "drive-thru-records",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "drive-thru-records-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "drive-thru-records",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "drive-thru-records-home-grown",
+      "band": "Home Grown",
+      "stageId": "drive-thru-records",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "drive-thru-records-off-by-one",
+      "band": "Off By One",
+      "stageId": "drive-thru-records",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "drive-thru-records-american-hi-fi",
+      "band": "American Hi-Fi",
+      "stageId": "drive-thru-records",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    }
+  ]
+}

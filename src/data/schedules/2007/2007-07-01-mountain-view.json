@@ -202,8 +202,8 @@
       "displayTime": "4:55"
     },
     {
-      "id": "hurley-the-dear-and-deparated",
-      "band": "The Dear and Deparated",
+      "id": "hurley-the-dear-and-departed",
+      "band": "The Dear and Departed",
       "stageId": "hurley",
       "startTime": "17:50",
       "displayTime": "5:50"
@@ -308,7 +308,7 @@
     },
     {
       "id": "smartpunk-playradioplay",
-      "band": "PlayRadioPlay",
+      "band": "PlayRadioPlay!",
       "stageId": "smartpunk",
       "startTime": "14:15",
       "displayTime": "2:15"

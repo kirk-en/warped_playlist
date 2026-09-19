@@ -133,8 +133,8 @@
       "displayTime": "3:00"
     },
     {
-      "id": "highway-1-angels-airwaves",
-      "band": "Angels & Airwaves",
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "16:00",
       "displayTime": "4:00"
@@ -260,7 +260,7 @@
     },
     {
       "id": "hurley-com-horrorpops",
-      "band": "HorrorPops",
+      "band": "Horrorpops",
       "stageId": "hurley-com",
       "startTime": "14:00",
       "displayTime": "2:00"
@@ -610,7 +610,7 @@
     },
     {
       "id": "skate-ramp-fear-nuttin-band",
-      "band": "Fear Nuttin' Band",
+      "band": "Fear Nuttin Band",
       "stageId": "skate-ramp",
       "startTime": "18:10",
       "displayTime": "6:10"

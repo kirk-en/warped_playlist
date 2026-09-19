@@ -111,8 +111,8 @@
       "displayTime": "2:20"
     },
     {
-      "id": "13-killswitch-egnage",
-      "band": "Killswitch Egnage",
+      "id": "13-killswitch-engage",
+      "band": "Killswitch Engage",
       "stageId": "13",
       "startTime": "15:20",
       "displayTime": "3:20"
@@ -399,7 +399,7 @@
     },
     {
       "id": "ernie-ball-buck-o-nine",
-      "band": "Buck-o-Nine",
+      "band": "Buck-O-Nine",
       "stageId": "ernie-ball",
       "startTime": "15:15",
       "displayTime": "3:15"

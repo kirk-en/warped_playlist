@@ -229,7 +229,7 @@
     },
     {
       "id": "hurley-we-the-kings",
-      "band": "We The Kings",
+      "band": "We the Kings",
       "stageId": "hurley",
       "startTime": "18:45",
       "displayTime": "6:45"
@@ -291,8 +291,8 @@
       "displayTime": "5:55"
     },
     {
-      "id": "hurley-com-maylene-and-the-sons-of-diaster",
-      "band": "Maylene and the Sons of Diaster",
+      "id": "hurley-com-maylene-and-the-sons-of-disaster",
+      "band": "Maylene and the Sons of Disaster",
       "stageId": "hurley-com",
       "startTime": "18:55",
       "displayTime": "6:55"
@@ -543,8 +543,8 @@
       "displayTime": "12:15"
     },
     {
-      "id": "skate-ramp-the-pinkertones",
-      "band": "The Pinkertones",
+      "id": "skate-ramp-the-pinker-tones",
+      "band": "The Pinker Tones",
       "stageId": "skate-ramp",
       "startTime": "13:15",
       "displayTime": "1:15"
@@ -579,7 +579,7 @@
     },
     {
       "id": "skate-ramp-good-guys-in-black",
-      "band": "Good Guys In Black",
+      "band": "Good Guys in Black",
       "stageId": "skate-ramp",
       "startTime": "18:15",
       "displayTime": "6:15"
@@ -690,8 +690,8 @@
       "displayTime": "3:30"
     },
     {
-      "id": "skullcandy-mix-tent-the-pinkertones",
-      "band": "The Pinkertones",
+      "id": "skullcandy-mix-tent-the-pinker-tones",
+      "band": "The Pinker Tones",
       "stageId": "skullcandy-mix-tent",
       "startTime": "16:25",
       "displayTime": "4:25"

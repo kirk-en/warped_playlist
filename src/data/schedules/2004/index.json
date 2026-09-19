@@ -1,0 +1,431 @@
+[
+  {
+    "id": "2004-06-26-dallas",
+    "year": 2004,
+    "date": "2004-06-26",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-06-27-selma",
+    "year": 2004,
+    "date": "2004-06-27",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-06-28-houston",
+    "year": 2004,
+    "date": "2004-06-28",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Center Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-06-29-las-cruces",
+    "year": 2004,
+    "date": "2004-06-29",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-06-30-peoria",
+    "year": 2004,
+    "date": "2004-06-30",
+    "city": "Peoria",
+    "state": "AZ",
+    "venue": "Peoria Sports Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-01-fullerton",
+    "year": 2004,
+    "date": "2004-07-01",
+    "city": "Fullerton",
+    "state": "CA",
+    "venue": "Cal State Fullerton"
+  },
+  {
+    "id": "2004-07-02-fullerton",
+    "year": 2004,
+    "date": "2004-07-02",
+    "city": "Fullerton",
+    "state": "CA",
+    "venue": "Cal State Fullerton",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-03-san-francisco",
+    "year": 2004,
+    "date": "2004-07-03",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-04-las-vegas",
+    "year": 2004,
+    "date": "2004-07-04",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Desert Breeze Skate Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-06-chula-vista",
+    "year": 2004,
+    "date": "2004-07-06",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheatre"
+  },
+  {
+    "id": "2004-07-07-ventura",
+    "year": 2004,
+    "date": "2004-07-07",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-08-wheatland",
+    "year": 2004,
+    "date": "2004-07-08",
+    "city": "Wheatland",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-09-boise",
+    "year": 2004,
+    "date": "2004-07-09",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-10-george",
+    "year": 2004,
+    "date": "2004-07-10",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-11-st-helens",
+    "year": 2004,
+    "date": "2004-07-11",
+    "city": "St. Helens",
+    "state": "OR",
+    "venue": "Columbia Meadows",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-13-vancouver",
+    "year": 2004,
+    "date": "2004-07-13",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Thunderbird Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-15-calgary",
+    "year": 2004,
+    "date": "2004-07-15",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-16-bozeman",
+    "year": 2004,
+    "date": "2004-07-16",
+    "city": "Bozeman",
+    "state": "MT",
+    "venue": "Gallatin County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-17-salt-lake-city",
+    "year": 2004,
+    "date": "2004-07-17",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-18-denver",
+    "year": 2004,
+    "date": "2004-07-18",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-20-milwaukee",
+    "year": 2004,
+    "date": "2004-07-20",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-21-maryland-heights",
+    "year": 2004,
+    "date": "2004-07-21",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "UMB Bank Pavilion"
+  },
+  {
+    "id": "2004-07-22-noblesville",
+    "year": 2004,
+    "date": "2004-07-22",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-23-cleveland",
+    "year": 2004,
+    "date": "2004-07-23",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Tower City Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-24-tinley-park",
+    "year": 2004,
+    "date": "2004-07-24",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "Tweeter Center"
+  },
+  {
+    "id": "2004-07-25-minneapolis",
+    "year": 2004,
+    "date": "2004-07-25",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "Metrodome Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-26-bonner-springs",
+    "year": 2004,
+    "date": "2004-07-26",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-28-atlanta",
+    "year": 2004,
+    "date": "2004-07-28",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "HiFi Buys Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-29-orlando",
+    "year": 2004,
+    "date": "2004-07-29",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2004-07-30-tampa",
+    "year": 2004,
+    "date": "2004-07-30",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "Vinoy Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-07-31-pompano-beach",
+    "year": 2004,
+    "date": "2004-07-31",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Beach Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-01-jacksonville",
+    "year": 2004,
+    "date": "2004-08-01",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-02-charlotte",
+    "year": 2004,
+    "date": "2004-08-02",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-03-virginia-beach",
+    "year": 2004,
+    "date": "2004-08-03",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "GTE Virginia Beach Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-04-bristow",
+    "year": 2004,
+    "date": "2004-08-04",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion"
+  },
+  {
+    "id": "2004-08-05-burgettstown",
+    "year": 2004,
+    "date": "2004-08-05",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "Post-Gazette Pavilion"
+  },
+  {
+    "id": "2004-08-06-camden",
+    "year": 2004,
+    "date": "2004-08-06",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Tweeter Center at the Waterfront"
+  },
+  {
+    "id": "2004-08-07-new-york",
+    "year": 2004,
+    "date": "2004-08-07",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-08-englishtown",
+    "year": 2004,
+    "date": "2004-08-08",
+    "city": "Englishtown",
+    "state": "NJ",
+    "venue": "Raceway Park"
+  },
+  {
+    "id": "2004-08-10-hershey",
+    "year": 2004,
+    "date": "2004-08-10",
+    "city": "Hershey",
+    "state": "PA",
+    "venue": "Hersheypark Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-12-quebec-city",
+    "year": 2004,
+    "date": "2004-08-12",
+    "city": "Quebec City",
+    "state": "QC",
+    "venue": "Colisée Pepsi",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-13-montreal",
+    "year": 2004,
+    "date": "2004-08-13",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-14-barrie",
+    "year": 2004,
+    "date": "2004-08-14",
+    "city": "Barrie",
+    "state": "ON",
+    "venue": "Molson Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-15-pontiac",
+    "year": 2004,
+    "date": "2004-08-15",
+    "city": "Pontiac",
+    "state": "MI",
+    "venue": "Pontiac Silverdome"
+  },
+  {
+    "id": "2004-08-16-cincinnati",
+    "year": 2004,
+    "date": "2004-08-16",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-17-columbus",
+    "year": 2004,
+    "date": "2004-08-17",
+    "city": "Columbus",
+    "state": "OH",
+    "venue": "Germain Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-18-darien",
+    "year": 2004,
+    "date": "2004-08-18",
+    "city": "Darien",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2004-08-19-foxborough",
+    "year": 2004,
+    "date": "2004-08-19",
+    "city": "Foxborough",
+    "state": "MA",
+    "venue": "Gillette Stadium"
+  },
+  {
+    "id": "2004-08-20-foxborough",
+    "year": 2004,
+    "date": "2004-08-20",
+    "city": "Foxborough",
+    "state": "MA",
+    "venue": "Gillette Stadium"
+  }
+]

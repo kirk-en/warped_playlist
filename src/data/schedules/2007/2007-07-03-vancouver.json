@@ -291,7 +291,7 @@
     },
     {
       "id": "smartpunk-playradioplay",
-      "band": "PlayRadioPlay",
+      "band": "PlayRadioPlay!",
       "stageId": "smartpunk",
       "startTime": "11:20",
       "displayTime": "11:20"

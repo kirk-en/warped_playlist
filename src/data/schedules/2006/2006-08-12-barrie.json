@@ -234,8 +234,8 @@
       "displayTime": "1:15"
     },
     {
-      "id": "volcom-ill-scarlett",
-      "band": "Ill Scarlett",
+      "id": "volcom-illscarlett",
+      "band": "illScarlett",
       "stageId": "volcom",
       "startTime": "14:15",
       "displayTime": "2:15"
@@ -326,7 +326,7 @@
     },
     {
       "id": "smartpunk-i-am-the-avalanche",
-      "band": "I Am the Avalanche",
+      "band": "I am the Avalanche",
       "stageId": "smartpunk",
       "startTime": "18:30",
       "displayTime": "6:30"
@@ -361,7 +361,7 @@
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "14:45",
       "displayTime": "2:45"

@@ -1,0 +1,303 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "radioactive",
+      "name": "Radioactive Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-mest",
+      "band": "Mest",
+      "stageId": "teal",
+      "startTime": "10:30",
+      "displayTime": "10:30"
+    },
+    {
+      "id": "teal-thrice",
+      "band": "Thrice",
+      "stageId": "teal",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "teal-poison-the-well",
+      "band": "Poison the Well",
+      "stageId": "teal",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "teal-face-to-face",
+      "band": "Face to Face",
+      "stageId": "teal",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "teal-body-count",
+      "band": "Body Count",
+      "stageId": "teal",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "teal-the-used",
+      "band": "The Used",
+      "stageId": "teal",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "teal-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "teal",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "teal-talib-kweli",
+      "band": "Talib Kweli",
+      "stageId": "teal",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "brian-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "brian",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "brian-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "brian",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "brian-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "brian",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "brian-rancid",
+      "band": "Rancid",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-sum-41",
+      "band": "Sum 41",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-pennywise",
+      "band": "Pennywise",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "maurice-rufio",
+      "band": "Rufio",
+      "stageId": "maurice",
+      "startTime": "09:50",
+      "displayTime": "9:50"
+    },
+    {
+      "id": "maurice-slick-shoes",
+      "band": "Slick Shoes",
+      "stageId": "maurice",
+      "startTime": "10:45",
+      "displayTime": "10:45"
+    },
+    {
+      "id": "maurice-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "maurice",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "maurice-the-unseen",
+      "band": "The Unseen",
+      "stageId": "maurice",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "maurice-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "maurice",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "maurice-vendetta-red",
+      "band": "Vendetta Red",
+      "stageId": "maurice",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "maurice-authority-zero",
+      "band": "Authority Zero",
+      "stageId": "maurice",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "maurice-s-t-u-n",
+      "band": "S.T.U.N.",
+      "stageId": "maurice",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "maurice-vaux",
+      "band": "Vaux",
+      "stageId": "maurice",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "maurice-avenged-sevenfold",
+      "band": "Avenged Sevenfold",
+      "stageId": "maurice",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "volcom-eleventeen",
+      "band": "Eleventeen",
+      "stageId": "volcom",
+      "startTime": "10:20",
+      "displayTime": "10:20"
+    },
+    {
+      "id": "volcom-1208",
+      "band": "1208",
+      "stageId": "volcom",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "volcom-matchbook-romance",
+      "band": "Matchbook Romance",
+      "stageId": "volcom",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "volcom-7th-standard",
+      "band": "7th Standard",
+      "stageId": "volcom",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "volcom-from-autumn-to-ashes",
+      "band": "From Autumn to Ashes",
+      "stageId": "volcom",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "volcom-plain-white-t-s",
+      "band": "Plain White T's",
+      "stageId": "volcom",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "volcom-western-waste",
+      "band": "Western Waste",
+      "stageId": "volcom",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "volcom-arkham",
+      "band": "Arkham",
+      "stageId": "volcom",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "volcom-arraya",
+      "band": "Arraya",
+      "stageId": "volcom",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "volcom-throw-rag",
+      "band": "Throw Rag",
+      "stageId": "volcom",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "ernie-ball-never-heard-of-it",
+      "band": "Never Heard of It",
+      "stageId": "ernie-ball",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "radioactive-counterfit",
+      "band": "Counterfit",
+      "stageId": "radioactive",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    }
+  ]
+}

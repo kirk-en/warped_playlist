@@ -241,7 +241,7 @@
     },
     {
       "id": "volcom-the-matches",
-      "band": "THe Matches",
+      "band": "The Matches",
       "stageId": "volcom",
       "startTime": "15:00",
       "displayTime": "3:00"
@@ -303,8 +303,8 @@
       "displayTime": "2:30"
     },
     {
-      "id": "smartpunk-yesterday-s-rising",
-      "band": "Yesterday's Rising",
+      "id": "smartpunk-yesterdays-rising",
+      "band": "Yesterdays Rising",
       "stageId": "smartpunk",
       "startTime": "15:20",
       "displayTime": "3:20"

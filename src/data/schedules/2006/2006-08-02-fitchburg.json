@@ -136,8 +136,8 @@
       "displayTime": "4:30"
     },
     {
-      "id": "teddy-bear-joan-jet-and-the-blackhearts",
-      "band": "Joan Jet and the Blackhearts",
+      "id": "teddy-bear-joan-jett-and-the-blackhearts",
+      "band": "Joan Jett and the Blackhearts",
       "stageId": "teddy-bear",
       "startTime": "17:30",
       "displayTime": "5:30"
@@ -405,35 +405,35 @@
       "id": "bridge-9-records-rock-vegas-fnb",
       "band": "FNB",
       "stageId": "bridge-9-records-rock-vegas",
-      "startTime": "21:40",
+      "startTime": "09:40",
       "displayTime": "9:40"
     },
     {
       "id": "bridge-9-records-rock-vegas-chuck-brunswick",
       "band": "Chuck Brunswick",
       "stageId": "bridge-9-records-rock-vegas",
-      "startTime": "22:10",
+      "startTime": "10:10",
       "displayTime": "10:10"
     },
     {
       "id": "bridge-9-records-rock-vegas-the-neon-hookers",
       "band": "The Neon Hookers",
       "stageId": "bridge-9-records-rock-vegas",
-      "startTime": "22:40",
+      "startTime": "10:40",
       "displayTime": "10:40"
     },
     {
       "id": "bridge-9-records-rock-vegas-check-your-face",
       "band": "Check Your Face",
       "stageId": "bridge-9-records-rock-vegas",
-      "startTime": "23:10",
+      "startTime": "11:10",
       "displayTime": "11:10"
     },
     {
       "id": "bridge-9-records-rock-vegas-aeroplane-1929",
       "band": "Aeroplane, 1929",
       "stageId": "bridge-9-records-rock-vegas",
-      "startTime": "23:40",
+      "startTime": "11:40",
       "displayTime": "11:40"
     },
     {

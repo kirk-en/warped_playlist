@@ -108,7 +108,7 @@
     },
     {
       "id": "mike-no-use-for-a-name",
-      "band": "No Use For A Name",
+      "band": "No Use for a Name",
       "stageId": "mike",
       "startTime": "15:30",
       "displayTime": "3:30"
@@ -121,8 +121,8 @@
       "displayTime": "4:30"
     },
     {
-      "id": "mike-matchbox-romance",
-      "band": "Matchbox Romance",
+      "id": "mike-matchbook-romance",
+      "band": "Matchbook Romance",
       "stageId": "mike",
       "startTime": "17:30",
       "displayTime": "5:30"

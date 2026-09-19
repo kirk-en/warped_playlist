@@ -25,8 +25,8 @@
       "name": "Ernie Ball Stage"
     },
     {
-      "id": "old-school",
-      "name": "Old School Stage"
+      "id": "old-skool",
+      "name": "Old Skool Stage"
     }
   ],
   "sets": [
@@ -472,58 +472,58 @@
       "displayTime": "7:30"
     },
     {
-      "id": "old-school-spitshine",
+      "id": "old-skool-spitshine",
       "band": "Spitshine",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "12:30",
       "displayTime": "12:30"
     },
     {
-      "id": "old-school-revolution-mother",
+      "id": "old-skool-revolution-mother",
       "band": "Revolution Mother",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "13:30",
       "displayTime": "1:30"
     },
     {
-      "id": "old-school-mike-watt-and-the-missingmen",
+      "id": "old-skool-mike-watt-and-the-missingmen",
       "band": "Mike Watt and the Missingmen",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "14:30",
       "displayTime": "2:30"
     },
     {
-      "id": "old-school-t-s-o-l",
-      "band": "T.S.O.L.",
-      "stageId": "old-school",
+      "id": "old-skool-tsol",
+      "band": "TSOL",
+      "stageId": "old-skool",
       "startTime": "15:30",
       "displayTime": "3:30"
     },
     {
-      "id": "old-school-agent-orange",
+      "id": "old-skool-agent-orange",
       "band": "Agent Orange",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "16:30",
       "displayTime": "4:30"
     },
     {
-      "id": "old-school-the-germs",
+      "id": "old-skool-the-germs",
       "band": "The Germs",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "17:30",
       "displayTime": "5:30"
     },
     {
-      "id": "old-school-d-i",
+      "id": "old-skool-d-i",
       "band": "D.I.",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "18:30",
       "displayTime": "6:30"
     },
     {
-      "id": "old-school-the-dickies",
+      "id": "old-skool-the-dickies",
       "band": "The Dickies",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "19:30",
       "displayTime": "7:30"
     }

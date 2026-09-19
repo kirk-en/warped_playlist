@@ -1,0 +1,239 @@
+{
+  "stages": [
+    {
+      "id": "north",
+      "name": "North Stage"
+    },
+    {
+      "id": "south",
+      "name": "South Stage"
+    },
+    {
+      "id": "second",
+      "name": "Second Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "north-deviates",
+      "band": "Deviates",
+      "stageId": "north",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "north-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "north",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "north-millencolin",
+      "band": "Millencolin",
+      "stageId": "north",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "north-good-riddance",
+      "band": "Good Riddance",
+      "stageId": "north",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "north-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "north",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "north-mxpx",
+      "band": "MxPx",
+      "stageId": "north",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "north-nofx",
+      "band": "NOFX",
+      "stageId": "north",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "north-long-beach-dub-allstars",
+      "band": "Long Beach Dub Allstars",
+      "stageId": "north",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "south-snapcase",
+      "band": "Snapcase",
+      "stageId": "south",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "south-the-donnas",
+      "band": "The Donnas",
+      "stageId": "south",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "south-tsol",
+      "band": "TSOL",
+      "stageId": "south",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "south-lunachicks",
+      "band": "Lunachicks",
+      "stageId": "south",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "south-green-day",
+      "band": "Green Day",
+      "stageId": "south",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "south-papa-roach",
+      "band": "Papa Roach",
+      "stageId": "south",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "south-jurassic-5",
+      "band": "Jurassic 5",
+      "stageId": "south",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "south-weezer",
+      "band": "Weezer",
+      "stageId": "south",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "second-hot-water-music",
+      "band": "Hot Water Music",
+      "stageId": "second",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "second-one-man-army",
+      "band": "One Man Army",
+      "stageId": "second",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "second-lefty",
+      "band": "Lefty",
+      "stageId": "second",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "second-the-dickies",
+      "band": "The Dickies",
+      "stageId": "second",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "second-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "second",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "second-throw-rag",
+      "band": "Throw Rag",
+      "stageId": "second",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "second-mike-watt",
+      "band": "Mike Watt",
+      "stageId": "second",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "second-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "second",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "volcom-lickwid-x",
+      "band": "Lickwid X",
+      "stageId": "volcom",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "volcom-bueno",
+      "band": "Bueno",
+      "stageId": "volcom",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "volcom-texas-teri",
+      "band": "Texas Teri",
+      "stageId": "volcom",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "volcom-relish",
+      "band": "Relish",
+      "stageId": "volcom",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "volcom-my-superhero",
+      "band": "My Superhero",
+      "stageId": "volcom",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "volcom-too-bad-eugene",
+      "band": "Too Bad Eugene",
+      "stageId": "volcom",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "volcom-full-metal-racket",
+      "band": "Full Metal Racket",
+      "stageId": "volcom",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    }
+  ]
+}

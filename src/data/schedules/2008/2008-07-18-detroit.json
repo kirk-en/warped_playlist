@@ -140,8 +140,8 @@
       "displayTime": "3:45"
     },
     {
-      "id": "highway-1-angels-airwaves",
-      "band": "Angels & Airwaves",
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "16:45",
       "displayTime": "4:45"
@@ -246,7 +246,7 @@
     },
     {
       "id": "hurley-com-horrorpops",
-      "band": "HorrorPops",
+      "band": "Horrorpops",
       "stageId": "hurley-com",
       "startTime": "11:15",
       "displayTime": "11:15"
@@ -378,8 +378,8 @@
       "displayTime": "11:45"
     },
     {
-      "id": "ernie-ball-farwell",
-      "band": "Farwell",
+      "id": "ernie-ball-farewell",
+      "band": "Farewell",
       "stageId": "ernie-ball",
       "startTime": "12:15",
       "displayTime": "12:15"
@@ -400,7 +400,7 @@
     },
     {
       "id": "ernie-ball-mc-chris",
-      "band": "mc chris",
+      "band": "MC Chris",
       "stageId": "ernie-ball",
       "startTime": "14:00",
       "displayTime": "2:00"
@@ -546,8 +546,8 @@
       "displayTime": "12:30"
     },
     {
-      "id": "skate-ramp-the-pinkertones",
-      "band": "The Pinkertones",
+      "id": "skate-ramp-the-pinker-tones",
+      "band": "The Pinker Tones",
       "stageId": "skate-ramp",
       "startTime": "13:30",
       "displayTime": "1:30"

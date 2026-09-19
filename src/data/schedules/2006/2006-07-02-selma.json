@@ -313,14 +313,14 @@
     },
     {
       "id": "vagrant-senses-fail-acoustic",
-      "band": "Senses Fail (Acoustic)",
+      "band": "Senses Fail (acoustic)",
       "stageId": "vagrant",
       "startTime": "14:45",
       "displayTime": "2:45"
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "15:45",
       "displayTime": "3:45"

@@ -51,7 +51,7 @@
     },
     {
       "id": "route-66-from-first-to-last",
-      "band": "From First To Last",
+      "band": "From First to Last",
       "stageId": "route-66",
       "startTime": "12:15",
       "displayTime": "12:15"
@@ -128,7 +128,7 @@
     },
     {
       "id": "highway-1-story-of-the-year",
-      "band": "Story Of The Year",
+      "band": "Story of the Year",
       "stageId": "highway-1",
       "startTime": "13:45",
       "displayTime": "1:45"
@@ -149,7 +149,7 @@
     },
     {
       "id": "highway-1-angels-and-airwaves",
-      "band": "Angels And Airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "16:45",
       "displayTime": "4:45"
@@ -205,7 +205,7 @@
     },
     {
       "id": "hurley-pierce-the-veil",
-      "band": "Pierce The Veil",
+      "band": "Pierce the Veil",
       "stageId": "hurley",
       "startTime": "14:40",
       "displayTime": "2:40"
@@ -219,7 +219,7 @@
     },
     {
       "id": "hurley-we-the-kings",
-      "band": "We The Kings",
+      "band": "We the Kings",
       "stageId": "hurley",
       "startTime": "16:20",
       "displayTime": "4:20"
@@ -254,7 +254,7 @@
     },
     {
       "id": "hurley-com-maylene-and-the-sons-of-disaster",
-      "band": "Maylene And The Sons Of Disaster",
+      "band": "Maylene and the Sons of Disaster",
       "stageId": "hurley-com",
       "startTime": "11:45",
       "displayTime": "11:45"
@@ -331,7 +331,7 @@
     },
     {
       "id": "smartpunk-a-day-to-remember",
-      "band": "A Day To Remember",
+      "band": "A Day to Remember",
       "stageId": "smartpunk",
       "startTime": "13:15",
       "displayTime": "1:15"
@@ -422,7 +422,7 @@
     },
     {
       "id": "ernie-ball-mc-chris",
-      "band": "mc chris",
+      "band": "MC Chris",
       "stageId": "ernie-ball",
       "startTime": "14:25",
       "displayTime": "2:25"
@@ -443,7 +443,7 @@
     },
     {
       "id": "ernie-ball-protest-the-hero",
-      "band": "Protest The Hero",
+      "band": "Protest the Hero",
       "stageId": "ernie-ball",
       "startTime": "16:25",
       "displayTime": "4:25"
@@ -471,14 +471,14 @@
     },
     {
       "id": "ernie-ball-forever-the-sickest-kids",
-      "band": "Forever The Sickest Kids",
+      "band": "Forever the Sickest Kids",
       "stageId": "ernie-ball",
       "startTime": "19:05",
       "displayTime": "7:05"
     },
     {
       "id": "ernie-ball-between-the-trees",
-      "band": "Between The Trees",
+      "band": "Between the Trees",
       "stageId": "ernie-ball",
       "startTime": "19:45",
       "displayTime": "7:45"
@@ -667,7 +667,7 @@
     },
     {
       "id": "skate-ramp-good-guys-in-black",
-      "band": "Good Guys In Black",
+      "band": "Good Guys in Black",
       "stageId": "skate-ramp",
       "startTime": "14:45",
       "displayTime": "2:45"
@@ -702,7 +702,7 @@
     },
     {
       "id": "east-coast-indie-motionless-in-white",
-      "band": "Motionless In White",
+      "band": "Motionless in White",
       "stageId": "east-coast-indie",
       "startTime": "12:00",
       "displayTime": "12:00"
@@ -723,7 +723,7 @@
     },
     {
       "id": "east-coast-indie-kevin-elliot-and-the-broken",
-      "band": "Kevin Elliot and The Broken",
+      "band": "Kevin Elliot and the Broken",
       "stageId": "east-coast-indie",
       "startTime": "14:00",
       "displayTime": "2:00"

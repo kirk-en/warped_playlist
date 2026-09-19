@@ -271,7 +271,7 @@
     },
     {
       "id": "volcom-dork",
-      "band": "Dork",
+      "band": "DORK",
       "stageId": "volcom",
       "startTime": "17:20",
       "displayTime": "5:20"
@@ -312,8 +312,8 @@
       "displayTime": "1:40"
     },
     {
-      "id": "smartpunk-yesterday-s-rising",
-      "band": "Yesterday's Rising",
+      "id": "smartpunk-yesterdays-rising",
+      "band": "Yesterdays Rising",
       "stageId": "smartpunk",
       "startTime": "14:30",
       "displayTime": "2:30"
@@ -347,8 +347,8 @@
       "displayTime": "5:50"
     },
     {
-      "id": "smartpunk-gatsby-s-american-dream",
-      "band": "Gatsby's American Dream",
+      "id": "smartpunk-gatsbys-american-dream",
+      "band": "Gatsbys American Dream",
       "stageId": "smartpunk",
       "startTime": "18:40",
       "displayTime": "6:40"
@@ -466,8 +466,8 @@
       "displayTime": "1:25"
     },
     {
-      "id": "kevin-says-loser-s-luck",
-      "band": "Loser's Luck",
+      "id": "kevin-says-losers-luck",
+      "band": "Losers Luck",
       "stageId": "kevin-says",
       "startTime": "14:05",
       "displayTime": "2:05"

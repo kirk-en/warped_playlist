@@ -196,7 +196,7 @@
     },
     {
       "id": "hurley-armor-for-sleep",
-      "band": "Armor For Sleep",
+      "band": "Armor for Sleep",
       "stageId": "hurley",
       "startTime": "17:15",
       "displayTime": "5:15"
@@ -287,14 +287,14 @@
     },
     {
       "id": "vagrant-senses-fail-acoustic",
-      "band": "Senses Fail (Acoustic)",
+      "band": "Senses Fail (acoustic)",
       "stageId": "vagrant",
       "startTime": "12:45",
       "displayTime": "12:45"
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "13:45",
       "displayTime": "1:45"

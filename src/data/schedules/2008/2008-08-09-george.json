@@ -132,8 +132,8 @@
       "displayTime": "4:50"
     },
     {
-      "id": "highway-1-angels-airwaves",
-      "band": "Angels & Airwaves",
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "18:00",
       "displayTime": "6:00"
@@ -182,14 +182,14 @@
     },
     {
       "id": "hurley-we-the-kings",
-      "band": "We The Kings",
+      "band": "We the Kings",
       "stageId": "hurley",
       "startTime": "13:40",
       "displayTime": "1:40"
     },
     {
       "id": "hurley-pierce-the-veil",
-      "band": "Pierce The Veil",
+      "band": "Pierce the Veil",
       "stageId": "hurley",
       "startTime": "14:30",
       "displayTime": "2:30"

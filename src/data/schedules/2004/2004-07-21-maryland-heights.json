@@ -1,0 +1,366 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-tiger-army",
+      "band": "Tiger Army",
+      "stageId": "teal",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "teal-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "teal",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "teal-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "teal",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "teal-the-sounds",
+      "band": "The Sounds",
+      "stageId": "teal",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "teal-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "teal",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "teal-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "teal",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "teal-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "teal-nofx",
+      "band": "NOFX",
+      "stageId": "teal",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "teal-alkaline-trio",
+      "band": "Alkaline Trio",
+      "stageId": "teal",
+      "startTime": "20:40",
+      "displayTime": "8:40"
+    },
+    {
+      "id": "brian-rise-against",
+      "band": "Rise Against",
+      "stageId": "brian",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "brian-billy-talent",
+      "band": "Billy Talent",
+      "stageId": "brian",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "brian-sugarcult",
+      "band": "Sugarcult",
+      "stageId": "brian",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "brian-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "brian",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "brian-lars-frederiksen-and-the-bastards",
+      "band": "Lars Frederiksen and the Bastards",
+      "stageId": "brian",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "brian-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "brian",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "brian-the-vandals",
+      "band": "The Vandals",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "brian",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "brian-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "brian",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "maurice-hazen-street",
+      "band": "Hazen Street",
+      "stageId": "maurice",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "maurice-from-autumn-to-ashes",
+      "band": "From Autumn to Ashes",
+      "stageId": "maurice",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "maurice-matchbook-romance",
+      "band": "Matchbook Romance",
+      "stageId": "maurice",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "maurice-avenged-sevenfold",
+      "band": "Avenged Sevenfold",
+      "stageId": "maurice",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "maurice-the-casualties",
+      "band": "The Casualties",
+      "stageId": "maurice",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "maurice-rufio",
+      "band": "Rufio",
+      "stageId": "maurice",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "maurice-allister",
+      "band": "Allister",
+      "stageId": "maurice",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "maurice-atmosphere",
+      "band": "Atmosphere",
+      "stageId": "maurice",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "maurice-the-revolution-smile",
+      "band": "The Revolution Smile",
+      "stageId": "maurice",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "maurice-the-fuck-ups",
+      "band": "The Fuck Ups",
+      "stageId": "maurice",
+      "startTime": "20:05",
+      "displayTime": "8:05"
+    },
+    {
+      "id": "volcom-bleed-the-dream",
+      "band": "Bleed the Dream",
+      "stageId": "volcom",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "volcom-motion-city-soundtrack",
+      "band": "Motion City Soundtrack",
+      "stageId": "volcom",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "volcom-letter-kills",
+      "band": "Letter Kills",
+      "stageId": "volcom",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "volcom-go-betty-go",
+      "band": "Go Betty Go",
+      "stageId": "volcom",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "volcom-arkham",
+      "band": "Arkham",
+      "stageId": "volcom",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "volcom-a-faith-called-chaos",
+      "band": "A Faith Called Chaos",
+      "stageId": "volcom",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "volcom-fear-before-the-march-of-flames",
+      "band": "Fear Before the March of Flames",
+      "stageId": "volcom",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "volcom-single-frame",
+      "band": "Single Frame",
+      "stageId": "volcom",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "kevin-says-melee",
+      "band": "Melee",
+      "stageId": "kevin-says",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "kevin-says-mean-reds",
+      "band": "Mean Reds",
+      "stageId": "kevin-says",
+      "startTime": "12:05",
+      "displayTime": "12:05"
+    },
+    {
+      "id": "kevin-says-suffocate-faster",
+      "band": "Suffocate Faster",
+      "stageId": "kevin-says",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "kevin-says-codie",
+      "band": "Codie",
+      "stageId": "kevin-says",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "kevin-says-number-one-fan",
+      "band": "Number One Fan",
+      "stageId": "kevin-says",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "kevin-says-kill-radio",
+      "band": "Kill Radio",
+      "stageId": "kevin-says",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "kevin-says-break-the-silence",
+      "band": "Break the Silence",
+      "stageId": "kevin-says",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "kevin-says-rolling-blackouts",
+      "band": "Rolling Blackouts",
+      "stageId": "kevin-says",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "ernie-ball-the-skyline",
+      "band": "The Skyline",
+      "stageId": "ernie-ball",
+      "startTime": "11:55",
+      "displayTime": "11:55"
+    },
+    {
+      "id": "ernie-ball-westcott",
+      "band": "Westcott",
+      "stageId": "ernie-ball",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "ernie-ball-losers-luck",
+      "band": "Losers Luck",
+      "stageId": "ernie-ball",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "ernie-ball-12-summers-old",
+      "band": "12 Summers Old",
+      "stageId": "ernie-ball",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    }
+  ]
+}

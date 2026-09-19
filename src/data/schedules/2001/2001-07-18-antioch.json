@@ -1,0 +1,243 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-deviates",
+      "band": "Deviates",
+      "stageId": "teal",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "teal-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "teal",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "teal-fenix-tx",
+      "band": "Fenix TX",
+      "stageId": "teal",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "teal-the-distillers",
+      "band": "The Distillers",
+      "stageId": "teal",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "teal-afi",
+      "band": "AFI",
+      "stageId": "teal",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "teal-rancid",
+      "band": "Rancid",
+      "stageId": "teal",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "teal-me-first-and-the-gimme-gimmes",
+      "band": "Me First and the Gimme Gimmes",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "brian-dub-pistols",
+      "band": "Dub Pistols",
+      "stageId": "brian",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "brian-h2o",
+      "band": "H2O",
+      "stageId": "brian",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-the-vandals",
+      "band": "The Vandals",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-kool-keith",
+      "band": "Kool Keith",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-311",
+      "band": "311",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "maurice-hesher",
+      "band": "Hesher",
+      "stageId": "maurice",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "maurice-the-explosion",
+      "band": "The Explosion",
+      "stageId": "maurice",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "maurice-the-business",
+      "band": "The Business",
+      "stageId": "maurice",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "maurice-midtown",
+      "band": "Midtown",
+      "stageId": "maurice",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "maurice-3rd-strike",
+      "band": "3rd Strike",
+      "stageId": "maurice",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "maurice-the-casualties",
+      "band": "The Casualties",
+      "stageId": "maurice",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "maurice-alien-ant-farm",
+      "band": "Alien Ant Farm",
+      "stageId": "maurice",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "volcom-mest",
+      "band": "Mest",
+      "stageId": "volcom",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "volcom-madcap",
+      "band": "Madcap",
+      "stageId": "volcom",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "volcom-the-line",
+      "band": "The Line",
+      "stageId": "volcom",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "volcom-pepper",
+      "band": "Pepper",
+      "stageId": "volcom",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "volcom-switched",
+      "band": "Switched",
+      "stageId": "volcom",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "ernie-ball-all-access",
+      "band": "All Access",
+      "stageId": "ernie-ball",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "ernie-ball-asbestos",
+      "band": "Asbestos",
+      "stageId": "ernie-ball",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "ernie-ball-bird3",
+      "band": "Bird3",
+      "stageId": "ernie-ball",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "ernie-ball-fate",
+      "band": "FATE",
+      "stageId": "ernie-ball",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "ernie-ball-ten-ninety",
+      "band": "Ten Ninety",
+      "stageId": "ernie-ball",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    }
+  ]
+}

@@ -154,7 +154,7 @@
     },
     {
       "id": "hurley-bullet-for-my-valentine",
-      "band": "Bullet For My Valentine",
+      "band": "Bullet for My Valentine",
       "stageId": "hurley",
       "startTime": "11:30",
       "displayTime": "11:30"
@@ -189,7 +189,7 @@
     },
     {
       "id": "hurley-armor-for-sleep",
-      "band": "Armor For Sleep",
+      "band": "Armor for Sleep",
       "stageId": "hurley",
       "startTime": "16:30",
       "displayTime": "4:30"
@@ -329,7 +329,7 @@
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "18:45",
       "displayTime": "6:45"
@@ -378,14 +378,14 @@
     },
     {
       "id": "smartpunk-i-am-the-avalanche",
-      "band": "I Am the Avalanche",
+      "band": "I am the Avalanche",
       "stageId": "smartpunk",
       "startTime": "17:00",
       "displayTime": "5:00"
     },
     {
       "id": "smartpunk-youinseries",
-      "band": "YouInSeries",
+      "band": "Youinseries",
       "stageId": "smartpunk",
       "startTime": "18:00",
       "displayTime": "6:00"

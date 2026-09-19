@@ -1,0 +1,427 @@
+[
+  {
+    "id": "2002-06-21-nampa",
+    "year": 2002,
+    "date": "2002-06-21",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-22-salt-lake-city",
+    "year": 2002,
+    "date": "2002-06-22",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark"
+  },
+  {
+    "id": "2002-06-23-brighton",
+    "year": 2002,
+    "date": "2002-06-23",
+    "city": "Brighton",
+    "state": "CO",
+    "venue": "Adams County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-25-council-bluffs",
+    "year": 2002,
+    "date": "2002-06-25",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "venue": "Westfair Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-26-maryland-heights",
+    "year": 2002,
+    "date": "2002-06-26",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "UMB Bank Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-27-bonner-springs",
+    "year": 2002,
+    "date": "2002-06-27",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-28-dallas",
+    "year": 2002,
+    "date": "2002-06-28",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Centre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-29-houston",
+    "year": 2002,
+    "date": "2002-06-29",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-06-30-selma",
+    "year": 2002,
+    "date": "2002-06-30",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-02-peoria",
+    "year": 2002,
+    "date": "2002-07-02",
+    "city": "Peoria",
+    "state": "AZ",
+    "venue": "Peoria Sports Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-03-chula-vista",
+    "year": 2002,
+    "date": "2002-07-03",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-05-las-vegas",
+    "year": 2002,
+    "date": "2002-07-05",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Sam Boyd Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-06-soda-springs",
+    "year": 2002,
+    "date": "2002-07-06",
+    "city": "Soda Springs",
+    "state": "CA",
+    "venue": "Boreal Mountain Resort",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-07-tulare",
+    "year": 2002,
+    "date": "2002-07-07",
+    "city": "Tulare",
+    "state": "CA",
+    "venue": "International Agri-Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-10-los-angeles",
+    "year": 2002,
+    "date": "2002-07-10",
+    "city": "Los Angeles",
+    "state": "CA",
+    "venue": "Los Angeles Memorial Coliseum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-11-los-angeles",
+    "year": 2002,
+    "date": "2002-07-11",
+    "city": "Los Angeles",
+    "state": "CA",
+    "venue": "Los Angeles Memorial Coliseum"
+  },
+  {
+    "id": "2002-07-12-ventura",
+    "year": 2002,
+    "date": "2002-07-12",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-13-san-francisco",
+    "year": 2002,
+    "date": "2002-07-13",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32"
+  },
+  {
+    "id": "2002-07-14-san-francisco",
+    "year": 2002,
+    "date": "2002-07-14",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32"
+  },
+  {
+    "id": "2002-07-17-calgary",
+    "year": 2002,
+    "date": "2002-07-17",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-19-vancouver",
+    "year": 2002,
+    "date": "2002-07-19",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Thunderbird Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-20-george",
+    "year": 2002,
+    "date": "2002-07-20",
+    "city": "George",
+    "state": "WA",
+    "venue": "Gorge Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-22-billings",
+    "year": 2002,
+    "date": "2002-07-22",
+    "city": "Billings",
+    "state": "MT",
+    "venue": "Oscar's Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-23-fargo",
+    "year": 2002,
+    "date": "2002-07-23",
+    "city": "Fargo",
+    "state": "ND",
+    "venue": "Fargodome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-24-milwaukee",
+    "year": 2002,
+    "date": "2002-07-24",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-25-noblesville",
+    "year": 2002,
+    "date": "2002-07-25",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-26-cleveland",
+    "year": 2002,
+    "date": "2002-07-26",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Tower City Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-27-tinley-park",
+    "year": 2002,
+    "date": "2002-07-27",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "Tweeter Center Chicago",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-28-st-paul",
+    "year": 2002,
+    "date": "2002-07-28",
+    "city": "St. Paul",
+    "state": "MN",
+    "venue": "Harriet Island Regional Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-30-columbus",
+    "year": 2002,
+    "date": "2002-07-30",
+    "city": "Columbus",
+    "state": "OH",
+    "venue": "Promowest Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-07-31-cincinnati",
+    "year": 2002,
+    "date": "2002-07-31",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2002-08-01-atlanta",
+    "year": 2002,
+    "date": "2002-08-01",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "HiFi Buys Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-02-orlando",
+    "year": 2002,
+    "date": "2002-08-02",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Orlando Speedworld",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-03-pompano-beach",
+    "year": 2002,
+    "date": "2002-08-03",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Beach Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-04-tampa",
+    "year": 2002,
+    "date": "2002-08-04",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "USF Sun Dome Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-05-jacksonville",
+    "year": 2002,
+    "date": "2002-08-05",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jax Raceways",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-06-charlotte",
+    "year": 2002,
+    "date": "2002-08-06",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-07-virginia-beach",
+    "year": 2002,
+    "date": "2002-08-07",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "GTE Virginia Beach Amphitheater"
+  },
+  {
+    "id": "2002-08-08-bristow",
+    "year": 2002,
+    "date": "2002-08-08",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-09-camden",
+    "year": 2002,
+    "date": "2002-08-09",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Tweeter Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-10-new-york",
+    "year": 2002,
+    "date": "2002-08-10",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-11-asbury-park",
+    "year": 2002,
+    "date": "2002-08-11",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Stone Pony Lot"
+  },
+  {
+    "id": "2002-08-13-burgettstown",
+    "year": 2002,
+    "date": "2002-08-13",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "Post-Gazette Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-14-buffalo",
+    "year": 2002,
+    "date": "2002-08-14",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "LaSalle Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-15-boston",
+    "year": 2002,
+    "date": "2002-08-15",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Suffolk Downs",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-16-montreal",
+    "year": 2002,
+    "date": "2002-08-16",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-17-barrie",
+    "year": 2002,
+    "date": "2002-08-17",
+    "city": "Barrie",
+    "state": "ON",
+    "venue": "Molson Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2002-08-18-detroit",
+    "year": 2002,
+    "date": "2002-08-18",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Comerica Park",
+    "note": "Set times are not known for this date."
+  }
+]

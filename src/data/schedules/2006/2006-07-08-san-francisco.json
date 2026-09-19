@@ -307,7 +307,7 @@
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "11:35",
       "displayTime": "11:35"
@@ -475,7 +475,7 @@
     },
     {
       "id": "ernie-ball-we-are-the-fury",
-      "band": "We Are the Fury",
+      "band": "We are the Fury",
       "stageId": "ernie-ball",
       "startTime": "14:25",
       "displayTime": "2:25"

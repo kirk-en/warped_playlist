@@ -86,7 +86,7 @@
     },
     {
       "id": "route-66-from-first-to-last",
-      "band": "From First To Last",
+      "band": "From First to Last",
       "stageId": "route-66",
       "startTime": "16:45",
       "displayTime": "4:45"
@@ -183,8 +183,8 @@
       "displayTime": "7:15"
     },
     {
-      "id": "highway-1-angels-airwaives",
-      "band": "Angels & Airwaives",
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "20:15",
       "displayTime": "8:15"
@@ -457,14 +457,14 @@
     },
     {
       "id": "ernie-ball-forever-the-sickest-kids",
-      "band": "Forever The Sickest Kids",
+      "band": "Forever the Sickest Kids",
       "stageId": "ernie-ball",
       "startTime": "17:10",
       "displayTime": "5:10"
     },
     {
       "id": "ernie-ball-protest-the-hero",
-      "band": "Protest The Hero",
+      "band": "Protest the Hero",
       "stageId": "ernie-ball",
       "startTime": "17:50",
       "displayTime": "5:50"
@@ -478,7 +478,7 @@
     },
     {
       "id": "ernie-ball-between-the-trees",
-      "band": "Between The Trees",
+      "band": "Between the Trees",
       "stageId": "ernie-ball",
       "startTime": "19:10",
       "displayTime": "7:10"
@@ -548,7 +548,7 @@
     },
     {
       "id": "kevin-says-does-it-offend-you-yeah",
-      "band": "Does It Offend You, Yeah?",
+      "band": "Does it Offend You, Yeah?",
       "stageId": "kevin-says",
       "startTime": "16:30",
       "displayTime": "4:30"

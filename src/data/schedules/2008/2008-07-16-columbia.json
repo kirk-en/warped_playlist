@@ -222,14 +222,14 @@
     },
     {
       "id": "hurley-we-the-kings",
-      "band": "We The Kings",
+      "band": "We the Kings",
       "stageId": "hurley",
       "startTime": "17:05",
       "displayTime": "5:05"
     },
     {
       "id": "hurley-pierce-the-veil",
-      "band": "Pierce The Veil",
+      "band": "Pierce the Veil",
       "stageId": "hurley",
       "startTime": "17:55",
       "displayTime": "5:55"
@@ -264,7 +264,7 @@
     },
     {
       "id": "hurley-com-horrorpops",
-      "band": "HorrorPops",
+      "band": "Horrorpops",
       "stageId": "hurley-com",
       "startTime": "13:45",
       "displayTime": "1:45"

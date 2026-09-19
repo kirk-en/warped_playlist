@@ -140,8 +140,8 @@
       "displayTime": "3:45"
     },
     {
-      "id": "highway-1-angels-airwaves",
-      "band": "Angels & Airwaves",
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "16:55",
       "displayTime": "4:55"
@@ -274,7 +274,7 @@
     },
     {
       "id": "hurley-com-horrorpops",
-      "band": "HorrorPops",
+      "band": "Horrorpops",
       "stageId": "hurley-com",
       "startTime": "15:45",
       "displayTime": "3:45"

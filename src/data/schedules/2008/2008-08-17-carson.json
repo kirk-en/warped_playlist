@@ -25,8 +25,8 @@
       "name": "Ernie Ball Stage"
     },
     {
-      "id": "old-school",
-      "name": "Old School Stage"
+      "id": "old-skool",
+      "name": "Old Skool Stage"
     }
   ],
   "sets": [
@@ -157,8 +157,8 @@
       "displayTime": "6:45"
     },
     {
-      "id": "highway-1-angels-airwaves",
-      "band": "Angels & Airwaves",
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
       "stageId": "highway-1",
       "startTime": "19:45",
       "displayTime": "7:45"
@@ -277,7 +277,7 @@
     },
     {
       "id": "hurley-com-horrorpops",
-      "band": "HorrorPops",
+      "band": "Horrorpops",
       "stageId": "hurley-com",
       "startTime": "16:15",
       "displayTime": "4:15"
@@ -479,72 +479,72 @@
       "displayTime": "7:55"
     },
     {
-      "id": "old-school-spitshine",
+      "id": "old-skool-spitshine",
       "band": "Spitshine",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "11:30",
       "displayTime": "11:30"
     },
     {
-      "id": "old-school-revolution-mother",
+      "id": "old-skool-revolution-mother",
       "band": "Revolution Mother",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "12:25",
       "displayTime": "12:25"
     },
     {
-      "id": "old-school-big-drill-car",
+      "id": "old-skool-big-drill-car",
       "band": "Big Drill Car",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "13:20",
       "displayTime": "1:20"
     },
     {
-      "id": "old-school-t-s-o-l",
-      "band": "T.S.O.L.",
-      "stageId": "old-school",
+      "id": "old-skool-tsol",
+      "band": "TSOL",
+      "stageId": "old-skool",
       "startTime": "14:15",
       "displayTime": "2:15"
     },
     {
-      "id": "old-school-m-i-a",
+      "id": "old-skool-m-i-a",
       "band": "M.I.A.",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "15:10",
       "displayTime": "3:10"
     },
     {
-      "id": "old-school-mike-watt-and-the-missingmen",
+      "id": "old-skool-mike-watt-and-the-missingmen",
       "band": "Mike Watt and the Missingmen",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "16:05",
       "displayTime": "4:05"
     },
     {
-      "id": "old-school-fear",
-      "band": "FEAR",
-      "stageId": "old-school",
+      "id": "old-skool-fear",
+      "band": "Fear",
+      "stageId": "old-skool",
       "startTime": "17:00",
       "displayTime": "5:00"
     },
     {
-      "id": "old-school-the-germs",
+      "id": "old-skool-the-germs",
       "band": "The Germs",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "17:55",
       "displayTime": "5:55"
     },
     {
-      "id": "old-school-the-dickies",
+      "id": "old-skool-the-dickies",
       "band": "The Dickies",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "18:50",
       "displayTime": "6:50"
     },
     {
-      "id": "old-school-d-i",
+      "id": "old-skool-d-i",
       "band": "D.I.",
-      "stageId": "old-school",
+      "stageId": "old-skool",
       "startTime": "19:45",
       "displayTime": "7:45"
     }

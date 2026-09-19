@@ -87,7 +87,7 @@
     },
     {
       "id": "mike-no-use-for-a-name",
-      "band": "No Use For A Name",
+      "band": "No Use for a Name",
       "stageId": "mike",
       "startTime": "11:20",
       "displayTime": "11:20"
@@ -248,7 +248,7 @@
     },
     {
       "id": "volcom-horrorpops",
-      "band": "HorrorPops",
+      "band": "Horrorpops",
       "stageId": "volcom",
       "startTime": "15:15",
       "displayTime": "3:15"
@@ -289,8 +289,8 @@
       "displayTime": "12:00"
     },
     {
-      "id": "smartpunk-halfax",
-      "band": "Halfax",
+      "id": "smartpunk-halifax",
+      "band": "Halifax",
       "stageId": "smartpunk",
       "startTime": "12:50",
       "displayTime": "12:50"

@@ -223,8 +223,8 @@
       "displayTime": "12:45"
     },
     {
-      "id": "volcom-spitafield",
-      "band": "Spitafield",
+      "id": "volcom-spitalfield",
+      "band": "Spitalfield",
       "stageId": "volcom",
       "startTime": "13:45",
       "displayTime": "1:45"
@@ -301,7 +301,7 @@
     },
     {
       "id": "smartpunk-i-am-ghost",
-      "band": "I am Ghost",
+      "band": "I Am Ghost",
       "stageId": "smartpunk",
       "startTime": "16:15",
       "displayTime": "4:15"
@@ -370,8 +370,8 @@
       "displayTime": "5:15"
     },
     {
-      "id": "vagrant-down-to-earth-apprach",
-      "band": "Down to Earth Apprach",
+      "id": "vagrant-down-to-earth-approach",
+      "band": "Down to Earth Approach",
       "stageId": "vagrant",
       "startTime": "18:15",
       "displayTime": "6:15"

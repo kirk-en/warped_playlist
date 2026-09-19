@@ -154,10 +154,10 @@
     "venue": "The Gorge Amphitheatre"
   },
   {
-    "id": "2005-07-10-saint-helens",
+    "id": "2005-07-10-st-helens",
     "year": 2005,
     "date": "2005-07-10",
-    "city": "Saint Helens",
+    "city": "St. Helens",
     "state": "OR",
     "venue": "Columbia Meadows"
   },
@@ -257,10 +257,10 @@
     "note": "Set times are not known for this date."
   },
   {
-    "id": "2005-07-28-quebec",
+    "id": "2005-07-28-quebec-city",
     "year": 2005,
     "date": "2005-07-28",
-    "city": "Quebec",
+    "city": "Quebec City",
     "state": "QC",
     "venue": "Colisée Pepsi",
     "note": "Set times are not known for this date."
@@ -296,7 +296,7 @@
     "date": "2005-08-01",
     "city": "Burgettstown",
     "state": "PA",
-    "venue": "Post Gazette Pavilion"
+    "venue": "Post-Gazette Pavilion"
   },
   {
     "id": "2005-08-03-atlanta",
@@ -304,7 +304,7 @@
     "date": "2005-08-03",
     "city": "Atlanta",
     "state": "GA",
-    "venue": "Hi Fi Amphitheater",
+    "venue": "HiFi Buys Amphitheatre",
     "note": "Set times are not known for this date."
   },
   {
@@ -366,7 +366,7 @@
     "date": "2005-08-10",
     "city": "Bristow",
     "state": "VA",
-    "venue": "Nissan Pavilion Lot/Meriweather Post"
+    "venue": "Nissan Pavilion Lot/Merriweather Post"
   },
   {
     "id": "2005-08-11-scranton",
@@ -385,10 +385,10 @@
     "venue": "Tweeter Center at the Waterfront"
   },
   {
-    "id": "2005-08-13-new-york-city",
+    "id": "2005-08-13-new-york",
     "year": 2005,
     "date": "2005-08-13",
-    "city": "New York City",
+    "city": "New York",
     "state": "NY",
     "venue": "Randall's Island Park"
   },

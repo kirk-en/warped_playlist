@@ -1,0 +1,179 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-lordz-of-brooklyn",
+      "band": "Lordz of Brooklyn",
+      "stageId": "teal",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "teal-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "teal",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "teal-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "teal",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "teal-mxpx",
+      "band": "MxPx",
+      "stageId": "teal",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "teal-ozomatli",
+      "band": "Ozomatli",
+      "stageId": "teal",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "teal-good-charlotte",
+      "band": "Good Charlotte",
+      "stageId": "teal",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "teal-punk-rock-karaoke",
+      "band": "Punk Rock Karaoke",
+      "stageId": "teal",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "brian-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "brian",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "brian-pennywise",
+      "band": "Pennywise",
+      "stageId": "brian",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "brian-rancid",
+      "band": "Rancid",
+      "stageId": "brian",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "brian-the-vandals",
+      "band": "The Vandals",
+      "stageId": "brian",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "brian-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "brian",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "brian-something-corporate",
+      "band": "Something Corporate",
+      "stageId": "brian",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "volcom-my-chemical-romance",
+      "band": "My Chemical Romance",
+      "stageId": "volcom",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "volcom-midtown",
+      "band": "Midtown",
+      "stageId": "volcom",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "volcom-hot-rod-circuit",
+      "band": "Hot Rod Circuit",
+      "stageId": "volcom",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "volcom-the-explosion",
+      "band": "The Explosion",
+      "stageId": "volcom",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "volcom-the-unseen",
+      "band": "The Unseen",
+      "stageId": "volcom",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "volcom-bigwig",
+      "band": "Bigwig",
+      "stageId": "volcom",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "volcom-avenged-sevenfold",
+      "band": "Avenged Sevenfold",
+      "stageId": "volcom",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "volcom-murphy-s-law",
+      "band": "Murphy's Law",
+      "stageId": "volcom",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    }
+  ]
+}

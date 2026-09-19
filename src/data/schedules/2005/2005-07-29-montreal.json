@@ -550,8 +550,8 @@
       "displayTime": "6:20"
     },
     {
-      "id": "kevin-says-summerhero",
-      "band": "Summerhero",
+      "id": "kevin-says-summer-hero",
+      "band": "Summer Hero",
       "stageId": "kevin-says",
       "startTime": "19:00",
       "displayTime": "7:00"
@@ -613,8 +613,8 @@
       "displayTime": "2:30"
     },
     {
-      "id": "code-of-tha-cutz-onebelo",
-      "band": "OneBeLo",
+      "id": "code-of-tha-cutz-one-be-lo",
+      "band": "One Be Lo",
       "stageId": "code-of-tha-cutz",
       "startTime": "15:10",
       "displayTime": "3:10"

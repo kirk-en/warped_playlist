@@ -101,8 +101,8 @@
       "displayTime": "11:35"
     },
     {
-      "id": "mike-the-dead-60-s",
-      "band": "The Dead 60's",
+      "id": "mike-the-dead-60s",
+      "band": "The Dead 60s",
       "stageId": "mike",
       "startTime": "12:35",
       "displayTime": "12:35"
@@ -325,8 +325,8 @@
       "displayTime": "3:10"
     },
     {
-      "id": "smartpunk-yesterday-s-rising",
-      "band": "Yesterday's Rising",
+      "id": "smartpunk-yesterdays-rising",
+      "band": "Yesterdays Rising",
       "stageId": "smartpunk",
       "startTime": "16:10",
       "displayTime": "4:10"

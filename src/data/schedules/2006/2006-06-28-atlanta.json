@@ -218,7 +218,7 @@
     },
     {
       "id": "hurley-armor-for-sleep",
-      "band": "Armor For Sleep",
+      "band": "Armor for Sleep",
       "stageId": "hurley",
       "startTime": "19:40",
       "displayTime": "7:40"
@@ -302,7 +302,7 @@
     },
     {
       "id": "vagrant-saves-the-day-acoustic",
-      "band": "Saves the Day (Acoustic)",
+      "band": "Saves the Day (acoustic)",
       "stageId": "vagrant",
       "startTime": "13:45",
       "displayTime": "1:45"
@@ -469,8 +469,8 @@
       "displayTime": "12:40"
     },
     {
-      "id": "east-coast-indie-the-black-out-pact",
-      "band": "The Black Out Pact",
+      "id": "east-coast-indie-the-blackout-pact",
+      "band": "The Blackout Pact",
       "stageId": "east-coast-indie",
       "startTime": "13:25",
       "displayTime": "1:25"
