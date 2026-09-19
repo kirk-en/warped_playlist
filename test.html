@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Warped Playlist</title>
+<style>
+  @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  .spinner {
+    display:inline-block; width:14px; height:14px; margin-right:8px;
+    border:2px solid rgba(255,255,255,0.4); border-top-color:#ffffff;
+    border-radius:50%; animation: spin 0.7s linear infinite; vertical-align:-2px;
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; background:#111111; color:#f5f5f5; font-family: Arial, Helvetica, sans-serif; min-height:100vh;">
+
+  <div style="max-width:480px; margin:0 auto; padding:32px 20px 60px;">
+
+    <div style="text-align:center; margin-bottom:28px;">
+      <div style="font-size:13px; letter-spacing:3px; text-transform:uppercase; color:#ff2f4e; font-weight:bold; margin-bottom:6px;">Your custom playlist</div>
+      <h1 style="margin:0; font-size:32px; line-height:1.1; color:#ffffff; font-family: Georgia, 'Times New Roman', serif; font-style:italic;">Warped Playlist</h1>
+      <div style="margin-top:8px; font-size:14px; color:#999999;">4 tracks &middot; generated just for you</div>
+    </div>
+
+    <div style="background:#1b1b1b; border:1px solid #2c2c2c; border-radius:12px; padding:8px 20px; margin-bottom:28px;">
+      <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0; border-bottom:1px solid #2c2c2c;">
+        <div>
+          <div style="font-size:16px; font-weight:bold;">The Beach</div>
+          <div style="font-size:13px; color:#999999;">All Time Low</div>
+        </div>
+        <div style="font-size:12px; color:#555555;">01</div>
+      </div>
+      <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0; border-bottom:1px solid #2c2c2c;">
+        <div>
+          <div style="font-size:16px; font-weight:bold;">Lean on Sheena</div>
+          <div style="font-size:13px; color:#999999;">Bouncing Souls</div>
+        </div>
+        <div style="font-size:12px; color:#555555;">02</div>
+      </div>
+      <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0; border-bottom:1px solid #2c2c2c;">
+        <div>
+          <div style="font-size:16px; font-weight:bold;">Seeing Double at the Triple Rock</div>
+          <div style="font-size:13px; color:#999999;">NOFX</div>
+        </div>
+        <div style="font-size:12px; color:#555555;">03</div>
+      </div>
+      <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0;">
+        <div>
+          <div style="font-size:16px; font-weight:bold;">Futures</div>
+          <div style="font-size:13px; color:#999999;">Jimmy Eat World</div>
+        </div>
+        <div style="font-size:12px; color:#555555;">04</div>
+      </div>
+    </div>
+
+    <div style="text-align:center; font-size:13px; color:#888888; margin-bottom:16px;">Save this playlist to your music app</div>
+
+    <div style="display:flex; flex-direction:column; gap:12px;">
+
+      <!-- Spotify button -->
+      <a href="#" class="dest-btn" data-destination="spotify" data-label="Save to Spotify"
+         style="display:flex; align-items:center; justify-content:center; gap:10px; background:#1DB954; color:#0b0b0b; text-decoration:none; font-weight:bold; font-size:15px; padding:14px 18px; border-radius:999px;">
+        <span style="font-size:18px;">&#9679;</span> Save to Spotify
+      </a>
+
+      <!-- Apple Music button -->
+      <a href="#" class="dest-btn" data-destination="applemusicapp" data-label="Save to Apple Music"
+         style="display:flex; align-items:center; justify-content:center; gap:10px; background:#fa233b; color:#ffffff; text-decoration:none; font-weight:bold; font-size:15px; padding:14px 18px; border-radius:999px;">
+        <span style="font-size:18px;">&#63743;</span> Save to Apple Music
+      </a>
+
+      <!-- YouTube Music button -->
+      <a href="#" class="dest-btn" data-destination="ytmusic" data-label="Save to YouTube Music"
+         style="display:flex; align-items:center; justify-content:center; gap:10px; background:#ff0000; color:#ffffff; text-decoration:none; font-weight:bold; font-size:15px; padding:14px 18px; border-radius:999px;">
+        <span style="font-size:18px;">&#9654;</span> Save to YouTube Music
+      </a>
+
+      <!-- Deezer button -->
+      <a href="#" class="dest-btn" data-destination="deezer" data-label="Save to Deezer"
+         style="display:flex; align-items:center; justify-content:center; gap:10px; background:#a238ff; color:#ffffff; text-decoration:none; font-weight:bold; font-size:15px; padding:14px 18px; border-radius:999px;">
+        <span style="font-size:18px;">&#9834;</span> Save to Deezer
+      </a>
+
+    </div>
+
+    <div id="status-note" style="margin-top:18px; font-size:12px; line-height:1.6; color:#888888; text-align:center;"></div>
+
+  </div>
+
+<script>
+(function () {
+  // The song list your app generated. In your real app this comes from
+  // wherever you build the playlist, not a hardcoded array.
+  var TRACKLIST = [
+    { title: "The Beach", artists: "All Time Low" },
+    { title: "Lean on Sheena", artists: "Bouncing Souls" },
+    { title: "Seeing Double at the Triple Rock", artists: "NOFX" },
+    { title: "Futures", artists: "Jimmy Eat World" }
+  ];
+
+  // Calls Soundiiz's free "Playlist Import API" for ONE specific service,
+  // right when the user asks for it - nothing is generated ahead of time.
+  // destination: "spotify" | "applemusicapp" | "ytmusic" | "deezer"
+  async function getSoundiizLink(destination) {
+    const resp = await fetch('https://soundiiz.com/go/import-playlist', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        title: 'Warped Playlist',
+        sourceName: 'Warped Playlist Demo',
+        destination: destination,
+        tracklist: TRACKLIST
+      })
+    });
+    if (!resp.ok) throw new Error('Soundiiz returned an error (status ' + resp.status + ')');
+    const data = await resp.json();
+    if (data.status !== 'success' || !data.shareUrl) throw new Error(data.message || 'Unexpected response from Soundiiz');
+    return data.shareUrl; // valid ~24 hours - fine since we're using it immediately
+  }
+
+  var statusNote = document.getElementById('status-note');
+
+  document.querySelectorAll('.dest-btn').forEach(function (btn) {
+    btn.addEventListener('click', async function (e) {
+      e.preventDefault();
+
+      // Open the tab synchronously, in direct response to the click, so
+      // the browser doesn't treat it as an unrequested popup once the
+      // fetch below resolves later.
+      var newTab = window.open('', '_blank');
+
+      var destination = btn.getAttribute('data-destination');
+      var originalHTML = btn.innerHTML;
+      btn.innerHTML = '<span class="spinner"></span> Getting your link&hellip;';
+      btn.style.pointerEvents = 'none';
+      btn.style.opacity = '0.75';
+      statusNote.textContent = '';
+
+      try {
+        var shareUrl = await getSoundiizLink(destination);
+        newTab.location.href = shareUrl;
+      } catch (err) {
+        if (newTab) newTab.close();
+        // This is the expected result when testing this file on its own:
+        // Soundiiz's endpoint doesn't send the header that lets a browser
+        // call it directly from another site (confirmed by testing it
+        // live) - so a plain static page gets blocked by CORS. In your
+        // real app, this same fetch call runs from your backend (e.g. a
+        // Firebase Cloud Function) instead of the browser, which sidesteps
+        // the restriction entirely - the button/loader/redirect logic
+        // above stays exactly the same either way.
+        statusNote.innerHTML =
+          'Could not reach Soundiiz directly from this page (this is the CORS limitation we found earlier - expected until this call is routed through a backend).<br>' +
+          '<span style="color:#555;">Details: ' + err.message + '</span>';
+      } finally {
+        btn.innerHTML = originalHTML;
+        btn.style.pointerEvents = '';
+        btn.style.opacity = '';
+      }
+    });
+  });
+})();
+</script>
+
+</body>
+</html>
