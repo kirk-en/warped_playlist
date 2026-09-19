@@ -1,0 +1,315 @@
+/* Board colours. Starting values from the brief, tuned by eye rather than sampled
+   from the reference photo (which has a heavy blue cast). */
+.inflatable-board {
+  /* The tube's own palette lives in BoardFrame's LAYERS, which shades it as a
+     cross-section rather than a flat outline. */
+  --frame-red: #d62828;
+  --panel-yellow: #ffd60a;
+
+  /* Bands had official printed signs, so everything on the board is set in a
+     printed grotesque. Marker digits were unreadable at these sizes. */
+  --font-printed: 'Barlow Semi Condensed', 'Arial Narrow', system-ui, sans-serif;
+  --grid-white: #fafaf5;
+  --rule: #222;
+  /* The panels butt straight up against the bolster's inner edge, with no page
+     showing through. Keep in step with BoardFrame's TUBE (50) and RADIUS (56):
+     the inset is TUBE, and the matching corner radius is RADIUS - TUBE / 2. */
+  --inner-inset: 50px;
+  --inner-radius: 31px;
+
+  position: absolute;
+  inset: 24px;
+  perspective: 1900px;
+  perspective-origin: 50% 42%;
+}
+
+/* A slight three-quarter lean, like the boards in references 3 and 4. The scale
+   pulls the near edge back inside the 24px margin, since the rotation pushes it
+   toward the viewer. */
+.inflatable-board__tilt {
+  position: absolute;
+  inset: 0;
+  transform: rotateX(1.6deg) rotateY(-7deg) scale(0.95);
+  transform-origin: 50% 60%;
+}
+
+.inflatable-board__stage {
+  position: absolute;
+  inset: 0;
+  will-change: transform;
+}
+
+.board-frame-host {
+  position: absolute;
+  inset: 0;
+}
+
+.board-frame {
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+
+.board-inner {
+  position: absolute;
+  inset: var(--inner-inset);
+  display: grid;
+  grid-template-rows: 18% 55% 27%;
+  border-radius: var(--inner-radius);
+  overflow: hidden;
+}
+
+/* Occlusion cast by the tube onto the panels. It lives on an overlay rather than
+   as an inset shadow on .board-inner itself, because the panels' own backgrounds
+   would paint over that. */
+.board-inner::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  border-radius: inherit;
+  box-shadow:
+    inset 0 0 24px 9px rgba(86, 12, 6, 0.3),
+    inset 0 16px 24px -11px rgba(58, 8, 4, 0.45),
+    inset 0 -11px 20px -11px rgba(58, 8, 4, 0.26);
+}
+
+.board-panel {
+  min-height: 0;
+  min-width: 0;
+}
+
+/* Each panel bows outward a little: a soft highlight up near the light, falling
+   away to a warm shade at the bottom right. */
+.board-panel--header,
+.board-panel--footer {
+  background-color: var(--panel-yellow);
+  background-image:
+    radial-gradient(130% 100% at 32% 10%, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0) 62%),
+    linear-gradient(168deg, rgba(255, 255, 255, 0.24), rgba(0, 0, 0, 0) 42%, rgba(122, 70, 0, 0.17));
+}
+
+/* Header ------------------------------------------------------------------ */
+
+/* Definite rows: the logo row must have a resolved height, otherwise a percentage
+   height on the gif has nothing to resolve against and it overflows onto the
+   stage labels. */
+.board-panel--header {
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  padding-top: 4px;
+}
+
+.board-header__logo {
+  min-height: 0;
+  padding: 2px 8px 6px;
+}
+
+.board-header__logo img {
+  display: block;
+  height: 100%;
+  width: 34%;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.board-stages {
+  display: grid;
+  grid-template-columns: var(--board-columns);
+  min-height: 1.8em;
+  padding-bottom: 3px;
+}
+
+.board-stages__label {
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 0 3px;
+  font-family: var(--font-printed);
+  font-weight: 700;
+  font-size: clamp(8px, 1.05vh, 15px);
+  letter-spacing: 0.02em;
+  line-height: 1.05;
+  color: #1a1a1a;
+  text-transform: uppercase;
+  overflow: hidden;
+}
+
+/* Grid -------------------------------------------------------------------- */
+
+/* The white sheet reads as a separate welded panel, sitting slightly recessed
+   between the two yellow ones. */
+.board-panel--grid {
+  background-color: var(--grid-white);
+  background-image:
+    radial-gradient(120% 90% at 30% 8%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0) 60%),
+    linear-gradient(166deg, rgba(255, 255, 255, 0.55), rgba(0, 0, 0, 0) 36%, rgba(40, 30, 10, 0.11));
+  box-shadow:
+    inset 0 9px 11px -9px rgba(60, 20, 0, 0.38),
+    inset 0 -9px 11px -9px rgba(60, 20, 0, 0.32);
+}
+
+.schedule-grid {
+  /* Widths of the printed hour and the written-in minutes, shared by the grid
+     cells and the Time/Band header so the columns line up. */
+  --hour-w: 1.5em;
+  --min-w: 1.5em;
+
+  height: 100%;
+  display: grid;
+  grid-template-columns: var(--board-columns);
+  grid-template-rows: var(--grid-rows);
+  border-top: 2px solid var(--rule);
+  border-left: 2px solid var(--rule);
+  /* Inert until the timeline completes. */
+  pointer-events: none;
+}
+
+.schedule-grid.is-interactive {
+  pointer-events: auto;
+}
+
+.grid-head {
+  display: grid;
+  grid-template-columns: calc(var(--hour-w) + var(--min-w)) minmax(0, 1fr);
+  gap: 2px;
+  padding: 1px 3px 2px;
+  border-right: 2px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  font-family: var(--font-printed);
+  font-weight: 600;
+  font-size: clamp(6px, 0.68vh, 10px);
+  letter-spacing: 0.04em;
+  line-height: 1;
+  text-transform: lowercase;
+  color: #6a6459;
+}
+
+.grid-head__time {
+  text-align: center;
+}
+
+.hour-cell {
+  min-width: 0;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: var(--hour-w) minmax(0, 1fr);
+  align-items: center;
+  padding: 1px 3px;
+  border-right: 2px solid var(--rule);
+  border-bottom: 1px solid rgba(34, 34, 34, 0.55);
+  font-family: var(--font-printed);
+  line-height: 1.18;
+  color: #1a1a1a;
+}
+
+/* Printed on the board, so it shows whether or not a band plays that hour. */
+.hour-cell__hour {
+  align-self: center;
+  text-align: right;
+  padding-right: 2px;
+  font-weight: 600;
+  font-size: clamp(7px, 0.92vh, 13px);
+  font-variant-numeric: tabular-nums;
+  color: #4a453e;
+}
+
+.hour-cell__slots {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+  min-width: 0;
+  min-height: 0;
+  height: 100%;
+}
+
+/* Slots ------------------------------------------------------------------- */
+
+/* A taped-on card, styled as a solid push button: the hard offset shadow is the
+   card's side wall, and it collapses as the face travels down on press. */
+.slot {
+  --slot-lift: 3px;
+  --slot-edge: #a29c8c;
+
+  display: grid;
+  grid-template-columns: var(--min-w) minmax(0, 1fr);
+  align-items: center;
+  gap: 2px;
+  flex: 1 1 auto;
+  min-width: 0;
+  min-height: 0;
+  margin: 0 0 var(--slot-lift) 0;
+  padding: 2px 3px;
+  overflow: hidden;
+  border: 1px solid rgba(70, 64, 52, 0.5);
+  border-radius: 3px;
+  background-image: linear-gradient(180deg, #ffffff 0%, #f6f4ec 100%);
+  box-shadow:
+    0 var(--slot-lift) 0 0 var(--slot-edge),
+    0 calc(var(--slot-lift) + 2px) 4px rgba(40, 25, 10, 0.3);
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    transform 90ms ease,
+    box-shadow 90ms ease,
+    background-image 90ms ease;
+}
+
+.slot__min {
+  text-align: center;
+  font-weight: 600;
+  font-size: clamp(7px, 0.9vh, 13px);
+  font-variant-numeric: tabular-nums;
+  color: #2f2b25;
+}
+
+.slot__band {
+  min-width: 0;
+  overflow: hidden;
+  font-weight: 600;
+  font-size: clamp(8px, 1.02vh, 15px);
+  line-height: 1.18;
+  letter-spacing: 0.005em;
+}
+
+.slot:disabled {
+  cursor: default;
+  color: inherit;
+  opacity: 1;
+}
+
+.slot:not(:disabled):hover {
+  --slot-lift: 4px;
+  background-image: linear-gradient(180deg, #ffffff 0%, #fffdf0 100%);
+}
+
+/* Pressed flat against the board. */
+.slot:not(:disabled):active {
+  --slot-lift: 0px;
+  transform: translateY(3px);
+  box-shadow:
+    0 0 0 0 var(--slot-edge),
+    0 1px 2px rgba(40, 25, 10, 0.45);
+  background-image: linear-gradient(180deg, #f2efe4 0%, #e9e5d8 100%);
+}
+
+.slot:focus-visible {
+  outline: 2px solid var(--frame-red);
+  outline-offset: 1px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .slot {
+    transition: none;
+  }
+}
+
+/* Footer ------------------------------------------------------------------ */
+
+/* Intentionally empty: footer artwork comes later. It shares the header's
+   panel shading, declared above. */

@@ -1,2 +1,31 @@
 .home-page {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  /* Sky blue fallback while the image loads. */
+  background: #7ec8f0 url('../../assets/background.webp') center / cover no-repeat;
+}
+
+/* Sits in the page corner, outside the board, tucked into the frame's rounded corner. */
+.replay-button {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 10;
+  padding: 5px 12px;
+  border: 1px solid rgba(0, 0, 0, 0.35);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.85);
+  font: 600 12px/1 system-ui, sans-serif;
+  color: #14304a;
+  cursor: pointer;
+}
+
+.replay-button:hover {
+  background: #fff;
+}
+
+.replay-button:focus-visible {
+  outline: 2px solid #d62828;
+  outline-offset: 2px;
 }
