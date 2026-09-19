@@ -29,3 +29,94 @@
   outline: 2px solid #d62828;
   outline-offset: 2px;
 }
+
+/* Top-left trail back through the steps (home > years > year > place). Same
+   hand-inked look as the cards: black outline, hard black side wall, chunky type. */
+.breadcrumbs {
+  --ink: #000;
+
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  z-index: 10;
+  max-width: calc(100vw - 24px);
+  font-family: 'Fredoka', 'Arial Rounded MT Bold', system-ui, sans-serif;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breadcrumbs li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* A chevron drawn in ink, not a text glyph, so it stays crisp and even. */
+.breadcrumbs li + li::before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-top: 3px solid var(--ink);
+  border-right: 3px solid var(--ink);
+  transform: rotate(45deg);
+  /* White halo so it reads on any part of the sky. */
+  box-shadow: 2px -2px 0 #fff;
+}
+
+.breadcrumbs button,
+.breadcrumbs span {
+  display: block;
+  padding: 5px 12px 4px;
+  border: 3px solid var(--ink);
+  border-radius: 11px 13px 10px 14px;
+  background: #fff;
+  box-shadow: 0 4px 0 var(--ink);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.breadcrumbs button {
+  cursor: pointer;
+  transition: transform 110ms ease, box-shadow 110ms ease;
+}
+
+.breadcrumbs button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 0 var(--ink);
+}
+
+/* Presses down like the cards do. */
+.breadcrumbs button:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 var(--ink);
+}
+
+.breadcrumbs button:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+}
+
+/* Where you are now: the red band colour, not pressable. */
+.breadcrumbs span[aria-current] {
+  background: #e3242b;
+  color: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .breadcrumbs button {
+    transition: none;
+  }
+}

@@ -24,6 +24,8 @@ export function StageLabels({ stages }: StageLabelsProps) {
 
 const hourOf = (time: string) => Number(time.slice(0, 2));
 const minutesOf = (time: string) => time.slice(3);
+/** Anything other than on the hour or half hour, e.g. 11:15 or 2:40. */
+const isOffbeat = (time: string) => !['00', '30'].includes(minutesOf(time));
 /** 24h hour to the 12h label printed on the board: 11 -> 11, 13 -> 1, 20 -> 8. */
 const hourLabel = (hour: number) => (hour % 12 === 0 ? 12 : hour % 12);
 
@@ -110,17 +112,26 @@ export function ScheduleGrid({
                     const isPicked = pickedIds.includes(set.id);
                     const isBlocked = blocked.has(set.id);
                     return (
-                    <button
-                      key={set.id}
-                      type="button"
-                      className={`slot${isPicked ? ' is-picked' : ''}${isBlocked ? ' is-blocked' : ''}`}
-                      disabled={!interactive}
-                      aria-pressed={isPicked}
-                      onClick={() => onPick(set)}
-                    >
-                      <span className="slot__min">{minutesOf(set.startTime)}</span>
-                      <span className="slot__band">{set.band}</span>
-                    </button>
+                      <span
+                        key={set.id}
+                        className={`slot-row${isBlocked ? ' is-blocked' : ''}`}
+                      >
+                        <span
+                          className={`slot-row__min${isOffbeat(set.startTime) ? ' is-offbeat' : ''}`}
+                        >
+                          {minutesOf(set.startTime)}
+                        </span>
+                        <button
+                          type="button"
+                          className={`slot${isPicked ? ' is-picked' : ''}${isBlocked ? ' is-blocked' : ''}`}
+                          disabled={!interactive}
+                          aria-pressed={isPicked}
+                          aria-label={`${set.displayTime} ${set.band}`}
+                          onClick={() => onPick(set)}
+                        >
+                          <span className="slot__band">{set.band}</span>
+                        </button>
+                      </span>
                     );
                   })}
                 </span>

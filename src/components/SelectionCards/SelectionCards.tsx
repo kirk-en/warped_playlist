@@ -1,12 +1,17 @@
-import '@fontsource/titan-one/400.css';
+import '@fontsource/creepster/400.css';
+import '@fontsource/fredoka/700.css';
 import './SelectionCards.css';
 
 export type SelectionCard = {
   id: string;
   /** The big printed line. */
   title: string;
+  /** Optional picture (e.g. a logo) shown above the title. */
+  image?: string;
   /** Smaller line under the title. */
   caption?: string;
+  /** Greys the card out and blocks selecting it; shown as a tooltip on hover/focus. */
+  unavailableNote?: string;
   onSelect: () => void;
 };
 
@@ -14,6 +19,10 @@ type SelectionCardsProps = {
   /** What the user is choosing at this step, e.g. "Pick a year". */
   prompt: string;
   cards: SelectionCard[];
+  /** "wide" stacks long ticket-style cards, title left and caption right. */
+  layout?: 'default' | 'wide';
+  /** A short status line under the cards, e.g. "Coming soon". */
+  message?: string;
 };
 
 /*
@@ -34,20 +43,41 @@ const BAND_LINE =
 const SCRIBBLES =
   'M92 24 Q100 19 112 23 M262 17 Q272 12 284 16 M382 96 Q386 104 383 116 M16 150 Q12 160 15 170 M320 234 Q332 230 346 233 M64 236 Q74 232 86 235';
 
-function SignFrame() {
+/* The same sign redrawn on a 1000x200 sheet for the wide cards. It is stretched to
+   fit (preserveAspectRatio="none") with non-scaling strokes, so the band keeps an
+   even thickness at any length. */
+const WIDE_OUTER =
+  'M22 24 C160 10 380 20 520 12 C700 6 880 16 976 22 C990 50 984 100 990 150 C994 178 984 190 972 194 C800 202 560 192 400 198 C240 202 100 194 14 190 C8 150 16 100 10 62 C8 46 14 32 22 24Z';
+const WIDE_FACE =
+  'M44 44 C180 34 400 40 530 34 C700 30 860 36 954 42 C960 70 958 110 962 140 C964 160 958 168 950 172 C800 178 570 170 410 175 C260 178 120 172 36 168 C32 138 38 100 34 72 C33 58 38 48 44 44Z';
+const WIDE_BAND_LINE =
+  'M32 32 C170 22 390 28 525 22 C700 17 870 24 965 30 C973 60 970 105 974 146 C976 168 970 180 962 184 C800 191 560 182 400 188 C245 191 105 184 24 180 C20 145 26 100 22 68 C20 52 26 38 32 32Z';
+const WIDE_SCRIBBLES =
+  'M200 16 Q212 11 228 15 M700 9 Q712 5 728 8 M982 90 Q986 98 983 110 M14 120 Q10 130 13 140 M840 199 Q856 195 872 198 M150 198 Q162 194 176 197';
+
+function SignFrame({ wide }: { wide: boolean }) {
+  const outer = wide ? WIDE_OUTER : OUTER;
+  const face = wide ? WIDE_FACE : FACE;
+  const bandLine = wide ? WIDE_BAND_LINE : BAND_LINE;
+  const scribbles = wide ? WIDE_SCRIBBLES : SCRIBBLES;
   return (
-    <svg className="pick-card__frame" viewBox="0 0 400 250" aria-hidden="true">
-      <path d={OUTER} fill="#e3242b" stroke="#000" strokeWidth="6" strokeLinejoin="round" />
+    <svg
+      className="pick-card__frame"
+      viewBox={wide ? '0 0 1000 200' : '0 0 400 250'}
+      preserveAspectRatio={wide ? 'none' : undefined}
+      aria-hidden="true"
+    >
+      <path d={outer} fill="#e3242b" stroke="#000" strokeWidth="6" strokeLinejoin="round" />
       <path
-        d={BAND_LINE}
+        d={bandLine}
         fill="none"
         stroke="#000"
         strokeWidth="2.5"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <path d={SCRIBBLES} fill="none" stroke="#000" strokeWidth="3" strokeLinecap="round" />
-      <path d={FACE} fill="#fff" stroke="#000" strokeWidth="5" strokeLinejoin="round" />
+      <path d={scribbles} fill="none" stroke="#000" strokeWidth="3" strokeLinecap="round" />
+      <path d={face} fill="#fff" stroke="#000" strokeWidth="5" strokeLinejoin="round" />
     </svg>
   );
 }
@@ -57,26 +87,43 @@ function SignFrame() {
  * cards. Each is a hand-inked sign — a red band with black linework around a
  * plain white face — that presses down like a button when clicked.
  */
-export default function SelectionCards({ prompt, cards }: SelectionCardsProps) {
+export default function SelectionCards({ prompt, cards, layout = 'default', message }: SelectionCardsProps) {
+  const wide = layout === 'wide';
   return (
-    <section className="selection-cards" aria-label={prompt}>
+    <section
+      className={`selection-cards${wide ? ' selection-cards--wide' : ''}`}
+      aria-label={prompt}
+    >
       <h1 className="selection-cards__prompt">{prompt}</h1>
       <div className="selection-cards__row">
         {cards.map((card) => (
           <button
             key={card.id}
             type="button"
-            className="pick-card"
-            onClick={card.onSelect}
+            className={`pick-card${card.unavailableNote ? ' pick-card--unavailable' : ''}`}
+            aria-disabled={card.unavailableNote ? true : undefined}
+            aria-describedby={card.unavailableNote ? `${card.id}-note` : undefined}
+            onClick={card.unavailableNote ? undefined : card.onSelect}
           >
-            <SignFrame />
-            <span className="pick-card__face">
+            <SignFrame wide={wide} />
+            <span className={`pick-card__face${card.image ? ' pick-card__face--image' : ''}`}>
+              {card.image && <img className="pick-card__image" src={card.image} alt="" />}
               <span className="pick-card__title">{card.title}</span>
               {card.caption && <span className="pick-card__caption">{card.caption}</span>}
             </span>
+            {card.unavailableNote && (
+              <span id={`${card.id}-note`} role="tooltip" className="pick-card__tooltip">
+                {card.unavailableNote}
+              </span>
+            )}
           </button>
         ))}
       </div>
+      {message && (
+        <p className="selection-cards__message" role="status">
+          {message}
+        </p>
+      )}
     </section>
   );
 }

@@ -5,6 +5,7 @@ import { useGSAP } from '@gsap/react';
 import '@fontsource/barlow-semi-condensed/500.css';
 import '@fontsource/barlow-semi-condensed/600.css';
 import '@fontsource/barlow-semi-condensed/700.css';
+import '@fontsource/permanent-marker/400.css';
 import BoardFrame, { TUBE } from './BoardFrame';
 import type { BoardFrameHandle } from './BoardFrame';
 import { ScheduleGrid, StageLabels } from './ScheduleGrid';
@@ -16,7 +17,7 @@ import './InflatableBoard.css';
 gsap.registerPlugin(useGSAP);
 
 /** Peak idle deflection at the top of the board, in degrees. */
-const SWAY_DEG = 0.2;
+const SWAY_DEG = 0.4;
 
 type InflatableBoardProps = {
   stages: Stage[];

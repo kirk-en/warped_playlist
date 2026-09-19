@@ -1,0 +1,415 @@
+{
+  "stages": [
+    {
+      "id": "route-66",
+      "name": "Route 66 Stage"
+    },
+    {
+      "id": "highway-1",
+      "name": "Highway 1 Stage"
+    },
+    {
+      "id": "hurley",
+      "name": "Hurley Stage"
+    },
+    {
+      "id": "hurley-com",
+      "name": "Hurley.com Stage"
+    },
+    {
+      "id": "smartpunk",
+      "name": "Smartpunk Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kia Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "route-66-from-first-to-last",
+      "band": "From First to Last",
+      "stageId": "route-66",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "route-66-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "route-66",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "route-66-the-academy-is",
+      "band": "The Academy Is...",
+      "stageId": "route-66",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "route-66-anberlin",
+      "band": "Anberlin",
+      "stageId": "route-66",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "route-66-gym-class-heroes",
+      "band": "Gym Class Heroes",
+      "stageId": "route-66",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "route-66-norma-jean",
+      "band": "Norma Jean",
+      "stageId": "route-66",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "route-66-the-bronx",
+      "band": "The Bronx",
+      "stageId": "route-66",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "route-66-the-dillinger-escape-plan",
+      "band": "The Dillinger Escape Plan",
+      "stageId": "route-66",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "route-66-as-i-lay-dying",
+      "band": "As I Lay Dying",
+      "stageId": "route-66",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "highway-1-relient-k",
+      "band": "Relient K",
+      "stageId": "highway-1",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "highway-1-against-me",
+      "band": "Against Me!",
+      "stageId": "highway-1",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "highway-1-every-time-i-die",
+      "band": "Every Time I Die",
+      "stageId": "highway-1",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "highway-1-angels-and-airwaves",
+      "band": "Angels and Airwaves",
+      "stageId": "highway-1",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "highway-1-jack-s-mannequin",
+      "band": "Jack's Mannequin",
+      "stageId": "highway-1",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "highway-1-say-anything",
+      "band": "Say Anything",
+      "stageId": "highway-1",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "highway-1-street-dogs",
+      "band": "Street Dogs",
+      "stageId": "highway-1",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "highway-1-cobra-starship",
+      "band": "Cobra Starship",
+      "stageId": "highway-1",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "highway-1-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "highway-1",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "hurley-pierce-the-veil",
+      "band": "Pierce the Veil",
+      "stageId": "hurley",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "hurley-greeley-estates",
+      "band": "Greeley Estates",
+      "stageId": "hurley",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "hurley-the-briggs",
+      "band": "The Briggs",
+      "stageId": "hurley",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "hurley-the-lordz",
+      "band": "The Lordz",
+      "stageId": "hurley",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "hurley-the-color-fred",
+      "band": "The Color Fred",
+      "stageId": "hurley",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "hurley-the-pink-spiders",
+      "band": "The Pink Spiders",
+      "stageId": "hurley",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "hurley-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "hurley",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "hurley-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "hurley",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "hurley-the-devil-wears-prada",
+      "band": "The Devil Wears Prada",
+      "stageId": "hurley",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "hurley-broadway-calls",
+      "band": "Broadway Calls",
+      "stageId": "hurley",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "hurley-com-beat-union",
+      "band": "Beat Union",
+      "stageId": "hurley-com",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "hurley-com-oreskaband",
+      "band": "Oreskaband",
+      "stageId": "hurley-com",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "hurley-com-evergreen-terrace",
+      "band": "Evergreen Terrace",
+      "stageId": "hurley-com",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "hurley-com-horrorpops",
+      "band": "HorrorPops",
+      "stageId": "hurley-com",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "hurley-com-3oh-3",
+      "band": "3OH!3",
+      "stageId": "hurley-com",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "hurley-com-the-aggrolites",
+      "band": "The Aggrolites",
+      "stageId": "hurley-com",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "hurley-com-maylene-and-the-sons-of-disaster",
+      "band": "Maylene and the Sons of Disaster",
+      "stageId": "hurley-com",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "hurley-com-shwayze",
+      "band": "Shwayze",
+      "stageId": "hurley-com",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "hurley-com-katy-perry",
+      "band": "Katy Perry",
+      "stageId": "hurley-com",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "smartpunk-alesana",
+      "band": "Alesana",
+      "stageId": "smartpunk",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "smartpunk-the-higher",
+      "band": "The Higher",
+      "stageId": "smartpunk",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "smartpunk-madina-lake",
+      "band": "Madina Lake",
+      "stageId": "smartpunk",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "smartpunk-every-avenue",
+      "band": "Every Avenue",
+      "stageId": "smartpunk",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "smartpunk-just-surrender",
+      "band": "Just Surrender",
+      "stageId": "smartpunk",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "smartpunk-bedouin-soundclash",
+      "band": "Bedouin Soundclash",
+      "stageId": "smartpunk",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "smartpunk-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "smartpunk",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "smartpunk-a-day-to-remember",
+      "band": "A Day to Remember",
+      "stageId": "smartpunk",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "smartpunk-cinematic-sunrise",
+      "band": "Cinematic Sunrise",
+      "stageId": "smartpunk",
+      "startTime": "19:25",
+      "displayTime": "7:25"
+    },
+    {
+      "id": "kevin-says-the-dollyrots",
+      "band": "The Dollyrots",
+      "stageId": "kevin-says",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "kevin-says-josephine-collective",
+      "band": "Josephine Collective",
+      "stageId": "kevin-says",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "kevin-says-peanuthead",
+      "band": "Peanuthead",
+      "stageId": "kevin-says",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "kevin-says-animo",
+      "band": "Animo",
+      "stageId": "kevin-says",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "kevin-says-all-left-out",
+      "band": "All Left Out",
+      "stageId": "kevin-says",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "kevin-says-cinder-road",
+      "band": "Cinder Road",
+      "stageId": "kevin-says",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "kevin-says-a-cursive-memory",
+      "band": "A Cursive Memory",
+      "stageId": "kevin-says",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "kevin-says-crashcarburn",
+      "band": "CrashCarBurn",
+      "stageId": "kevin-says",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "kevin-says-the-gaslight-anthem",
+      "band": "The Gaslight Anthem",
+      "stageId": "kevin-says",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    }
+  ]
+}

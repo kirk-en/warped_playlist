@@ -2,16 +2,18 @@
    face. The frame itself is an SVG (see SignFrame); this file lays out the text. */
 .selection-cards {
   --ink: #000;
-  --font-display: 'Titan One', 'Arial Rounded MT Bold', system-ui, sans-serif;
+  --font-display: 'Creepster', 'Titan One', system-ui, sans-serif;
+  --font-body: 'Fredoka', 'Arial Rounded MT Bold', system-ui, sans-serif;
 
   position: absolute;
   inset: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: safe center;
   gap: clamp(20px, 5vh, 48px);
   padding: 24px;
+  overflow-y: auto;
 }
 
 /* Outlined lettering for text sitting straight on the background: the stroke is
@@ -22,7 +24,7 @@
   -webkit-text-stroke: 7px var(--ink);
   text-shadow: 0 4px 0 var(--ink);
   font-family: var(--font-display);
-  font-size: clamp(22px, 3.6vh, 40px);
+  font-size: clamp(28px, 4.6vh, 52px);
   font-weight: 400;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -51,7 +53,9 @@
   padding: 0;
   border: 0;
   background: none;
-  margin-bottom: var(--lift);
+  /* Room for the tallest side wall (the hover lift). Fixed, not tied to --lift:
+     otherwise hovering resizes the card's box and shoves its neighbours around. */
+  margin-bottom: 12px;
   font: inherit;
   color: inherit;
   cursor: pointer;
@@ -101,7 +105,7 @@
 
 .pick-card__title {
   font-family: var(--font-display);
-  font-size: min(13cqw, 26cqh);
+  font-size: min(15cqw, 30cqh);
   font-weight: 400;
   line-height: 0.95;
   letter-spacing: 0.02em;
@@ -109,16 +113,159 @@
 }
 
 .pick-card__caption {
-  font-family: var(--font-display);
+  font-family: var(--font-body);
+  font-weight: 700;
   font-size: min(4.6cqw, 10cqh);
   line-height: 1.15;
   letter-spacing: 0.04em;
   text-wrap: balance;
 }
 
+/* A card with a logo: the picture takes the face's spare height, the title sits
+   beneath it at a smaller size. */
+.pick-card__image {
+  flex: 1 1 0;
+  min-height: 0;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.pick-card__face--image {
+  gap: 3cqh;
+}
+
+.pick-card__face--image .pick-card__title {
+  flex: none;
+  font-size: min(9cqw, 17cqh);
+}
+
+.selection-cards__message {
+  margin: 0;
+  paint-order: stroke fill;
+  -webkit-text-stroke: 5px var(--ink);
+  text-shadow: 0 3px 0 var(--ink);
+  font-family: var(--font-body);
+  font-size: clamp(16px, 2.4vh, 24px);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: #fff;
+}
+
+/* A card that can't be picked: greyed out, no press motion, with a tooltip. The
+   grey is applied to the frame and face (not the button) so the tooltip stays bright. */
+.pick-card--unavailable {
+  cursor: not-allowed;
+}
+
+.pick-card--unavailable .pick-card__frame,
+.pick-card--unavailable .pick-card__face {
+  filter: grayscale(1) opacity(0.55);
+}
+
+.pick-card--unavailable:hover,
+.pick-card--unavailable:active {
+  --lift: 10px;
+  transform: none;
+}
+
+.pick-card__tooltip {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% - 4px);
+  z-index: 2;
+  transform: translate(-50%, 6px);
+  width: max-content;
+  max-width: min(320px, 90%);
+  padding: 8px 14px;
+  border: 3px solid var(--ink);
+  border-radius: 12px 14px 11px 15px;
+  background: #fff;
+  box-shadow: 0 4px 0 var(--ink);
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.25;
+  text-align: center;
+  color: var(--ink);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 120ms ease, transform 120ms ease;
+}
+
+.pick-card--unavailable:hover .pick-card__tooltip,
+.pick-card--unavailable:focus-visible .pick-card__tooltip {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+/* Wide layout: one long ticket-style card per row, title left, caption right. */
+.selection-cards--wide .selection-cards__row {
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: clamp(16px, 2.5vh, 24px);
+}
+
+/* Keep the pen weight even however far the sheet is stretched. */
+.selection-cards--wide .pick-card__frame path {
+  vector-effect: non-scaling-stroke;
+}
+
+.selection-cards--wide .pick-card {
+  width: min(900px, calc(100vw - 48px));
+  aspect-ratio: 8 / 1;
+  flex: none;
+}
+
+.selection-cards--wide .pick-card__face {
+  inset: 20% 7% 16%;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 4cqw;
+  text-align: left;
+}
+
+.selection-cards--wide .pick-card__title {
+  font-size: min(5cqw, 56cqh);
+  white-space: nowrap;
+}
+
+.selection-cards--wide .pick-card__caption {
+  font-size: min(2cqw, 26cqh);
+  text-align: right;
+}
+
+/* On a phone eight-to-one is too thin to read, so the card gets taller and the
+   caption drops under the title. */
+@media (max-width: 640px) {
+  .selection-cards--wide .pick-card {
+    aspect-ratio: 3.2 / 1;
+  }
+
+  .selection-cards--wide .pick-card__face {
+    inset: 18% 8% 14%;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4cqh;
+    text-align: center;
+  }
+
+  .selection-cards--wide .pick-card__title {
+    font-size: min(8.5cqw, 46cqh);
+  }
+
+  .selection-cards--wide .pick-card__caption {
+    font-size: min(3.4cqw, 22cqh);
+    text-align: center;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .pick-card,
-  .pick-card__frame {
+  .pick-card__frame,
+  .pick-card__tooltip {
     transition: none;
   }
 }

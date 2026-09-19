@@ -1,0 +1,644 @@
+{
+  "stages": [
+    {
+      "id": "jack-in-the-box",
+      "name": "Jack in the Box Stage"
+    },
+    {
+      "id": "teddy-bear",
+      "name": "Teddy Bear Stage"
+    },
+    {
+      "id": "hurley",
+      "name": "Hurley Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "vagrant",
+      "name": "Vagrant Records Stage"
+    },
+    {
+      "id": "smartpunk",
+      "name": "Smartpunk Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "shiragirl",
+      "name": "Shiragirl Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "jack-in-the-box-pistolita",
+      "band": "Pistolita",
+      "stageId": "jack-in-the-box",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "jack-in-the-box-bullet-for-my-valentine",
+      "band": "Bullet For My Valentine",
+      "stageId": "jack-in-the-box",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "jack-in-the-box-saves-the-day",
+      "band": "Saves the Day",
+      "stageId": "jack-in-the-box",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "jack-in-the-box-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "jack-in-the-box",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "jack-in-the-box-thursday",
+      "band": "Thursday",
+      "stageId": "jack-in-the-box",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "jack-in-the-box-senses-fail",
+      "band": "Senses Fail",
+      "stageId": "jack-in-the-box",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "jack-in-the-box-rise-against",
+      "band": "Rise Against",
+      "stageId": "jack-in-the-box",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "jack-in-the-box-motion-city-soundtrack",
+      "band": "Motion City Soundtrack",
+      "stageId": "jack-in-the-box",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "jack-in-the-box-the-early-november",
+      "band": "The Early November",
+      "stageId": "jack-in-the-box",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "teddy-bear-the-sounds",
+      "band": "The Sounds",
+      "stageId": "teddy-bear",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "teddy-bear-the-casualties",
+      "band": "The Casualties",
+      "stageId": "teddy-bear",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "teddy-bear-against-me",
+      "band": "Against Me!",
+      "stageId": "teddy-bear",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "teddy-bear-helmet",
+      "band": "Helmet",
+      "stageId": "teddy-bear",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "teddy-bear-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "teddy-bear",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "teddy-bear-joan-jett-and-the-blackhearts",
+      "band": "Joan Jett and the Blackhearts",
+      "stageId": "teddy-bear",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "teddy-bear-nofx",
+      "band": "NOFX",
+      "stageId": "teddy-bear",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "teddy-bear-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teddy-bear",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "teddy-bear-armor-for-sleep",
+      "band": "Armor For Sleep",
+      "stageId": "teddy-bear",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "hurley-evaline",
+      "band": "Evaline",
+      "stageId": "hurley",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "hurley-the-academy-is",
+      "band": "The Academy Is...",
+      "stageId": "hurley",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "hurley-billy-talent",
+      "band": "Billy Talent",
+      "stageId": "hurley",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "hurley-aiden",
+      "band": "Aiden",
+      "stageId": "hurley",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "hurley-greeley-estates",
+      "band": "Greeley Estates",
+      "stageId": "hurley",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "hurley-gym-class-heroes",
+      "band": "Gym Class Heroes",
+      "stageId": "hurley",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "hurley-hellogoodbye",
+      "band": "Hellogoodbye",
+      "stageId": "hurley",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "hurley-every-time-i-die",
+      "band": "Every Time I Die",
+      "stageId": "hurley",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "hurley-silverstein",
+      "band": "Silverstein",
+      "stageId": "hurley",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "volcom-the-stiletto-formal",
+      "band": "The Stiletto Formal",
+      "stageId": "volcom",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "volcom-stretch-arm-strong",
+      "band": "Stretch Arm Strong",
+      "stageId": "volcom",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "volcom-valient-thorr",
+      "band": "Valient Thorr",
+      "stageId": "volcom",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "volcom-vaux",
+      "band": "Vaux",
+      "stageId": "volcom",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "volcom-the-lordz",
+      "band": "The Lordz",
+      "stageId": "volcom",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "volcom-the-pink-spiders",
+      "band": "The Pink Spiders",
+      "stageId": "volcom",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "volcom-the-red-jumpsuit-apparatus",
+      "band": "The Red Jumpsuit Apparatus",
+      "stageId": "volcom",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "volcom-dork",
+      "band": "DORK",
+      "stageId": "volcom",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "volcom-eight-fingers-down",
+      "band": "Eight Fingers Down",
+      "stageId": "volcom",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "vagrant-down-to-earth-approach",
+      "band": "Down to Earth Approach",
+      "stageId": "vagrant",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "vagrant-alexisonfire",
+      "band": "Alexisonfire",
+      "stageId": "vagrant",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "vagrant-biology",
+      "band": "Biology",
+      "stageId": "vagrant",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "vagrant-moneen",
+      "band": "Moneen",
+      "stageId": "vagrant",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "vagrant-from-autumn-to-ashes",
+      "band": "From Autumn to Ashes",
+      "stageId": "vagrant",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "vagrant-saves-the-day-acoustic",
+      "band": "Saves the Day (Acoustic)",
+      "stageId": "vagrant",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "vagrant-the-bled",
+      "band": "The Bled",
+      "stageId": "vagrant",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "vagrant-protest-the-hero",
+      "band": "Protest the Hero",
+      "stageId": "vagrant",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "vagrant-emanuel",
+      "band": "Emanuel",
+      "stageId": "vagrant",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "smartpunk-liam-and-me",
+      "band": "Liam and Me",
+      "stageId": "smartpunk",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "smartpunk-the-fully-down",
+      "band": "The Fully Down",
+      "stageId": "smartpunk",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "smartpunk-eighteen-visions",
+      "band": "Eighteen Visions",
+      "stageId": "smartpunk",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "smartpunk-so-they-say",
+      "band": "So They Say",
+      "stageId": "smartpunk",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "smartpunk-halifax",
+      "band": "Halifax",
+      "stageId": "smartpunk",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "smartpunk-horse-the-band",
+      "band": "HORSE the Band",
+      "stageId": "smartpunk",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "smartpunk-the-sleeping",
+      "band": "The Sleeping",
+      "stageId": "smartpunk",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "smartpunk-mewithoutyou",
+      "band": "Mewithoutyou",
+      "stageId": "smartpunk",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "smartpunk-i-am-the-avalanche",
+      "band": "I Am the Avalanche",
+      "stageId": "smartpunk",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "ernie-ball-morning-abroad",
+      "band": "Morning Abroad",
+      "stageId": "ernie-ball",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "ernie-ball-ghost-town-locals",
+      "band": "Ghost Town Locals",
+      "stageId": "ernie-ball",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "ernie-ball-dirty-larry",
+      "band": "Dirty Larry",
+      "stageId": "ernie-ball",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "ernie-ball-hand-me-down-buick",
+      "band": "Hand Me Down Buick",
+      "stageId": "ernie-ball",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "ernie-ball-your-name-in-lights",
+      "band": "Your Name in Lights",
+      "stageId": "ernie-ball",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "ernie-ball-the-smashup",
+      "band": "The Smashup",
+      "stageId": "ernie-ball",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "ernie-ball-we-are-the-fury",
+      "band": "We Are the Fury",
+      "stageId": "ernie-ball",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "ernie-ball-cartel",
+      "band": "Cartel",
+      "stageId": "ernie-ball",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "ernie-ball-valencia",
+      "band": "Valencia",
+      "stageId": "ernie-ball",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "ernie-ball-lydia",
+      "band": "Lydia",
+      "stageId": "ernie-ball",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "ernie-ball-adair",
+      "band": "Adair",
+      "stageId": "ernie-ball",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "ernie-ball-lorene-drive",
+      "band": "Lorene Drive",
+      "stageId": "ernie-ball",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "ernie-ball-the-sunstreak",
+      "band": "The Sunstreak",
+      "stageId": "ernie-ball",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "kevin-says-jealousy-curve",
+      "band": "Jealousy Curve",
+      "stageId": "kevin-says",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "kevin-says-wisdom-in-chains",
+      "band": "Wisdom in Chains",
+      "stageId": "kevin-says",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "kevin-says-near-miss",
+      "band": "Near Miss",
+      "stageId": "kevin-says",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "kevin-says-royden",
+      "band": "Royden",
+      "stageId": "kevin-says",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "kevin-says-the-american-black-lung",
+      "band": "The American Black Lung",
+      "stageId": "kevin-says",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "kevin-says-state-of-revolution",
+      "band": "State of Revolution",
+      "stageId": "kevin-says",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "kevin-says-eighteen-days",
+      "band": "Eighteen Days",
+      "stageId": "kevin-says",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "kevin-says-illscarlett",
+      "band": "illScarlett",
+      "stageId": "kevin-says",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "kevin-says-shanti",
+      "band": "Shanti",
+      "stageId": "kevin-says",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "kevin-says-tokyo-rose",
+      "band": "Tokyo Rose",
+      "stageId": "kevin-says",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "kevin-says-dirty-tactics",
+      "band": "Dirty Tactics",
+      "stageId": "kevin-says",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "kevin-says-the-banner",
+      "band": "The Banner",
+      "stageId": "kevin-says",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "shiragirl-meg-and-dia",
+      "band": "Meg and Dia",
+      "stageId": "shiragirl",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "shiragirl-the-harlots",
+      "band": "The Harlots",
+      "stageId": "shiragirl",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "shiragirl-the-vincent-black-shadow",
+      "band": "The Vincent Black Shadow",
+      "stageId": "shiragirl",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "shiragirl-britt-black",
+      "band": "Britt Black",
+      "stageId": "shiragirl",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "shiragirl-shiragirl",
+      "band": "Shiragirl",
+      "stageId": "shiragirl",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "shiragirl-tat",
+      "band": "TAT",
+      "stageId": "shiragirl",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "shiragirl-kim-pulsive",
+      "band": "Kim Pulsive",
+      "stageId": "shiragirl",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    }
+  ]
+}

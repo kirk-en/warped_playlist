@@ -122,15 +122,25 @@
 .board-stages {
   display: grid;
   grid-template-columns: var(--board-columns);
-  min-height: 1.8em;
+  /* Two lines of label, so a wrapped name has somewhere to go. */
+  min-height: 2.6em;
   padding-bottom: 3px;
 }
 
 .board-stages__label {
   display: grid;
-  place-items: center;
+  /* Centre vertically but STRETCH horizontally. Centring on both axes sizes the
+     text to max-content, so a long stage name never wraps — it just runs past
+     its column and gets cut by the overflow (the last one loses letters off the
+     edge of the yellow). Stretching lets it wrap inside its column instead. */
+  place-items: center stretch;
   text-align: center;
-  padding: 0 3px;
+  /* Room for a second line without pushing the row past the header. */
+  align-content: center;
+  /* Breathing room inside the column rather than on the row, so the labels stay
+     aligned with the grid beneath them. Without it a long name fills its column
+     edge to edge and the last one looks like it runs off the yellow. */
+  padding: 0 7px;
   font-family: var(--font-printed);
   font-weight: 700;
   font-size: max(9px, min(1.05cqw, 1.9vh));
@@ -218,8 +228,9 @@
 /* Printed on the board, so it shows whether or not a band plays that hour. */
 .hour-cell__hour {
   align-self: center;
+  /* Same offset as .slot-row__min, so the hour and minutes share a baseline. */
+  padding-bottom: 3px;
   text-align: right;
-  padding-right: 2px;
   font-weight: 600;
   font-size: calc(var(--slot-font) * 0.95);
   font-variant-numeric: tabular-nums;
@@ -245,9 +256,8 @@
   --slot-edge: #a29c8c;
 
   display: grid;
-  grid-template-columns: var(--min-w) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
-  gap: 2px;
   flex: 1 1 auto;
   min-width: 0;
   min-height: 0;
@@ -270,12 +280,38 @@
     background-image 90ms ease;
 }
 
-.slot__min {
-  text-align: center;
+/* One set on the board: the minutes are written in beside the printed hour, on the
+   sheet itself, and the button carries only the band name. */
+.slot-row {
+  display: grid;
+  grid-template-columns: var(--min-w) minmax(0, 1fr);
+  align-items: stretch;
+  gap: 2px;
+  flex: 1 1 auto;
+  min-width: 0;
+  min-height: 0;
+}
+
+.slot-row__min {
+  align-self: center;
+  /* Sits level with the button's face, not its side wall. */
+  padding-bottom: 3px;
+  text-align: left;
   font-weight: 600;
-  font-size: var(--slot-font);
+  font-size: calc(var(--slot-font) * 0.95);
   font-variant-numeric: tabular-nums;
   color: #2f2b25;
+}
+
+/* Odd start times (11:15, 2:40) are written in by hand rather than printed. */
+.slot-row__min.is-offbeat {
+  font-family: 'Permanent Marker', 'Comic Sans MS', cursive;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+
+.slot-row.is-blocked .slot-row__min {
+  color: #9a968c;
 }
 
 .slot__band {
@@ -330,9 +366,6 @@
   opacity: 0.85;
 }
 
-.slot.is-blocked .slot__min {
-  color: inherit;
-}
 
 .slot:focus-visible {
   outline: 2px solid var(--frame-red);

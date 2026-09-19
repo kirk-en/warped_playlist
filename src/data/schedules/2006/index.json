@@ -1,0 +1,411 @@
+[
+  {
+    "id": "2006-06-15-columbia",
+    "year": 2006,
+    "date": "2006-06-15",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2006-06-16-columbus",
+    "year": 2006,
+    "date": "2006-06-16",
+    "city": "Columbus",
+    "state": "OH",
+    "venue": "Germain Amphitheater"
+  },
+  {
+    "id": "2006-06-17-milwaukee",
+    "year": 2006,
+    "date": "2006-06-17",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-06-18-minneapolis",
+    "year": 2006,
+    "date": "2006-06-18",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "HHH Metrodome Parking Lot"
+  },
+  {
+    "id": "2006-06-19-bonner-springs",
+    "year": 2006,
+    "date": "2006-06-19",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2006-06-21-nashville",
+    "year": 2006,
+    "date": "2006-06-21",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Starwood Amphitheatre"
+  },
+  {
+    "id": "2006-06-22-jacksonville",
+    "year": 2006,
+    "date": "2006-06-22",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-06-23-st-petersburg",
+    "year": 2006,
+    "date": "2006-06-23",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2006-06-24-miami",
+    "year": 2006,
+    "date": "2006-06-24",
+    "city": "Miami",
+    "state": "FL",
+    "venue": "Bayfront Park Amphitheater"
+  },
+  {
+    "id": "2006-06-25-orlando",
+    "year": 2006,
+    "date": "2006-06-25",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Tinker Field"
+  },
+  {
+    "id": "2006-06-26-ladson",
+    "year": 2006,
+    "date": "2006-06-26",
+    "city": "Ladson",
+    "state": "SC",
+    "venue": "Exchange Park"
+  },
+  {
+    "id": "2006-06-27-raleigh",
+    "year": 2006,
+    "date": "2006-06-27",
+    "city": "Raleigh",
+    "state": "NC",
+    "venue": "Alltel Pavilion at Walnut Creek"
+  },
+  {
+    "id": "2006-06-28-atlanta",
+    "year": 2006,
+    "date": "2006-06-28",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "HiFi Buys Amphitheatre"
+  },
+  {
+    "id": "2006-06-30-houston",
+    "year": 2006,
+    "date": "2006-06-30",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Center"
+  },
+  {
+    "id": "2006-07-01-dallas",
+    "year": 2006,
+    "date": "2006-07-01",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Centre"
+  },
+  {
+    "id": "2006-07-02-selma",
+    "year": 2006,
+    "date": "2006-07-02",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheater,"
+  },
+  {
+    "id": "2006-07-03-las-cruces",
+    "year": 2006,
+    "date": "2006-07-03",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "Intramural Fields at New Mexico State University"
+  },
+  {
+    "id": "2006-07-04-phoenix",
+    "year": 2006,
+    "date": "2006-07-04",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Cricket Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-07-06-chula-vista",
+    "year": 2006,
+    "date": "2006-07-06",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheatre"
+  },
+  {
+    "id": "2006-07-07-pomona",
+    "year": 2006,
+    "date": "2006-07-07",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Fairplex"
+  },
+  {
+    "id": "2006-07-08-san-francisco",
+    "year": 2006,
+    "date": "2006-07-08",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32"
+  },
+  {
+    "id": "2006-07-09-fresno",
+    "year": 2006,
+    "date": "2006-07-09",
+    "city": "Fresno",
+    "state": "CA",
+    "venue": "Save Mart Center"
+  },
+  {
+    "id": "2006-07-11-ventura",
+    "year": 2006,
+    "date": "2006-07-11",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-07-12-los-angeles",
+    "year": 2006,
+    "date": "2006-07-12",
+    "city": "Los Angeles",
+    "state": "CA",
+    "venue": "Dodger Stadium"
+  },
+  {
+    "id": "2006-07-13-marysville",
+    "year": 2006,
+    "date": "2006-07-13",
+    "city": "Marysville",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2006-07-14-nampa",
+    "year": 2006,
+    "date": "2006-07-14",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-07-15-george",
+    "year": 2006,
+    "date": "2006-07-15",
+    "city": "George",
+    "state": "WA",
+    "venue": "Gorge Amphitheatre"
+  },
+  {
+    "id": "2006-07-16-st-helens",
+    "year": 2006,
+    "date": "2006-07-16",
+    "city": "St. Helens",
+    "state": "OR",
+    "venue": "Columbia Meadows",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-07-18-vancouver",
+    "year": 2006,
+    "date": "2006-07-18",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Thunderbird Stadium"
+  },
+  {
+    "id": "2006-07-20-calgary",
+    "year": 2006,
+    "date": "2006-07-20",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Speedway"
+  },
+  {
+    "id": "2006-07-22-salt-lake-city",
+    "year": 2006,
+    "date": "2006-07-22",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-07-23-denver",
+    "year": 2006,
+    "date": "2006-07-23",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field"
+  },
+  {
+    "id": "2006-07-25-maryland-heights",
+    "year": 2006,
+    "date": "2006-07-25",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "UMB Bank Pavilion"
+  },
+  {
+    "id": "2006-07-26-cincinnati",
+    "year": 2006,
+    "date": "2006-07-26",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2006-07-27-pittsburgh",
+    "year": 2006,
+    "date": "2006-07-27",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "Post Gazette Pavilion"
+  },
+  {
+    "id": "2006-07-28-noblesville",
+    "year": 2006,
+    "date": "2006-07-28",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center"
+  },
+  {
+    "id": "2006-07-29-detroit",
+    "year": 2006,
+    "date": "2006-07-29",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Comerica Park"
+  },
+  {
+    "id": "2006-07-30-tinley-park",
+    "year": 2006,
+    "date": "2006-07-30",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "First Midwest Bank Amphitheatre"
+  },
+  {
+    "id": "2006-08-01-darien",
+    "year": 2006,
+    "date": "2006-08-01",
+    "city": "Darien",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center"
+  },
+  {
+    "id": "2006-08-02-fitchburg",
+    "year": 2006,
+    "date": "2006-08-02",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Fitchburg Municipal Airport"
+  },
+  {
+    "id": "2006-08-03-camden",
+    "year": 2006,
+    "date": "2006-08-03",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Tweeter Center at the Waterfront"
+  },
+  {
+    "id": "2006-08-04-scranton",
+    "year": 2006,
+    "date": "2006-08-04",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Toyota Pavilion at Montage Mountain",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-08-05-uniondale",
+    "year": 2006,
+    "date": "2006-08-05",
+    "city": "Uniondale",
+    "state": "NY",
+    "venue": "Nassau Veterans Memorial Coliseum"
+  },
+  {
+    "id": "2006-08-06-englishtown",
+    "year": 2006,
+    "date": "2006-08-06",
+    "city": "Englishtown",
+    "state": "NJ",
+    "venue": "Raceway Park"
+  },
+  {
+    "id": "2006-08-08-charlotte",
+    "year": 2006,
+    "date": "2006-08-08",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre"
+  },
+  {
+    "id": "2006-08-09-virginia-beach",
+    "year": 2006,
+    "date": "2006-08-09",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2006-08-10-bristow",
+    "year": 2006,
+    "date": "2006-08-10",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2006-08-11-cleveland",
+    "year": 2006,
+    "date": "2006-08-11",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Tower City Amphitheater"
+  },
+  {
+    "id": "2006-08-12-barrie",
+    "year": 2006,
+    "date": "2006-08-12",
+    "city": "Barrie",
+    "state": "ON",
+    "venue": "Molson Park"
+  },
+  {
+    "id": "2006-08-13-montreal",
+    "year": 2006,
+    "date": "2006-08-13",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  }
+]

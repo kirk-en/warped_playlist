@@ -1,0 +1,612 @@
+{
+  "stages": [
+    {
+      "id": "lucky",
+      "name": "Lucky Stage"
+    },
+    {
+      "id": "13",
+      "name": "#13 Stage"
+    },
+    {
+      "id": "hurley",
+      "name": "Hurley Stage"
+    },
+    {
+      "id": "hurley-com",
+      "name": "Hurley.com Stage"
+    },
+    {
+      "id": "smartpunk",
+      "name": "Smartpunk Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "skullcandy-mix-tent",
+      "name": "Skullcandy Mix Tent"
+    }
+  ],
+  "sets": [
+    {
+      "id": "lucky-family-force-5",
+      "band": "Family Force 5",
+      "stageId": "lucky",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "lucky-straylight-run",
+      "band": "Straylight Run",
+      "stageId": "lucky",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "lucky-pepper",
+      "band": "Pepper",
+      "stageId": "lucky",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "lucky-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "lucky",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "lucky-tiger-army",
+      "band": "Tiger Army",
+      "stageId": "lucky",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "lucky-pennywise",
+      "band": "Pennywise",
+      "stageId": "lucky",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "lucky-norma-jean",
+      "band": "Norma Jean",
+      "stageId": "lucky",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "lucky-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "lucky",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "lucky-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "lucky",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "13-paramore",
+      "band": "Paramore",
+      "stageId": "13",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "13-scary-kids-scaring-kids",
+      "band": "Scary Kids Scaring Kids",
+      "stageId": "13",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "13-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "13",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "13-circa-survive",
+      "band": "Circa Survive",
+      "stageId": "13",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "13-chiodos",
+      "band": "Chiodos",
+      "stageId": "13",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "13-killswitch-engage",
+      "band": "Killswitch Engage",
+      "stageId": "13",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "13-cute-is-what-we-aim-for",
+      "band": "Cute is What We Aim For",
+      "stageId": "13",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "13-the-red-jumpsuit-apparatus",
+      "band": "The Red Jumpsuit Apparatus",
+      "stageId": "13",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "13-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "13",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "hurley-the-dear-and-departed",
+      "band": "The Dear and Departed",
+      "stageId": "hurley",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "hurley-escape-the-fate",
+      "band": "Escape the Fate",
+      "stageId": "hurley",
+      "startTime": "12:55",
+      "displayTime": "12:55"
+    },
+    {
+      "id": "hurley-the-toasters",
+      "band": "The Toasters",
+      "stageId": "hurley",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "hurley-bayside",
+      "band": "Bayside",
+      "stageId": "hurley",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "hurley-the-spill-canvas",
+      "band": "The Spill Canvas",
+      "stageId": "hurley",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "hurley-amber-pacific",
+      "band": "Amber Pacific",
+      "stageId": "hurley",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "hurley-k-os",
+      "band": "K-os",
+      "stageId": "hurley",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "hurley-gallows",
+      "band": "Gallows",
+      "stageId": "hurley",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "hurley-the-unseen",
+      "band": "The Unseen",
+      "stageId": "hurley",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "hurley-the-almost",
+      "band": "The Almost",
+      "stageId": "hurley",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "hurley-com-the-vincent-black-shadow",
+      "band": "The Vincent Black Shadow",
+      "stageId": "hurley-com",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "hurley-com-the-automatic",
+      "band": "The Automatic",
+      "stageId": "hurley-com",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "hurley-com-all-time-low",
+      "band": "All Time Low",
+      "stageId": "hurley-com",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "hurley-com-anberlin",
+      "band": "Anberlin",
+      "stageId": "hurley-com",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "hurley-com-nothington",
+      "band": "Nothington",
+      "stageId": "hurley-com",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "hurley-com-meg-and-dia",
+      "band": "Meg and Dia",
+      "stageId": "hurley-com",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "hurley-com-big-d-and-the-kids-table",
+      "band": "Big D and the Kids Table",
+      "stageId": "hurley-com",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "hurley-com-parkway-drive",
+      "band": "Parkway Drive",
+      "stageId": "hurley-com",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "hurley-com-the-matches",
+      "band": "The Matches",
+      "stageId": "hurley-com",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "smartpunk-haste-the-day",
+      "band": "Haste the Day",
+      "stageId": "smartpunk",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "smartpunk-the-graduate",
+      "band": "The Graduate",
+      "stageId": "smartpunk",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "smartpunk-alesana",
+      "band": "Alesana",
+      "stageId": "smartpunk",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "smartpunk-boys-like-girls",
+      "band": "Boys Like Girls",
+      "stageId": "smartpunk",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "smartpunk-as-cities-burn",
+      "band": "As Cities Burn",
+      "stageId": "smartpunk",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "smartpunk-the-human-abstract",
+      "band": "The Human Abstract",
+      "stageId": "smartpunk",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "smartpunk-blessthefall",
+      "band": "Blessthefall",
+      "stageId": "smartpunk",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "smartpunk-throw-the-fight",
+      "band": "Throw the Fight",
+      "stageId": "smartpunk",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "smartpunk-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "smartpunk",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "ernie-ball-black-in-the-mind",
+      "band": "Black in the Mind",
+      "stageId": "ernie-ball",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "ernie-ball-the-prospect",
+      "band": "The Prospect",
+      "stageId": "ernie-ball",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "ernie-ball-malison",
+      "band": "Malison",
+      "stageId": "ernie-ball",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "ernie-ball-st-valentines-massacre",
+      "band": "St. Valentines Massacre",
+      "stageId": "ernie-ball",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "ernie-ball-bleed-the-dream",
+      "band": "Bleed the Dream",
+      "stageId": "ernie-ball",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "ernie-ball-scenes-from-a-movie",
+      "band": "Scenes from a Movie",
+      "stageId": "ernie-ball",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "ernie-ball-the-fabulous-rudies",
+      "band": "The Fabulous Rudies",
+      "stageId": "ernie-ball",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "ernie-ball-throwdown",
+      "band": "Throwdown",
+      "stageId": "ernie-ball",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "ernie-ball-my-american-heart",
+      "band": "My American Heart",
+      "stageId": "ernie-ball",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "ernie-ball-evaline",
+      "band": "Evaline",
+      "stageId": "ernie-ball",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "ernie-ball-the-chariot",
+      "band": "The Chariot",
+      "stageId": "ernie-ball",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "ernie-ball-it-dies-today",
+      "band": "It Dies Today",
+      "stageId": "ernie-ball",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "ernie-ball-don-t-die-cindy",
+      "band": "Don't Die Cindy",
+      "stageId": "ernie-ball",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "kevin-says-elysium",
+      "band": "Elysium",
+      "stageId": "kevin-says",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "kevin-says-last-great-hope",
+      "band": "Last Great Hope",
+      "stageId": "kevin-says",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "kevin-says-liam-and-me",
+      "band": "Liam and Me",
+      "stageId": "kevin-says",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "kevin-says-single-file",
+      "band": "Single File",
+      "stageId": "kevin-says",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "kevin-says-the-box-social",
+      "band": "The Box Social",
+      "stageId": "kevin-says",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "kevin-says-the-dangerous-summer",
+      "band": "The Dangerous Summer",
+      "stageId": "kevin-says",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "kevin-says-animo",
+      "band": "Animo",
+      "stageId": "kevin-says",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "kevin-says-the-dead-songwriters",
+      "band": "The Dead Songwriters",
+      "stageId": "kevin-says",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "kevin-says-guajiro",
+      "band": "Guajiro",
+      "stageId": "kevin-says",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "kevin-says-fallen-from-the-sky",
+      "band": "Fallen from the Sky",
+      "stageId": "kevin-says",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "kevin-says-the-urgency",
+      "band": "The Urgency",
+      "stageId": "kevin-says",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "skullcandy-mix-tent-add-verse",
+      "band": "Add.Verse",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "skullcandy-mix-tent-comedy-hour",
+      "band": "Comedy Hour",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "skullcandy-mix-tent-massive-monkees",
+      "band": "Massive Monkees",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "skullcandy-mix-tent-one-be-lo",
+      "band": "One Be Lo",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "skullcandy-mix-tent-simple-complexity",
+      "band": "Simple Complexity",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "skullcandy-mix-tent-cymarshall-law",
+      "band": "Cymarshall Law",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "skullcandy-mix-tent-comedians",
+      "band": "Comedians",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "skullcandy-mix-tent-add-verse-2",
+      "band": "Add.Verse",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "skullcandy-mix-tent-sdc-soundcheck",
+      "band": "SDC Soundcheck",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "skullcandy-mix-tent-massive-monkees-2",
+      "band": "Massive Monkees",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "skullcandy-mix-tent-street-drum-corps",
+      "band": "Street Drum Corps",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "skullcandy-mix-tent-skullcandy-mix",
+      "band": "Skullcandy Mix",
+      "stageId": "skullcandy-mix-tent",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    }
+  ]
+}

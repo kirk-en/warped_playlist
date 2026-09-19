@@ -1,0 +1,413 @@
+[
+  {
+    "id": "2005-06-18-columbus",
+    "year": 2005,
+    "date": "2005-06-18",
+    "city": "Columbus",
+    "state": "OH",
+    "venue": "Germain Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-06-19-milwaukee",
+    "year": 2005,
+    "date": "2005-06-19",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-06-21-maryland-heights",
+    "year": 2005,
+    "date": "2005-06-21",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "UMB Bank Pavilion"
+  },
+  {
+    "id": "2005-06-22-bonner-springs",
+    "year": 2005,
+    "date": "2005-06-22",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-06-24-dallas",
+    "year": 2005,
+    "date": "2005-06-24",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-06-25-houston",
+    "year": 2005,
+    "date": "2005-06-25",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Park"
+  },
+  {
+    "id": "2005-06-26-selma",
+    "year": 2005,
+    "date": "2005-06-26",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-06-28-las-cruces",
+    "year": 2005,
+    "date": "2005-06-28",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field"
+  },
+  {
+    "id": "2005-06-29-peoria",
+    "year": 2005,
+    "date": "2005-06-29",
+    "city": "Peoria",
+    "state": "AZ",
+    "venue": "Peoria Sports Complex"
+  },
+  {
+    "id": "2005-06-30-chula-vista",
+    "year": 2005,
+    "date": "2005-06-30",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheatre"
+  },
+  {
+    "id": "2005-07-01-long-beach",
+    "year": 2005,
+    "date": "2005-07-01",
+    "city": "Long Beach",
+    "state": "CA",
+    "venue": "California State University, Long Beach"
+  },
+  {
+    "id": "2005-07-02-san-francisco",
+    "year": 2005,
+    "date": "2005-07-02",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-03-ventura",
+    "year": 2005,
+    "date": "2005-07-03",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-04-fresno",
+    "year": 2005,
+    "date": "2005-07-04",
+    "city": "Fresno",
+    "state": "CA",
+    "venue": "Save Mart Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-06-pomona",
+    "year": 2005,
+    "date": "2005-07-06",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Fairplex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-07-wheatland",
+    "year": 2005,
+    "date": "2005-07-07",
+    "city": "Wheatland",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2005-07-08-nampa",
+    "year": 2005,
+    "date": "2005-07-08",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-09-george",
+    "year": 2005,
+    "date": "2005-07-09",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge Amphitheatre"
+  },
+  {
+    "id": "2005-07-10-saint-helens",
+    "year": 2005,
+    "date": "2005-07-10",
+    "city": "Saint Helens",
+    "state": "OR",
+    "venue": "Columbia Meadows"
+  },
+  {
+    "id": "2005-07-12-vancouver",
+    "year": 2005,
+    "date": "2005-07-12",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Thunderbird Stadium"
+  },
+  {
+    "id": "2005-07-14-calgary",
+    "year": 2005,
+    "date": "2005-07-14",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Motorsport Park"
+  },
+  {
+    "id": "2005-07-15-bozeman",
+    "year": 2005,
+    "date": "2005-07-15",
+    "city": "Bozeman",
+    "state": "MT",
+    "venue": "Gallatin County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-16-salt-lake-city",
+    "year": 2005,
+    "date": "2005-07-16",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-17-denver",
+    "year": 2005,
+    "date": "2005-07-17",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field"
+  },
+  {
+    "id": "2005-07-20-noblesville",
+    "year": 2005,
+    "date": "2005-07-20",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-21-cleveland",
+    "year": 2005,
+    "date": "2005-07-21",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Tower City Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-22-cincinnati",
+    "year": 2005,
+    "date": "2005-07-22",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-23-tinley-park",
+    "year": 2005,
+    "date": "2005-07-23",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "Tweeter Center"
+  },
+  {
+    "id": "2005-07-24-minneapolis",
+    "year": 2005,
+    "date": "2005-07-24",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "HHH Metrodome Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-26-corfu",
+    "year": 2005,
+    "date": "2005-07-26",
+    "city": "Corfu",
+    "state": "NY",
+    "venue": "Darien Lake",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-28-quebec",
+    "year": 2005,
+    "date": "2005-07-28",
+    "city": "Quebec",
+    "state": "QC",
+    "venue": "Colisée Pepsi",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-07-29-montreal",
+    "year": 2005,
+    "date": "2005-07-29",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Montreal Hippodrome"
+  },
+  {
+    "id": "2005-07-30-barrie",
+    "year": 2005,
+    "date": "2005-07-30",
+    "city": "Barrie",
+    "state": "ON",
+    "venue": "Molson Park"
+  },
+  {
+    "id": "2005-07-31-pontiac",
+    "year": 2005,
+    "date": "2005-07-31",
+    "city": "Pontiac",
+    "state": "MI",
+    "venue": "Pontiac Silverdome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-01-burgettstown",
+    "year": 2005,
+    "date": "2005-08-01",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "Post Gazette Pavilion"
+  },
+  {
+    "id": "2005-08-03-atlanta",
+    "year": 2005,
+    "date": "2005-08-03",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Hi Fi Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-04-jacksonville",
+    "year": 2005,
+    "date": "2005-08-04",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-05-tampa",
+    "year": 2005,
+    "date": "2005-08-05",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "Vinoy Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-06-pompano-beach",
+    "year": 2005,
+    "date": "2005-08-06",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Beach Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-07-orlando",
+    "year": 2005,
+    "date": "2005-08-07",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Tinker Field"
+  },
+  {
+    "id": "2005-08-08-charlotte",
+    "year": 2005,
+    "date": "2005-08-08",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-09-virginia-beach",
+    "year": 2005,
+    "date": "2005-08-09",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "GTE Virginia Beach Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-10-bristow",
+    "year": 2005,
+    "date": "2005-08-10",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion Lot/Meriweather Post"
+  },
+  {
+    "id": "2005-08-11-scranton",
+    "year": 2005,
+    "date": "2005-08-11",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Ford Pavilion at Montage Mountain"
+  },
+  {
+    "id": "2005-08-12-camden",
+    "year": 2005,
+    "date": "2005-08-12",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Tweeter Center at the Waterfront"
+  },
+  {
+    "id": "2005-08-13-new-york-city",
+    "year": 2005,
+    "date": "2005-08-13",
+    "city": "New York City",
+    "state": "NY",
+    "venue": "Randall's Island Park"
+  },
+  {
+    "id": "2005-08-14-englishtown",
+    "year": 2005,
+    "date": "2005-08-14",
+    "city": "Englishtown",
+    "state": "NJ",
+    "venue": "Englishtown Raceway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2005-08-15-northampton",
+    "year": 2005,
+    "date": "2005-08-15",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Three County Fairgrounds",
+    "note": "Set times are not known for this date."
+  }
+]
