@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2008-07-30-cincinnati",
+    "year": 2008,
+    "date": "2008-07-30",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2008-07-31-noblesville",
+    "year": 2008,
+    "date": "2008-07-31",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center"
+  }
+]

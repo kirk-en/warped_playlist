@@ -12,13 +12,19 @@
   --grid-white: #fafaf5;
   --rule: #222;
   /* The panels butt straight up against the bolster's inner edge, with no page
-     showing through. Keep in step with BoardFrame's TUBE (50) and RADIUS (56):
-     the inset is TUBE, and the matching corner radius is RADIUS - TUBE / 2. */
+     showing through. Keep in step with BoardFrame: the inset is TUBE (50) on
+     three sides and BOTTOM_TUBE (76) along the fatter bottom rail. The matching
+     corner radius is RADIUS + TUBE / 2 - inset, so 31 at the top and 5 at the
+     bottom, where the rail has eaten most of the curve. */
   --inner-inset: 50px;
+  --inner-inset-bottom: 76px;
   --inner-radius: 31px;
+  --inner-radius-bottom: 5px;
 
   position: absolute;
-  inset: 24px;
+  /* The bottom inset is overridable so the board can stand on the road cases
+     instead of running to the foot of the page. */
+  inset: 24px 24px var(--board-bottom, 24px) 24px;
   perspective: 1900px;
   perspective-origin: 50% 42%;
 }
@@ -53,11 +59,18 @@
 
 .board-inner {
   position: absolute;
-  inset: var(--inner-inset);
+  inset: var(--inner-inset) var(--inner-inset) var(--inner-inset-bottom);
   display: grid;
-  grid-template-rows: 18% 55% 27%;
-  border-radius: var(--inner-radius);
+  /* The brief's 55% grid share assumed a full-height board and two stages. With
+     nine stages and the board standing on the road cases, two-line band names
+     clipped, so the empty footer gives some of its height back. */
+  grid-template-rows: 18% 74% 8%;
+  border-radius: var(--inner-radius) var(--inner-radius) var(--inner-radius-bottom)
+    var(--inner-radius-bottom);
   overflow: hidden;
+  /* Transparent: the board's yellow is painted in the frame SVG, where it can
+     follow the wrinkle and the thickened rail. This is just the layout box for
+     what sits on top of it. */
 }
 
 /* Occlusion cast by the tube onto the panels. It lives on an overlay rather than
@@ -81,22 +94,13 @@
   min-width: 0;
 }
 
-/* Each panel bows outward a little: a soft highlight up near the light, falling
-   away to a warm shade at the bottom right. */
-.board-panel--header,
-.board-panel--footer {
-  background-color: var(--panel-yellow);
-  background-image:
-    radial-gradient(130% 100% at 32% 10%, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0) 62%),
-    linear-gradient(168deg, rgba(255, 255, 255, 0.24), rgba(0, 0, 0, 0) 42%, rgba(122, 70, 0, 0.17));
-}
-
 /* Header ------------------------------------------------------------------ */
 
 /* Definite rows: the logo row must have a resolved height, otherwise a percentage
    height on the gif has nothing to resolve against and it overflows onto the
    stage labels. */
 .board-panel--header {
+  container-type: inline-size;
   display: grid;
   grid-template-rows: minmax(0, 1fr) auto;
   padding-top: 4px;
@@ -129,7 +133,7 @@
   padding: 0 3px;
   font-family: var(--font-printed);
   font-weight: 700;
-  font-size: clamp(8px, 1.05vh, 15px);
+  font-size: max(9px, min(1.05cqw, 1.9vh));
   letter-spacing: 0.02em;
   line-height: 1.05;
   color: #1a1a1a;
@@ -141,7 +145,9 @@
 
 /* The white sheet reads as a separate welded panel, sitting slightly recessed
    between the two yellow ones. */
+/* A size container so the grid's type can be sized from the panel itself. */
 .board-panel--grid {
+  container-type: size;
   background-color: var(--grid-white);
   background-image:
     radial-gradient(120% 90% at 30% 8%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0) 60%),
@@ -154,8 +160,12 @@
 .schedule-grid {
   /* Widths of the printed hour and the written-in minutes, shared by the grid
      cells and the Time/Band header so the columns line up. */
-  --hour-w: 1.5em;
-  --min-w: 1.5em;
+  /* One size drives every piece of type in the grid, so the columns line up and
+     nothing outgrows its cell: the smaller of what the column width and what the
+     row height allow. Read from the grid panel, which is a size container. */
+  --slot-font: max(8px, min(1.05cqw, 2.5cqh));
+  --hour-w: calc(var(--slot-font) * 1.4);
+  --min-w: calc(var(--slot-font) * 1.4);
 
   height: 100%;
   display: grid;
@@ -180,7 +190,7 @@
   border-bottom: 1px solid var(--rule);
   font-family: var(--font-printed);
   font-weight: 600;
-  font-size: clamp(6px, 0.68vh, 10px);
+  font-size: calc(var(--slot-font) * 0.72);
   letter-spacing: 0.04em;
   line-height: 1;
   text-transform: lowercase;
@@ -211,7 +221,7 @@
   text-align: right;
   padding-right: 2px;
   font-weight: 600;
-  font-size: clamp(7px, 0.92vh, 13px);
+  font-size: calc(var(--slot-font) * 0.95);
   font-variant-numeric: tabular-nums;
   color: #4a453e;
 }
@@ -242,7 +252,7 @@
   min-width: 0;
   min-height: 0;
   margin: 0 0 var(--slot-lift) 0;
-  padding: 2px 3px;
+  padding: 1px 3px;
   overflow: hidden;
   border: 1px solid rgba(70, 64, 52, 0.5);
   border-radius: 3px;
@@ -263,7 +273,7 @@
 .slot__min {
   text-align: center;
   font-weight: 600;
-  font-size: clamp(7px, 0.9vh, 13px);
+  font-size: var(--slot-font);
   font-variant-numeric: tabular-nums;
   color: #2f2b25;
 }
@@ -272,8 +282,8 @@
   min-width: 0;
   overflow: hidden;
   font-weight: 600;
-  font-size: clamp(8px, 1.02vh, 15px);
-  line-height: 1.18;
+  font-size: var(--slot-font);
+  line-height: 1.1;
   letter-spacing: 0.005em;
 }
 
@@ -298,6 +308,32 @@
   background-image: linear-gradient(180deg, #f2efe4 0%, #e9e5d8 100%);
 }
 
+/* Chosen for the day: stays pressed in, tinted so it reads as "yours". */
+.slot.is-picked {
+  --slot-lift: 1px;
+  --slot-edge: #b0892a;
+  transform: translateY(2px);
+  background-image: linear-gradient(180deg, #ffe98a 0%, #f5d451 100%);
+}
+
+/* Clashes with a chosen set: greyed out and flat, but still legible and clickable. */
+.slot.is-blocked {
+  --slot-lift: 1px;
+  --slot-edge: #8b8b8b;
+  transform: translateY(2px);
+  background-image: linear-gradient(180deg, #cfcfcf 0%, #bdbdbd 100%);
+  color: #6f6f6f;
+  opacity: 0.6;
+}
+
+.slot.is-blocked:not(:disabled):hover {
+  opacity: 0.85;
+}
+
+.slot.is-blocked .slot__min {
+  color: inherit;
+}
+
 .slot:focus-visible {
   outline: 2px solid var(--frame-red);
   outline-offset: 1px;
@@ -311,5 +347,6 @@
 
 /* Footer ------------------------------------------------------------------ */
 
-/* Intentionally empty: footer artwork comes later. It shares the header's
-   panel shading, declared above. */
+/* Intentionally empty: footer artwork comes later. Like the header, it is a
+   transparent container — the yellow behind both is the board's own skin, so it
+   is present throughout the inflation rather than fading in with the panels. */

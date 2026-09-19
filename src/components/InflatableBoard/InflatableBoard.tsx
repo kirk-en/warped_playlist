@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import type { CSSProperties } from 'react';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
@@ -8,11 +8,15 @@ import '@fontsource/barlow-semi-condensed/700.css';
 import BoardFrame, { TUBE } from './BoardFrame';
 import type { BoardFrameHandle } from './BoardFrame';
 import { ScheduleGrid, StageLabels } from './ScheduleGrid';
+import { blockedIds, overlaps } from './scheduleSelection';
 import logo2008 from '../../assets/warped_tour_2008_logo.gif';
-import type { SetTime, Stage } from '../../data/mockSchedule2008';
+import type { SetTime, Stage } from '../../data/schedule';
 import './InflatableBoard.css';
 
 gsap.registerPlugin(useGSAP);
+
+/** Peak idle deflection at the top of the board, in degrees. */
+const SWAY_DEG = 0.2;
 
 type InflatableBoardProps = {
   stages: Stage[];
@@ -37,13 +41,11 @@ export default function InflatableBoard({
       const frame = frameRef.current;
       if (!board || !frame) return;
 
-      const panels = gsap.utils.toArray<HTMLElement>('.board-panel', board);
+      // The yellow skin lives in the frame SVG and is up from the first frame;
+      // what fades in here is everything printed on top of it.
+      const printed = gsap.utils.toArray<HTMLElement>('.board-inner', board);
       const headerFooter = gsap.utils.toArray<HTMLElement>(
         '.board-panel--header, .board-panel--footer',
-        board,
-      );
-      const gridPanel = gsap.utils.toArray<HTMLElement>(
-        '.board-panel--grid',
         board,
       );
       const cells = gsap.utils.toArray<HTMLElement>('.hour-cell', board);
@@ -63,17 +65,24 @@ export default function InflatableBoard({
       // created later, from the timeline's onComplete.
       const scoped = contextSafe ?? ((fn: () => void) => fn);
       const startIdle = scoped(() => {
+        // Anchored at the base, like an inflatable pegged to the ground: both
+        // parts pivot about the bottom edge, so displacement is nil down there
+        // and greatest at the top. Splitting the same total deflection between a
+        // rotation and a shear, with the shear running a beat behind, makes the
+        // top lag and catch up rather than swinging as one rigid slab.
+        const sway = { rotate: SWAY_DEG * 0.55, skew: SWAY_DEG * 0.45 };
+        const cycle = {
+          duration: 2,
+          ease: 'sine.inOut',
+          yoyo: true,
+          repeat: -1,
+          transformOrigin: 'bottom center',
+        } as const;
+        gsap.fromTo(board, { rotation: -sway.rotate }, { rotation: sway.rotate, ...cycle });
         gsap.fromTo(
           board,
-          { rotation: -0.2 },
-          {
-            rotation: 0.2,
-            duration: 2,
-            ease: 'sine.inOut',
-            yoyo: true,
-            repeat: -1,
-            transformOrigin: 'bottom center',
-          },
+          { skewX: -sway.skew },
+          { skewX: sway.skew, ...cycle, delay: 0.34 },
         );
       });
 
@@ -95,7 +104,8 @@ export default function InflatableBoard({
           rotation: 0,
           transformOrigin: 'bottom center',
         });
-        gsap.set(panels, { autoAlpha: 1, scaleY: 1 });
+        gsap.set(printed, { autoAlpha: 1 });
+        gsap.set(headerFooter, { scaleY: 1 });
         gsap.set(cells, { autoAlpha: 1, y: 0 });
         setInflated(true);
         return;
@@ -117,7 +127,7 @@ export default function InflatableBoard({
         skewX: -6,
         rotation: -1.2,
       })
-        .set(panels, { autoAlpha: 0 })
+        .set(printed, { autoAlpha: 0 })
         // Only the header and footer stretch in; the grid panel just fades.
         .set(headerFooter, { scaleY: 0.9, transformOrigin: 'center center' })
         .set(cells, { autoAlpha: 0, y: 6 })
@@ -155,7 +165,7 @@ export default function InflatableBoard({
           { autoAlpha: 1, scaleY: 1, duration: 0.5, ease: 'power2.out' },
           1.4,
         )
-        .to(gridPanel, { autoAlpha: 1, duration: 0.4, ease: 'power1.out' }, 1.4)
+        .to(printed, { autoAlpha: 1, duration: 0.4, ease: 'power1.out' }, 1.4)
         // Band names get posted stage column by stage column. The brief's 0.04s step
         // assumed two stages; with nine it would run the grid phase past its 1.7-2.2s
         // window, so the step is scaled to land the last column on 2.2s.
@@ -175,8 +185,22 @@ export default function InflatableBoard({
     { scope: rootRef, dependencies: [replaySignal], revertOnUpdate: true },
   );
 
+  // Clicking a set adds it to the day; clicking it again removes it. Sets that
+  // overlap a chosen one are greyed out as a guide. Clicking a greyed set swaps it
+  // in, dropping whichever picks it clashed with.
+  const [pickedIds, setPickedIds] = useState<string[]>([]);
+  const picked = useMemo(
+    () => sets.filter((set) => pickedIds.includes(set.id)),
+    [sets, pickedIds],
+  );
+  const blocked = useMemo(() => blockedIds(sets, picked), [sets, picked]);
+
   const handlePick = (set: SetTime) => {
-    console.log('[schedule] pick', set);
+    setPickedIds((ids) => {
+      if (ids.includes(set.id)) return ids.filter((id) => id !== set.id);
+      const kept = sets.filter((s) => ids.includes(s.id) && !overlaps(s, set));
+      return [...kept.map((s) => s.id), set.id];
+    });
   };
 
   return (
@@ -206,6 +230,8 @@ export default function InflatableBoard({
                 stages={stages}
                 sets={sets}
                 interactive={inflated}
+                pickedIds={pickedIds}
+                blocked={blocked}
                 onPick={handlePick}
               />
             </div>

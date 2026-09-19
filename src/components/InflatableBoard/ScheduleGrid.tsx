@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 import type { CSSProperties } from 'react';
-import type { SetTime, Stage } from '../../data/mockSchedule2008';
+import type { SetTime, Stage } from '../../data/schedule';
 
 type StageLabelsProps = {
   stages: Stage[];
@@ -32,6 +32,10 @@ type ScheduleGridProps = {
   sets: SetTime[];
   /** False until the inflation timeline finishes; slots are inert before then. */
   interactive: boolean;
+  /** Ids of the sets the user has chosen. */
+  pickedIds: string[];
+  /** Ids of sets that overlap a chosen one; greyed out, but clicking swaps them in. */
+  blocked: Set<string>;
   onPick: (set: SetTime) => void;
 };
 
@@ -42,7 +46,14 @@ type ScheduleGridProps = {
  * runs two sets inside one hour they stack, and that hour's row is given extra
  * height so the rows still read as aligned.
  */
-export function ScheduleGrid({ stages, sets, interactive, onPick }: ScheduleGridProps) {
+export function ScheduleGrid({
+  stages,
+  sets,
+  interactive,
+  pickedIds,
+  blocked,
+  onPick,
+}: ScheduleGridProps) {
   const byStageHour = stages.map((stage) => {
     const hours = new Map<number, SetTime[]>();
     for (const set of sets) {
@@ -95,18 +106,23 @@ export function ScheduleGrid({ stages, sets, interactive, onPick }: ScheduleGrid
               <div className="hour-cell" data-stage={stageIndex}>
                 <span className="hour-cell__hour">{hourLabel(hour)}:</span>
                 <span className="hour-cell__slots">
-                  {slots.map((set) => (
+                  {slots.map((set) => {
+                    const isPicked = pickedIds.includes(set.id);
+                    const isBlocked = blocked.has(set.id);
+                    return (
                     <button
                       key={set.id}
                       type="button"
-                      className="slot"
+                      className={`slot${isPicked ? ' is-picked' : ''}${isBlocked ? ' is-blocked' : ''}`}
                       disabled={!interactive}
+                      aria-pressed={isPicked}
                       onClick={() => onPick(set)}
                     >
                       <span className="slot__min">{minutesOf(set.startTime)}</span>
                       <span className="slot__band">{set.band}</span>
                     </button>
-                  ))}
+                    );
+                  })}
                 </span>
               </div>
             </Fragment>

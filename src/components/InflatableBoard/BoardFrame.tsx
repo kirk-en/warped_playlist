@@ -9,7 +9,22 @@ import {
 
 /** Tube thickness and corner radius stay constant in px at every board size. */
 export const TUBE = 50;
+/** The bottom rail is a fatter bolster, as on the real boards. */
+export const BOTTOM_TUBE = 76;
 const RADIUS = 56;
+/** Height fraction at which the tube starts thickening toward the bottom rail. */
+const BOTTOM_START = 0.84;
+
+/**
+ * How much thicker the tube is at this height. 1 everywhere except the bottom
+ * corners and rail, where it eases up to the bolster's full thickness.
+ */
+function bottomEase(y: number, h: number, peak: number): number {
+  const t = h > 0 ? y / h : 0;
+  if (t <= BOTTOM_START) return 1;
+  const u = (t - BOTTOM_START) / (1 - BOTTOM_START);
+  return 1 + (peak - 1) * (u * u * (3 - 2 * u));
+}
 
 export type FrameState = {
   /** Wrinkle amplitude in px. 0 = smooth rounded rectangle. */
@@ -22,8 +37,11 @@ export type BoardFrameHandle = {
   setFrameState: (state: FrameState) => void;
 };
 
-type Pt = { x: number; y: number; nx: number; ny: number };
-type Seg = { len: number; at: (u: number) => Pt };
+/** A point on the tube's outer edge, with its outward normal. */
+type OutlinePt = { x: number; y: number; nx: number; ny: number };
+type Seg = { len: number; at: (u: number) => OutlinePt };
+/** An outline point carrying the local thickness multiplier. */
+type Pt = OutlinePt & { m: number };
 
 /** The rounded-rect outline as eight length-parameterised segments with outward normals. */
 function segments(w: number, h: number, inset: number, radius: number): Seg[] {
@@ -91,33 +109,24 @@ function catmullRomClosed(pts: { x: number; y: number }[]): string {
   return `${d} Z`;
 }
 
-function exactPath(w: number, h: number, inset: number, radius: number): string {
-  const x1 = inset;
-  const y1 = inset;
-  const x2 = w - inset;
-  const y2 = h - inset;
-  const r = Math.max(0, Math.min(radius, (x2 - x1) / 2, (y2 - y1) / 2));
-  return (
-    `M ${x1 + r} ${y1} L ${x2 - r} ${y1} A ${r} ${r} 0 0 1 ${x2} ${y1 + r}` +
-    ` L ${x2} ${y2 - r} A ${r} ${r} 0 0 1 ${x2 - r} ${y2}` +
-    ` L ${x1 + r} ${y2} A ${r} ${r} 0 0 1 ${x1} ${y2 - r}` +
-    ` L ${x1} ${y1 + r} A ${r} ${r} 0 0 1 ${x1 + r} ${y1} Z`
-  );
-}
 
 /**
- * Sample the wrinkled centreline once per frame, keeping each point's outward
- * normal. Every tube layer is a concentric offset of these same points, so the
- * expensive sampling happens once no matter how many layers are stacked.
+ * Sample the tube's OUTER edge once per frame, keeping each point's outward
+ * normal and its local thickness multiplier. Every band is then a displacement
+ * of these same points, so the sampling cost does not scale with the layer count.
  */
-function samplePoints(w: number, h: number, inset: number, radius: number, amp: number): Pt[] {
-  const segs = segments(w, h, inset, radius);
+function samplePoints(
+  w: number,
+  h: number,
+  radius: number,
+  amp: number,
+  peak: number,
+  count: number,
+): Pt[] {
+  const segs = segments(w, h, 0, radius);
   const total = segs.reduce((sum, seg) => sum + seg.len, 0);
   if (total <= 0) return [];
 
-  // Every band rebuilds its own path each tick, so the point count is the cost
-  // driver; this is ample while the frame is crumpled and animating.
-  const count = Math.min(260, Math.max(96, Math.round(total / 18)));
   const pts: Pt[] = [];
   for (let i = 0; i < count; i++) {
     const t = i / count;
@@ -130,22 +139,37 @@ function samplePoints(w: number, h: number, inset: number, radius: number, amp: 
     const seg = segs[si];
     const p = seg.at(seg.len > 0 ? s / seg.len : 0);
     const d = amp * wrinkle(t);
-    pts.push({ x: p.x + p.nx * d, y: p.y + p.ny * d, nx: p.nx, ny: p.ny });
+    const y = p.y + p.ny * d;
+    pts.push({ x: p.x + p.nx * d, y, nx: p.nx, ny: p.ny, m: bottomEase(y, h, peak) });
   }
   return pts;
 }
 
 /**
- * A rounded rectangle offset inward by k along its outward normal is exactly the
- * rounded rectangle at inset+k with radius-k, so concentric layers are a cheap
- * displacement of the sampled points rather than a fresh sampling pass.
+ * Push every point inward along its normal. `scaled` is a depth in px at nominal
+ * thickness and follows the local thickening; `flat` is a constant px offset that
+ * does not, which is how a band's own stroke half-width is accounted for.
  */
-function offsetPath(pts: Pt[], k: number): string {
+function depthPath(pts: Pt[], scaled: number, flat = 0): string {
   if (pts.length === 0) return '';
-  return catmullRomClosed(pts.map((p) => ({ x: p.x - p.nx * k, y: p.y - p.ny * k })));
+  return catmullRomClosed(
+    pts.map((p) => {
+      const k = scaled * p.m + flat;
+      return { x: p.x - p.nx * k, y: p.y - p.ny * k };
+    }),
+  );
 }
 
-type Layer = {
+/**
+ * A band of the colour ramp. It is anchored by its OUTER edge depth, so that
+ * edge lands correctly however thick the tube is at that point; the stroke is
+ * then made generously wide and whatever it overshoots inward is painted over
+ * by the next band in.
+ */
+type Band = { outer: number; span: number; stroke: string };
+
+/** A decorative stroke laid over the ramp, positioned by its centre. */
+type Overlay = {
   offset: number;
   width: number;
   stroke: string;
@@ -193,22 +217,16 @@ function sampleProfile(t: number): string {
   return mix(c0, c1, k);
 }
 
-/**
- * Concentric bands across the tube, painted outer to inner. Each is slightly
- * wider than its slice so it covers its predecessor's seam. `offset` and `width`
- * are fractions of the tube thickness; positive offset moves a band inward.
- */
-const LAYERS: Layer[] = [
-  ...Array.from({ length: BANDS }, (_unused, i): Layer => {
-    const a = i / BANDS;
-    const b = (i + 1) / BANDS;
-    const centre = (a + b) / 2;
-    return {
-      offset: centre - 0.5,
-      width: b - a + 0.03,
-      stroke: sampleProfile(centre),
-    };
-  }),
+/** The ramp, outer edge to panel edge, as fractions of the nominal thickness. */
+const RAMP: Band[] = Array.from({ length: BANDS }, (_unused, i): Band => {
+  const a = i / BANDS;
+  const b = (i + 1) / BANDS;
+  // The last band runs long so the tube's inner edge is always fully covered;
+  // the panels sit on top of it.
+  return { outer: a, span: (i === BANDS - 1 ? 1.12 : b) - a, stroke: sampleProfile((a + b) / 2) };
+});
+
+const OVERLAYS: Overlay[] = [
   // A sheen along the crest, upper edges only. Kept soft: a hot white line reads
   // as chrome rather than vinyl.
   {
@@ -229,9 +247,12 @@ const LAYERS: Layer[] = [
   { offset: 0.48, width: 0.035, stroke: '#4A0707', opacity: 0.6 },
 ];
 
+const LAYER_COUNT = RAMP.length + OVERLAYS.length;
+
 const BoardFrame = forwardRef<BoardFrameHandle>(function BoardFrame(_props, ref) {
   const hostRef = useRef<HTMLDivElement>(null);
   const shadowRef = useRef<SVGPathElement>(null);
+  const skinRef = useRef<SVGPathElement>(null);
   const maskRef = useRef<SVGPathElement>(null);
   const layerRefs = useRef<(SVGPathElement | null)[]>([]);
 
@@ -246,24 +267,47 @@ const BoardFrame = forwardRef<BoardFrameHandle>(function BoardFrame(_props, ref)
 
     const half = stroke / 2;
     const wrinkled = amp >= 0.05;
-    // One sampling pass feeds every layer while the frame is still crumpled; at
-    // rest each layer emits exact arcs so the corner radius stays geometrically true.
-    const pts = wrinkled ? samplePoints(w, h, half, RADIUS, amp) : [];
-    const pathAt = (k: number) =>
-      wrinkled ? offsetPath(pts, k) : exactPath(w, h, half + k, Math.max(2, RADIUS - k));
+    // The bolster fattens as the board inflates, so the bottom rail grows into
+    // its extra thickness rather than popping to it when the timeline ends.
+    const peak = 1 + (BOTTOM_TUBE / TUBE - 1) * Math.min(1, stroke / TUBE);
 
-    LAYERS.forEach((layer, i) => {
+    const segs = segments(w, h, 0, RADIUS + half);
+    const perimeter = segs.reduce((sum, seg) => sum + seg.len, 0);
+    // At rest this runs once per resize, so it can afford to be accurate; while
+    // the wrinkle animates, the point count is the per-frame cost driver.
+    const count = wrinkled
+      ? Math.min(200, Math.max(96, Math.round(perimeter / 18)))
+      : Math.min(640, Math.max(200, Math.round(perimeter / 7)));
+    const pts = samplePoints(w, h, RADIUS + half, amp, peak, count);
+
+    RAMP.forEach((band, i) => {
       const el = layerRefs.current[i];
       if (!el) return;
-      el.setAttribute('d', pathAt(layer.offset * stroke));
-      el.setAttribute('stroke-width', String(layer.width * stroke));
+      // Generous enough to reach the next band even where the tube is thickest.
+      const width = band.span * stroke * peak + 1.5;
+      el.setAttribute('d', depthPath(pts, band.outer * stroke, width / 2));
+      el.setAttribute('stroke-width', String(width));
     });
 
-    const silhouette = pathAt(0);
+    OVERLAYS.forEach((overlay, i) => {
+      const el = layerRefs.current[RAMP.length + i];
+      if (!el) return;
+      el.setAttribute('d', depthPath(pts, (0.5 + overlay.offset) * stroke));
+      el.setAttribute('stroke-width', String(overlay.width * stroke));
+    });
+
+    // Filled rather than stroked: with the thickness varying there is no single
+    // stroke width that traces the ring, and the board is opaque anyway.
+    const silhouette = depthPath(pts, 0);
     for (const el of [shadowRef.current, maskRef.current]) {
-      if (!el) continue;
-      el.setAttribute('d', silhouette);
-      el.setAttribute('stroke-width', String(stroke));
+      if (el) el.setAttribute('d', silhouette);
+    }
+
+    // The vinyl skin runs to just under the tube's inner edge, so it tracks the
+    // wrinkle and the thickening rail instead of being a rectangle that pokes
+    // out of a crumpled frame.
+    if (skinRef.current) {
+      skinRef.current.setAttribute('d', depthPath(pts, 0.92 * stroke));
     }
   }, []);
 
@@ -323,6 +367,12 @@ const BoardFrame = forwardRef<BoardFrameHandle>(function BoardFrame(_props, ref)
             <stop offset="0.5" stopColor="#000" />
             <stop offset="1" stopColor="#fff" stopOpacity="0.85" />
           </linearGradient>
+          {/* The board's own yellow, bowing toward the light. */}
+          <linearGradient id="board-skin-bow" x1="0.28" y1="0" x2="0.78" y2="1">
+            <stop offset="0" stopColor="#FFE873" />
+            <stop offset="0.42" stopColor="#FFD60A" />
+            <stop offset="1" stopColor="#E0AC06" />
+          </linearGradient>
           {/* Overall form: light falling from the upper left across the whole tube. */}
           <linearGradient id="board-dir-grad" x1="0" y1="0" x2="0.85" y2="1">
             <stop offset="0" stopColor="#fff" stopOpacity="0.17" />
@@ -359,27 +409,32 @@ const BoardFrame = forwardRef<BoardFrameHandle>(function BoardFrame(_props, ref)
             width={size.w}
             height={size.h}
           >
-            <path ref={maskRef} fill="none" stroke="#fff" strokeLinejoin="round" />
+            <path ref={maskRef} fill="#fff" stroke="none" />
           </mask>
         </defs>
 
         <g transform="translate(2 14)" filter="url(#board-frame-shadow)" opacity="0.4">
-          <path ref={shadowRef} fill="none" stroke="#0E2338" strokeLinejoin="round" />
+          <path ref={shadowRef} fill="#0E2338" stroke="none" />
         </g>
 
-        {LAYERS.map((layer, i) => (
-          <path
-            key={i}
-            ref={(el) => {
-              layerRefs.current[i] = el;
-            }}
-            fill="none"
-            stroke={layer.stroke}
-            strokeLinejoin="round"
-            opacity={layer.opacity}
-            mask={layer.mask ? `url(#${layer.mask})` : undefined}
-          />
-        ))}
+        <path ref={skinRef} fill="url(#board-skin-bow)" stroke="none" />
+
+        {Array.from({ length: LAYER_COUNT }, (_unused, i) => {
+          const overlay = i >= RAMP.length ? OVERLAYS[i - RAMP.length] : undefined;
+          return (
+            <path
+              key={i}
+              ref={(el) => {
+                layerRefs.current[i] = el;
+              }}
+              fill="none"
+              stroke={overlay ? overlay.stroke : RAMP[i].stroke}
+              strokeLinejoin="round"
+              opacity={overlay?.opacity}
+              mask={overlay?.mask ? `url(#${overlay.mask})` : undefined}
+            />
+          );
+        })}
 
         <rect
           width={size.w}
