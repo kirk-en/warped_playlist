@@ -1,0 +1,211 @@
+{
+  "stages": [
+    {
+      "id": "pop-up",
+      "name": "Pop Up Stage"
+    },
+    {
+      "id": "flatbed",
+      "name": "Flatbed Stage"
+    },
+    {
+      "id": "surf",
+      "name": "Surf Stage"
+    },
+    {
+      "id": "local",
+      "name": "Local Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "pop-up-limp-bizkit",
+      "band": "Limp Bizkit",
+      "stageId": "pop-up",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "pop-up-blink-182",
+      "band": "Blink-182",
+      "stageId": "pop-up",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "pop-up-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "pop-up",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "pop-up-pennywise",
+      "band": "Pennywise",
+      "stageId": "pop-up",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "pop-up-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "pop-up",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "pop-up-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "pop-up",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "flatbed-the-get-up-kids",
+      "band": "The Get Up Kids",
+      "stageId": "flatbed",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "flatbed-millencolin",
+      "band": "Millencolin",
+      "stageId": "flatbed",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "flatbed-hepcat",
+      "band": "Hepcat",
+      "stageId": "flatbed",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "flatbed-the-vandals",
+      "band": "The Vandals",
+      "stageId": "flatbed",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "flatbed-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "flatbed",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "flatbed-descendents",
+      "band": "Descendents",
+      "stageId": "flatbed",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "flatbed-22-jacks",
+      "band": "22 Jacks",
+      "stageId": "flatbed",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    },
+    {
+      "id": "surf-cellophane-solution",
+      "band": "Cellophane Solution",
+      "stageId": "surf",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "surf-lo-presher",
+      "band": "Lo Presher",
+      "stageId": "surf",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "surf-98-mute",
+      "band": "98 Mute",
+      "stageId": "surf",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "surf-sunchild",
+      "band": "Sunchild",
+      "stageId": "surf",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "surf-weston",
+      "band": "Weston",
+      "stageId": "surf",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "surf-el-centro",
+      "band": "El Centro",
+      "stageId": "surf",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "surf-sugar-ray",
+      "band": "Sugar Ray",
+      "stageId": "surf",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "local-level",
+      "band": "Level",
+      "stageId": "local",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "local-o-phil",
+      "band": "O'Phil",
+      "stageId": "local",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "local-the-gadjits",
+      "band": "The Gadjits",
+      "stageId": "local",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "local-norman",
+      "band": "Norman",
+      "stageId": "local",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "local-speed-dog-champion",
+      "band": "Speed Dog Champion",
+      "stageId": "local",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "local-naked-aggression",
+      "band": "Naked Aggression",
+      "stageId": "local",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "local-buck-o-nine",
+      "band": "Buck-O-Nine",
+      "stageId": "local",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    }
+  ]
+}

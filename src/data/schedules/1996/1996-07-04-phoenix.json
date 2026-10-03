@@ -1,0 +1,112 @@
+{
+  "stages": [
+    {
+      "id": "north",
+      "name": "North Stage"
+    },
+    {
+      "id": "south",
+      "name": "South Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "north-blink-182",
+      "band": "Blink-182",
+      "stageId": "north",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "north-deftones",
+      "band": "Deftones",
+      "stageId": "north",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "north-civ",
+      "band": "CIV",
+      "stageId": "north",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "north-jalopy",
+      "band": "Jalopy",
+      "stageId": "north",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "north-nofx",
+      "band": "NOFX",
+      "stageId": "north",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "north-pennywise",
+      "band": "Pennywise",
+      "stageId": "north",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "north-fishbone",
+      "band": "Fishbone",
+      "stageId": "north",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "south-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "south",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "south-red-5",
+      "band": "Red 5",
+      "stageId": "south",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "south-unwritten-law",
+      "band": "Unwritten Law",
+      "stageId": "south",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "south-fluf",
+      "band": "Fluf",
+      "stageId": "south",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "south-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "south",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "south-dance-hall-crashers",
+      "band": "Dance Hall Crashers",
+      "stageId": "south",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "south-rocket-from-the-crypt",
+      "band": "Rocket from the Crypt",
+      "stageId": "south",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    }
+  ]
+}

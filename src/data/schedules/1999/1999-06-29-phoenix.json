@@ -1,0 +1,239 @@
+{
+  "stages": [
+    {
+      "id": "greg",
+      "name": "Greg Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "gary",
+      "name": "Gary Stage"
+    },
+    {
+      "id": "local",
+      "name": "Local Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "greg-the-hippos",
+      "band": "The Hippos",
+      "stageId": "greg",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "greg-fenix-tx",
+      "band": "Fenix TX",
+      "stageId": "greg",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "greg-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "greg",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "greg-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "greg",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "greg-pennywise",
+      "band": "Pennywise",
+      "stageId": "greg",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "greg-blink-182",
+      "band": "Blink-182",
+      "stageId": "greg",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "greg-the-vandals",
+      "band": "The Vandals",
+      "stageId": "greg",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "greg-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "greg",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "brian-h-blockx",
+      "band": "H-BLOCKX",
+      "stageId": "brian",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "brian-lit",
+      "band": "Lit",
+      "stageId": "brian",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "brian-eminem",
+      "band": "Eminem",
+      "stageId": "brian",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "brian-black-eyed-peas",
+      "band": "Black Eyed Peas",
+      "stageId": "brian",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "brian-ice-t",
+      "band": "Ice T",
+      "stageId": "brian",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "brian-sevendust",
+      "band": "Sevendust",
+      "stageId": "brian",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "brian-suicidal-tendencies",
+      "band": "Suicidal Tendencies",
+      "stageId": "brian",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "brian-grinspoon",
+      "band": "Grinspoon",
+      "stageId": "brian",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "gary-deviates",
+      "band": "Deviates",
+      "stageId": "gary",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "gary-the-porkers",
+      "band": "The Porkers",
+      "stageId": "gary",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "gary-jimmy-eat-world",
+      "band": "Jimmy Eat World",
+      "stageId": "gary",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "gary-all-systems-go",
+      "band": "All Systems Go",
+      "stageId": "gary",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "gary-zebrahead",
+      "band": "Zebrahead",
+      "stageId": "gary",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "gary-leatherface",
+      "band": "Leatherface",
+      "stageId": "gary",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "gary-the-amazing-crowns",
+      "band": "The Amazing Crowns",
+      "stageId": "gary",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "gary-anxiety",
+      "band": "Anxiety",
+      "stageId": "gary",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "local-5-on-1",
+      "band": "5 on 1",
+      "stageId": "local",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "local-size-5",
+      "band": "Size 5",
+      "stageId": "local",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "local-tollerance",
+      "band": "Tollerance",
+      "stageId": "local",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "local-dislocated-styles",
+      "band": "Dislocated Styles",
+      "stageId": "local",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "local-pollen",
+      "band": "Pollen",
+      "stageId": "local",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "local-sloth",
+      "band": "Sloth",
+      "stageId": "local",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "local-el-centro",
+      "band": "El Centro",
+      "stageId": "local",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    }
+  ]
+}

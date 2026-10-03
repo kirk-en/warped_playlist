@@ -1,0 +1,253 @@
+{
+  "stages": [
+    {
+      "id": "stewart",
+      "name": "Stewart Stage"
+    },
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "oakie",
+      "name": "Oakie Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "stewart-the-smooths",
+      "band": "The Smooths",
+      "stageId": "stewart",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "stewart-mxpx",
+      "band": "MxPx",
+      "stageId": "stewart",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "stewart-all",
+      "band": "ALL",
+      "stageId": "stewart",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "stewart-snapcase",
+      "band": "Snapcase",
+      "stageId": "stewart",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "stewart-rancid",
+      "band": "Rancid",
+      "stageId": "stewart",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "stewart-nofx",
+      "band": "NOFX",
+      "stageId": "stewart",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "stewart-no-use-for-a-name",
+      "band": "No Use for a Name",
+      "stageId": "stewart",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "stewart-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "stewart",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "stewart-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "stewart",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "teal-unwritten-law",
+      "band": "Unwritten Law",
+      "stageId": "teal",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "teal-the-specials",
+      "band": "The Specials",
+      "stageId": "teal",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "teal-h2o",
+      "band": "H2O",
+      "stageId": "teal",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "teal-civ",
+      "band": "CIV",
+      "stageId": "teal",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "teal-deftones",
+      "band": "Deftones",
+      "stageId": "teal",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "teal-the-reverend-horton-heat",
+      "band": "The Reverend Horton Heat",
+      "stageId": "teal",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "teal-the-pietasters",
+      "band": "The Pietasters",
+      "stageId": "teal",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "teal-cherry-poppin-daddies",
+      "band": "Cherry Poppin' Daddies",
+      "stageId": "teal",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "oakie-shuttle-cocks",
+      "band": "Shuttle Cocks",
+      "stageId": "oakie",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "oakie-thumb",
+      "band": "Thumb",
+      "stageId": "oakie",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "oakie-atomic-fireballs",
+      "band": "Atomic Fireballs",
+      "stageId": "oakie",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "oakie-def-con-dos",
+      "band": "Def Con Dos",
+      "stageId": "oakie",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "oakie-relative-ash",
+      "band": "Relative Ash",
+      "stageId": "oakie",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "oakie-98-mute",
+      "band": "98 Mute",
+      "stageId": "oakie",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "oakie-punk-rock-karaoke",
+      "band": "Punk Rock Karaoke",
+      "stageId": "oakie",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "oakie-teen-idols",
+      "band": "Teen Idols",
+      "stageId": "oakie",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "maurice-fluf",
+      "band": "Fluf",
+      "stageId": "maurice",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "maurice-the-aquabats",
+      "band": "The Aquabats",
+      "stageId": "maurice",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "maurice-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "maurice",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "maurice-frenzal-rhomb",
+      "band": "Frenzal Rhomb",
+      "stageId": "maurice",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "maurice-full-on-the-mouth",
+      "band": "Full on the Mouth",
+      "stageId": "maurice",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "maurice-ozomatli",
+      "band": "Ozomatli",
+      "stageId": "maurice",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "maurice-wank",
+      "band": "Wank",
+      "stageId": "maurice",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "maurice-home-grown",
+      "band": "Home Grown",
+      "stageId": "maurice",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    }
+  ]
+}

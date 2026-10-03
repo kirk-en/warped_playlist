@@ -1,0 +1,112 @@
+{
+  "stages": [
+    {
+      "id": "main",
+      "name": "Main Stage"
+    },
+    {
+      "id": "side",
+      "name": "Side Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "main-orange-9mm",
+      "band": "Orange 9mm",
+      "stageId": "main",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "main-fluf",
+      "band": "Fluf",
+      "stageId": "main",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "main-no-doubt",
+      "band": "No Doubt",
+      "stageId": "main",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "main-no-use-for-a-name",
+      "band": "No Use for a Name",
+      "stageId": "main",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "main-quicksand",
+      "band": "Quicksand",
+      "stageId": "main",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "main-l7",
+      "band": "L7",
+      "stageId": "main",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "main-sublime",
+      "band": "Sublime",
+      "stageId": "main",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "side-wizo",
+      "band": "Wizo",
+      "stageId": "side",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "side-deftones",
+      "band": "Deftones",
+      "stageId": "side",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "side-supernova",
+      "band": "Supernova",
+      "stageId": "side",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "side-good-riddance",
+      "band": "Good Riddance",
+      "stageId": "side",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "side-civ",
+      "band": "CIV",
+      "stageId": "side",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "side-seaweed",
+      "band": "Seaweed",
+      "stageId": "side",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "side-minority",
+      "band": "Minority",
+      "stageId": "side",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

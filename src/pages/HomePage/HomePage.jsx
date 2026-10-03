@@ -53,6 +53,8 @@ function HomePage() {
   const yearDates = validYear && loadedDates?.year === year ? loadedDates.dates : [];
   const chosen =
     validYear && id && loadedSchedule?.key === `${year}/${id}` ? loadedSchedule.schedule : null;
+  // Waiting on the year's date list, or on a picked date's set times.
+  const loading = validYear && (id ? !chosen : loadedDates?.year !== year);
 
   // An unknown year (e.g. /1999) falls back to the year picker.
   useEffect(() => {
@@ -64,7 +66,11 @@ function HomePage() {
     let cancelled = false;
     loadYearIndex(year)
       .then((dates) => !cancelled && setLoadedDates({ year, dates }))
-      .catch((error) => console.error('[schedule] failed to load year', year, error));
+      .catch((error) => {
+        console.error('[schedule] failed to load year', year, error);
+        // Stop the spinner; the date picker just comes up empty.
+        if (!cancelled) setLoadedDates({ year, dates: [] });
+      });
     return () => {
       cancelled = true;
     };
@@ -111,8 +117,8 @@ function HomePage() {
   const crumbs = [];
   if (!onLanding) {
     crumbs.push({ label: 'Home', onClick: goTo('/') });
+    crumbs.push({ label: 'Years', onClick: goTo('/years') });
     if (validYear) {
-      crumbs.push({ label: 'Years', onClick: goTo('/years') });
       crumbs.push({ label: String(year), onClick: goTo(`/${year}`) });
       const entry = yearDates.find((d) => d.id === id);
       if (chosen && entry) crumbs.push({ label: `${entry.city}, ${entry.state}` });
@@ -155,6 +161,11 @@ function HomePage() {
             Replay
           </button>
         </>
+      ) : loading ? (
+        <div className="loading" role="status">
+          <span className="loading__spinner" aria-hidden="true" />
+          <span className="loading__text">Loading…</span>
+        </div>
       ) : validYear ? (
         !id && (
           <SelectionCards

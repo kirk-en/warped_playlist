@@ -1,0 +1,299 @@
+{
+  "stages": [
+    {
+      "id": "greg",
+      "name": "Greg Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "gary",
+      "name": "Gary Stage"
+    },
+    {
+      "id": "local",
+      "name": "Local Stage"
+    },
+    {
+      "id": "swing-tent",
+      "name": "Swing Tent"
+    }
+  ],
+  "sets": [
+    {
+      "id": "greg-deviates",
+      "band": "Deviates",
+      "stageId": "greg",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "greg-the-living-end",
+      "band": "The Living End",
+      "stageId": "greg",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "greg-grinspoon",
+      "band": "Grinspoon",
+      "stageId": "greg",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "greg-lunachicks",
+      "band": "Lunachicks",
+      "stageId": "greg",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "greg-agnostic-front",
+      "band": "Agnostic Front",
+      "stageId": "greg",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "greg-pennywise",
+      "band": "Pennywise",
+      "stageId": "greg",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "greg-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "greg",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "greg-blink-182",
+      "band": "Blink-182",
+      "stageId": "greg",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "greg-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "greg",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "brian-h-blockx",
+      "band": "H-BLOCKX",
+      "stageId": "brian",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "brian-molotov",
+      "band": "Molotov",
+      "stageId": "brian",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "brian-suicidal-tendencies",
+      "band": "Suicidal Tendencies",
+      "stageId": "brian",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "brian-sevendust",
+      "band": "Sevendust",
+      "stageId": "brian",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "brian-h2o",
+      "band": "H2O",
+      "stageId": "brian",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "brian-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "brian",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "brian-black-eyed-peas",
+      "band": "Black Eyed Peas",
+      "stageId": "brian",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "gary-orange-9mm",
+      "band": "Orange 9mm",
+      "stageId": "gary",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "gary-fenix-tx",
+      "band": "Fenix TX",
+      "stageId": "gary",
+      "startTime": "13:25",
+      "displayTime": "1:25"
+    },
+    {
+      "id": "gary-buzz-poets",
+      "band": "Buzz Poets",
+      "stageId": "gary",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "gary-7-seconds",
+      "band": "7 Seconds",
+      "stageId": "gary",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "gary-frenzal-rhomb",
+      "band": "Frenzal Rhomb",
+      "stageId": "gary",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "gary-skarhead",
+      "band": "Skarhead",
+      "stageId": "gary",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "gary-the-cuffs",
+      "band": "The Cuffs",
+      "stageId": "gary",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "gary-clowns-for-progress",
+      "band": "Clowns for Progress",
+      "stageId": "gary",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "gary-anxiety",
+      "band": "Anxiety",
+      "stageId": "gary",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "local-the-4-40-s",
+      "band": "The 4-40's",
+      "stageId": "local",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "local-buck-o-nine",
+      "band": "Buck-O-Nine",
+      "stageId": "local",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "local-earth-to-andy",
+      "band": "Earth to Andy",
+      "stageId": "local",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "local-bungi-orange",
+      "band": "Bungi Orange",
+      "stageId": "local",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "local-ghoti-hook",
+      "band": "Ghoti Hook",
+      "stageId": "local",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "local-the-loose-nuts",
+      "band": "The Loose Nuts",
+      "stageId": "local",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "local-undergirl",
+      "band": "Undergirl",
+      "stageId": "local",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "local-the-nc-13-s",
+      "band": "The NC-13's",
+      "stageId": "local",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "swing-tent-dj-mantis",
+      "band": "DJ Mantis",
+      "stageId": "swing-tent",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "swing-tent-slimer",
+      "band": "Slimer",
+      "stageId": "swing-tent",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "swing-tent-the-inland-empire-orchestra",
+      "band": "The Inland Empire Orchestra",
+      "stageId": "swing-tent",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "swing-tent-common-sense",
+      "band": "Common Sense",
+      "stageId": "swing-tent",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "swing-tent-chine",
+      "band": "Chine",
+      "stageId": "swing-tent",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    }
+  ]
+}

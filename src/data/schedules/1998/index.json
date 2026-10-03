@@ -1,0 +1,580 @@
+[
+  {
+    "id": "1998-01-09-auckland",
+    "year": 1998,
+    "date": "1998-01-09",
+    "city": "Auckland",
+    "state": "New Zealand",
+    "venue": "North Shore Events Centre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-11-gold-coast",
+    "year": 1998,
+    "date": "1998-01-11",
+    "city": "Gold Coast",
+    "state": "QLD",
+    "venue": "Doug Jennings Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-14-byron-bay",
+    "year": 1998,
+    "date": "1998-01-14",
+    "city": "Byron Bay",
+    "state": "NSW",
+    "venue": "Byron Bay Rugby League",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-15-coffs-harbour",
+    "year": 1998,
+    "date": "1998-01-15",
+    "city": "Coffs Harbour",
+    "state": "NSW",
+    "venue": "Coffs Harbour Showground"
+  },
+  {
+    "id": "1998-01-17-sydney",
+    "year": 1998,
+    "date": "1998-01-17",
+    "city": "Sydney",
+    "state": "NSW",
+    "venue": "Keirle Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-18-ulladulla",
+    "year": 1998,
+    "date": "1998-01-18",
+    "city": "Ulladulla",
+    "state": "NSW",
+    "venue": "Milton Showground",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-20-newcastle",
+    "year": 1998,
+    "date": "1998-01-20",
+    "city": "Newcastle",
+    "state": "NSW",
+    "venue": "#2 Sports Ground",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-23-adelaide",
+    "year": 1998,
+    "date": "1998-01-23",
+    "city": "Adelaide",
+    "state": "SA",
+    "venue": "Gawler Racecourse",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-24-melbourne",
+    "year": 1998,
+    "date": "1998-01-24",
+    "city": "Melbourne",
+    "state": "VIC",
+    "venue": "Melbourne Showground",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-25-geelong",
+    "year": 1998,
+    "date": "1998-01-25",
+    "city": "Geelong",
+    "state": "VIC",
+    "venue": "Geelong Showgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-28-kawasaki",
+    "year": 1998,
+    "date": "1998-01-28",
+    "city": "Kawasaki",
+    "state": "Japan",
+    "venue": "Club Citta",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-29-osaka",
+    "year": 1998,
+    "date": "1998-01-29",
+    "city": "Osaka",
+    "state": "Japan",
+    "venue": "Bayside Jenny",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-01-31-honolulu",
+    "year": 1998,
+    "date": "1998-01-31",
+    "city": "Honolulu",
+    "state": "HI",
+    "venue": "Waimanalo Polo Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-06-30-phoenix",
+    "year": 1998,
+    "date": "1998-06-30",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Celebrity Theatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-01-del-mar",
+    "year": 1998,
+    "date": "1998-07-01",
+    "city": "Del Mar",
+    "state": "CA",
+    "venue": "Del Mar Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-02-irvine",
+    "year": 1998,
+    "date": "1998-07-02",
+    "city": "Irvine",
+    "state": "CA",
+    "venue": "Irvine Meadows",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-04-lake-tahoe",
+    "year": 1998,
+    "date": "1998-07-04",
+    "city": "Lake Tahoe",
+    "state": "NV",
+    "venue": "Boreal Ski Area",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-05-san-francisco",
+    "year": 1998,
+    "date": "1998-07-05",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-07-seattle",
+    "year": 1998,
+    "date": "1998-07-07",
+    "city": "Seattle",
+    "state": "WA",
+    "venue": "Kingdome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-08-vancouver",
+    "year": 1998,
+    "date": "1998-07-08",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "PNE Coliseum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-09-estacada",
+    "year": 1998,
+    "date": "1998-07-09",
+    "city": "Estacada",
+    "state": "OR",
+    "venue": "Timberbowl"
+  },
+  {
+    "id": "1998-07-10-nampa",
+    "year": 1998,
+    "date": "1998-07-10",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-11-salt-lake-city",
+    "year": 1998,
+    "date": "1998-07-11",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-12-boulder",
+    "year": 1998,
+    "date": "1998-07-12",
+    "city": "Boulder",
+    "state": "CO",
+    "venue": "Franklin Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-14-tulsa",
+    "year": 1998,
+    "date": "1998-07-14",
+    "city": "Tulsa",
+    "state": "OK",
+    "venue": "Mohawk Park"
+  },
+  {
+    "id": "1998-07-15-fenton",
+    "year": 1998,
+    "date": "1998-07-15",
+    "city": "Fenton",
+    "state": "MO",
+    "venue": "Buder Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-16-chicago",
+    "year": 1998,
+    "date": "1998-07-16",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "United Center"
+  },
+  {
+    "id": "1998-07-17-milwaukee",
+    "year": 1998,
+    "date": "1998-07-17",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Brewers Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-18-somerset",
+    "year": 1998,
+    "date": "1998-07-18",
+    "city": "Somerset",
+    "state": "WI",
+    "venue": "Float Rite Park Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-19-lawrence",
+    "year": 1998,
+    "date": "1998-07-19",
+    "city": "Lawrence",
+    "state": "KS",
+    "venue": "Burcham Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-21-pittsburgh",
+    "year": 1998,
+    "date": "1998-07-21",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "IC Light Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-22-pontiac",
+    "year": 1998,
+    "date": "1998-07-22",
+    "city": "Pontiac",
+    "state": "MI",
+    "venue": "Phoenix Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-23-cleveland",
+    "year": 1998,
+    "date": "1998-07-23",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Nautica Stage",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-24-toronto",
+    "year": 1998,
+    "date": "1998-07-24",
+    "city": "Toronto",
+    "state": "ON",
+    "venue": "The Docks",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-25-montreal",
+    "year": 1998,
+    "date": "1998-07-25",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean Drapeau",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-26-quebec-city",
+    "year": 1998,
+    "date": "1998-07-26",
+    "city": "Quebec City",
+    "state": "QC",
+    "venue": "Expo Cité",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-28-buffalo",
+    "year": 1998,
+    "date": "1998-07-28",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "La Salle Park"
+  },
+  {
+    "id": "1998-07-29-northampton",
+    "year": 1998,
+    "date": "1998-07-29",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Three County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-30-philadelphia",
+    "year": 1998,
+    "date": "1998-07-30",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Core States Spectrum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-07-31-washington",
+    "year": 1998,
+    "date": "1998-07-31",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "RFK Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-01-new-york",
+    "year": 1998,
+    "date": "1998-08-01",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-02-asbury-park",
+    "year": 1998,
+    "date": "1998-08-02",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Asbury Park Lot"
+  },
+  {
+    "id": "1998-08-04-jacksonville",
+    "year": 1998,
+    "date": "1998-08-04",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-05-pompano-beach",
+    "year": 1998,
+    "date": "1998-08-05",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Beach Amphitheatre"
+  },
+  {
+    "id": "1998-08-06-orlando",
+    "year": 1998,
+    "date": "1998-08-06",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-08-houston",
+    "year": 1998,
+    "date": "1998-08-08",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Astro Arena",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-09-austin",
+    "year": 1998,
+    "date": "1998-08-09",
+    "city": "Austin",
+    "state": "TX",
+    "venue": "Park Meadows",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-26-stockholm",
+    "year": 1998,
+    "date": "1998-08-26",
+    "city": "Stockholm",
+    "state": "Sweden",
+    "venue": "Arenan",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-28-reading",
+    "year": 1998,
+    "date": "1998-08-28",
+    "city": "Reading",
+    "state": "UK",
+    "venue": "Reading Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-29-hasselt",
+    "year": 1998,
+    "date": "1998-08-29",
+    "city": "Hasselt",
+    "state": "Belgium",
+    "venue": "Pukkelpop Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-08-30-dronten",
+    "year": 1998,
+    "date": "1998-08-30",
+    "city": "Dronten",
+    "state": "Netherlands",
+    "venue": "Lowlands Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-02-hamburg",
+    "year": 1998,
+    "date": "1998-09-02",
+    "city": "Hamburg",
+    "state": "Germany",
+    "venue": "Wilhelm-Koch-Stadion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-04-minden",
+    "year": 1998,
+    "date": "1998-09-04",
+    "city": "Minden",
+    "state": "Germany",
+    "venue": "Weser Ufer",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-05-strasbourg",
+    "year": 1998,
+    "date": "1998-09-05",
+    "city": "Strasbourg",
+    "state": "France",
+    "venue": "Festival des Artefacts",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-06-hunxe",
+    "year": 1998,
+    "date": "1998-09-06",
+    "city": "Hünxe",
+    "state": "Germany",
+    "venue": "Flugplatz Schwarze Heide",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-09-berlin",
+    "year": 1998,
+    "date": "1998-09-09",
+    "city": "Berlin",
+    "state": "Germany",
+    "venue": "Parkbühne Wuhlheide",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-10-vienna",
+    "year": 1998,
+    "date": "1998-09-10",
+    "city": "Vienna",
+    "state": "Austria",
+    "venue": "Libro Music Hall",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-11-budapest",
+    "year": 1998,
+    "date": "1998-09-11",
+    "city": "Budapest",
+    "state": "Hungary",
+    "venue": "Europark Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-12-ljubljana",
+    "year": 1998,
+    "date": "1998-09-12",
+    "city": "Ljubljana",
+    "state": "Slovenia",
+    "venue": "Krizanke Auditorium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-13-inzell",
+    "year": 1998,
+    "date": "1998-09-13",
+    "city": "Inzell",
+    "state": "Germany",
+    "venue": "Ice Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-15-bologna",
+    "year": 1998,
+    "date": "1998-09-15",
+    "city": "Bologna",
+    "state": "Italy",
+    "venue": "Arena Festa de l'Unita",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-16-milan",
+    "year": 1998,
+    "date": "1998-09-16",
+    "city": "Milan",
+    "state": "Italy",
+    "venue": "Palavobis",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-18-barcelona",
+    "year": 1998,
+    "date": "1998-09-18",
+    "city": "Barcelona",
+    "state": "Spain",
+    "venue": "Pavello Olimpic de Badalona",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-19-madrid",
+    "year": 1998,
+    "date": "1998-09-19",
+    "city": "Madrid",
+    "state": "Spain",
+    "venue": "Plaza de Toros Leganes",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1998-09-20-pamplona",
+    "year": 1998,
+    "date": "1998-09-20",
+    "city": "Pamplona",
+    "state": "Spain",
+    "venue": "Plaza de Toros",
+    "note": "Set times are not known for this date."
+  }
+]

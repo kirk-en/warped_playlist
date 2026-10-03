@@ -1,0 +1,112 @@
+{
+  "stages": [
+    {
+      "id": "stage-a",
+      "name": "Stage A"
+    },
+    {
+      "id": "stage-b",
+      "name": "Stage B"
+    }
+  ],
+  "sets": [
+    {
+      "id": "stage-a-the-vandals",
+      "band": "The Vandals",
+      "stageId": "stage-a",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "stage-a-311",
+      "band": "311",
+      "stageId": "stage-a",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "stage-a-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "stage-a",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "stage-a-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "stage-a",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "stage-a-blink-182",
+      "band": "Blink-182",
+      "stageId": "stage-a",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "stage-a-pennywise",
+      "band": "Pennywise",
+      "stageId": "stage-a",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "stage-a-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "stage-a",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "stage-b-toe-to-toe",
+      "band": "Toe To Toe",
+      "stageId": "stage-b",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "stage-b-the-porkers",
+      "band": "The Porkers",
+      "stageId": "stage-b",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "stage-b-sunchild",
+      "band": "Sunchild",
+      "stageId": "stage-b",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "stage-b-die-toten-hosen",
+      "band": "Die Toten Hosen",
+      "stageId": "stage-b",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "stage-b-the-living-end",
+      "band": "The Living End",
+      "stageId": "stage-b",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "stage-b-bodyjar",
+      "band": "Bodyjar",
+      "stageId": "stage-b",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "stage-b-frenzal-rhomb",
+      "band": "Frenzal Rhomb",
+      "stageId": "stage-b",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    }
+  ]
+}
