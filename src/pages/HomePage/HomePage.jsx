@@ -13,8 +13,19 @@ const logoModules = import.meta.glob('../../assets/warped_tour_*_logo.*', {
 });
 const logosByYear = {};
 for (const [path, url] of Object.entries(logoModules)) {
-  logosByYear[path.match(/warped_tour_(\d{4})_logo/)[1]] = url;
+  const year = path.match(/warped_tour_(\d{4})_logo/)[1];
+  // When a year has both an .avif and another format, keep the lighter .avif.
+  if (!logosByYear[year] || path.endsWith('.avif')) logosByYear[year] = url;
 }
+
+// Start fetching and decoding every logo as soon as the app loads, so they are
+// already cached by the time the user reaches the year picker.
+const preloadedLogos = Object.values(logosByYear).map((url) => {
+  const img = new Image();
+  img.decoding = 'async';
+  img.src = url;
+  return img;
+});
 
 const years = [
   ...new Set([...Object.keys(logosByYear).map(Number), ...scheduleYears]),

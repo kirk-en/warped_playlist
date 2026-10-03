@@ -10,7 +10,7 @@ import BoardFrame, { TUBE } from './BoardFrame';
 import type { BoardFrameHandle } from './BoardFrame';
 import { ScheduleGrid, StageLabels } from './ScheduleGrid';
 import { blockedIds, overlaps } from './scheduleSelection';
-import logo2008 from '../../assets/warped_tour_2008_logo.gif';
+import logo2008 from '../../assets/warped_tour_2008_logo.webp';
 import type { SetTime, Stage } from '../../data/schedule';
 import './InflatableBoard.css';
 
