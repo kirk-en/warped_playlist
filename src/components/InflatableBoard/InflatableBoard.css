@@ -352,6 +352,13 @@
   background-image: linear-gradient(180deg, #ffe98a 0%, #f5d451 100%);
 }
 
+/* Hovering a chosen slot must not wash it back to white, or it looks unselected.
+   A slightly brighter, warmer yellow signals the hover while still reading as picked. */
+.slot.is-picked:not(:disabled):hover {
+  --slot-lift: 1px;
+  background-image: linear-gradient(180deg, #fff2a8 0%, #ffdf3d 100%);
+}
+
 /* Clashes with a chosen set: greyed out and flat, but still legible and clickable. */
 .slot.is-blocked {
   --slot-lift: 1px;

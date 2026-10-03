@@ -1,0 +1,338 @@
+[
+  {
+    "id": "2014-06-13-houston",
+    "year": 2014,
+    "date": "2014-06-13",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Center Parking Lot"
+  },
+  {
+    "id": "2014-06-14-san-antonio",
+    "year": 2014,
+    "date": "2014-06-14",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "AT&T Center"
+  },
+  {
+    "id": "2014-06-15-dallas",
+    "year": 2014,
+    "date": "2014-06-15",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Gexa Energy Pavilion"
+  },
+  {
+    "id": "2014-06-17-albuquerque",
+    "year": 2014,
+    "date": "2014-06-17",
+    "city": "Albuquerque",
+    "state": "NM",
+    "venue": "Isleta Amphitheater"
+  },
+  {
+    "id": "2014-06-18-mesa",
+    "year": 2014,
+    "date": "2014-06-18",
+    "city": "Mesa",
+    "state": "AZ",
+    "venue": "Quail Run Park"
+  },
+  {
+    "id": "2014-06-19-las-vegas",
+    "year": 2014,
+    "date": "2014-06-19",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "UNLV Intramural Field"
+  },
+  {
+    "id": "2014-06-20-pomona",
+    "year": 2014,
+    "date": "2014-06-20",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex"
+  },
+  {
+    "id": "2014-06-21-mountain-view",
+    "year": 2014,
+    "date": "2014-06-21",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2014-06-22-ventura",
+    "year": 2014,
+    "date": "2014-06-22",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Ventura County Fairgrounds at Seaside Park"
+  },
+  {
+    "id": "2014-06-25-chula-vista",
+    "year": 2014,
+    "date": "2014-06-25",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2014-06-26-wheatland",
+    "year": 2014,
+    "date": "2014-06-26",
+    "city": "Wheatland",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2014-06-28-auburn",
+    "year": 2014,
+    "date": "2014-06-28",
+    "city": "Auburn",
+    "state": "WA",
+    "venue": "White River Amphitheatre"
+  },
+  {
+    "id": "2014-06-29-portland",
+    "year": 2014,
+    "date": "2014-06-29",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Portland Expo Center"
+  },
+  {
+    "id": "2014-07-02-maryland-heights",
+    "year": 2014,
+    "date": "2014-07-02",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2014-07-03-noblesville",
+    "year": 2014,
+    "date": "2014-07-03",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Klipsch Music Center"
+  },
+  {
+    "id": "2014-07-04-toronto",
+    "year": 2014,
+    "date": "2014-07-04",
+    "city": "Toronto",
+    "state": "ON",
+    "venue": "The Flats at Molson Canadian Amphitheatre"
+  },
+  {
+    "id": "2014-07-05-montreal",
+    "year": 2014,
+    "date": "2014-07-05",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2014-07-06-holmdel",
+    "year": 2014,
+    "date": "2014-07-06",
+    "city": "Holmdel",
+    "state": "NJ",
+    "venue": "PNC Bank Arts Center"
+  },
+  {
+    "id": "2014-07-08-darien",
+    "year": 2014,
+    "date": "2014-07-08",
+    "city": "Darien",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center"
+  },
+  {
+    "id": "2014-07-09-scranton",
+    "year": 2014,
+    "date": "2014-07-09",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Toyota Pavilion"
+  },
+  {
+    "id": "2014-07-10-mansfield",
+    "year": 2014,
+    "date": "2014-07-10",
+    "city": "Mansfield",
+    "state": "MA",
+    "venue": "XFINITY Center"
+  },
+  {
+    "id": "2014-07-11-camden",
+    "year": 2014,
+    "date": "2014-07-11",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Susquehanna Bank Center"
+  },
+  {
+    "id": "2014-07-12-wantagh",
+    "year": 2014,
+    "date": "2014-07-12",
+    "city": "Wantagh",
+    "state": "NY",
+    "venue": "Nikon at Jones Beach Theater"
+  },
+  {
+    "id": "2014-07-13-hartford",
+    "year": 2014,
+    "date": "2014-07-13",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "XFINITY Theatre"
+  },
+  {
+    "id": "2014-07-15-burgettstown",
+    "year": 2014,
+    "date": "2014-07-15",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "First Niagara Pavilion"
+  },
+  {
+    "id": "2014-07-16-cincinnati",
+    "year": 2014,
+    "date": "2014-07-16",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2014-07-17-cuyahoga-falls",
+    "year": 2014,
+    "date": "2014-07-17",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "venue": "Blossom Music Center"
+  },
+  {
+    "id": "2014-07-18-auburn-hills",
+    "year": 2014,
+    "date": "2014-07-18",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "venue": "The Palace of Auburn Hills"
+  },
+  {
+    "id": "2014-07-19-tinley-park",
+    "year": 2014,
+    "date": "2014-07-19",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "First Midwest Bank Amphitheatre"
+  },
+  {
+    "id": "2014-07-20-shakopee",
+    "year": 2014,
+    "date": "2014-07-20",
+    "city": "Shakopee",
+    "state": "MN",
+    "venue": "Canterbury Park"
+  },
+  {
+    "id": "2014-07-22-columbia",
+    "year": 2014,
+    "date": "2014-07-22",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2014-07-23-virginia-beach",
+    "year": 2014,
+    "date": "2014-07-23",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Farm Bureau Live at Virginia Beach"
+  },
+  {
+    "id": "2014-07-24-atlanta",
+    "year": 2014,
+    "date": "2014-07-24",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Aaron's Amphitheatre at Lakewood"
+  },
+  {
+    "id": "2014-07-25-st-petersburg",
+    "year": 2014,
+    "date": "2014-07-25",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2014-07-26-west-palm-beach",
+    "year": 2014,
+    "date": "2014-07-26",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "venue": "Cruzan Amphitheatre"
+  },
+  {
+    "id": "2014-07-27-orlando",
+    "year": 2014,
+    "date": "2014-07-27",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2014-07-28-charlotte",
+    "year": 2014,
+    "date": "2014-07-28",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "PNC Music Pavilion"
+  },
+  {
+    "id": "2014-07-29-nashville",
+    "year": 2014,
+    "date": "2014-07-29",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Tennessee State Fairgrounds"
+  },
+  {
+    "id": "2014-07-30-milwaukee",
+    "year": 2014,
+    "date": "2014-07-30",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater"
+  },
+  {
+    "id": "2014-07-31-bonner-springs",
+    "year": 2014,
+    "date": "2014-07-31",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Cricket Wireless Amphitheater"
+  },
+  {
+    "id": "2014-08-02-salt-lake-city",
+    "year": 2014,
+    "date": "2014-08-02",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark"
+  },
+  {
+    "id": "2014-08-03-denver",
+    "year": 2014,
+    "date": "2014-08-03",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Sports Authority Field at Mile High"
+  }
+]
