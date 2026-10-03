@@ -1,0 +1,162 @@
+{
+  "stages": [
+    {
+      "id": "east",
+      "name": "East Stage"
+    },
+    {
+      "id": "west",
+      "name": "West Stage"
+    },
+    {
+      "id": "north-park",
+      "name": "North Park Stage"
+    },
+    {
+      "id": "north-park-ramp",
+      "name": "North Park Ramp"
+    }
+  ],
+  "sets": [
+    {
+      "id": "east-dizzy-sunfist",
+      "band": "Dizzy Sunfist",
+      "stageId": "east",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "east-shadows",
+      "band": "Shadows",
+      "stageId": "east",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "east-totalfat",
+      "band": "Totalfat",
+      "stageId": "east",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "east-zebrahead",
+      "band": "Zebrahead",
+      "stageId": "east",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "east-pennywise",
+      "band": "Pennywise",
+      "stageId": "east",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "west-passcode",
+      "band": "PassCode",
+      "stageId": "west",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "west-the-last-internationale",
+      "band": "The Last Internationale",
+      "stageId": "west",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "west-hey-smith",
+      "band": "Hey-Smith",
+      "stageId": "west",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "west-suicidal-tendencies",
+      "band": "Suicidal Tendencies",
+      "stageId": "west",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "west-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "west",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "west-prophets-of-rage",
+      "band": "Prophets of Rage",
+      "stageId": "west",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "north-park-ros",
+      "band": "ROS",
+      "stageId": "north-park",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "north-park-lovebites",
+      "band": "Lovebites",
+      "stageId": "north-park",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "north-park-band-maid",
+      "band": "Band-Maid",
+      "stageId": "north-park",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "north-park-a-crowd-of-rebellion",
+      "band": "A Crowd of Rebellion",
+      "stageId": "north-park",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "north-park-country-yard",
+      "band": "Country Yard",
+      "stageId": "north-park",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "north-park-ramp-bmx-show-by-vans",
+      "band": "BMX Show by Vans",
+      "stageId": "north-park-ramp",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "north-park-ramp-xflag-extreme-show",
+      "band": "XFLAG Extreme Show",
+      "stageId": "north-park-ramp",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "north-park-ramp-bmx-show-by-vans-2",
+      "band": "BMX Show by Vans",
+      "stageId": "north-park-ramp",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "north-park-ramp-xflag-extreme-show-2",
+      "band": "XFLAG Extreme Show",
+      "stageId": "north-park-ramp",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    }
+  ]
+}

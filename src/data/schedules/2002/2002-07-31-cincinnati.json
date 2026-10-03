@@ -1,0 +1,528 @@
+{
+  "stages": [
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "drive-thru-records",
+      "name": "Drive-Thru Records Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "punkrock-net",
+      "name": "Punkrock.net Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "brian-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "brian",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "brian-trustcompany",
+      "band": "Trustcompany",
+      "stageId": "brian",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "brian-hot-water-music",
+      "band": "Hot Water Music",
+      "stageId": "brian",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "brian-morgan-heritage",
+      "band": "Morgan Heritage",
+      "stageId": "brian",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "brian-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "brian",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "brian-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "brian",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "brian-mxpx",
+      "band": "MxPx",
+      "stageId": "brian",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "brian-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "brian",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "brian-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "brian",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "teal-thursday",
+      "band": "Thursday",
+      "stageId": "teal",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "teal-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "teal",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "teal-no-use-for-a-name",
+      "band": "No Use for a Name",
+      "stageId": "teal",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "teal-something-corporate",
+      "band": "Something Corporate",
+      "stageId": "teal",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "teal-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "teal",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "teal-nofx",
+      "band": "NOFX",
+      "stageId": "teal",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "teal-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "teal",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "teal-alkaline-trio",
+      "band": "Alkaline Trio",
+      "stageId": "teal",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "teal-good-charlotte",
+      "band": "Good Charlotte",
+      "stageId": "teal",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "maurice-mi6",
+      "band": "Mi6",
+      "stageId": "maurice",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "maurice-the-casualties",
+      "band": "The Casualties",
+      "stageId": "maurice",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "maurice-quarashi",
+      "band": "Quarashi",
+      "stageId": "maurice",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "maurice-five-iron-frenzy",
+      "band": "Five Iron Frenzy",
+      "stageId": "maurice",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "maurice-boysetsfire",
+      "band": "Boysetsfire",
+      "stageId": "maurice",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "maurice-ozma",
+      "band": "Ozma",
+      "stageId": "maurice",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "maurice-tiger-army",
+      "band": "Tiger Army",
+      "stageId": "maurice",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "maurice-sugarcult",
+      "band": "Sugarcult",
+      "stageId": "maurice",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "maurice-borialis",
+      "band": "Borialis",
+      "stageId": "maurice",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "volcom-vaux",
+      "band": "Vaux",
+      "stageId": "volcom",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "volcom-places-to-park",
+      "band": "Places to Park",
+      "stageId": "volcom",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "volcom-arkham",
+      "band": "Arkham",
+      "stageId": "volcom",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "volcom-wanted-dead",
+      "band": "Wanted Dead",
+      "stageId": "volcom",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "volcom-1208",
+      "band": "1208",
+      "stageId": "volcom",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "volcom-the-used",
+      "band": "The Used",
+      "stageId": "volcom",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "volcom-riddlin-kids",
+      "band": "Riddlin Kids",
+      "stageId": "volcom",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "volcom-lucky-7",
+      "band": "Lucky 7",
+      "stageId": "volcom",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "volcom-death-by-stereo",
+      "band": "Death by Stereo",
+      "stageId": "volcom",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "volcom-the-unseen",
+      "band": "The Unseen",
+      "stageId": "volcom",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "drive-thru-records-unsung-zeros",
+      "band": "Unsung Zeros",
+      "stageId": "drive-thru-records",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "drive-thru-records-motion-city-soundtrack",
+      "band": "Motion City Soundtrack",
+      "stageId": "drive-thru-records",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "drive-thru-records-autopilot-off",
+      "band": "Autopilot Off",
+      "stageId": "drive-thru-records",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "drive-thru-records-allister",
+      "band": "Allister",
+      "stageId": "drive-thru-records",
+      "startTime": "13:25",
+      "displayTime": "1:25"
+    },
+    {
+      "id": "drive-thru-records-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "drive-thru-records",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "drive-thru-records-finch",
+      "band": "Finch",
+      "stageId": "drive-thru-records",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "drive-thru-records-rx-bandits",
+      "band": "Rx Bandits",
+      "stageId": "drive-thru-records",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "drive-thru-records-home-grown",
+      "band": "Home Grown",
+      "stageId": "drive-thru-records",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "drive-thru-records-off-by-one",
+      "band": "Off By One",
+      "stageId": "drive-thru-records",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "drive-thru-records-vex-red",
+      "band": "Vex Red",
+      "stageId": "drive-thru-records",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "ernie-ball-all-access",
+      "band": "All Access",
+      "stageId": "ernie-ball",
+      "startTime": "11:35",
+      "displayTime": "11:35"
+    },
+    {
+      "id": "ernie-ball-intak",
+      "band": "Intak",
+      "stageId": "ernie-ball",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "ernie-ball-never-heard-of-it",
+      "band": "Never Heard of It",
+      "stageId": "ernie-ball",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "ernie-ball-youngfellow",
+      "band": "Youngfellow",
+      "stageId": "ernie-ball",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "ernie-ball-the-eyeliners",
+      "band": "The Eyeliners",
+      "stageId": "ernie-ball",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "ernie-ball-the-mimsies",
+      "band": "The Mimsies",
+      "stageId": "ernie-ball",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "ernie-ball-sweatergirl",
+      "band": "Sweatergirl",
+      "stageId": "ernie-ball",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "ernie-ball-the-briggs",
+      "band": "The Briggs",
+      "stageId": "ernie-ball",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "ernie-ball-useless-i-d",
+      "band": "Useless I.D.",
+      "stageId": "ernie-ball",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "kevin-says-sloppy-meateaters",
+      "band": "Sloppy Meateaters",
+      "stageId": "kevin-says",
+      "startTime": "10:40",
+      "displayTime": "10:40"
+    },
+    {
+      "id": "kevin-says-sparechange",
+      "band": "Sparechange",
+      "stageId": "kevin-says",
+      "startTime": "11:25",
+      "displayTime": "11:25"
+    },
+    {
+      "id": "kevin-says-canterburry-effect",
+      "band": "Canterburry Effect",
+      "stageId": "kevin-says",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "kevin-says-the-berlin-project",
+      "band": "The Berlin Project",
+      "stageId": "kevin-says",
+      "startTime": "12:55",
+      "displayTime": "12:55"
+    },
+    {
+      "id": "kevin-says-mystery",
+      "band": "Mystery",
+      "stageId": "kevin-says",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "kevin-says-halo-friendlies",
+      "band": "Halo Friendlies",
+      "stageId": "kevin-says",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "kevin-says-dysfunctional-ray",
+      "band": "Dysfunctional Ray",
+      "stageId": "kevin-says",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "kevin-says-f-o-n",
+      "band": "F.O.N.",
+      "stageId": "kevin-says",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "kevin-says-cultifadaz",
+      "band": "Cultifadaz",
+      "stageId": "kevin-says",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "kevin-says-atm",
+      "band": "ATM",
+      "stageId": "kevin-says",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "punkrock-net-ten-times-a-day",
+      "band": "Ten Times a Day",
+      "stageId": "punkrock-net",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "punkrock-net-staring-back",
+      "band": "Staring Back",
+      "stageId": "punkrock-net",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "punkrock-net-district-7",
+      "band": "District 7",
+      "stageId": "punkrock-net",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "punkrock-net-hope",
+      "band": "Hope",
+      "stageId": "punkrock-net",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    }
+  ]
+}

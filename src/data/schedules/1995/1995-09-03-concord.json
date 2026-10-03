@@ -1,0 +1,66 @@
+{
+  "stages": [
+    {
+      "id": "main",
+      "name": "Main Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "main-fluf",
+      "band": "Fluf",
+      "stageId": "main",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "main-orange-9mm",
+      "band": "Orange 9mm",
+      "stageId": "main",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "main-seaweed",
+      "band": "Seaweed",
+      "stageId": "main",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "main-no-use-for-a-name",
+      "band": "No Use for a Name",
+      "stageId": "main",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "main-sublime",
+      "band": "Sublime",
+      "stageId": "main",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "main-face-to-face",
+      "band": "Face to Face",
+      "stageId": "main",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "main-l7",
+      "band": "L7",
+      "stageId": "main",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "main-quicksand",
+      "band": "Quicksand",
+      "stageId": "main",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    }
+  ]
+}

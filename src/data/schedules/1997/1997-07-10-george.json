@@ -1,0 +1,112 @@
+{
+  "stages": [
+    {
+      "id": "right",
+      "name": "Right Stage"
+    },
+    {
+      "id": "left",
+      "name": "Left Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "right-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "right",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "right-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "right",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "right-face-to-face",
+      "band": "Face to Face",
+      "stageId": "right",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "right-pennywise",
+      "band": "Pennywise",
+      "stageId": "right",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "right-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "right",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "right-social-distortion",
+      "band": "Social Distortion",
+      "stageId": "right",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "right-spike-mike-s-sick-and-twisted-festival-of-animation",
+      "band": "Spike & Mike's Sick and Twisted Festival of Animation",
+      "stageId": "right",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "left-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "left",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "left-descendents",
+      "band": "Descendents",
+      "stageId": "left",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "left-the-vandals",
+      "band": "The Vandals",
+      "stageId": "left",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "left-blink-182",
+      "band": "Blink-182",
+      "stageId": "left",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "left-hepcat",
+      "band": "Hepcat",
+      "stageId": "left",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "left-limp-bizkit",
+      "band": "Limp Bizkit",
+      "stageId": "left",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "left-tha-alkaholiks",
+      "band": "Tha Alkaholiks",
+      "stageId": "left",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    }
+  ]
+}

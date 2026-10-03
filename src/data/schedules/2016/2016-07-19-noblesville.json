@@ -1,0 +1,524 @@
+{
+  "stages": [
+    {
+      "id": "journeys-left-foot",
+      "name": "Journeys Left Foot Stage"
+    },
+    {
+      "id": "journeys-right-foot",
+      "name": "Journeys Right Foot Stage"
+    },
+    {
+      "id": "monster-energy-north",
+      "name": "Monster Energy North Stage"
+    },
+    {
+      "id": "monster-energy-south",
+      "name": "Monster Energy South Stage"
+    },
+    {
+      "id": "poseidon",
+      "name": "Poseidon Stage"
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops Stage"
+    },
+    {
+      "id": "full-sail",
+      "name": "Full Sail Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "journeys-left-foot-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "journeys-left-foot",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "journeys-left-foot-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "journeys-left-foot",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "journeys-left-foot-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "journeys-left-foot",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "journeys-left-foot-falling-in-reverse",
+      "band": "Falling in Reverse",
+      "stageId": "journeys-left-foot",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "journeys-left-foot-pepper",
+      "band": "Pepper",
+      "stageId": "journeys-left-foot",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "journeys-left-foot-set-it-off",
+      "band": "Set It Off",
+      "stageId": "journeys-left-foot",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "journeys-left-foot-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "journeys-left-foot",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "journeys-left-foot-good-charlotte",
+      "band": "Good Charlotte",
+      "stageId": "journeys-left-foot",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "journeys-left-foot-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "journeys-left-foot",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "journeys-left-foot-sum-41",
+      "band": "Sum 41",
+      "stageId": "journeys-left-foot",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "journeys-right-foot-the-weekend-classic",
+      "band": "The Weekend Classic",
+      "stageId": "journeys-right-foot",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "journeys-right-foot-real-friends",
+      "band": "Real Friends",
+      "stageId": "journeys-right-foot",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "journeys-right-foot-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "journeys-right-foot",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "journeys-right-foot-state-champs",
+      "band": "State Champs",
+      "stageId": "journeys-right-foot",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "journeys-right-foot-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "journeys-right-foot",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "journeys-right-foot-the-maine",
+      "band": "The Maine",
+      "stageId": "journeys-right-foot",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "journeys-right-foot-sleeping-with-sirens",
+      "band": "Sleeping With Sirens",
+      "stageId": "journeys-right-foot",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "journeys-right-foot-issues",
+      "band": "Issues",
+      "stageId": "journeys-right-foot",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "journeys-right-foot-tonight-alive",
+      "band": "Tonight Alive",
+      "stageId": "journeys-right-foot",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "journeys-right-foot-the-story-so-far",
+      "band": "The Story So Far",
+      "stageId": "journeys-right-foot",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "monster-energy-north-crown-the-empire",
+      "band": "Crown the Empire",
+      "stageId": "monster-energy-north",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "monster-energy-north-motionless-in-white",
+      "band": "Motionless in White",
+      "stageId": "monster-energy-north",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "monster-energy-north-the-color-morale",
+      "band": "The Color Morale",
+      "stageId": "monster-energy-north",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "monster-energy-north-every-time-i-die",
+      "band": "Every Time I Die",
+      "stageId": "monster-energy-north",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "monster-energy-north-whitechapel",
+      "band": "Whitechapel",
+      "stageId": "monster-energy-north",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "monster-energy-north-bullet-for-my-valentine",
+      "band": "Bullet for My Valentine",
+      "stageId": "monster-energy-north",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "monster-energy-north-atreyu",
+      "band": "Atreyu",
+      "stageId": "monster-energy-north",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "monster-energy-north-the-word-alive",
+      "band": "The Word Alive",
+      "stageId": "monster-energy-north",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "monster-energy-north-ice-nine-kills",
+      "band": "Ice Nine Kills",
+      "stageId": "monster-energy-north",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "monster-energy-south-cruel-hand",
+      "band": "Cruel Hand",
+      "stageId": "monster-energy-south",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "monster-energy-south-in-hearts-wake",
+      "band": "In Hearts Wake",
+      "stageId": "monster-energy-south",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "monster-energy-south-coldrain",
+      "band": "Coldrain",
+      "stageId": "monster-energy-south",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "monster-energy-south-gideon",
+      "band": "Gideon",
+      "stageId": "monster-energy-south",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "monster-energy-south-oceans-ate-alaska",
+      "band": "Oceans Ate Alaska",
+      "stageId": "monster-energy-south",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "monster-energy-south-vanna",
+      "band": "Vanna",
+      "stageId": "monster-energy-south",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "monster-energy-south-chelsea-grin",
+      "band": "Chelsea Grin",
+      "stageId": "monster-energy-south",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "monster-energy-south-wage-war",
+      "band": "Wage War",
+      "stageId": "monster-energy-south",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "monster-energy-south-veil-of-maya",
+      "band": "Veil of Maya",
+      "stageId": "monster-energy-south",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "poseidon-i-see-stars",
+      "band": "I See Stars",
+      "stageId": "poseidon",
+      "startTime": "11:10",
+      "displayTime": "11:10"
+    },
+    {
+      "id": "poseidon-emarosa",
+      "band": "Emarosa",
+      "stageId": "poseidon",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "poseidon-the-interrupters",
+      "band": "The Interrupters",
+      "stageId": "poseidon",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "poseidon-masked-intruder",
+      "band": "Masked Intruder",
+      "stageId": "poseidon",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "poseidon-secrets",
+      "band": "Secrets",
+      "stageId": "poseidon",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "poseidon-neck-deep",
+      "band": "Neck Deep",
+      "stageId": "poseidon",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "poseidon-knuckle-puck",
+      "band": "Knuckle Puck",
+      "stageId": "poseidon",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "poseidon-the-heirs",
+      "band": "The Heirs",
+      "stageId": "poseidon",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "poseidon-young-guns",
+      "band": "Young Guns",
+      "stageId": "poseidon",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "poseidon-roam",
+      "band": "Roam",
+      "stageId": "poseidon",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "cyclops-waterparks",
+      "band": "Waterparks",
+      "stageId": "cyclops",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "cyclops-chunk-no-captain-chunk",
+      "band": "Chunk! No, Captain Chunk!",
+      "stageId": "cyclops",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "cyclops-ghost-town",
+      "band": "Ghost Town",
+      "stageId": "cyclops",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "cyclops-too-close-to-touch",
+      "band": "Too Close to Touch",
+      "stageId": "cyclops",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "cyclops-sykes",
+      "band": "Sykes",
+      "stageId": "cyclops",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "cyclops-against-the-current",
+      "band": "Against the Current",
+      "stageId": "cyclops",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "cyclops-teenage-bottlerocket",
+      "band": "Teenage Bottlerocket",
+      "stageId": "cyclops",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "cyclops-ballyhoo",
+      "band": "Ballyhoo!",
+      "stageId": "cyclops",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "cyclops-assuming-we-survive",
+      "band": "Assuming We Survive",
+      "stageId": "cyclops",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "full-sail-broadside",
+      "band": "Broadside",
+      "stageId": "full-sail",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "full-sail-safe-to-say",
+      "band": "Safe to Say",
+      "stageId": "full-sail",
+      "startTime": "11:55",
+      "displayTime": "11:55"
+    },
+    {
+      "id": "full-sail-avion-roe",
+      "band": "Avion Roe",
+      "stageId": "full-sail",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "full-sail-cane-hill",
+      "band": "Cane Hill",
+      "stageId": "full-sail",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "full-sail-bad-seed-rising",
+      "band": "Bad Seed Rising",
+      "stageId": "full-sail",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "full-sail-with-confidence",
+      "band": "With Confidence",
+      "stageId": "full-sail",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "full-sail-the-new-low",
+      "band": "The New Low",
+      "stageId": "full-sail",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "full-sail-reckless-serenade",
+      "band": "Reckless Serenade",
+      "stageId": "full-sail",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "full-sail-palaye-royale",
+      "band": "Palaye Royale",
+      "stageId": "full-sail",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "full-sail-old-wounds",
+      "band": "Old Wounds",
+      "stageId": "full-sail",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "full-sail-mother-feather",
+      "band": "Mother Feather",
+      "stageId": "full-sail",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "full-sail-like-pacific",
+      "band": "Like Pacific",
+      "stageId": "full-sail",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    },
+    {
+      "id": "full-sail-capsize",
+      "band": "Capsize",
+      "stageId": "full-sail",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    }
+  ]
+}

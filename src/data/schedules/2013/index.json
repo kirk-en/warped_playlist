@@ -1,0 +1,418 @@
+[
+  {
+    "id": "2013-06-15-auburn",
+    "year": 2013,
+    "date": "2013-06-15",
+    "city": "Auburn",
+    "state": "WA",
+    "venue": "White River Amphitheatre"
+  },
+  {
+    "id": "2013-06-16-portland",
+    "year": 2013,
+    "date": "2013-06-16",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Portland Expo Center"
+  },
+  {
+    "id": "2013-06-19-chula-vista",
+    "year": 2013,
+    "date": "2013-06-19",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2013-06-20-pomona",
+    "year": 2013,
+    "date": "2013-06-20",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex"
+  },
+  {
+    "id": "2013-06-21-pomona",
+    "year": 2013,
+    "date": "2013-06-21",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex"
+  },
+  {
+    "id": "2013-06-22-mountain-view",
+    "year": 2013,
+    "date": "2013-06-22",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2013-06-23-ventura",
+    "year": 2013,
+    "date": "2013-06-23",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Ventura County Fairgrounds at Seaside Park"
+  },
+  {
+    "id": "2013-06-26-las-cruces",
+    "year": 2013,
+    "date": "2013-06-26",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field"
+  },
+  {
+    "id": "2013-06-27-mesa",
+    "year": 2013,
+    "date": "2013-06-27",
+    "city": "Mesa",
+    "state": "AZ",
+    "venue": "Quail Run Park"
+  },
+  {
+    "id": "2013-06-28-las-vegas",
+    "year": 2013,
+    "date": "2013-06-28",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Silverton Casino Lodge"
+  },
+  {
+    "id": "2013-06-29-salt-lake-city",
+    "year": 2013,
+    "date": "2013-06-29",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark"
+  },
+  {
+    "id": "2013-06-30-denver",
+    "year": 2013,
+    "date": "2013-06-30",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Sports Authority Field at Mile High"
+  },
+  {
+    "id": "2013-07-03-noblesville",
+    "year": 2013,
+    "date": "2013-07-03",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Klipsch Music Center"
+  },
+  {
+    "id": "2013-07-05-toronto",
+    "year": 2013,
+    "date": "2013-07-05",
+    "city": "Toronto",
+    "state": "ON",
+    "venue": "The Flats at Molson Canadian Amphitheatre"
+  },
+  {
+    "id": "2013-07-06-darien",
+    "year": 2013,
+    "date": "2013-07-06",
+    "city": "Darien",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center"
+  },
+  {
+    "id": "2013-07-07-holmdel",
+    "year": 2013,
+    "date": "2013-07-07",
+    "city": "Holmdel",
+    "state": "NJ",
+    "venue": "PNC Bank Arts Center"
+  },
+  {
+    "id": "2013-07-09-virginia-beach",
+    "year": 2013,
+    "date": "2013-07-09",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Farm Bureau Live at Virginia Beach"
+  },
+  {
+    "id": "2013-07-10-columbia",
+    "year": 2013,
+    "date": "2013-07-10",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2013-07-11-mansfield",
+    "year": 2013,
+    "date": "2013-07-11",
+    "city": "Mansfield",
+    "state": "MA",
+    "venue": "Comcast Center"
+  },
+  {
+    "id": "2013-07-12-camden",
+    "year": 2013,
+    "date": "2013-07-12",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Susquehanna Bank Center"
+  },
+  {
+    "id": "2013-07-13-uniondale",
+    "year": 2013,
+    "date": "2013-07-13",
+    "city": "Uniondale",
+    "state": "NY",
+    "venue": "Nassau Veterans Memorial Coliseum"
+  },
+  {
+    "id": "2013-07-14-hartford",
+    "year": 2013,
+    "date": "2013-07-14",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "Comcast Theatre"
+  },
+  {
+    "id": "2013-07-16-scranton",
+    "year": 2013,
+    "date": "2013-07-16",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Toyota Pavilion"
+  },
+  {
+    "id": "2013-07-17-burgettstown",
+    "year": 2013,
+    "date": "2013-07-17",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "First Niagara Pavilion"
+  },
+  {
+    "id": "2013-07-18-cuyahoga-falls",
+    "year": 2013,
+    "date": "2013-07-18",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "venue": "Blossom Music Center"
+  },
+  {
+    "id": "2013-07-19-auburn-hills",
+    "year": 2013,
+    "date": "2013-07-19",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "venue": "The Palace of Auburn Hills"
+  },
+  {
+    "id": "2013-07-20-tinley-park",
+    "year": 2013,
+    "date": "2013-07-20",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "First Midwest Bank Amphitheatre"
+  },
+  {
+    "id": "2013-07-21-shakopee",
+    "year": 2013,
+    "date": "2013-07-21",
+    "city": "Shakopee",
+    "state": "MN",
+    "venue": "Canterbury Park"
+  },
+  {
+    "id": "2013-07-23-bonner-springs",
+    "year": 2013,
+    "date": "2013-07-23",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Cricket Wireless Amphitheater"
+  },
+  {
+    "id": "2013-07-24-maryland-heights",
+    "year": 2013,
+    "date": "2013-07-24",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2013-07-25-atlanta",
+    "year": 2013,
+    "date": "2013-07-25",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Aaron's Amphitheatre at Lakewood"
+  },
+  {
+    "id": "2013-07-26-st-petersburg",
+    "year": 2013,
+    "date": "2013-07-26",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2013-07-27-west-palm-beach",
+    "year": 2013,
+    "date": "2013-07-27",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "venue": "Cruzan Amphitheatre"
+  },
+  {
+    "id": "2013-07-28-orlando",
+    "year": 2013,
+    "date": "2013-07-28",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2013-07-29-charlotte",
+    "year": 2013,
+    "date": "2013-07-29",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre"
+  },
+  {
+    "id": "2013-07-30-cincinnati",
+    "year": 2013,
+    "date": "2013-07-30",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2013-07-31-milwaukee",
+    "year": 2013,
+    "date": "2013-07-31",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater"
+  },
+  {
+    "id": "2013-08-02-dallas",
+    "year": 2013,
+    "date": "2013-08-02",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Gexa Energy Pavilion"
+  },
+  {
+    "id": "2013-08-03-san-antonio",
+    "year": 2013,
+    "date": "2013-08-03",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "AT&T Center"
+  },
+  {
+    "id": "2013-08-04-houston",
+    "year": 2013,
+    "date": "2013-08-04",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Center Parking Lot"
+  },
+  {
+    "id": "2013-11-09-berlin",
+    "year": 2013,
+    "date": "2013-11-09",
+    "city": "Berlin",
+    "state": "Germany",
+    "venue": "Arena Berlin"
+  },
+  {
+    "id": "2013-11-10-eindhoven",
+    "year": 2013,
+    "date": "2013-11-10",
+    "city": "Eindhoven",
+    "state": "Netherlands",
+    "venue": "Klokgebouw"
+  },
+  {
+    "id": "2013-11-16-london",
+    "year": 2013,
+    "date": "2013-11-16",
+    "city": "London",
+    "state": "UK",
+    "venue": "Alexandra Palace"
+  },
+  {
+    "id": "2013-11-17-london",
+    "year": 2013,
+    "date": "2013-11-17",
+    "city": "London",
+    "state": "UK",
+    "venue": "Alexandra Palace"
+  },
+  {
+    "id": "2013-11-23-bern",
+    "year": 2013,
+    "date": "2013-11-23",
+    "city": "Bern",
+    "state": "Switzerland",
+    "venue": "BEA Festhalle"
+  },
+  {
+    "id": "2013-11-24-vienna",
+    "year": 2013,
+    "date": "2013-11-24",
+    "city": "Vienna",
+    "state": "Austria",
+    "venue": "Wiener Stadthalle"
+  },
+  {
+    "id": "2013-11-29-brisbane",
+    "year": 2013,
+    "date": "2013-11-29",
+    "city": "Brisbane",
+    "state": "QLD",
+    "venue": "RNA Showgrounds"
+  },
+  {
+    "id": "2013-11-30-coffs-harbour",
+    "year": 2013,
+    "date": "2013-11-30",
+    "city": "Coffs Harbour",
+    "state": "NSW",
+    "venue": "Coffs Harbour Showgrounds"
+  },
+  {
+    "id": "2013-12-01-sydney",
+    "year": 2013,
+    "date": "2013-12-01",
+    "city": "Sydney",
+    "state": "NSW",
+    "venue": "Barangaroo"
+  },
+  {
+    "id": "2013-12-06-canberra",
+    "year": 2013,
+    "date": "2013-12-06",
+    "city": "Canberra",
+    "state": "ACT",
+    "venue": "Exhibition Park"
+  },
+  {
+    "id": "2013-12-07-melbourne",
+    "year": 2013,
+    "date": "2013-12-07",
+    "city": "Melbourne",
+    "state": "VIC",
+    "venue": "Birrarung Marr"
+  },
+  {
+    "id": "2013-12-08-adelaide",
+    "year": 2013,
+    "date": "2013-12-08",
+    "city": "Adelaide",
+    "state": "SA",
+    "venue": "Ellis Park"
+  }
+]

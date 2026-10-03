@@ -1,0 +1,278 @@
+{
+  "stages": [
+    {
+      "id": "monster-energy-west",
+      "name": "Monster Energy West Stage"
+    },
+    {
+      "id": "monster-energy-east",
+      "name": "Monster Energy East Stage"
+    },
+    {
+      "id": "jagermeister",
+      "name": "Jagermeister Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "acoustic-basement",
+      "name": "Acoustic Basement Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "monster-energy-west-the-color-morale",
+      "band": "The Color Morale",
+      "stageId": "monster-energy-west",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "monster-energy-west-watsky-wax",
+      "band": "Watsky & Wax",
+      "stageId": "monster-energy-west",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "monster-energy-west-hatebreed",
+      "band": "Hatebreed",
+      "stageId": "monster-energy-west",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "monster-energy-west-while-she-sleeps",
+      "band": "While She Sleeps",
+      "stageId": "monster-energy-west",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "monster-energy-west-billy-talent",
+      "band": "Billy Talent",
+      "stageId": "monster-energy-west",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "monster-energy-west-enter-shikari",
+      "band": "Enter Shikari",
+      "stageId": "monster-energy-west",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "monster-energy-east-rdgldgrn",
+      "band": "RDGLDGRN",
+      "stageId": "monster-energy-east",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "monster-energy-east-we-are-the-ocean",
+      "band": "We are the Ocean",
+      "stageId": "monster-energy-east",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "monster-energy-east-the-maine",
+      "band": "The Maine",
+      "stageId": "monster-energy-east",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "monster-energy-east-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "monster-energy-east",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "monster-energy-east-rise-against",
+      "band": "Rise Against",
+      "stageId": "monster-energy-east",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "jagermeister-decade",
+      "band": "Decade",
+      "stageId": "jagermeister",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "jagermeister-jim-lockey-and-the-solemn-sun",
+      "band": "Jim Lockey and the Solemn Sun",
+      "stageId": "jagermeister",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "jagermeister-the-hype-theory",
+      "band": "The Hype Theory",
+      "stageId": "jagermeister",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "jagermeister-ghost-town",
+      "band": "Ghost Town",
+      "stageId": "jagermeister",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "jagermeister-hacktivist",
+      "band": "Hacktivist",
+      "stageId": "jagermeister",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "jagermeister-a-day-to-remember-acoustic",
+      "band": "A Day to Remember (acoustic)",
+      "stageId": "jagermeister",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "jagermeister-sonic-boom-six",
+      "band": "Sonic Boom Six",
+      "stageId": "jagermeister",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "jagermeister-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "jagermeister",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "jagermeister-the-skints",
+      "band": "The Skints",
+      "stageId": "jagermeister",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "jagermeister-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "jagermeister",
+      "startTime": "21:40",
+      "displayTime": "9:40"
+    },
+    {
+      "id": "kevin-says-page-44",
+      "band": "Page 44",
+      "stageId": "kevin-says",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "kevin-says-like-torches",
+      "band": "Like Torches",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-carnival-kids",
+      "band": "Carnival Kids",
+      "stageId": "kevin-says",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "kevin-says-skinny-lister",
+      "band": "Skinny Lister",
+      "stageId": "kevin-says",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "kevin-says-black-dogs",
+      "band": "Black Dogs",
+      "stageId": "kevin-says",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "kevin-says-max-raptor",
+      "band": "Max Raptor",
+      "stageId": "kevin-says",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "kevin-says-the-first",
+      "band": "The First",
+      "stageId": "kevin-says",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "kevin-says-cytota",
+      "band": "Cytota",
+      "stageId": "kevin-says",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "kevin-says-rat-attack",
+      "band": "Rat Attack",
+      "stageId": "kevin-says",
+      "startTime": "20:50",
+      "displayTime": "8:50"
+    },
+    {
+      "id": "acoustic-basement-northcote",
+      "band": "Northcote",
+      "stageId": "acoustic-basement",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "acoustic-basement-fighting-fiction",
+      "band": "Fighting Fiction",
+      "stageId": "acoustic-basement",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "acoustic-basement-sonic-boom-six",
+      "band": "Sonic Boom Six",
+      "stageId": "acoustic-basement",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "acoustic-basement-jim-lockey-and-the-solemn-sun",
+      "band": "Jim Lockey and the Solemn Sun",
+      "stageId": "acoustic-basement",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "acoustic-basement-sykes",
+      "band": "Sykes",
+      "stageId": "acoustic-basement",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "acoustic-basement-the-younger",
+      "band": "The Younger",
+      "stageId": "acoustic-basement",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    }
+  ]
+}

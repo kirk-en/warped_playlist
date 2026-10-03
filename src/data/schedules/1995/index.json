@@ -1,0 +1,224 @@
+[
+  {
+    "id": "1995-08-04-salt-lake-city",
+    "year": 1995,
+    "date": "1995-08-04",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Salt Lake Air",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-05-boulder",
+    "year": 1995,
+    "date": "1995-08-05",
+    "city": "Boulder",
+    "state": "CO",
+    "venue": "Franklin Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-07-san-antonio",
+    "year": 1995,
+    "date": "1995-08-07",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "Sunken Garden Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-08-south-houston",
+    "year": 1995,
+    "date": "1995-08-08",
+    "city": "South Houston",
+    "state": "TX",
+    "venue": "Astro Exhibit Hall",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-09-dallas",
+    "year": 1995,
+    "date": "1995-08-09",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Leadbelly Plaza",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-11-atlanta",
+    "year": 1995,
+    "date": "1995-08-11",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Masquerade Music Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-12-orlando",
+    "year": 1995,
+    "date": "1995-08-12",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "The Edge Concert Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-13-fort-lauderdale",
+    "year": 1995,
+    "date": "1995-08-13",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "venue": "The Edge",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-14-tampa",
+    "year": 1995,
+    "date": "1995-08-14",
+    "city": "Tampa",
+    "state": "FL",
+    "venue": "Florida State Fair Expo Hall",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-15-myrtle-beach",
+    "year": 1995,
+    "date": "1995-08-15",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "venue": "Myrtle Beach Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-16-norfolk",
+    "year": 1995,
+    "date": "1995-08-16",
+    "city": "Norfolk",
+    "state": "VA",
+    "venue": "The Boat House",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-17-camden",
+    "year": 1995,
+    "date": "1995-08-17",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Blockbuster/Sony Entertainment Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-18-asbury-park",
+    "year": 1995,
+    "date": "1995-08-18",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Stone Pony Festival Area",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-19-northampton",
+    "year": 1995,
+    "date": "1995-08-19",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Northampton Airport",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-20-north-tonawanda",
+    "year": 1995,
+    "date": "1995-08-20",
+    "city": "North Tonawanda",
+    "state": "NY",
+    "venue": "Melody Fair",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-21-uniondale",
+    "year": 1995,
+    "date": "1995-08-21",
+    "city": "Uniondale",
+    "state": "NY",
+    "venue": "Nassau Coliseum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-23-toronto",
+    "year": 1995,
+    "date": "1995-08-23",
+    "city": "Toronto",
+    "state": "ON",
+    "venue": "CNE Grandstand Exhibition Place",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-24-cleveland",
+    "year": 1995,
+    "date": "1995-08-24",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Nautica Stage",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-25-pontiac",
+    "year": 1995,
+    "date": "1995-08-25",
+    "city": "Pontiac",
+    "state": "MI",
+    "venue": "Phoenix Plaza Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-26-rosemont",
+    "year": 1995,
+    "date": "1995-08-26",
+    "city": "Rosemont",
+    "state": "IL",
+    "venue": "Horizon Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-08-30-vancouver",
+    "year": 1995,
+    "date": "1995-08-30",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "PNE Coliseum"
+  },
+  {
+    "id": "1995-08-31-portland",
+    "year": 1995,
+    "date": "1995-08-31",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Portland Meadows",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-09-01-seattle",
+    "year": 1995,
+    "date": "1995-09-01",
+    "city": "Seattle",
+    "state": "WA",
+    "venue": "Memorial Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1995-09-03-concord",
+    "year": 1995,
+    "date": "1995-09-03",
+    "city": "Concord",
+    "state": "CA",
+    "venue": "Concord Pavilion"
+  },
+  {
+    "id": "1995-09-04-irvine",
+    "year": 1995,
+    "date": "1995-09-04",
+    "city": "Irvine",
+    "state": "CA",
+    "venue": "Frazier Park"
+  }
+]

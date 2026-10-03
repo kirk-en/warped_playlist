@@ -1,0 +1,268 @@
+[
+  {
+    "id": "1996-07-04-phoenix",
+    "year": 1996,
+    "date": "1996-07-04",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Desert Sky Pavilion"
+  },
+  {
+    "id": "1996-07-05-san-diego",
+    "year": 1996,
+    "date": "1996-07-05",
+    "city": "San Diego",
+    "state": "CA",
+    "venue": "San Diego Sports Arena",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-06-carson",
+    "year": 1996,
+    "date": "1996-07-06",
+    "city": "Carson",
+    "state": "CA",
+    "venue": "Olympic Velodrome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-07-san-francisco",
+    "year": 1996,
+    "date": "1996-07-07",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Crissy Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-09-salem",
+    "year": 1996,
+    "date": "1996-07-09",
+    "city": "Salem",
+    "state": "OR",
+    "venue": "L.B. Day Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-10-vancouver",
+    "year": 1996,
+    "date": "1996-07-10",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Plaza of Nations",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-11-tacoma",
+    "year": 1996,
+    "date": "1996-07-11",
+    "city": "Tacoma",
+    "state": "WA",
+    "venue": "Tacoma Dome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-13-salt-lake-city",
+    "year": 1996,
+    "date": "1996-07-13",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-14-denver",
+    "year": 1996,
+    "date": "1996-07-14",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Red Rocks Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-16-bonner-springs",
+    "year": 1996,
+    "date": "1996-07-16",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Sandstone Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-19-milwaukee",
+    "year": 1996,
+    "date": "1996-07-19",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Eagles Ballroom Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-20-st-louis",
+    "year": 1996,
+    "date": "1996-07-20",
+    "city": "St. Louis",
+    "state": "MO",
+    "venue": "Riverport Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-21-tinley-park",
+    "year": 1996,
+    "date": "1996-07-21",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "World Music Theatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-22-clarkston",
+    "year": 1996,
+    "date": "1996-07-22",
+    "city": "Clarkston",
+    "state": "MI",
+    "venue": "Pine Knob Music Theatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-23-pittsburgh",
+    "year": 1996,
+    "date": "1996-07-23",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "IC Light Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-24-cleveland",
+    "year": 1996,
+    "date": "1996-07-24",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Drive-IN",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-26-buffalo",
+    "year": 1996,
+    "date": "1996-07-26",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "LaSalle Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-27-bowmanville",
+    "year": 1996,
+    "date": "1996-07-27",
+    "city": "Bowmanville",
+    "state": "ON",
+    "venue": "Mosport Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-28-verdun",
+    "year": 1996,
+    "date": "1996-07-28",
+    "city": "Verdun",
+    "state": "QC",
+    "venue": "Verdun Auditorium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-30-northampton",
+    "year": 1996,
+    "date": "1996-07-30",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Northampton Airport",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-07-31-washington",
+    "year": 1996,
+    "date": "1996-07-31",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Capital Ballroom"
+  },
+  {
+    "id": "1996-08-01-camden",
+    "year": 1996,
+    "date": "1996-08-01",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Blockbuster Sony Entertainment Center"
+  },
+  {
+    "id": "1996-08-02-vernon",
+    "year": 1996,
+    "date": "1996-08-02",
+    "city": "Vernon",
+    "state": "NJ",
+    "venue": "Action Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-08-03-falmouth",
+    "year": 1996,
+    "date": "1996-08-03",
+    "city": "Falmouth",
+    "state": "MA",
+    "venue": "Barnstable City Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-08-04-asbury-park",
+    "year": 1996,
+    "date": "1996-08-04",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Stone Pony Festival Area",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-08-06-jacksonville",
+    "year": 1996,
+    "date": "1996-08-06",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Metropolitan Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-08-07-miami",
+    "year": 1996,
+    "date": "1996-08-07",
+    "city": "Miami",
+    "state": "FL",
+    "venue": "Bayfront Park & Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-08-08-panama-city",
+    "year": 1996,
+    "date": "1996-08-08",
+    "city": "Panama City",
+    "state": "FL",
+    "venue": "Club La Vela",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1996-08-09-cocoa",
+    "year": 1996,
+    "date": "1996-08-09",
+    "city": "Cocoa",
+    "state": "FL",
+    "venue": "Cocoa Expo"
+  },
+  {
+    "id": "1996-08-11-houston",
+    "year": 1996,
+    "date": "1996-08-11",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "International Ballroom",
+    "note": "Set times are not known for this date."
+  }
+]

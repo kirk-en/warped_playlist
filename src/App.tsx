@@ -6,6 +6,9 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
+        <Route path="/years" element={<HomePage />} />
+        <Route path="/:year" element={<HomePage />} />
+        <Route path="/:year/:id" element={<HomePage />} />
       </Routes>
     </BrowserRouter>
   );

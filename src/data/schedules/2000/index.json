@@ -1,0 +1,351 @@
+[
+  {
+    "id": "2000-06-23-fresno",
+    "year": 2000,
+    "date": "2000-06-23",
+    "city": "Fresno",
+    "state": "CA",
+    "venue": "Fresno State University Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-06-24-chula-vista",
+    "year": 2000,
+    "date": "2000-06-24",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-06-25-phoenix",
+    "year": 2000,
+    "date": "2000-06-25",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Manzanita Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-06-28-ventura",
+    "year": 2000,
+    "date": "2000-06-28",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Ventura County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-06-29-anaheim",
+    "year": 2000,
+    "date": "2000-06-29",
+    "city": "Anaheim",
+    "state": "CA",
+    "venue": "Arrowhead Pond"
+  },
+  {
+    "id": "2000-06-30-anaheim",
+    "year": 2000,
+    "date": "2000-06-30",
+    "city": "Anaheim",
+    "state": "CA",
+    "venue": "Arrowhead Pond"
+  },
+  {
+    "id": "2000-07-01-san-francisco",
+    "year": 2000,
+    "date": "2000-07-01",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-02-soda-springs",
+    "year": 2000,
+    "date": "2000-07-02",
+    "city": "Soda Springs",
+    "state": "CA",
+    "venue": "Boreal Ridge",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-03-nampa",
+    "year": 2000,
+    "date": "2000-07-03",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-04-george",
+    "year": 2000,
+    "date": "2000-07-04",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-06-calgary",
+    "year": 2000,
+    "date": "2000-07-06",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-07-bozeman",
+    "year": 2000,
+    "date": "2000-07-07",
+    "city": "Bozeman",
+    "state": "MT",
+    "venue": "Gallatin County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-08-salt-lake-city",
+    "year": 2000,
+    "date": "2000-07-08",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-09-brighton",
+    "year": 2000,
+    "date": "2000-07-09",
+    "city": "Brighton",
+    "state": "CO",
+    "venue": "Adams County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-11-minneapolis",
+    "year": 2000,
+    "date": "2000-07-11",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "HHH Metrodome Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-12-tinley-park",
+    "year": 2000,
+    "date": "2000-07-12",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "New World Music Theatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-13-cleveland",
+    "year": 2000,
+    "date": "2000-07-13",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "The Flats at Nautica",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-14-camden",
+    "year": 2000,
+    "date": "2000-07-14",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Blockbuster/Sony Entertainment Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-16-asbury-park",
+    "year": 2000,
+    "date": "2000-07-16",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "The Stone Pony Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-17-malta",
+    "year": 2000,
+    "date": "2000-07-17",
+    "city": "Malta",
+    "state": "NY",
+    "venue": "Albany-Saratoga Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-18-pittsburgh",
+    "year": 2000,
+    "date": "2000-07-18",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "IC Light Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-19-buffalo",
+    "year": 2000,
+    "date": "2000-07-19",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "La Salle Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-20-boston",
+    "year": 2000,
+    "date": "2000-07-20",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Suffolk Downs",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-21-montreal",
+    "year": 2000,
+    "date": "2000-07-21",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-22-barrie",
+    "year": 2000,
+    "date": "2000-07-22",
+    "city": "Barrie",
+    "state": "ON",
+    "venue": "Molson Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-23-pontiac",
+    "year": 2000,
+    "date": "2000-07-23",
+    "city": "Pontiac",
+    "state": "MI",
+    "venue": "Phoenix Plaza Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-24-new-york",
+    "year": 2000,
+    "date": "2000-07-24",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-25-bristow",
+    "year": 2000,
+    "date": "2000-07-25",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-26-hampton",
+    "year": 2000,
+    "date": "2000-07-26",
+    "city": "Hampton",
+    "state": "VA",
+    "venue": "Hampton Coliseum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-27-knoxville",
+    "year": 2000,
+    "date": "2000-07-27",
+    "city": "Knoxville",
+    "state": "TN",
+    "venue": "Chilhowee Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-28-jacksonville",
+    "year": 2000,
+    "date": "2000-07-28",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-29-west-palm-beach",
+    "year": 2000,
+    "date": "2000-07-29",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "venue": "MARS Music Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-30-orlando",
+    "year": 2000,
+    "date": "2000-07-30",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-07-31-panama-city",
+    "year": 2000,
+    "date": "2000-07-31",
+    "city": "Panama City",
+    "state": "FL",
+    "venue": "Club La Vela",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-08-01-nashville",
+    "year": 2000,
+    "date": "2000-08-01",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "AmSouth Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-08-03-houston",
+    "year": 2000,
+    "date": "2000-08-03",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Astro Arena",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-08-04-dallas",
+    "year": 2000,
+    "date": "2000-08-04",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Centre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-08-05-san-antonio",
+    "year": 2000,
+    "date": "2000-08-05",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "Sunken Gardens Theater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2000-08-06-el-paso",
+    "year": 2000,
+    "date": "2000-08-06",
+    "city": "El Paso",
+    "state": "TX",
+    "venue": "El Paso County Coliseum",
+    "note": "Set times are not known for this date."
+  }
+]

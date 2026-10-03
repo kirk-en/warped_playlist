@@ -1,0 +1,359 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "ladies-lounge",
+      "name": "Ladies Lounge"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-rogue-s-march",
+      "band": "Rogue's March",
+      "stageId": "teal",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "teal-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "teal",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "teal-madcap",
+      "band": "Madcap",
+      "stageId": "teal",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "teal-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "teal",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "teal-afi",
+      "band": "AFI",
+      "stageId": "teal",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "teal-pennywise",
+      "band": "Pennywise",
+      "stageId": "teal",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "teal-rancid",
+      "band": "Rancid",
+      "stageId": "teal",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "teal-me-first-and-the-gimme-gimmes",
+      "band": "Me First and the Gimme Gimmes",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "brian-sum-41",
+      "band": "Sum 41",
+      "stageId": "brian",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "brian-kool-keith",
+      "band": "Kool Keith",
+      "stageId": "brian",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "brian-the-vandals",
+      "band": "The Vandals",
+      "stageId": "brian",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "brian-rollins-band",
+      "band": "Rollins Band",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-morgan-heritage",
+      "band": "Morgan Heritage",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-h2o",
+      "band": "H2O",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "maurice-the-planet-smashers",
+      "band": "The Planet Smashers",
+      "stageId": "maurice",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "maurice-dover",
+      "band": "Dover",
+      "stageId": "maurice",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "maurice-no-motiv",
+      "band": "No Motiv",
+      "stageId": "maurice",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "maurice-bigwig",
+      "band": "Bigwig",
+      "stageId": "maurice",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "maurice-alien-ant-farm",
+      "band": "Alien Ant Farm",
+      "stageId": "maurice",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "maurice-lefty",
+      "band": "Lefty",
+      "stageId": "maurice",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "maurice-shutdown",
+      "band": "Shutdown",
+      "stageId": "maurice",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "maurice-grade",
+      "band": "Grade",
+      "stageId": "maurice",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "volcom-river-city-rebels",
+      "band": "River City Rebels",
+      "stageId": "volcom",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "volcom-ten-times-a-day",
+      "band": "Ten Times a Day",
+      "stageId": "volcom",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "volcom-project-wyze",
+      "band": "Project Wyze",
+      "stageId": "volcom",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "volcom-the-line",
+      "band": "The Line",
+      "stageId": "volcom",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "volcom-tree",
+      "band": "Tree",
+      "stageId": "volcom",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "volcom-jaya-the-cat",
+      "band": "Jaya the Cat",
+      "stageId": "volcom",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "volcom-catch-22",
+      "band": "Catch 22",
+      "stageId": "volcom",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "volcom-little-t-and-one-track-mike",
+      "band": "Little T and One Track Mike",
+      "stageId": "volcom",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "ernie-ball-absolve",
+      "band": "Absolve",
+      "stageId": "ernie-ball",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "ernie-ball-gage",
+      "band": "Gage",
+      "stageId": "ernie-ball",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "ernie-ball-7th-rail-crew",
+      "band": "7th Rail Crew",
+      "stageId": "ernie-ball",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "ernie-ball-incredibly-strange-wrestling",
+      "band": "Incredibly Strange Wrestling",
+      "stageId": "ernie-ball",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "ernie-ball-bruise-bros",
+      "band": "Bruise Bros.",
+      "stageId": "ernie-ball",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "ernie-ball-nulsee",
+      "band": "Nulsee",
+      "stageId": "ernie-ball",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "ernie-ball-junction-18",
+      "band": "Junction 18",
+      "stageId": "ernie-ball",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "ernie-ball-incredibly-strange-wrestling-2",
+      "band": "Incredibly Strange Wrestling",
+      "stageId": "ernie-ball",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "ernie-ball-bottom-line",
+      "band": "Bottom Line",
+      "stageId": "ernie-ball",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "ernie-ball-sugarcult",
+      "band": "Sugarcult",
+      "stageId": "ernie-ball",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "ladies-lounge-white-collar-crime",
+      "band": "White Collar Crime",
+      "stageId": "ladies-lounge",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "ladies-lounge-dj-pollywog",
+      "band": "DJ Pollywog",
+      "stageId": "ladies-lounge",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "ladies-lounge-bottom",
+      "band": "Bottom",
+      "stageId": "ladies-lounge",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "ladies-lounge-ultrababyfat",
+      "band": "Ultrababyfat",
+      "stageId": "ladies-lounge",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    }
+  ]
+}

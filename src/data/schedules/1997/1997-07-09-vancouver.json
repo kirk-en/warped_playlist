@@ -1,0 +1,204 @@
+{
+  "stages": [
+    {
+      "id": "pop-up",
+      "name": "Pop Up Stage"
+    },
+    {
+      "id": "flatbed",
+      "name": "Flatbed Stage"
+    },
+    {
+      "id": "surf",
+      "name": "Surf Stage"
+    },
+    {
+      "id": "local",
+      "name": "Local Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "pop-up-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "pop-up",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "pop-up-tha-alkaholiks",
+      "band": "Tha Alkaholiks",
+      "stageId": "pop-up",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "pop-up-face-to-face",
+      "band": "Face to Face",
+      "stageId": "pop-up",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "pop-up-pennywise",
+      "band": "Pennywise",
+      "stageId": "pop-up",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "pop-up-social-distortion",
+      "band": "Social Distortion",
+      "stageId": "pop-up",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "pop-up-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "pop-up",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "pop-up-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "pop-up",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "flatbed-limp-bizkit",
+      "band": "Limp Bizkit",
+      "stageId": "flatbed",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "flatbed-blink-182",
+      "band": "Blink-182",
+      "stageId": "flatbed",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "flatbed-the-vandals",
+      "band": "The Vandals",
+      "stageId": "flatbed",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "flatbed-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "flatbed",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "flatbed-hepcat",
+      "band": "Hepcat",
+      "stageId": "flatbed",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "flatbed-descendents",
+      "band": "Descendents",
+      "stageId": "flatbed",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "surf-cellophane-solution",
+      "band": "Cellophane Solution",
+      "stageId": "surf",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "surf-lo-presher",
+      "band": "Lo Presher",
+      "stageId": "surf",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "surf-sugar-ray",
+      "band": "Sugar Ray",
+      "stageId": "surf",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "surf-sunchild",
+      "band": "Sunchild",
+      "stageId": "surf",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "surf-millencolin",
+      "band": "Millencolin",
+      "stageId": "surf",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "surf-buck-o-nine",
+      "band": "Buck-O-Nine",
+      "stageId": "surf",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "surf-the-investigators",
+      "band": "The Investigators",
+      "stageId": "surf",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "local-98-mute",
+      "band": "98 Mute",
+      "stageId": "local",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "local-field-day",
+      "band": "Field Day",
+      "stageId": "local",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "local-the-malchiks",
+      "band": "The Malchiks",
+      "stageId": "local",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "local-breach",
+      "band": "Breach",
+      "stageId": "local",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "local-joe-keithly",
+      "band": "Joe Keithly",
+      "stageId": "local",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "local-ten-days-late",
+      "band": "Ten Days Late",
+      "stageId": "local",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    }
+  ]
+}

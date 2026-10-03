@@ -1,0 +1,243 @@
+{
+  "stages": [
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "brian-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "brian",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "brian-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "brian",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "brian-pennywise",
+      "band": "Pennywise",
+      "stageId": "brian",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "brian-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "brian",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "brian-rancid",
+      "band": "Rancid",
+      "stageId": "brian",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "brian-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "brian",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "teal-thrice",
+      "band": "Thrice",
+      "stageId": "teal",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "teal-the-used",
+      "band": "The Used",
+      "stageId": "teal",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "teal-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "teal",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "teal-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "teal",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "teal-poison-the-well",
+      "band": "Poison the Well",
+      "stageId": "teal",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "teal-mest",
+      "band": "Mest",
+      "stageId": "teal",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "teal-face-to-face",
+      "band": "Face to Face",
+      "stageId": "teal",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "maurice-plain-white-t-s",
+      "band": "Plain White T's",
+      "stageId": "maurice",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "maurice-from-autumn-to-ashes",
+      "band": "From Autumn to Ashes",
+      "stageId": "maurice",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "maurice-slick-shoes",
+      "band": "Slick Shoes",
+      "stageId": "maurice",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "maurice-one-man-army",
+      "band": "One Man Army",
+      "stageId": "maurice",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "maurice-avenged-sevenfold",
+      "band": "Avenged Sevenfold",
+      "stageId": "maurice",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "maurice-s-t-u-n",
+      "band": "S.T.U.N.",
+      "stageId": "maurice",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "maurice-the-unseen",
+      "band": "The Unseen",
+      "stageId": "maurice",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "volcom-lylah",
+      "band": "Lylah",
+      "stageId": "volcom",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "volcom-1208",
+      "band": "1208",
+      "stageId": "volcom",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "volcom-destruction-made-simple",
+      "band": "Destruction Made Simple",
+      "stageId": "volcom",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "volcom-western-waste",
+      "band": "Western Waste",
+      "stageId": "volcom",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "volcom-eleventeen",
+      "band": "Eleventeen",
+      "stageId": "volcom",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "volcom-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "volcom",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "volcom-pepper",
+      "band": "Pepper",
+      "stageId": "volcom",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "kevin-says-never-heard-of-it",
+      "band": "Never Heard of It",
+      "stageId": "kevin-says",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    }
+  ]
+}

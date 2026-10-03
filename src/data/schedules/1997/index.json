@@ -1,0 +1,326 @@
+[
+  {
+    "id": "1997-07-02-san-diego",
+    "year": 1997,
+    "date": "1997-07-02",
+    "city": "San Diego",
+    "state": "CA",
+    "venue": "Summer Pops Bowl",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-03-carson",
+    "year": 1997,
+    "date": "1997-07-03",
+    "city": "Carson",
+    "state": "CA",
+    "venue": "Olympic Velodrome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-05-lake-tahoe",
+    "year": 1997,
+    "date": "1997-07-05",
+    "city": "Lake Tahoe",
+    "state": "NV",
+    "venue": "Boreal Ridge",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-06-san-francisco",
+    "year": 1997,
+    "date": "1997-07-06",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-09-vancouver",
+    "year": 1997,
+    "date": "1997-07-09",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "PNE Coliseum"
+  },
+  {
+    "id": "1997-07-10-george",
+    "year": 1997,
+    "date": "1997-07-10",
+    "city": "George",
+    "state": "WA",
+    "venue": "Gorge Amphitheater"
+  },
+  {
+    "id": "1997-07-11-boise",
+    "year": 1997,
+    "date": "1997-07-11",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Le Bois Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-12-salt-lake-city",
+    "year": 1997,
+    "date": "1997-07-12",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-13-boulder",
+    "year": 1997,
+    "date": "1997-07-13",
+    "city": "Boulder",
+    "state": "CO",
+    "venue": "Franklin Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-15-lawrence",
+    "year": 1997,
+    "date": "1997-07-15",
+    "city": "Lawrence",
+    "state": "KS",
+    "venue": "Burcham Park"
+  },
+  {
+    "id": "1997-07-16-milwaukee",
+    "year": 1997,
+    "date": "1997-07-16",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Eagles Ballroom Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-17-st-paul",
+    "year": 1997,
+    "date": "1997-07-17",
+    "city": "St. Paul",
+    "state": "MN",
+    "venue": "Midway Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-18-chicago",
+    "year": 1997,
+    "date": "1997-07-18",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "United Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-19-london",
+    "year": 1997,
+    "date": "1997-07-19",
+    "city": "London",
+    "state": "ON",
+    "venue": "Western Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-20-montreal",
+    "year": 1997,
+    "date": "1997-07-20",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Hippodrome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-21-buffalo",
+    "year": 1997,
+    "date": "1997-07-21",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "LaSalle Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-22-cleveland",
+    "year": 1997,
+    "date": "1997-07-22",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Agora Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-23-clarkston",
+    "year": 1997,
+    "date": "1997-07-23",
+    "city": "Clarkston",
+    "state": "MI",
+    "venue": "Pine Knob Music Theater"
+  },
+  {
+    "id": "1997-07-24-pittsburgh",
+    "year": 1997,
+    "date": "1997-07-24",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "IC Light Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-25-new-york",
+    "year": 1997,
+    "date": "1997-07-25",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island"
+  },
+  {
+    "id": "1997-07-26-asbury-park",
+    "year": 1997,
+    "date": "1997-07-26",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Asbury Park Parking Lot"
+  },
+  {
+    "id": "1997-07-27-washington",
+    "year": 1997,
+    "date": "1997-07-27",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "RFK Stadium"
+  },
+  {
+    "id": "1997-07-29-northampton",
+    "year": 1997,
+    "date": "1997-07-29",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Three County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-07-30-philadelphia",
+    "year": 1997,
+    "date": "1997-07-30",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Wachovia Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-01-jacksonville",
+    "year": 1997,
+    "date": "1997-08-01",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville State Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-02-pompano-beach",
+    "year": 1997,
+    "date": "1997-08-02",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Amphitheater Grounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-03-sanford",
+    "year": 1997,
+    "date": "1997-08-03",
+    "city": "Sanford",
+    "state": "FL",
+    "venue": "Tsunami Complex"
+  },
+  {
+    "id": "1997-08-04-panama-city",
+    "year": 1997,
+    "date": "1997-08-04",
+    "city": "Panama City",
+    "state": "FL",
+    "venue": "Club La Vela",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-05-atlanta",
+    "year": 1997,
+    "date": "1997-08-05",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Lakewood Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-15-cologne",
+    "year": 1997,
+    "date": "1997-08-15",
+    "city": "Cologne",
+    "state": "Germany",
+    "venue": "Bizarre Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-16-munich",
+    "year": 1997,
+    "date": "1997-08-16",
+    "city": "Munich",
+    "state": "Germany",
+    "venue": "Colosseum",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-17-vienna",
+    "year": 1997,
+    "date": "1997-08-17",
+    "city": "Vienna",
+    "state": "Austria",
+    "venue": "Arena Wien",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-19-marseille",
+    "year": 1997,
+    "date": "1997-08-19",
+    "city": "Marseille",
+    "state": "France",
+    "venue": "Le Dome",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-20-pamplona",
+    "year": 1997,
+    "date": "1997-08-20",
+    "city": "Pamplona",
+    "state": "Spain",
+    "venue": "Bullring",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-22-reading",
+    "year": 1997,
+    "date": "1997-08-22",
+    "city": "Reading",
+    "state": "UK",
+    "venue": "Reading Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-23-hasselt",
+    "year": 1997,
+    "date": "1997-08-23",
+    "city": "Hasselt",
+    "state": "Belgium",
+    "venue": "Pukkelpop Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1997-08-24-dronten",
+    "year": 1997,
+    "date": "1997-08-24",
+    "city": "Dronten",
+    "state": "Netherlands",
+    "venue": "Lowlands Festival"
+  }
+]

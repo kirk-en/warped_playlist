@@ -1,0 +1,396 @@
+[
+  {
+    "id": "2003-06-19-boise",
+    "year": 2003,
+    "date": "2003-06-19",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Idaho Center"
+  },
+  {
+    "id": "2003-06-20-bozeman",
+    "year": 2003,
+    "date": "2003-06-20",
+    "city": "Bozeman",
+    "state": "MT",
+    "venue": "Gallatin County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-21-salt-lake-city",
+    "year": 2003,
+    "date": "2003-06-21",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-22-denver",
+    "year": 2003,
+    "date": "2003-06-22",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-23-wichita",
+    "year": 2003,
+    "date": "2003-06-23",
+    "city": "Wichita",
+    "state": "KS",
+    "venue": "Wichita Greyhound Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-24-bonner-springs",
+    "year": 2003,
+    "date": "2003-06-24",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-25-maryland-heights",
+    "year": 2003,
+    "date": "2003-06-25",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "UMB Bank Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-26-cincinnati",
+    "year": 2003,
+    "date": "2003-06-26",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-27-noblesville",
+    "year": 2003,
+    "date": "2003-06-27",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-28-somerset",
+    "year": 2003,
+    "date": "2003-06-28",
+    "city": "Somerset",
+    "state": "WI",
+    "venue": "Float-Rite Park Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-06-29-tinley-park",
+    "year": 2003,
+    "date": "2003-06-29",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "Tweeter Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-02-calgary",
+    "year": 2003,
+    "date": "2003-07-02",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Speedway",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-04-vancouver",
+    "year": 2003,
+    "date": "2003-07-04",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Thunderbird Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-05-george",
+    "year": 2003,
+    "date": "2003-07-05",
+    "city": "George",
+    "state": "WA",
+    "venue": "Gorge Amphitheater Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-06-st-helens",
+    "year": 2003,
+    "date": "2003-07-06",
+    "city": "St. Helens",
+    "state": "OR",
+    "venue": "Columbia Meadows",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-08-pomona",
+    "year": 2003,
+    "date": "2003-07-08",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-09-ventura",
+    "year": 2003,
+    "date": "2003-07-09",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-10-chula-vista",
+    "year": 2003,
+    "date": "2003-07-10",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Coors Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-11-long-beach",
+    "year": 2003,
+    "date": "2003-07-11",
+    "city": "Long Beach",
+    "state": "CA",
+    "venue": "Cal State Long Beach"
+  },
+  {
+    "id": "2003-07-12-san-francisco",
+    "year": 2003,
+    "date": "2003-07-12",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32"
+  },
+  {
+    "id": "2003-07-13-marysville",
+    "year": 2003,
+    "date": "2003-07-13",
+    "city": "Marysville",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-15-peoria",
+    "year": 2003,
+    "date": "2003-07-15",
+    "city": "Peoria",
+    "state": "AZ",
+    "venue": "Peoria Sports Complex",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-16-las-cruces",
+    "year": 2003,
+    "date": "2003-07-16",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field"
+  },
+  {
+    "id": "2003-07-18-selma",
+    "year": 2003,
+    "date": "2003-07-18",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-19-dallas",
+    "year": 2003,
+    "date": "2003-07-19",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Smirnoff Music Centre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-20-houston",
+    "year": 2003,
+    "date": "2003-07-20",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Reliant Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-23-atlanta",
+    "year": 2003,
+    "date": "2003-07-23",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "HiFi Buys Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-24-orlando",
+    "year": 2003,
+    "date": "2003-07-24",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2003-07-25-st-petersburg",
+    "year": 2003,
+    "date": "2003-07-25",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-26-pompano-beach",
+    "year": 2003,
+    "date": "2003-07-26",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-27-jacksonville",
+    "year": 2003,
+    "date": "2003-07-27",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Jacksonville Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-28-charlotte",
+    "year": 2003,
+    "date": "2003-07-28",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-29-virginia-beach",
+    "year": 2003,
+    "date": "2003-07-29",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "GTE Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-30-bristow",
+    "year": 2003,
+    "date": "2003-07-30",
+    "city": "Bristow",
+    "state": "VA",
+    "venue": "Nissan Pavilion",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-07-31-brockton",
+    "year": 2003,
+    "date": "2003-07-31",
+    "city": "Brockton",
+    "state": "MA",
+    "venue": "Brockton Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-08-01-montreal",
+    "year": 2003,
+    "date": "2003-08-01",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2003-08-02-barrie",
+    "year": 2003,
+    "date": "2003-08-02",
+    "city": "Barrie",
+    "state": "ON",
+    "venue": "Molson Park"
+  },
+  {
+    "id": "2003-08-03-pontiac",
+    "year": 2003,
+    "date": "2003-08-03",
+    "city": "Pontiac",
+    "state": "MI",
+    "venue": "Pontiac Silverdome"
+  },
+  {
+    "id": "2003-08-04-milwaukee",
+    "year": 2003,
+    "date": "2003-08-04",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-08-05-cleveland",
+    "year": 2003,
+    "date": "2003-08-05",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Tower City Amphitheatre"
+  },
+  {
+    "id": "2003-08-06-burgettstown",
+    "year": 2003,
+    "date": "2003-08-06",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "Post-Gazette Pavilion"
+  },
+  {
+    "id": "2003-08-07-darien",
+    "year": 2003,
+    "date": "2003-08-07",
+    "city": "Darien",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-08-08-camden",
+    "year": 2003,
+    "date": "2003-08-08",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Tweeter Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2003-08-09-new-york",
+    "year": 2003,
+    "date": "2003-08-09",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island Park"
+  },
+  {
+    "id": "2003-08-10-asbury-park",
+    "year": 2003,
+    "date": "2003-08-10",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Stone Pony Lot",
+    "note": "Set times are not known for this date."
+  }
+]

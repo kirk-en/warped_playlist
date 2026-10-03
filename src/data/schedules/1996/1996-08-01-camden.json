@@ -1,0 +1,144 @@
+{
+  "stages": [
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "greg",
+      "name": "Greg Stage"
+    },
+    {
+      "id": "surf",
+      "name": "Surf Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "brian-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-civ",
+      "band": "CIV",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-sense-field",
+      "band": "Sense Field",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-down-by-law",
+      "band": "Down By Law",
+      "stageId": "brian",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "brian-fishbone",
+      "band": "Fishbone",
+      "stageId": "brian",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "brian-face-to-face",
+      "band": "Face to Face",
+      "stageId": "brian",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "brian-x-members",
+      "band": "X-Members",
+      "stageId": "brian",
+      "startTime": "22:00",
+      "displayTime": "10:00"
+    },
+    {
+      "id": "greg-trip-66",
+      "band": "Trip 66",
+      "stageId": "greg",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "greg-sexpod",
+      "band": "Sexpod",
+      "stageId": "greg",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "greg-the-figgs",
+      "band": "The Figgs",
+      "stageId": "greg",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "greg-red-5",
+      "band": "Red 5",
+      "stageId": "greg",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "greg-fluf",
+      "band": "Fluf",
+      "stageId": "greg",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "greg-dance-hall-crashers",
+      "band": "Dance Hall Crashers",
+      "stageId": "greg",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "greg-rocket-from-the-crypt",
+      "band": "Rocket from the Crypt",
+      "stageId": "greg",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "greg-blink-182",
+      "band": "Blink-182",
+      "stageId": "greg",
+      "startTime": "22:30",
+      "displayTime": "10:30"
+    },
+    {
+      "id": "surf-shelter",
+      "band": "Shelter",
+      "stageId": "surf",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "surf-lo-presher",
+      "band": "Lo Presher",
+      "stageId": "surf",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "surf-dakoda-motor-co",
+      "band": "Dakoda Motor Co.",
+      "stageId": "surf",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    }
+  ]
+}

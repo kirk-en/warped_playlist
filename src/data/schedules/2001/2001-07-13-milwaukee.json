@@ -1,0 +1,352 @@
+{
+  "stages": [
+    {
+      "id": "the-rave",
+      "name": "The Rave"
+    },
+    {
+      "id": "eagles-ballroom",
+      "name": "Eagles Ballroom"
+    },
+    {
+      "id": "underground",
+      "name": "Underground"
+    },
+    {
+      "id": "rave-bar",
+      "name": "Rave Bar"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "ladies-lounge",
+      "name": "Ladies Lounge"
+    }
+  ],
+  "sets": [
+    {
+      "id": "the-rave-fenix-tx",
+      "band": "Fenix TX",
+      "stageId": "the-rave",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "the-rave-afi",
+      "band": "AFI",
+      "stageId": "the-rave",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "the-rave-the-ataris",
+      "band": "The Ataris",
+      "stageId": "the-rave",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "the-rave-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "the-rave",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "the-rave-rancid",
+      "band": "Rancid",
+      "stageId": "the-rave",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "the-rave-me-first-and-the-gimme-gimmes",
+      "band": "Me First and the Gimme Gimmes",
+      "stageId": "the-rave",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "the-rave-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "the-rave",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "the-rave-ten-times-a-day",
+      "band": "Ten Times a Day",
+      "stageId": "the-rave",
+      "startTime": "20:05",
+      "displayTime": "8:05"
+    },
+    {
+      "id": "eagles-ballroom-kool-keith",
+      "band": "Kool Keith",
+      "stageId": "eagles-ballroom",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "eagles-ballroom-h2o",
+      "band": "H2O",
+      "stageId": "eagles-ballroom",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "eagles-ballroom-sum-41",
+      "band": "Sum 41",
+      "stageId": "eagles-ballroom",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "eagles-ballroom-the-vandals",
+      "band": "The Vandals",
+      "stageId": "eagles-ballroom",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "eagles-ballroom-dub-pistols",
+      "band": "Dub Pistols",
+      "stageId": "eagles-ballroom",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "eagles-ballroom-311",
+      "band": "311",
+      "stageId": "eagles-ballroom",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "eagles-ballroom-alien-ant-farm",
+      "band": "Alien Ant Farm",
+      "stageId": "eagles-ballroom",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "eagles-ballroom-the-misfits",
+      "band": "The Misfits",
+      "stageId": "eagles-ballroom",
+      "startTime": "20:40",
+      "displayTime": "8:40"
+    },
+    {
+      "id": "underground-wanted-dead",
+      "band": "Wanted Dead",
+      "stageId": "underground",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "underground-bodyjar",
+      "band": "Bodyjar",
+      "stageId": "underground",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "underground-the-distillers",
+      "band": "The Distillers",
+      "stageId": "underground",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "underground-switched",
+      "band": "Switched",
+      "stageId": "underground",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "underground-guttermouth",
+      "band": "Guttermouth",
+      "stageId": "underground",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "underground-sloth",
+      "band": "Sloth",
+      "stageId": "underground",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "underground-good-charlotte",
+      "band": "Good Charlotte",
+      "stageId": "underground",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "underground-river-city-rebels",
+      "band": "River City Rebels",
+      "stageId": "underground",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "underground-the-benjamins",
+      "band": "The Benjamins",
+      "stageId": "underground",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "underground-esham",
+      "band": "Esham",
+      "stageId": "underground",
+      "startTime": "20:40",
+      "displayTime": "8:40"
+    },
+    {
+      "id": "rave-bar-lost-city-angels",
+      "band": "Lost City Angels",
+      "stageId": "rave-bar",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "rave-bar-the-undecided",
+      "band": "The Undecided",
+      "stageId": "rave-bar",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "rave-bar-the-line",
+      "band": "The Line",
+      "stageId": "rave-bar",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "rave-bar-pepper",
+      "band": "Pepper",
+      "stageId": "rave-bar",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "rave-bar-madcap",
+      "band": "Madcap",
+      "stageId": "rave-bar",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "rave-bar-sweatergirl",
+      "band": "Sweatergirl",
+      "stageId": "rave-bar",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "rave-bar-the-casualties",
+      "band": "The Casualties",
+      "stageId": "rave-bar",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "rave-bar-deroot",
+      "band": "Deroot",
+      "stageId": "rave-bar",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "rave-bar-pinhead-circus",
+      "band": "Pinhead Circus",
+      "stageId": "rave-bar",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "ernie-ball-unwell",
+      "band": "Unwell",
+      "stageId": "ernie-ball",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "ernie-ball-atomic-9",
+      "band": "Atomic 9",
+      "stageId": "ernie-ball",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "ernie-ball-last-place-champs",
+      "band": "Last Place Champs",
+      "stageId": "ernie-ball",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "ernie-ball-racecar",
+      "band": "Racecar",
+      "stageId": "ernie-ball",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "ernie-ball-desperation-squad",
+      "band": "Desperation Squad",
+      "stageId": "ernie-ball",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "ernie-ball-fall-back-plan",
+      "band": "Fall Back Plan",
+      "stageId": "ernie-ball",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "ladies-lounge-ultrababyfat",
+      "band": "Ultrababyfat",
+      "stageId": "ladies-lounge",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "ladies-lounge-lo-ball",
+      "band": "Lo-Ball",
+      "stageId": "ladies-lounge",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "ladies-lounge-sugarcult",
+      "band": "Sugarcult",
+      "stageId": "ladies-lounge",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "ladies-lounge-bottom",
+      "band": "Bottom",
+      "stageId": "ladies-lounge",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "ladies-lounge-halo-friendlies",
+      "band": "Halo Friendlies",
+      "stageId": "ladies-lounge",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    }
+  ]
+}

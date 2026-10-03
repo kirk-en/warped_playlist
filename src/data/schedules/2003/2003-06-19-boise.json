@@ -1,0 +1,133 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-2-cents",
+      "band": "2 Cents",
+      "stageId": "teal",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "teal-mest",
+      "band": "Mest",
+      "stageId": "teal",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "teal-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "teal",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "teal-the-used",
+      "band": "The Used",
+      "stageId": "teal",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "teal-poison-the-well",
+      "band": "Poison the Well",
+      "stageId": "teal",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "teal-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "teal",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "teal-thrice",
+      "band": "Thrice",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "teal-face-to-face",
+      "band": "Face to Face",
+      "stageId": "teal",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "brian-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "brian",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "brian-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "brian",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "brian-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-afi",
+      "band": "AFI",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-rancid",
+      "band": "Rancid",
+      "stageId": "brian",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

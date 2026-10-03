@@ -1,0 +1,140 @@
+{
+  "stages": [
+    {
+      "id": "main",
+      "name": "Main Stage"
+    },
+    {
+      "id": "outside",
+      "name": "Outside Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "main-the-figgs",
+      "band": "The Figgs",
+      "stageId": "main",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "main-red-5",
+      "band": "Red 5",
+      "stageId": "main",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "main-fluf",
+      "band": "Fluf",
+      "stageId": "main",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "main-rocket-from-the-crypt",
+      "band": "Rocket from the Crypt",
+      "stageId": "main",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "main-blink-182",
+      "band": "Blink-182",
+      "stageId": "main",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "main-dance-hall-crashers",
+      "band": "Dance Hall Crashers",
+      "stageId": "main",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "main-face-to-face",
+      "band": "Face to Face",
+      "stageId": "main",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "main-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "main",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "main-civ",
+      "band": "CIV",
+      "stageId": "main",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "main-fishbone",
+      "band": "Fishbone",
+      "stageId": "main",
+      "startTime": "21:45",
+      "displayTime": "9:45"
+    },
+    {
+      "id": "main-down-by-law",
+      "band": "Down By Law",
+      "stageId": "main",
+      "startTime": "22:30",
+      "displayTime": "10:30"
+    },
+    {
+      "id": "outside-dakoda-motor-co",
+      "band": "Dakoda Motor Co.",
+      "stageId": "outside",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "outside-lo-presher",
+      "band": "Lo Presher",
+      "stageId": "outside",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "outside-x-members",
+      "band": "X-Members",
+      "stageId": "outside",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "outside-trip-66",
+      "band": "Trip 66",
+      "stageId": "outside",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "outside-sense-field",
+      "band": "Sense Field",
+      "stageId": "outside",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "outside-far",
+      "band": "Far",
+      "stageId": "outside",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "outside-the-meices",
+      "band": "The Meices",
+      "stageId": "outside",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    }
+  ]
+}

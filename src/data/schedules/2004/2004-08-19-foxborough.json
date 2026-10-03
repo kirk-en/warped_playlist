@@ -1,0 +1,232 @@
+{
+  "stages": [
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "brian-the-international-noise-conspiracy",
+      "band": "The International Noise Conspiracy",
+      "stageId": "brian",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "brian-billy-talent",
+      "band": "Billy Talent",
+      "stageId": "brian",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "brian-the-vandals",
+      "band": "The Vandals",
+      "stageId": "brian",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "brian-sugarcult",
+      "band": "Sugarcult",
+      "stageId": "brian",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "brian-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "brian",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "brian-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "brian",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "brian-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "brian",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "brian-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "brian",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "teal-fall-out-boy",
+      "band": "Fall Out Boy",
+      "stageId": "teal",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "teal-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "teal",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "teal-tiger-army",
+      "band": "Tiger Army",
+      "stageId": "teal",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "teal-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "teal",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "teal-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "teal",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "teal-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "teal",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "teal-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "teal",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "teal-the-used",
+      "band": "The Used",
+      "stageId": "teal",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "maurice-audio-karate",
+      "band": "Audio Karate",
+      "stageId": "maurice",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "maurice-washington-social-club",
+      "band": "Washington Social Club",
+      "stageId": "maurice",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "maurice-allister",
+      "band": "Allister",
+      "stageId": "maurice",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "maurice-the-casualties",
+      "band": "The Casualties",
+      "stageId": "maurice",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "maurice-rufio",
+      "band": "Rufio",
+      "stageId": "maurice",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "maurice-matchbook-romance",
+      "band": "Matchbook Romance",
+      "stageId": "maurice",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "maurice-atmosphere",
+      "band": "Atmosphere",
+      "stageId": "maurice",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "maurice-avenged-sevenfold",
+      "band": "Avenged Sevenfold",
+      "stageId": "maurice",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "maurice-rise-against",
+      "band": "Rise Against",
+      "stageId": "maurice",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "volcom-asg",
+      "band": "ASG",
+      "stageId": "volcom",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "volcom-the-briggs",
+      "band": "The Briggs",
+      "stageId": "volcom",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "volcom-rose-hill-drive",
+      "band": "Rose Hill Drive",
+      "stageId": "volcom",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "volcom-the-kinison",
+      "band": "The Kinison",
+      "stageId": "volcom",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "volcom-letter-kills",
+      "band": "Letter Kills",
+      "stageId": "volcom",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    }
+  ]
+}

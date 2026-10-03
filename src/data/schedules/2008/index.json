@@ -1,0 +1,371 @@
+[
+  {
+    "id": "2008-06-20-pomona",
+    "year": 2008,
+    "date": "2008-06-20",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairgrounds"
+  },
+  {
+    "id": "2008-06-21-san-francisco",
+    "year": 2008,
+    "date": "2008-06-21",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Pier 30/32"
+  },
+  {
+    "id": "2008-06-22-ventura",
+    "year": 2008,
+    "date": "2008-06-22",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park"
+  },
+  {
+    "id": "2008-06-25-phoenix",
+    "year": 2008,
+    "date": "2008-06-25",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Cricket Wireless Pavilion"
+  },
+  {
+    "id": "2008-06-26-las-cruces",
+    "year": 2008,
+    "date": "2008-06-26",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field"
+  },
+  {
+    "id": "2008-06-28-salt-lake-city",
+    "year": 2008,
+    "date": "2008-06-28",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark"
+  },
+  {
+    "id": "2008-06-29-denver",
+    "year": 2008,
+    "date": "2008-06-29",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field"
+  },
+  {
+    "id": "2008-07-01-maryland-heights",
+    "year": 2008,
+    "date": "2008-07-01",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2008-07-02-bonner-springs",
+    "year": 2008,
+    "date": "2008-07-02",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Sandstone Amphitheater"
+  },
+  {
+    "id": "2008-07-03-dallas",
+    "year": 2008,
+    "date": "2008-07-03",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "SuperPages.com Center"
+  },
+  {
+    "id": "2008-07-05-selma",
+    "year": 2008,
+    "date": "2008-07-05",
+    "city": "Selma",
+    "state": "TX",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2008-07-06-houston",
+    "year": 2008,
+    "date": "2008-07-06",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Sam Houston Race Park"
+  },
+  {
+    "id": "2008-07-09-atlanta",
+    "year": 2008,
+    "date": "2008-07-09",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Lakewood Amphitheatre"
+  },
+  {
+    "id": "2008-07-10-orlando",
+    "year": 2008,
+    "date": "2008-07-10",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2008-07-11-st-petersburg",
+    "year": 2008,
+    "date": "2008-07-11",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2008-07-12-miami",
+    "year": 2008,
+    "date": "2008-07-12",
+    "city": "Miami",
+    "state": "FL",
+    "venue": "Bicentennial Park"
+  },
+  {
+    "id": "2008-07-13-elkton",
+    "year": 2008,
+    "date": "2008-07-13",
+    "city": "Elkton",
+    "state": "FL",
+    "venue": "St. Johns County Fairgrounds"
+  },
+  {
+    "id": "2008-07-14-charlotte",
+    "year": 2008,
+    "date": "2008-07-14",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre"
+  },
+  {
+    "id": "2008-07-15-virginia-beach",
+    "year": 2008,
+    "date": "2008-07-15",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2008-07-16-columbia",
+    "year": 2008,
+    "date": "2008-07-16",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2008-07-17-cleveland",
+    "year": 2008,
+    "date": "2008-07-17",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Time Warner Cable Amphitheater"
+  },
+  {
+    "id": "2008-07-18-detroit",
+    "year": 2008,
+    "date": "2008-07-18",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Comerica Park"
+  },
+  {
+    "id": "2008-07-19-mississauga",
+    "year": 2008,
+    "date": "2008-07-19",
+    "city": "Mississauga",
+    "state": "ON",
+    "venue": "The Flats at Arrow Hall"
+  },
+  {
+    "id": "2008-07-20-montreal",
+    "year": 2008,
+    "date": "2008-07-20",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2008-07-23-mansfield",
+    "year": 2008,
+    "date": "2008-07-23",
+    "city": "Mansfield",
+    "state": "MA",
+    "venue": "Comcast Center for the Performing Arts"
+  },
+  {
+    "id": "2008-07-24-corfu",
+    "year": 2008,
+    "date": "2008-07-24",
+    "city": "Corfu",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center"
+  },
+  {
+    "id": "2008-07-25-camden",
+    "year": 2008,
+    "date": "2008-07-25",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Susquehanna Bank Center"
+  },
+  {
+    "id": "2008-07-26-uniondale",
+    "year": 2008,
+    "date": "2008-07-26",
+    "city": "Uniondale",
+    "state": "NY",
+    "venue": "Nassau Veterans Memorial Coliseum"
+  },
+  {
+    "id": "2008-07-27-scranton",
+    "year": 2008,
+    "date": "2008-07-27",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Toyota Pavilion"
+  },
+  {
+    "id": "2008-07-28-englishtown",
+    "year": 2008,
+    "date": "2008-07-28",
+    "city": "Englishtown",
+    "state": "NJ",
+    "venue": "Raceway Park"
+  },
+  {
+    "id": "2008-07-29-burgettstown",
+    "year": 2008,
+    "date": "2008-07-29",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "Post-Gazette Pavilion"
+  },
+  {
+    "id": "2008-07-30-cincinnati",
+    "year": 2008,
+    "date": "2008-07-30",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2008-07-31-noblesville",
+    "year": 2008,
+    "date": "2008-07-31",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center"
+  },
+  {
+    "id": "2008-08-01-milwaukee",
+    "year": 2008,
+    "date": "2008-08-01",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater"
+  },
+  {
+    "id": "2008-08-02-tinley-park",
+    "year": 2008,
+    "date": "2008-08-02",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "First Midwest Bank Amphitheater"
+  },
+  {
+    "id": "2008-08-03-shakopee",
+    "year": 2008,
+    "date": "2008-08-03",
+    "city": "Shakopee",
+    "state": "MN",
+    "venue": "Canterbury Park"
+  },
+  {
+    "id": "2008-08-05-saskatoon",
+    "year": 2008,
+    "date": "2008-08-05",
+    "city": "Saskatoon",
+    "state": "SK",
+    "venue": "Credit Union Centre"
+  },
+  {
+    "id": "2008-08-06-calgary",
+    "year": 2008,
+    "date": "2008-08-06",
+    "city": "Calgary",
+    "state": "AB",
+    "venue": "Race City Motorsport Park"
+  },
+  {
+    "id": "2008-08-08-nampa",
+    "year": 2008,
+    "date": "2008-08-08",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center"
+  },
+  {
+    "id": "2008-08-09-george",
+    "year": 2008,
+    "date": "2008-08-09",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge Amphitheatre"
+  },
+  {
+    "id": "2008-08-10-st-helens",
+    "year": 2008,
+    "date": "2008-08-10",
+    "city": "St. Helens",
+    "state": "OR",
+    "venue": "Columbia Meadows"
+  },
+  {
+    "id": "2008-08-13-fresno",
+    "year": 2008,
+    "date": "2008-08-13",
+    "city": "Fresno",
+    "state": "CA",
+    "venue": "Save Mart Center"
+  },
+  {
+    "id": "2008-08-14-chula-vista",
+    "year": 2008,
+    "date": "2008-08-14",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Cricket Wireless Amphitheatre"
+  },
+  {
+    "id": "2008-08-15-mountain-view",
+    "year": 2008,
+    "date": "2008-08-15",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2008-08-16-marysville",
+    "year": 2008,
+    "date": "2008-08-16",
+    "city": "Marysville",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2008-08-17-carson",
+    "year": 2008,
+    "date": "2008-08-17",
+    "city": "Carson",
+    "state": "CA",
+    "venue": "The Home Depot Center"
+  }
+]

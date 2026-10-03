@@ -1,0 +1,214 @@
+{
+  "stages": [
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "off-the-wall-2",
+      "name": "Off The Wall Stage 2"
+    },
+    {
+      "id": "noregrets-days",
+      "name": "#NoRegrets Days Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "kevin-says-the-summer-set",
+      "band": "The Summer Set",
+      "stageId": "kevin-says",
+      "startTime": "10:55",
+      "displayTime": "10:55"
+    },
+    {
+      "id": "kevin-says-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "kevin-says",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "kevin-says-tonight-alive",
+      "band": "Tonight Alive",
+      "stageId": "kevin-says",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "kevin-says-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "kevin-says",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "kevin-says-the-used",
+      "band": "The Used",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "kevin-says",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "kevin-says-millencolin",
+      "band": "Millencolin",
+      "stageId": "kevin-says",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "kevin-says-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "kevin-says",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "kevin-says-the-offspring",
+      "band": "The Offspring",
+      "stageId": "kevin-says",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "off-the-wall-2-for-all-eternity",
+      "band": "For All Eternity",
+      "stageId": "off-the-wall-2",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "off-the-wall-2-the-dangerous-summer",
+      "band": "The Dangerous Summer",
+      "stageId": "off-the-wall-2",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "off-the-wall-2-hand-of-mercy",
+      "band": "Hand of Mercy",
+      "stageId": "off-the-wall-2",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "off-the-wall-2-for-all-those-sleeping",
+      "band": "For All Those Sleeping",
+      "stageId": "off-the-wall-2",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "off-the-wall-2-confession",
+      "band": "Confession",
+      "stageId": "off-the-wall-2",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "off-the-wall-2-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "off-the-wall-2",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "off-the-wall-2-hatebreed",
+      "band": "Hatebreed",
+      "stageId": "off-the-wall-2",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "off-the-wall-2-the-amity-affliction",
+      "band": "The Amity Affliction",
+      "stageId": "off-the-wall-2",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "off-the-wall-2-parkway-drive",
+      "band": "Parkway Drive",
+      "stageId": "off-the-wall-2",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "noregrets-days-hellion",
+      "band": "Hellion",
+      "stageId": "noregrets-days",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "noregrets-days-call-the-shots",
+      "band": "Call the Shots",
+      "stageId": "noregrets-days",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "noregrets-days-hands-like-houses",
+      "band": "Hands Like Houses",
+      "stageId": "noregrets-days",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "noregrets-days-veara",
+      "band": "Veara",
+      "stageId": "noregrets-days",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "noregrets-days-kids-in-glass-houses",
+      "band": "Kids in Glass Houses",
+      "stageId": "noregrets-days",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "noregrets-days-crown-the-empire",
+      "band": "Crown the Empire",
+      "stageId": "noregrets-days",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "noregrets-days-rdgldgrn",
+      "band": "RDGLDGRN",
+      "stageId": "noregrets-days",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "noregrets-days-buried-in-verona",
+      "band": "Buried in Verona",
+      "stageId": "noregrets-days",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "noregrets-days-mallory-knox",
+      "band": "Mallory Knox",
+      "stageId": "noregrets-days",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "noregrets-days-anarbor",
+      "band": "Anarbor",
+      "stageId": "noregrets-days",
+      "startTime": "21:20",
+      "displayTime": "9:20"
+    }
+  ]
+}

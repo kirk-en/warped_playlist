@@ -1,0 +1,346 @@
+[
+  {
+    "id": "2010-06-25-carson",
+    "year": 2010,
+    "date": "2010-06-25",
+    "city": "Carson",
+    "state": "CA",
+    "venue": "The Home Depot Center"
+  },
+  {
+    "id": "2010-06-26-mountain-view",
+    "year": 2010,
+    "date": "2010-06-26",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2010-06-27-ventura",
+    "year": 2010,
+    "date": "2010-06-27",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Seaside Park"
+  },
+  {
+    "id": "2010-06-29-phoenix",
+    "year": 2010,
+    "date": "2010-06-29",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Cricket Wireless Pavilion"
+  },
+  {
+    "id": "2010-06-30-las-cruces",
+    "year": 2010,
+    "date": "2010-06-30",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field"
+  },
+  {
+    "id": "2010-07-01-san-antonio",
+    "year": 2010,
+    "date": "2010-07-01",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "AT&T Center"
+  },
+  {
+    "id": "2010-07-02-houston",
+    "year": 2010,
+    "date": "2010-07-02",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "The Showgrounds at Sam Houston Race Park"
+  },
+  {
+    "id": "2010-07-03-dallas",
+    "year": 2010,
+    "date": "2010-07-03",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "SuperPages.com Center"
+  },
+  {
+    "id": "2010-07-05-maryland-heights",
+    "year": 2010,
+    "date": "2010-07-05",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2010-07-06-noblesville",
+    "year": 2010,
+    "date": "2010-07-06",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center"
+  },
+  {
+    "id": "2010-07-07-burgettstown",
+    "year": 2010,
+    "date": "2010-07-07",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "First Niagara Pavilion"
+  },
+  {
+    "id": "2010-07-08-cleveland",
+    "year": 2010,
+    "date": "2010-07-08",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "Time Warner Cable Amphitheater"
+  },
+  {
+    "id": "2010-07-09-mississauga",
+    "year": 2010,
+    "date": "2010-07-09",
+    "city": "Mississauga",
+    "state": "ON",
+    "venue": "Arrow Hall"
+  },
+  {
+    "id": "2010-07-10-montreal",
+    "year": 2010,
+    "date": "2010-07-10",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2010-07-11-hartford",
+    "year": 2010,
+    "date": "2010-07-11",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "Comcast Theatre"
+  },
+  {
+    "id": "2010-07-13-mansfield",
+    "year": 2010,
+    "date": "2010-07-13",
+    "city": "Mansfield",
+    "state": "MA",
+    "venue": "Comcast Center for the Performing Arts"
+  },
+  {
+    "id": "2010-07-14-corfu",
+    "year": 2010,
+    "date": "2010-07-14",
+    "city": "Corfu",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center"
+  },
+  {
+    "id": "2010-07-15-scranton",
+    "year": 2010,
+    "date": "2010-07-15",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Toyota Pavilion at Montage Mountain"
+  },
+  {
+    "id": "2010-07-16-camden",
+    "year": 2010,
+    "date": "2010-07-16",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Susquehanna Bank Center"
+  },
+  {
+    "id": "2010-07-17-uniondale",
+    "year": 2010,
+    "date": "2010-07-17",
+    "city": "Uniondale",
+    "state": "NY",
+    "venue": "Nassau Veterans Memorial Coliseum"
+  },
+  {
+    "id": "2010-07-18-oceanport",
+    "year": 2010,
+    "date": "2010-07-18",
+    "city": "Oceanport",
+    "state": "NJ",
+    "venue": "Monmouth Park Racetrack"
+  },
+  {
+    "id": "2010-07-20-columbia",
+    "year": 2010,
+    "date": "2010-07-20",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2010-07-21-virginia-beach",
+    "year": 2010,
+    "date": "2010-07-21",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Virginia Beach Amphitheater"
+  },
+  {
+    "id": "2010-07-22-charlotte",
+    "year": 2010,
+    "date": "2010-07-22",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre"
+  },
+  {
+    "id": "2010-07-23-st-petersburg",
+    "year": 2010,
+    "date": "2010-07-23",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2010-07-24-west-palm-beach",
+    "year": 2010,
+    "date": "2010-07-24",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "venue": "Cruzan Amphitheatre"
+  },
+  {
+    "id": "2010-07-25-orlando",
+    "year": 2010,
+    "date": "2010-07-25",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2010-07-26-atlanta",
+    "year": 2010,
+    "date": "2010-07-26",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Lakewood Amphitheatre"
+  },
+  {
+    "id": "2010-07-28-cincinnati",
+    "year": 2010,
+    "date": "2010-07-28",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2010-07-29-milwaukee",
+    "year": 2010,
+    "date": "2010-07-29",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater"
+  },
+  {
+    "id": "2010-07-30-detroit",
+    "year": 2010,
+    "date": "2010-07-30",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Comerica Park"
+  },
+  {
+    "id": "2010-07-31-tinley-park",
+    "year": 2010,
+    "date": "2010-07-31",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "First Midwest Bank Amphitheatre"
+  },
+  {
+    "id": "2010-08-01-shakopee",
+    "year": 2010,
+    "date": "2010-08-01",
+    "city": "Shakopee",
+    "state": "MN",
+    "venue": "Canterbury Park"
+  },
+  {
+    "id": "2010-08-02-bonner-springs",
+    "year": 2010,
+    "date": "2010-08-02",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Sandstone Amphitheater"
+  },
+  {
+    "id": "2010-08-05-edmonton",
+    "year": 2010,
+    "date": "2010-08-05",
+    "city": "Edmonton",
+    "state": "AB",
+    "venue": "Northlands Park"
+  },
+  {
+    "id": "2010-08-07-salt-lake-city",
+    "year": 2010,
+    "date": "2010-08-07",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairgrounds"
+  },
+  {
+    "id": "2010-08-08-denver",
+    "year": 2010,
+    "date": "2010-08-08",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field"
+  },
+  {
+    "id": "2010-08-10-chula-vista",
+    "year": 2010,
+    "date": "2010-08-10",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Cricket Wireless Amphitheatre"
+  },
+  {
+    "id": "2010-08-11-pomona",
+    "year": 2010,
+    "date": "2010-08-11",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Fairplex"
+  },
+  {
+    "id": "2010-08-12-wheatland",
+    "year": 2010,
+    "date": "2010-08-12",
+    "city": "Wheatland",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2010-08-13-nampa",
+    "year": 2010,
+    "date": "2010-08-13",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheatre"
+  },
+  {
+    "id": "2010-08-14-george",
+    "year": 2010,
+    "date": "2010-08-14",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge Amphitheatre"
+  },
+  {
+    "id": "2010-08-15-hillsboro",
+    "year": 2010,
+    "date": "2010-08-15",
+    "city": "Hillsboro",
+    "state": "OR",
+    "venue": "Washington County Fairgrounds"
+  }
+]

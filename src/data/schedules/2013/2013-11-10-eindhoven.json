@@ -1,0 +1,200 @@
+{
+  "stages": [
+    {
+      "id": "monster-energy-north",
+      "name": "Monster Energy North Stage"
+    },
+    {
+      "id": "monster-energy-south",
+      "name": "Monster Energy South Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "monster-energy-north-the-charm-the-fury",
+      "band": "The Charm the Fury",
+      "stageId": "monster-energy-north",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "monster-energy-north-john-coffey",
+      "band": "John Coffey",
+      "stageId": "monster-energy-north",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "monster-energy-north-the-maine",
+      "band": "The Maine",
+      "stageId": "monster-energy-north",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "monster-energy-north-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy-north",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "monster-energy-north-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "monster-energy-north",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "monster-energy-north-skate-action",
+      "band": "Skate Action",
+      "stageId": "monster-energy-north",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "monster-energy-north-wasted-bullet",
+      "band": "Wasted.Bullet",
+      "stageId": "monster-energy-north",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "monster-energy-north-sublime-with-rome",
+      "band": "Sublime with Rome",
+      "stageId": "monster-energy-north",
+      "startTime": "19:25",
+      "displayTime": "7:25"
+    },
+    {
+      "id": "monster-energy-south-18-miles",
+      "band": "18 Miles",
+      "stageId": "monster-energy-south",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "monster-energy-south-we-are-the-ocean",
+      "band": "We are the Ocean",
+      "stageId": "monster-energy-south",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "monster-energy-south-chiodos",
+      "band": "Chiodos",
+      "stageId": "monster-energy-south",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "monster-energy-south-crossfaith",
+      "band": "Crossfaith",
+      "stageId": "monster-energy-south",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "monster-energy-south-billy-talent",
+      "band": "Billy Talent",
+      "stageId": "monster-energy-south",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "monster-energy-south-enter-shikari",
+      "band": "Enter Shikari",
+      "stageId": "monster-energy-south",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "monster-energy-south-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "monster-energy-south",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "monster-energy-south-parkway-drive",
+      "band": "Parkway Drive",
+      "stageId": "monster-energy-south",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "kevin-says-skinny-lister",
+      "band": "Skinny Lister",
+      "stageId": "kevin-says",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "kevin-says-no-turning-back",
+      "band": "No Turning Back",
+      "stageId": "kevin-says",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "kevin-says-like-torches",
+      "band": "Like Torches",
+      "stageId": "kevin-says",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "kevin-says-the-dirty-heads",
+      "band": "The Dirty Heads",
+      "stageId": "kevin-says",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "kevin-says-rdgldgrn",
+      "band": "RDGLDGRN",
+      "stageId": "kevin-says",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "kevin-says-the-color-morale",
+      "band": "The Color Morale",
+      "stageId": "kevin-says",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "kevin-says-hacktivist",
+      "band": "Hacktivist",
+      "stageId": "kevin-says",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "kevin-says-like-moths-to-flames",
+      "band": "Like Moths to Flames",
+      "stageId": "kevin-says",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "kevin-says-watsky-wax",
+      "band": "Watsky & Wax",
+      "stageId": "kevin-says",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "kevin-says-the-wonder-years",
+      "band": "The Wonder Years",
+      "stageId": "kevin-says",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

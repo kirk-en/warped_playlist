@@ -1,0 +1,218 @@
+{
+  "stages": [
+    {
+      "id": "monster-energy-west",
+      "name": "Monster Energy West Stage"
+    },
+    {
+      "id": "monster-energy-east",
+      "name": "Monster Energy East Stage"
+    },
+    {
+      "id": "jagermeister",
+      "name": "Jagermeister Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "monster-energy-west-the-story-so-far",
+      "band": "The Story So Far",
+      "stageId": "monster-energy-west",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "monster-energy-west-awolnation",
+      "band": "AWOLNATION",
+      "stageId": "monster-energy-west",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "monster-energy-west-breathe-carolina",
+      "band": "Breathe Carolina",
+      "stageId": "monster-energy-west",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "monster-energy-west-3oh-3",
+      "band": "3OH!3",
+      "stageId": "monster-energy-west",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "monster-energy-west-the-used",
+      "band": "The Used",
+      "stageId": "monster-energy-west",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "monster-energy-west-lostprophets",
+      "band": "Lostprophets",
+      "stageId": "monster-energy-west",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "monster-energy-east-it-boys",
+      "band": "It Boys!",
+      "stageId": "monster-energy-east",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "monster-energy-east-family-force-5",
+      "band": "Family Force 5",
+      "stageId": "monster-energy-east",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "monster-energy-east-architects",
+      "band": "Architects",
+      "stageId": "monster-energy-east",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "monster-energy-east-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "monster-energy-east",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "monster-energy-east-bring-me-the-horizon",
+      "band": "Bring Me the Horizon",
+      "stageId": "monster-energy-east",
+      "startTime": "20:25",
+      "displayTime": "8:25"
+    },
+    {
+      "id": "jagermeister-the-indecent",
+      "band": "The Indecent",
+      "stageId": "jagermeister",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "jagermeister-a-loss-for-words",
+      "band": "A Loss for Words",
+      "stageId": "jagermeister",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "jagermeister-blood-on-the-dance-floor",
+      "band": "Blood On The Dance Floor",
+      "stageId": "jagermeister",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "jagermeister-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "jagermeister",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "jagermeister-the-acacia-strain",
+      "band": "The Acacia Strain",
+      "stageId": "jagermeister",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "jagermeister-a-skylit-drive",
+      "band": "A Skylit Drive",
+      "stageId": "jagermeister",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "jagermeister-funeral-for-a-friend",
+      "band": "Funeral for a Friend",
+      "stageId": "jagermeister",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "jagermeister-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "jagermeister",
+      "startTime": "20:25",
+      "displayTime": "8:25"
+    },
+    {
+      "id": "jagermeister-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "jagermeister",
+      "startTime": "21:40",
+      "displayTime": "9:40"
+    },
+    {
+      "id": "kevin-says-taking-hayley",
+      "band": "Taking Hayley",
+      "stageId": "kevin-says",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "kevin-says-middle-finger-salute",
+      "band": "Middle Finger Salute",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-me-vs-hero",
+      "band": "Me Vs. Hero",
+      "stageId": "kevin-says",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "kevin-says-crossfaith",
+      "band": "Crossfaith",
+      "stageId": "kevin-says",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "kevin-says-dead-sara",
+      "band": "Dead Sara",
+      "stageId": "kevin-says",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "kevin-says-charlie-simpson",
+      "band": "Charlie Simpson",
+      "stageId": "kevin-says",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "kevin-says-bury-tomorrow",
+      "band": "Bury Tomorrow",
+      "stageId": "kevin-says",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "kevin-says-yashin",
+      "band": "Yashin",
+      "stageId": "kevin-says",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

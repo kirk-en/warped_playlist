@@ -1,0 +1,133 @@
+{
+  "stages": [
+    {
+      "id": "pop-up",
+      "name": "Pop Up Stage"
+    },
+    {
+      "id": "camouflage",
+      "name": "Camouflage Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "pop-up-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "pop-up",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "pop-up-hepcat",
+      "band": "Hepcat",
+      "stageId": "pop-up",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "pop-up-limp-bizkit",
+      "band": "Limp Bizkit",
+      "stageId": "pop-up",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "pop-up-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "pop-up",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "pop-up-pennywise",
+      "band": "Pennywise",
+      "stageId": "pop-up",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "pop-up-social-distortion",
+      "band": "Social Distortion",
+      "stageId": "pop-up",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "pop-up-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "pop-up",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    },
+    {
+      "id": "pop-up-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "pop-up",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "camouflage-cellophane-solution",
+      "band": "Cellophane Solution",
+      "stageId": "camouflage",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "camouflage-blink-182",
+      "band": "Blink-182",
+      "stageId": "camouflage",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "camouflage-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "camouflage",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "camouflage-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "camouflage",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "camouflage-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "camouflage",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "camouflage-snapcase",
+      "band": "Snapcase",
+      "stageId": "camouflage",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "camouflage-descendents",
+      "band": "Descendents",
+      "stageId": "camouflage",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "camouflage-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "camouflage",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "camouflage-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "camouflage",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "stages": [
+    {
+      "id": "journeys-left-foot",
+      "name": "Journeys Left Foot Stage"
+    },
+    {
+      "id": "journeys-right-foot",
+      "name": "Journeys Right Foot Stage"
+    },
+    {
+      "id": "mutant-red-dawn",
+      "name": "Mutant Red Dawn Stage"
+    },
+    {
+      "id": "mutant-white-lightning",
+      "name": "Mutant White Lightning Stage"
+    },
+    {
+      "id": "owly-fm",
+      "name": "Owly.fm Stage"
+    },
+    {
+      "id": "full-sail",
+      "name": "Full Sail Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "journeys-left-foot-3oh-3",
+      "band": "3OH!3",
+      "stageId": "journeys-left-foot",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "journeys-left-foot-waterparks",
+      "band": "Waterparks",
+      "stageId": "journeys-left-foot",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "journeys-left-foot-william-ryan-key",
+      "band": "William Ryan Key",
+      "stageId": "journeys-left-foot",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "journeys-left-foot-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "journeys-left-foot",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "journeys-left-foot-state-champs",
+      "band": "State Champs",
+      "stageId": "journeys-left-foot",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "journeys-left-foot-issues",
+      "band": "Issues",
+      "stageId": "journeys-left-foot",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "journeys-left-foot-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "journeys-left-foot",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "journeys-left-foot-knuckle-puck",
+      "band": "Knuckle Puck",
+      "stageId": "journeys-left-foot",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "journeys-left-foot-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "journeys-left-foot",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "journeys-right-foot-makeout",
+      "band": "Makeout",
+      "stageId": "journeys-right-foot",
+      "startTime": "11:10",
+      "displayTime": "11:10"
+    },
+    {
+      "id": "journeys-right-foot-this-wild-life",
+      "band": "This Wild Life",
+      "stageId": "journeys-right-foot",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "journeys-right-foot-movements",
+      "band": "Movements",
+      "stageId": "journeys-right-foot",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "journeys-right-foot-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "journeys-right-foot",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "journeys-right-foot-falling-in-reverse",
+      "band": "Falling in Reverse",
+      "stageId": "journeys-right-foot",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "journeys-right-foot-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "journeys-right-foot",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "journeys-right-foot-real-friends",
+      "band": "Real Friends",
+      "stageId": "journeys-right-foot",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "journeys-right-foot-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "journeys-right-foot",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "journeys-right-foot-tonight-alive",
+      "band": "Tonight Alive",
+      "stageId": "journeys-right-foot",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "journeys-right-foot-the-maine",
+      "band": "The Maine",
+      "stageId": "journeys-right-foot",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "mutant-red-dawn-deez-nuts",
+      "band": "Deez Nuts",
+      "stageId": "mutant-red-dawn",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "mutant-red-dawn-twiztid",
+      "band": "Twiztid",
+      "stageId": "mutant-red-dawn",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "mutant-red-dawn-ice-nine-kills",
+      "band": "Ice Nine Kills",
+      "stageId": "mutant-red-dawn",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "mutant-red-dawn-mychildren-mybride",
+      "band": "Mychildren Mybride",
+      "stageId": "mutant-red-dawn",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "mutant-red-dawn-wage-war",
+      "band": "Wage War",
+      "stageId": "mutant-red-dawn",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "mutant-red-dawn-sharptooth",
+      "band": "Sharptooth",
+      "stageId": "mutant-red-dawn",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "mutant-red-dawn-kublai-khan",
+      "band": "Kublai Khan",
+      "stageId": "mutant-red-dawn",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "mutant-red-dawn-chelsea-grin",
+      "band": "Chelsea Grin",
+      "stageId": "mutant-red-dawn",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "mutant-red-dawn-the-amity-affliction",
+      "band": "The Amity Affliction",
+      "stageId": "mutant-red-dawn",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "mutant-white-lightning-in-hearts-wake",
+      "band": "In Hearts Wake",
+      "stageId": "mutant-white-lightning",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "mutant-white-lightning-nekrogoblikon",
+      "band": "Nekrogoblikon",
+      "stageId": "mutant-white-lightning",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "mutant-white-lightning-unearth",
+      "band": "Unearth",
+      "stageId": "mutant-white-lightning",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "mutant-white-lightning-dayseeker",
+      "band": "Dayseeker",
+      "stageId": "mutant-white-lightning",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "mutant-white-lightning-motionless-in-white",
+      "band": "Motionless in White",
+      "stageId": "mutant-white-lightning",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "mutant-white-lightning-crown-the-empire",
+      "band": "Crown the Empire",
+      "stageId": "mutant-white-lightning",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "mutant-white-lightning-every-time-i-die",
+      "band": "Every Time I Die",
+      "stageId": "mutant-white-lightning",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "mutant-white-lightning-harm-s-way",
+      "band": "Harm's Way",
+      "stageId": "mutant-white-lightning",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "mutant-white-lightning-senses-fail",
+      "band": "Senses Fail",
+      "stageId": "mutant-white-lightning",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "owly-fm-sleep-on-it",
+      "band": "Sleep on It",
+      "stageId": "owly-fm",
+      "startTime": "11:35",
+      "displayTime": "11:35"
+    },
+    {
+      "id": "owly-fm-story-untold",
+      "band": "Story Untold",
+      "stageId": "owly-fm",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "owly-fm-doll-skin",
+      "band": "Doll Skin",
+      "stageId": "owly-fm",
+      "startTime": "12:55",
+      "displayTime": "12:55"
+    },
+    {
+      "id": "owly-fm-don-broco",
+      "band": "Don Broco",
+      "stageId": "owly-fm",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "owly-fm-broadside",
+      "band": "Broadside",
+      "stageId": "owly-fm",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "owly-fm-capstan",
+      "band": "Capstan",
+      "stageId": "owly-fm",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "owly-fm-as-it-is",
+      "band": "As It Is",
+      "stageId": "owly-fm",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "owly-fm-with-confidence",
+      "band": "With Confidence",
+      "stageId": "owly-fm",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "owly-fm-palaye-royale",
+      "band": "Palaye Royale",
+      "stageId": "owly-fm",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "owly-fm-yungblud",
+      "band": "Yungblud",
+      "stageId": "owly-fm",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "owly-fm-trash-boat",
+      "band": "Trash Boat",
+      "stageId": "owly-fm",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "owly-fm-chase-atlantic",
+      "band": "Chase Atlantic",
+      "stageId": "owly-fm",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "owly-fm-grayscale",
+      "band": "Grayscale",
+      "stageId": "owly-fm",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "full-sail-antonio-hancock",
+      "band": "Antonio Hancock",
+      "stageId": "full-sail",
+      "startTime": "11:00",
+      "displayTime": "11:00"
+    },
+    {
+      "id": "full-sail-riley",
+      "band": "RILEY",
+      "stageId": "full-sail",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "full-sail-summer-wars",
+      "band": "Summer Wars",
+      "stageId": "full-sail",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "full-sail-boxford",
+      "band": "Boxford",
+      "stageId": "full-sail",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "full-sail-telltale",
+      "band": "Telltale",
+      "stageId": "full-sail",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "full-sail-walk-the-plank",
+      "band": "Walk the Plank",
+      "stageId": "full-sail",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "full-sail-megosh",
+      "band": "Megosh",
+      "stageId": "full-sail",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "full-sail-farewell-winters",
+      "band": "Farewell Winters",
+      "stageId": "full-sail",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "full-sail-lighterburns",
+      "band": "Lighterburns",
+      "stageId": "full-sail",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "full-sail-tatiana-demaria",
+      "band": "Tatiana DeMaria",
+      "stageId": "full-sail",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "full-sail-kaiser-solzie",
+      "band": "Kaiser Solzie",
+      "stageId": "full-sail",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "full-sail-l-i-f-t",
+      "band": "L.I.F.T.",
+      "stageId": "full-sail",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "full-sail-flight-club",
+      "band": "Flight Club",
+      "stageId": "full-sail",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "full-sail-assuming-we-survive",
+      "band": "Assuming We Survive",
+      "stageId": "full-sail",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "full-sail-kosha-dillz",
+      "band": "Kosha Dillz",
+      "stageId": "full-sail",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    }
+  ]
+}

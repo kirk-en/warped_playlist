@@ -1,0 +1,267 @@
+{
+  "stages": [
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "brian-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "brian",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "brian-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "brian",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "brian-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "brian",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "brian-mest",
+      "band": "Mest",
+      "stageId": "brian",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "brian-pennywise",
+      "band": "Pennywise",
+      "stageId": "brian",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "brian-rancid",
+      "band": "Rancid",
+      "stageId": "brian",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "brian-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "brian",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "teal-avoid-one-thing",
+      "band": "Avoid One Thing",
+      "stageId": "teal",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "teal-poison-the-well",
+      "band": "Poison the Well",
+      "stageId": "teal",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "teal-places-to-park",
+      "band": "Places to Park",
+      "stageId": "teal",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "teal-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "teal",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "teal-me-first-and-the-gimme-gimmes",
+      "band": "Me First and the Gimme Gimmes",
+      "stageId": "teal",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "teal-thrice",
+      "band": "Thrice",
+      "stageId": "teal",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "teal-the-used",
+      "band": "The Used",
+      "stageId": "teal",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "teal-face-to-face",
+      "band": "Face to Face",
+      "stageId": "teal",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "maurice-rise-against",
+      "band": "Rise Against",
+      "stageId": "maurice",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "maurice-pepper",
+      "band": "Pepper",
+      "stageId": "maurice",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "maurice-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "maurice",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "maurice-brand-new",
+      "band": "Brand New",
+      "stageId": "maurice",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "maurice-atmosphere",
+      "band": "Atmosphere",
+      "stageId": "maurice",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "maurice-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "maurice",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "maurice-the-all-american-rejects",
+      "band": "The All-American Rejects",
+      "stageId": "maurice",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "maurice-one-man-army",
+      "band": "One Man Army",
+      "stageId": "maurice",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "maurice-s-t-u-n",
+      "band": "S.T.U.N.",
+      "stageId": "maurice",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "volcom-count-the-stars",
+      "band": "Count the Stars",
+      "stageId": "volcom",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "volcom-matchbook-romance",
+      "band": "Matchbook Romance",
+      "stageId": "volcom",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "volcom-western-waste",
+      "band": "Western Waste",
+      "stageId": "volcom",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "volcom-slick-shoes",
+      "band": "Slick Shoes",
+      "stageId": "volcom",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "volcom-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "volcom",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "volcom-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "volcom",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "volcom-vaux",
+      "band": "Vaux",
+      "stageId": "volcom",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "volcom-vendetta-red",
+      "band": "Vendetta Red",
+      "stageId": "volcom",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    }
+  ]
+}

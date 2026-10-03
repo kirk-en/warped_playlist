@@ -1,0 +1,137 @@
+{
+  "stages": [
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "greg",
+      "name": "Greg Stage"
+    },
+    {
+      "id": "surf",
+      "name": "Surf Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "brian-mr-mirainga",
+      "band": "Mr. Mirainga",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-fluf",
+      "band": "Fluf",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-civ",
+      "band": "CIV",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-fishbone",
+      "band": "Fishbone",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-rocket-from-the-crypt",
+      "band": "Rocket from the Crypt",
+      "stageId": "brian",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "brian-pennywise",
+      "band": "Pennywise",
+      "stageId": "brian",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "brian-311",
+      "band": "311",
+      "stageId": "brian",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "greg-dimestore-hoods",
+      "band": "Dimestore Hoods",
+      "stageId": "greg",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "greg-down-by-law",
+      "band": "Down By Law",
+      "stageId": "greg",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "greg-blink-182",
+      "band": "Blink-182",
+      "stageId": "greg",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "greg-red-5",
+      "band": "Red 5",
+      "stageId": "greg",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "greg-samiam",
+      "band": "Samiam",
+      "stageId": "greg",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "greg-strung-out",
+      "band": "Strung Out",
+      "stageId": "greg",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "surf-diesel-boy",
+      "band": "Diesel Boy",
+      "stageId": "surf",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "surf-piller",
+      "band": "Piller",
+      "stageId": "surf",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "surf-lo-presher",
+      "band": "Lo Presher",
+      "stageId": "surf",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "surf-scrapple",
+      "band": "Scrapple",
+      "stageId": "surf",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    }
+  ]
+}

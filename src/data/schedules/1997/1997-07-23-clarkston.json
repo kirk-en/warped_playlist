@@ -1,0 +1,172 @@
+{
+  "stages": [
+    {
+      "id": "outside",
+      "name": "Outside Stage"
+    },
+    {
+      "id": "inside",
+      "name": "Inside Stage"
+    },
+    {
+      "id": "concourse",
+      "name": "Concourse Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "outside-millencolin",
+      "band": "Millencolin",
+      "stageId": "outside",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "outside-h2o",
+      "band": "H2O",
+      "stageId": "outside",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "outside-the-bouncing-souls",
+      "band": "The Bouncing Souls",
+      "stageId": "outside",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "outside-pennywise",
+      "band": "Pennywise",
+      "stageId": "outside",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "outside-the-mighty-mighty-bosstones",
+      "band": "The Mighty Mighty Bosstones",
+      "stageId": "outside",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "outside-social-distortion",
+      "band": "Social Distortion",
+      "stageId": "outside",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "outside-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "outside",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "inside-sunchild",
+      "band": "Sunchild",
+      "stageId": "inside",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "inside-lo-presher",
+      "band": "Lo Presher",
+      "stageId": "inside",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "inside-hepcat",
+      "band": "Hepcat",
+      "stageId": "inside",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "inside-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "inside",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "inside-descendents",
+      "band": "Descendents",
+      "stageId": "inside",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "inside-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "inside",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "inside-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "inside",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "concourse-dub-war",
+      "band": "Dub War",
+      "stageId": "concourse",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "concourse-fat",
+      "band": "Fat",
+      "stageId": "concourse",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "concourse-sugar-ray",
+      "band": "Sugar Ray",
+      "stageId": "concourse",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "concourse-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "concourse",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "concourse-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "concourse",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "concourse-blink-182",
+      "band": "Blink-182",
+      "stageId": "concourse",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "concourse-98-mute",
+      "band": "98 Mute",
+      "stageId": "concourse",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "concourse-limp-bizkit",
+      "band": "Limp Bizkit",
+      "stageId": "concourse",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "stages": [
+    {
+      "id": "monster-energy-west",
+      "name": "Monster Energy West Stage"
+    },
+    {
+      "id": "monster-energy-east",
+      "name": "Monster Energy East Stage"
+    },
+    {
+      "id": "jagermeister",
+      "name": "Jagermeister Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "acoustic-basement",
+      "name": "Acoustic Basement Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "monster-energy-west-attila",
+      "band": "Attila",
+      "stageId": "monster-energy-west",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "monster-energy-west-the-wonder-years",
+      "band": "The Wonder Years",
+      "stageId": "monster-energy-west",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "monster-energy-west-the-maine",
+      "band": "The Maine",
+      "stageId": "monster-energy-west",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "monster-energy-west-chiodos",
+      "band": "Chiodos",
+      "stageId": "monster-energy-west",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "monster-energy-west-billy-talent",
+      "band": "Billy Talent",
+      "stageId": "monster-energy-west",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "monster-energy-west-rise-against",
+      "band": "Rise Against",
+      "stageId": "monster-energy-west",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "monster-energy-east-crossfaith",
+      "band": "Crossfaith",
+      "stageId": "monster-energy-east",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "monster-energy-east-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "monster-energy-east",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "monster-energy-east-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy-east",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "monster-energy-east-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "monster-energy-east",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "monster-energy-east-parkway-drive",
+      "band": "Parkway Drive",
+      "stageId": "monster-energy-east",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "jagermeister-fact",
+      "band": "Fact",
+      "stageId": "jagermeister",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "jagermeister-neck-deep",
+      "band": "Neck Deep",
+      "stageId": "jagermeister",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "jagermeister-blood-command",
+      "band": "Blood Command",
+      "stageId": "jagermeister",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "jagermeister-real-friends",
+      "band": "Real Friends",
+      "stageId": "jagermeister",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "jagermeister-lonely-the-brave",
+      "band": "Lonely the Brave",
+      "stageId": "jagermeister",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "jagermeister-the-defiled",
+      "band": "The Defiled",
+      "stageId": "jagermeister",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "jagermeister-like-moths-to-flames",
+      "band": "Like Moths to Flames",
+      "stageId": "jagermeister",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "jagermeister-itch",
+      "band": "Itch",
+      "stageId": "jagermeister",
+      "startTime": "20:25",
+      "displayTime": "8:25"
+    },
+    {
+      "id": "jagermeister-sublime-with-rome",
+      "band": "Sublime with Rome",
+      "stageId": "jagermeister",
+      "startTime": "21:40",
+      "displayTime": "9:40"
+    },
+    {
+      "id": "kevin-says-saint-the-sinner",
+      "band": "Saint the Sinner",
+      "stageId": "kevin-says",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "kevin-says-love-zombies",
+      "band": "Love Zombies",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-alvarez-kings",
+      "band": "Alvarez Kings",
+      "stageId": "kevin-says",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "kevin-says-the-younger",
+      "band": "The Younger",
+      "stageId": "kevin-says",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "kevin-says-the-charm-the-fury",
+      "band": "The Charm the Fury",
+      "stageId": "kevin-says",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "kevin-says-the-dirty-heads",
+      "band": "The Dirty Heads",
+      "stageId": "kevin-says",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "kevin-says-we-are-fiction",
+      "band": "We are Fiction",
+      "stageId": "kevin-says",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "kevin-says-handguns",
+      "band": "Handguns",
+      "stageId": "kevin-says",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "kevin-says-canterbury",
+      "band": "Canterbury",
+      "stageId": "kevin-says",
+      "startTime": "20:50",
+      "displayTime": "8:50"
+    },
+    {
+      "id": "acoustic-basement-the-dirty-heads",
+      "band": "The Dirty Heads",
+      "stageId": "acoustic-basement",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "acoustic-basement-the-maine",
+      "band": "The Maine",
+      "stageId": "acoustic-basement",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "acoustic-basement-handguns",
+      "band": "Handguns",
+      "stageId": "acoustic-basement",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "acoustic-basement-ghost-town",
+      "band": "Ghost Town",
+      "stageId": "acoustic-basement",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "acoustic-basement-dagny",
+      "band": "Dagny",
+      "stageId": "acoustic-basement",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "acoustic-basement-the-color-morale",
+      "band": "The Color Morale",
+      "stageId": "acoustic-basement",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    }
+  ]
+}

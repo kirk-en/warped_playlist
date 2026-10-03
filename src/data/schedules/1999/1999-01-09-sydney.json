@@ -1,0 +1,207 @@
+{
+  "stages": [
+    {
+      "id": "stage-a",
+      "name": "Stage A"
+    },
+    {
+      "id": "stage-b",
+      "name": "Stage B"
+    },
+    {
+      "id": "local",
+      "name": "Local Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "stage-a-nancy-vandal",
+      "band": "Nancy Vandal",
+      "stageId": "stage-a",
+      "startTime": "11:10",
+      "displayTime": "11:10"
+    },
+    {
+      "id": "stage-a-front-end-loader",
+      "band": "Front End Loader",
+      "stageId": "stage-a",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "stage-a-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "stage-a",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "stage-a-suicidal-tendencies",
+      "band": "Suicidal Tendencies",
+      "stageId": "stage-a",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "stage-a-mxpx",
+      "band": "MxPx",
+      "stageId": "stage-a",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "stage-a-pennywise",
+      "band": "Pennywise",
+      "stageId": "stage-a",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "stage-a-deftones",
+      "band": "Deftones",
+      "stageId": "stage-a",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "stage-a-unwritten-law",
+      "band": "Unwritten Law",
+      "stageId": "stage-a",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "stage-b-22-jacks",
+      "band": "22 Jacks",
+      "stageId": "stage-b",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "stage-b-latex-generation",
+      "band": "Latex Generation",
+      "stageId": "stage-b",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "stage-b-area-7",
+      "band": "Area 7",
+      "stageId": "stage-b",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "stage-b-cherry-poppin-daddies",
+      "band": "Cherry Poppin' Daddies",
+      "stageId": "stage-b",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "stage-b-the-porkers",
+      "band": "The Porkers",
+      "stageId": "stage-b",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "stage-b-hepcat",
+      "band": "Hepcat",
+      "stageId": "stage-b",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "stage-b-frenzal-rhomb",
+      "band": "Frenzal Rhomb",
+      "stageId": "stage-b",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "stage-b-grinspoon",
+      "band": "Grinspoon",
+      "stageId": "stage-b",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "local-camical",
+      "band": "Camical",
+      "stageId": "local",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "local-star-swing",
+      "band": "Star Swing",
+      "stageId": "local",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "local-subterrain",
+      "band": "Subterrain",
+      "stageId": "local",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "local-stranded",
+      "band": "Stranded",
+      "stageId": "local",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "local-locki",
+      "band": "Locki",
+      "stageId": "local",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "local-meloncoly",
+      "band": "Meloncoly",
+      "stageId": "local",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "local-dianna-anaid",
+      "band": "Dianna Anaid",
+      "stageId": "local",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "local-messiah",
+      "band": "Messiah",
+      "stageId": "local",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "local-disfigured",
+      "band": "Disfigured",
+      "stageId": "local",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "local-gameover",
+      "band": "Gameover",
+      "stageId": "local",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "local-iron-youth",
+      "band": "Iron Youth",
+      "stageId": "local",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    }
+  ]
+}

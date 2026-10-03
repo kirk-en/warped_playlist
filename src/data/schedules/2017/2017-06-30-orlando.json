@@ -1,0 +1,524 @@
+{
+  "stages": [
+    {
+      "id": "journeys-left-foot",
+      "name": "Journeys Left Foot Stage"
+    },
+    {
+      "id": "journeys-right-foot",
+      "name": "Journeys Right Foot Stage"
+    },
+    {
+      "id": "monster-mutant-north",
+      "name": "Monster Mutant North Stage"
+    },
+    {
+      "id": "monster-mutant-south",
+      "name": "Monster Mutant South Stage"
+    },
+    {
+      "id": "hard-rock",
+      "name": "Hard Rock Stage"
+    },
+    {
+      "id": "skullcandy",
+      "name": "Skullcandy Stage"
+    },
+    {
+      "id": "full-sail",
+      "name": "Full Sail Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "journeys-left-foot-new-years-day",
+      "band": "New Years Day",
+      "stageId": "journeys-left-foot",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "journeys-left-foot-i-prevail",
+      "band": "I Prevail",
+      "stageId": "journeys-left-foot",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "journeys-left-foot-watsky",
+      "band": "Watsky",
+      "stageId": "journeys-left-foot",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "journeys-left-foot-sammy-adams",
+      "band": "Sammy Adams",
+      "stageId": "journeys-left-foot",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "journeys-left-foot-futuristic",
+      "band": "Futuristic",
+      "stageId": "journeys-left-foot",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "journeys-left-foot-cky",
+      "band": "CKY",
+      "stageId": "journeys-left-foot",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "journeys-left-foot-attila",
+      "band": "Attila",
+      "stageId": "journeys-left-foot",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "journeys-left-foot-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "journeys-left-foot",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "journeys-left-foot-jule-vera",
+      "band": "Jule Vera",
+      "stageId": "journeys-left-foot",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "journeys-left-foot-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "journeys-left-foot",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "journeys-right-foot-a-hero-s-fate",
+      "band": "A Hero's Fate",
+      "stageId": "journeys-right-foot",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "journeys-right-foot-neck-deep",
+      "band": "Neck Deep",
+      "stageId": "journeys-right-foot",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "journeys-right-foot-never-shout-never",
+      "band": "Never Shout Never",
+      "stageId": "journeys-right-foot",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "journeys-right-foot-american-authors",
+      "band": "American Authors",
+      "stageId": "journeys-right-foot",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "journeys-right-foot-our-last-night",
+      "band": "Our Last Night",
+      "stageId": "journeys-right-foot",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "journeys-right-foot-andy-black",
+      "band": "Andy Black",
+      "stageId": "journeys-right-foot",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "journeys-right-foot-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "journeys-right-foot",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "journeys-right-foot-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "journeys-right-foot",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "journeys-right-foot-hands-like-houses",
+      "band": "Hands Like Houses",
+      "stageId": "journeys-right-foot",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "journeys-right-foot-dance-gavin-dance",
+      "band": "Dance Gavin Dance",
+      "stageId": "journeys-right-foot",
+      "startTime": "20:35",
+      "displayTime": "8:35"
+    },
+    {
+      "id": "journeys-right-foot-beartooth",
+      "band": "Beartooth",
+      "stageId": "journeys-right-foot",
+      "startTime": "21:25",
+      "displayTime": "9:25"
+    },
+    {
+      "id": "monster-mutant-north-fit-for-a-king",
+      "band": "Fit for a King",
+      "stageId": "monster-mutant-north",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "monster-mutant-north-silent-planet",
+      "band": "Silent Planet",
+      "stageId": "monster-mutant-north",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "monster-mutant-north-sylar",
+      "band": "Sylar",
+      "stageId": "monster-mutant-north",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "monster-mutant-north-stick-to-your-guns",
+      "band": "Stick to Your Guns",
+      "stageId": "monster-mutant-north",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "monster-mutant-north-wage-war",
+      "band": "Wage War",
+      "stageId": "monster-mutant-north",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "monster-mutant-north-blessthefall",
+      "band": "Blessthefall",
+      "stageId": "monster-mutant-north",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "monster-mutant-north-being-as-an-ocean",
+      "band": "Being As An Ocean",
+      "stageId": "monster-mutant-north",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "monster-mutant-north-hatebreed",
+      "band": "Hatebreed",
+      "stageId": "monster-mutant-north",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "monster-mutant-north-counterparts",
+      "band": "Counterparts",
+      "stageId": "monster-mutant-north",
+      "startTime": "20:25",
+      "displayTime": "8:25"
+    },
+    {
+      "id": "monster-mutant-south-too-close-to-touch",
+      "band": "Too Close to Touch",
+      "stageId": "monster-mutant-south",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "monster-mutant-south-after-the-burial",
+      "band": "After the Burial",
+      "stageId": "monster-mutant-south",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "monster-mutant-south-hundredth",
+      "band": "Hundredth",
+      "stageId": "monster-mutant-south",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "monster-mutant-south-carnifex",
+      "band": "Carnifex",
+      "stageId": "monster-mutant-south",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "monster-mutant-south-silverstein",
+      "band": "Silverstein",
+      "stageId": "monster-mutant-south",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "monster-mutant-south-the-acacia-strain",
+      "band": "The Acacia Strain",
+      "stageId": "monster-mutant-south",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "monster-mutant-south-emmure",
+      "band": "Emmure",
+      "stageId": "monster-mutant-south",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "monster-mutant-south-sworn-in",
+      "band": "Sworn In",
+      "stageId": "monster-mutant-south",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "monster-mutant-south-gwar",
+      "band": "GWAR",
+      "stageId": "monster-mutant-south",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "hard-rock-valient-thorr",
+      "band": "Valient Thorr",
+      "stageId": "hard-rock",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "hard-rock-the-ataris",
+      "band": "The Ataris",
+      "stageId": "hard-rock",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "hard-rock-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "hard-rock",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "hard-rock-municipal-waste",
+      "band": "Municipal Waste",
+      "stageId": "hard-rock",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "hard-rock-the-adolescents",
+      "band": "The Adolescents",
+      "stageId": "hard-rock",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "hard-rock-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "hard-rock",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "hard-rock-fire-from-the-gods",
+      "band": "Fire From the Gods",
+      "stageId": "hard-rock",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "hard-rock-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "hard-rock",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "hard-rock-strung-out",
+      "band": "Strung Out",
+      "stageId": "hard-rock",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "skullcandy-sweet-ascent",
+      "band": "Sweet Ascent",
+      "stageId": "skullcandy",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "skullcandy-microwave",
+      "band": "Microwave",
+      "stageId": "skullcandy",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "skullcandy-the-white-noise",
+      "band": "The White Noise",
+      "stageId": "skullcandy",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "skullcandy-war-on-women",
+      "band": "War on Women",
+      "stageId": "skullcandy",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "skullcandy-sonic-boom-six",
+      "band": "Sonic Boom Six",
+      "stageId": "skullcandy",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "skullcandy-bad-seed-rising",
+      "band": "Bad Seed Rising",
+      "stageId": "skullcandy",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "skullcandy-barb-wire-dolls",
+      "band": "Barb Wire Dolls",
+      "stageId": "skullcandy",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "skullcandy-alestorm",
+      "band": "Alestorm",
+      "stageId": "skullcandy",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "skullcandy-william-control",
+      "band": "William Control",
+      "stageId": "skullcandy",
+      "startTime": "20:05",
+      "displayTime": "8:05"
+    },
+    {
+      "id": "full-sail-farewell-winters",
+      "band": "Farewell Winters",
+      "stageId": "full-sail",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "full-sail-the-gospel-truth",
+      "band": "The Gospel Truth",
+      "stageId": "full-sail",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "full-sail-creeper",
+      "band": "Creeper",
+      "stageId": "full-sail",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "full-sail-the-fantastic-plastics",
+      "band": "The Fantastic Plastics",
+      "stageId": "full-sail",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "full-sail-knocked-loose",
+      "band": "Knocked Loose",
+      "stageId": "full-sail",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "full-sail-courage-my-love",
+      "band": "Courage My Love",
+      "stageId": "full-sail",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "full-sail-boston-manor",
+      "band": "Boston Manor",
+      "stageId": "full-sail",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "full-sail-feeki",
+      "band": "Feeki",
+      "stageId": "full-sail",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "full-sail-carousel-kings",
+      "band": "Carousel Kings",
+      "stageId": "full-sail",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "full-sail-trophy-eyes",
+      "band": "Trophy Eyes",
+      "stageId": "full-sail",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "full-sail-the-dukes",
+      "band": "The Dukes",
+      "stageId": "full-sail",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "full-sail-movements",
+      "band": "Movements",
+      "stageId": "full-sail",
+      "startTime": "20:40",
+      "displayTime": "8:40"
+    },
+    {
+      "id": "full-sail-world-s-largest-amp-w-american-authors-travis-clark",
+      "band": "World's Largest Amp w/American Authors & Travis Clark",
+      "stageId": "full-sail",
+      "startTime": "21:20",
+      "displayTime": "9:20"
+    }
+  ]
+}

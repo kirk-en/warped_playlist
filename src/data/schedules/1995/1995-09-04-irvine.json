@@ -1,0 +1,119 @@
+{
+  "stages": [
+    {
+      "id": "main",
+      "name": "Main Stage"
+    },
+    {
+      "id": "side",
+      "name": "Side Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "main-orange-9mm",
+      "band": "Orange 9mm",
+      "stageId": "main",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "main-fluf",
+      "band": "Fluf",
+      "stageId": "main",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "main-no-use-for-a-name",
+      "band": "No Use for a Name",
+      "stageId": "main",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "main-no-doubt",
+      "band": "No Doubt",
+      "stageId": "main",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "main-sublime",
+      "band": "Sublime",
+      "stageId": "main",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "main-l7",
+      "band": "L7",
+      "stageId": "main",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "main-quicksand",
+      "band": "Quicksand",
+      "stageId": "main",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "side-wizo",
+      "band": "Wizo",
+      "stageId": "side",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "side-your-mom",
+      "band": "Your Mom",
+      "stageId": "side",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "side-the-ziggens",
+      "band": "The Ziggens",
+      "stageId": "side",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "side-deftones",
+      "band": "Deftones",
+      "stageId": "side",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "side-good-riddance",
+      "band": "Good Riddance",
+      "stageId": "side",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "side-civ",
+      "band": "CIV",
+      "stageId": "side",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "side-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "side",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "side-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "side",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    }
+  ]
+}

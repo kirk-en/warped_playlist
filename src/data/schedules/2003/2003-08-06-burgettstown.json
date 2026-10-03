@@ -1,0 +1,475 @@
+{
+  "stages": [
+    {
+      "id": "teal",
+      "name": "Teal Stage"
+    },
+    {
+      "id": "brian",
+      "name": "Brian Stage"
+    },
+    {
+      "id": "maurice",
+      "name": "Maurice Stage"
+    },
+    {
+      "id": "volcom",
+      "name": "Volcom Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "code-of-tha-cutz",
+      "name": "Code of tha Cutz Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teal-places-to-park",
+      "band": "Places to Park",
+      "stageId": "teal",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "teal-brand-new",
+      "band": "Brand New",
+      "stageId": "teal",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "teal-poison-the-well",
+      "band": "Poison the Well",
+      "stageId": "teal",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "teal-me-first-and-the-gimme-gimmes",
+      "band": "Me First and the Gimme Gimmes",
+      "stageId": "teal",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "teal-thrice",
+      "band": "Thrice",
+      "stageId": "teal",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "teal-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "teal",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "teal-face-to-face",
+      "band": "Face to Face",
+      "stageId": "teal",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "teal-the-suicide-machines",
+      "band": "The Suicide Machines",
+      "stageId": "teal",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "teal-the-used",
+      "band": "The Used",
+      "stageId": "teal",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "brian-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "brian",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "brian-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "brian",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "brian-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "brian",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "brian-the-ataris",
+      "band": "The Ataris",
+      "stageId": "brian",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "brian-pennywise",
+      "band": "Pennywise",
+      "stageId": "brian",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "brian-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "brian",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "brian-rancid",
+      "band": "Rancid",
+      "stageId": "brian",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "brian-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "brian",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "maurice-one-man-army",
+      "band": "One Man Army",
+      "stageId": "maurice",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "maurice-destruction-made-simple",
+      "band": "Destruction Made Simple",
+      "stageId": "maurice",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "maurice-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "maurice",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "maurice-the-all-american-rejects",
+      "band": "The All-American Rejects",
+      "stageId": "maurice",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "maurice-s-t-u-n",
+      "band": "S.T.U.N.",
+      "stageId": "maurice",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "maurice-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "maurice",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "maurice-slick-shoes",
+      "band": "Slick Shoes",
+      "stageId": "maurice",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "maurice-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "maurice",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "volcom-m-80",
+      "band": "M-80",
+      "stageId": "volcom",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "volcom-avoid-one-thing",
+      "band": "Avoid One Thing",
+      "stageId": "volcom",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "volcom-rise-against",
+      "band": "Rise Against",
+      "stageId": "volcom",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "volcom-vaux",
+      "band": "Vaux",
+      "stageId": "volcom",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "volcom-count-the-stars",
+      "band": "Count the Stars",
+      "stageId": "volcom",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "volcom-vendetta-red",
+      "band": "Vendetta Red",
+      "stageId": "volcom",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "volcom-pepper",
+      "band": "Pepper",
+      "stageId": "volcom",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "volcom-western-waste",
+      "band": "Western Waste",
+      "stageId": "volcom",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "volcom-motion-city-soundtrack",
+      "band": "Motion City Soundtrack",
+      "stageId": "volcom",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "ernie-ball-this-island-earth",
+      "band": "This Island Earth",
+      "stageId": "ernie-ball",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "ernie-ball-jackson",
+      "band": "Jackson",
+      "stageId": "ernie-ball",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "ernie-ball-almost-cool",
+      "band": "Almost Cool",
+      "stageId": "ernie-ball",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "ernie-ball-second-before-the-crash",
+      "band": "Second Before the Crash",
+      "stageId": "ernie-ball",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "ernie-ball-the-spacepimps",
+      "band": "The Spacepimps",
+      "stageId": "ernie-ball",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "ernie-ball-popart-monkey",
+      "band": "Popart Monkey",
+      "stageId": "ernie-ball",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "ernie-ball-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "ernie-ball",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "ernie-ball-eleventeen",
+      "band": "Eleventeen",
+      "stageId": "ernie-ball",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "ernie-ball-punchline",
+      "band": "Punchline",
+      "stageId": "ernie-ball",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "ernie-ball-breaking-even",
+      "band": "Breaking Even",
+      "stageId": "ernie-ball",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "ernie-ball-skyline-victory",
+      "band": "Skyline Victory",
+      "stageId": "ernie-ball",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "ernie-ball-green-lizard",
+      "band": "Green Lizard",
+      "stageId": "ernie-ball",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "kevin-says-time-will-tell",
+      "band": "Time Will Tell",
+      "stageId": "kevin-says",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "kevin-says-berlin-project",
+      "band": "Berlin Project",
+      "stageId": "kevin-says",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "kevin-says-2-cents",
+      "band": "2 Cents",
+      "stageId": "kevin-says",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "kevin-says-big-d-and-the-kids-table",
+      "band": "Big D and the Kids Table",
+      "stageId": "kevin-says",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "kevin-says-letter-kills",
+      "band": "Letter Kills",
+      "stageId": "kevin-says",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "kevin-says-a-t-w",
+      "band": "A.T.W.",
+      "stageId": "kevin-says",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "kevin-says-the-code",
+      "band": "The Code",
+      "stageId": "kevin-says",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "kevin-says-commercial",
+      "band": "Commercial",
+      "stageId": "kevin-says",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "kevin-says-oreon",
+      "band": "Oreon",
+      "stageId": "kevin-says",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "kevin-says-anarchaos",
+      "band": "Anarchaos",
+      "stageId": "kevin-says",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "code-of-tha-cutz-doozer",
+      "band": "Doozer",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "code-of-tha-cutz-home-of-the-brave",
+      "band": "Home of the Brave",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "code-of-tha-cutz-dynamix",
+      "band": "Dynamix",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "code-of-tha-cutz-crisis-center",
+      "band": "Crisis Center",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "code-of-tha-cutz-astronautalis",
+      "band": "Astronautalis",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "code-of-tha-cutz-369th-regiment",
+      "band": "369th Regiment",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "code-of-tha-cutz-arcane",
+      "band": "Arcane",
+      "stageId": "code-of-tha-cutz",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+[
+  {
+    "id": "1999-01-02-noosa-heads",
+    "year": 1999,
+    "date": "1999-01-02",
+    "city": "Noosa Heads",
+    "state": "QLD",
+    "venue": "Aussie Rules Football Grounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-03-gold-coast",
+    "year": 1999,
+    "date": "1999-01-03",
+    "city": "Gold Coast",
+    "state": "QLD",
+    "venue": "Doug Jennings Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-05-byron-bay",
+    "year": 1999,
+    "date": "1999-01-05",
+    "city": "Byron Bay",
+    "state": "NSW",
+    "venue": "Rugby League Grounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-06-coffs-harbour",
+    "year": 1999,
+    "date": "1999-01-06",
+    "city": "Coffs Harbour",
+    "state": "NSW",
+    "venue": "The Showgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-08-kareela",
+    "year": 1999,
+    "date": "1999-01-08",
+    "city": "Kareela",
+    "state": "NSW",
+    "venue": "Kareela Oval",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-09-sydney",
+    "year": 1999,
+    "date": "1999-01-09",
+    "city": "Sydney",
+    "state": "NSW",
+    "venue": "Keirle Park"
+  },
+  {
+    "id": "1999-01-10-ulladulla",
+    "year": 1999,
+    "date": "1999-01-10",
+    "city": "Ulladulla",
+    "state": "NSW",
+    "venue": "Ulladulla Skate Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-13-albury",
+    "year": 1999,
+    "date": "1999-01-13",
+    "city": "Albury",
+    "state": "NSW",
+    "venue": "Albury Football Club",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-15-anglesea",
+    "year": 1999,
+    "date": "1999-01-15",
+    "city": "Anglesea",
+    "state": "VIC",
+    "venue": "Anglesea Football Club",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-16-flemington",
+    "year": 1999,
+    "date": "1999-01-16",
+    "city": "Flemington",
+    "state": "VIC",
+    "venue": "Racecourse Car Park",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-17-adelaide",
+    "year": 1999,
+    "date": "1999-01-17",
+    "city": "Adelaide",
+    "state": "SA",
+    "venue": "Flinders University",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-01-20-perth",
+    "year": 1999,
+    "date": "1999-01-20",
+    "city": "Perth",
+    "state": "WA",
+    "venue": "Claremont Showgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-06-25-san-antonio",
+    "year": 1999,
+    "date": "1999-06-25",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "Retama Park"
+  },
+  {
+    "id": "1999-06-26-houston",
+    "year": 1999,
+    "date": "1999-06-26",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "Astro Arena",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-06-27-dallas",
+    "year": 1999,
+    "date": "1999-06-27",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Artist Square",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-06-29-phoenix",
+    "year": 1999,
+    "date": "1999-06-29",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Celebrity Theatre Parking Lot"
+  },
+  {
+    "id": "1999-06-30-del-mar",
+    "year": 1999,
+    "date": "1999-06-30",
+    "city": "Del Mar",
+    "state": "CA",
+    "venue": "Del Mar Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-01-san-bernardino",
+    "year": 1999,
+    "date": "1999-07-01",
+    "city": "San Bernardino",
+    "state": "CA",
+    "venue": "Orange Pavilion in National Orange Show Events Center"
+  },
+  {
+    "id": "1999-07-02-san-bernardino",
+    "year": 1999,
+    "date": "1999-07-02",
+    "city": "San Bernardino",
+    "state": "CA",
+    "venue": "Orange Pavilion in National Orange Show Events Center",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-03-oakland",
+    "year": 1999,
+    "date": "1999-07-03",
+    "city": "Oakland",
+    "state": "CA",
+    "venue": "Network Associates Coliseum Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-04-soda-springs",
+    "year": 1999,
+    "date": "1999-07-04",
+    "city": "Soda Springs",
+    "state": "CA",
+    "venue": "Boreal Mountain Resort",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-06-portland",
+    "year": 1999,
+    "date": "1999-07-06",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Portland Meadows"
+  },
+  {
+    "id": "1999-07-07-vancouver",
+    "year": 1999,
+    "date": "1999-07-07",
+    "city": "Vancouver",
+    "state": "BC",
+    "venue": "Thunderbird Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-08-seattle",
+    "year": 1999,
+    "date": "1999-07-08",
+    "city": "Seattle",
+    "state": "WA",
+    "venue": "Kingdome Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-09-boise",
+    "year": 1999,
+    "date": "1999-07-09",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Idaho Center Arena"
+  },
+  {
+    "id": "1999-07-10-salt-lake-city",
+    "year": 1999,
+    "date": "1999-07-10",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-11-denver",
+    "year": 1999,
+    "date": "1999-07-11",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Mile High Stadium Parking Lot",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-13-st-louis",
+    "year": 1999,
+    "date": "1999-07-13",
+    "city": "St. Louis",
+    "state": "MO",
+    "venue": "Riverport Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-14-chicago",
+    "year": 1999,
+    "date": "1999-07-14",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "New World Music Theatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-15-cleveland",
+    "year": 1999,
+    "date": "1999-07-15",
+    "city": "Cleveland",
+    "state": "OH",
+    "venue": "The Flats at Nautica",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-16-new-york",
+    "year": 1999,
+    "date": "1999-07-16",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Randall's Island Park"
+  },
+  {
+    "id": "1999-07-17-northampton",
+    "year": 1999,
+    "date": "1999-07-17",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Three County Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-18-asbury-park",
+    "year": 1999,
+    "date": "1999-07-18",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Stone Pony Lot"
+  },
+  {
+    "id": "1999-07-20-pittsburgh",
+    "year": 1999,
+    "date": "1999-07-20",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "I.C. Light Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-21-philadelphia",
+    "year": 1999,
+    "date": "1999-07-21",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "First Union Center Parking Lot"
+  },
+  {
+    "id": "1999-07-22-buffalo",
+    "year": 1999,
+    "date": "1999-07-22",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "La Salle Park"
+  },
+  {
+    "id": "1999-07-23-montreal",
+    "year": 1999,
+    "date": "1999-07-23",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc des Îles",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-24-toronto",
+    "year": 1999,
+    "date": "1999-07-24",
+    "city": "Toronto",
+    "state": "ON",
+    "venue": "The Docks",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-25-detroit",
+    "year": 1999,
+    "date": "1999-07-25",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Phoenix Plaza Amphitheater",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-27-washington",
+    "year": 1999,
+    "date": "1999-07-27",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "RFK Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-29-atlanta",
+    "year": 1999,
+    "date": "1999-07-29",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Coca-Cola Lakewood Amphitheatre",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-30-orlando",
+    "year": 1999,
+    "date": "1999-07-30",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-07-31-pompano-beach",
+    "year": 1999,
+    "date": "1999-07-31",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "venue": "Pompano Beach Amphitheatre Grounds",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-19-ljubljana",
+    "year": 1999,
+    "date": "1999-08-19",
+    "city": "Ljubljana",
+    "state": "Slovenia",
+    "venue": "Hala Tivoli",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-20-vienna",
+    "year": 1999,
+    "date": "1999-08-20",
+    "city": "Vienna",
+    "state": "Austria",
+    "venue": "Arena Wien",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-21-berlin",
+    "year": 1999,
+    "date": "1999-08-21",
+    "city": "Berlin",
+    "state": "Germany",
+    "venue": "Wuhlheide",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-22-nieuwegein",
+    "year": 1999,
+    "date": "1999-08-22",
+    "city": "Nieuwegein",
+    "state": "Netherlands",
+    "venue": "Recreatiegebied",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-26-hamburg",
+    "year": 1999,
+    "date": "1999-08-26",
+    "city": "Hamburg",
+    "state": "Germany",
+    "venue": "St. Pauli Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-27-minden",
+    "year": 1999,
+    "date": "1999-08-27",
+    "city": "Minden",
+    "state": "Germany",
+    "venue": "Weser Ufer",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-28-duisburg",
+    "year": 1999,
+    "date": "1999-08-28",
+    "city": "Duisburg",
+    "state": "Germany",
+    "venue": "Landschaftspark Nord",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-29-reading",
+    "year": 1999,
+    "date": "1999-08-29",
+    "city": "Reading",
+    "state": "UK",
+    "venue": "Reading Festival",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-08-30-leeds",
+    "year": 1999,
+    "date": "1999-08-30",
+    "city": "Leeds",
+    "state": "UK",
+    "venue": "Temple Newsam",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-09-02-bologna",
+    "year": 1999,
+    "date": "1999-09-02",
+    "city": "Bologna",
+    "state": "Italy",
+    "venue": "Bologna Arena",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-09-04-barcelona",
+    "year": 1999,
+    "date": "1999-09-04",
+    "city": "Barcelona",
+    "state": "Spain",
+    "venue": "Polideportivo",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-09-05-pamplona",
+    "year": 1999,
+    "date": "1999-09-05",
+    "city": "Pamplona",
+    "state": "Spain",
+    "venue": "Plaza de Toros",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "1999-09-07-lisbon",
+    "year": 1999,
+    "date": "1999-09-07",
+    "city": "Lisbon",
+    "state": "Portugal",
+    "venue": "Praca Sony",
+    "note": "Set times are not known for this date."
+  }
+]

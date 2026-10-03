@@ -1,0 +1,73 @@
+{
+  "stages": [
+    {
+      "id": "delta",
+      "name": "Delta Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "delta-i-against-i",
+      "band": "I Against I",
+      "stageId": "delta",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "delta-backfire",
+      "band": "Backfire",
+      "stageId": "delta",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "delta-blink-182",
+      "band": "Blink-182",
+      "stageId": "delta",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "delta-dance-hall-crashers",
+      "band": "Dance Hall Crashers",
+      "stageId": "delta",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "delta-royal-crown-revue",
+      "band": "Royal Crown Revue",
+      "stageId": "delta",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "delta-down-by-law",
+      "band": "Down By Law",
+      "stageId": "delta",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "delta-sick-of-it-all",
+      "band": "Sick of it All",
+      "stageId": "delta",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "delta-millencolin",
+      "band": "Millencolin",
+      "stageId": "delta",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "delta-pennywise",
+      "band": "Pennywise",
+      "stageId": "delta",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}
