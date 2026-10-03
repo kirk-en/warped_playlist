@@ -1,0 +1,753 @@
+{
+  "stages": [
+    {
+      "id": "kia-rio",
+      "name": "Kia Rio Stage"
+    },
+    {
+      "id": "kia-soul",
+      "name": "Kia Soul Stage"
+    },
+    {
+      "id": "monster-energy",
+      "name": "Monster Energy Stage"
+    },
+    {
+      "id": "tilly-s",
+      "name": "Tilly's Stage"
+    },
+    {
+      "id": "house-of-marley",
+      "name": "House of Marley Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "acoustic-basement",
+      "name": "Acoustic Basement Stage"
+    },
+    {
+      "id": "silent-disco",
+      "name": "Silent Disco"
+    },
+    {
+      "id": "ourstage-com",
+      "name": "OurStage.com Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "kia-rio-blessthefall",
+      "band": "Blessthefall",
+      "stageId": "kia-rio",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "kia-rio-pierce-the-veil",
+      "band": "Pierce the Veil",
+      "stageId": "kia-rio",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "kia-rio-miss-may-i",
+      "band": "Miss May I",
+      "stageId": "kia-rio",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "kia-rio-breathe-carolina",
+      "band": "Breathe Carolina",
+      "stageId": "kia-rio",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "kia-rio-the-used",
+      "band": "The Used",
+      "stageId": "kia-rio",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "kia-rio-all-time-low",
+      "band": "All Time Low",
+      "stageId": "kia-rio",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "kia-rio-streetlight-manifesto",
+      "band": "Streetlight Manifesto",
+      "stageId": "kia-rio",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    },
+    {
+      "id": "kia-rio-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "kia-rio",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "kia-soul-skinny-lister",
+      "band": "Skinny Lister",
+      "stageId": "kia-soul",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "kia-soul-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "kia-soul",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "kia-soul-falling-in-reverse",
+      "band": "Falling in Reverse",
+      "stageId": "kia-soul",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "kia-soul-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "kia-soul",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "kia-soul-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "kia-soul",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "kia-soul-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "kia-soul",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "kia-soul-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "kia-soul",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "kia-soul-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "kia-soul",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "monster-energy-you-me-at-six",
+      "band": "You Me at Six",
+      "stageId": "monster-energy",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "monster-energy-chelsea-grin",
+      "band": "Chelsea Grin",
+      "stageId": "monster-energy",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "monster-energy-vampires-everywhere",
+      "band": "Vampires Everywhere!",
+      "stageId": "monster-energy",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "monster-energy-motionless-in-white",
+      "band": "Motionless in White",
+      "stageId": "monster-energy",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "monster-energy-title-fight",
+      "band": "Title Fight",
+      "stageId": "monster-energy",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "monster-energy-every-time-i-die",
+      "band": "Every Time I Die",
+      "stageId": "monster-energy",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "monster-energy-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "monster-energy",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "monster-energy-rise-to-remain",
+      "band": "Rise to Remain",
+      "stageId": "monster-energy",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "monster-energy-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "monster-energy-sleeping-with-sirens",
+      "band": "Sleeping With Sirens",
+      "stageId": "monster-energy",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "monster-energy-for-today",
+      "band": "For Today",
+      "stageId": "monster-energy",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "monster-energy-the-ghost-inside",
+      "band": "The Ghost Inside",
+      "stageId": "monster-energy",
+      "startTime": "20:25",
+      "displayTime": "8:25"
+    },
+    {
+      "id": "tilly-s-polar-bear-club",
+      "band": "Polar Bear Club",
+      "stageId": "tilly-s",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "tilly-s-vanna",
+      "band": "Vanna",
+      "stageId": "tilly-s",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "tilly-s-funeral-party",
+      "band": "Funeral Party",
+      "stageId": "tilly-s",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "tilly-s-we-are-the-in-crowd",
+      "band": "We are the In Crowd",
+      "stageId": "tilly-s",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "tilly-s-i-fight-dragons",
+      "band": "I Fight Dragons",
+      "stageId": "tilly-s",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "tilly-s-senses-fail",
+      "band": "Senses Fail",
+      "stageId": "tilly-s",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "tilly-s-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "tilly-s",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "tilly-s-bayside",
+      "band": "Bayside",
+      "stageId": "tilly-s",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "tilly-s-hyro-da-hero",
+      "band": "Hyro da Hero",
+      "stageId": "tilly-s",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "tilly-s-a-loss-for-words",
+      "band": "A Loss for Words",
+      "stageId": "tilly-s",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "house-of-marley-mod-sun",
+      "band": "Mod Sun",
+      "stageId": "house-of-marley",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "house-of-marley-t-mills",
+      "band": "T. Mills",
+      "stageId": "house-of-marley",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "house-of-marley-champagne-champagne",
+      "band": "Champagne Champagne",
+      "stageId": "house-of-marley",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "house-of-marley-emily-s-army",
+      "band": "Emily's Army",
+      "stageId": "house-of-marley",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "house-of-marley-the-green",
+      "band": "The Green",
+      "stageId": "house-of-marley",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "house-of-marley-stepdad",
+      "band": "Stepdad",
+      "stageId": "house-of-marley",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "house-of-marley-echo-movement",
+      "band": "Echo Movement",
+      "stageId": "house-of-marley",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "house-of-marley-ballyhoo",
+      "band": "Ballyhoo!",
+      "stageId": "house-of-marley",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "house-of-marley-the-constellations",
+      "band": "The Constellations",
+      "stageId": "house-of-marley",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "house-of-marley-g-eazy",
+      "band": "G-Eazy",
+      "stageId": "house-of-marley",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "house-of-marley-tomorrow-s-bad-seeds",
+      "band": "Tomorrow's Bad Seeds",
+      "stageId": "house-of-marley",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "ernie-ball-goodbye-coastline",
+      "band": "Goodbye Coastline",
+      "stageId": "ernie-ball",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "ernie-ball-archers-illuminators",
+      "band": "Archers & Illuminators",
+      "stageId": "ernie-ball",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "ernie-ball-the-lost-colors",
+      "band": "The Lost Colors",
+      "stageId": "ernie-ball",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "ernie-ball-saline",
+      "band": "Saline",
+      "stageId": "ernie-ball",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "ernie-ball-mindset-evolution",
+      "band": "Mindset Evolution",
+      "stageId": "ernie-ball",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "ernie-ball-the-scissors",
+      "band": "The Scissors",
+      "stageId": "ernie-ball",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "ernie-ball-danielle-barbe",
+      "band": "Danielle Barbe",
+      "stageId": "ernie-ball",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "ernie-ball-cold-forty-three",
+      "band": "Cold Forty Three",
+      "stageId": "ernie-ball",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "ernie-ball-transit",
+      "band": "Transit",
+      "stageId": "ernie-ball",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "ernie-ball-iwrestledabearonce",
+      "band": "Iwrestledabearonce",
+      "stageId": "ernie-ball",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "ernie-ball-fireworks",
+      "band": "Fireworks",
+      "stageId": "ernie-ball",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "ernie-ball-troy-harley",
+      "band": "Troy Harley",
+      "stageId": "ernie-ball",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "ernie-ball-born-of-osiris",
+      "band": "Born of Osiris",
+      "stageId": "ernie-ball",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "ernie-ball-chunk-no-captain-chunk",
+      "band": "Chunk! No, Captain Chunk!",
+      "stageId": "ernie-ball",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "kevin-says-we-are-the-ocean",
+      "band": "We are the Ocean",
+      "stageId": "kevin-says",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "kevin-says-the-silver-comet",
+      "band": "The Silver Comet",
+      "stageId": "kevin-says",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "kevin-says-after-the-burial",
+      "band": "After the Burial",
+      "stageId": "kevin-says",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "kevin-says-tonight-alive",
+      "band": "Tonight Alive",
+      "stageId": "kevin-says",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "kevin-says-new-empire",
+      "band": "New Empire",
+      "stageId": "kevin-says",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "kevin-says-bangups",
+      "band": "Bangups",
+      "stageId": "kevin-says",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "kevin-says-super-water-sympathy",
+      "band": "Super Water Sympathy",
+      "stageId": "kevin-says",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "kevin-says-fires",
+      "band": "Fires",
+      "stageId": "kevin-says",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "kevin-says-matt-toka",
+      "band": "Matt Toka",
+      "stageId": "kevin-says",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "kevin-says-skip-the-foreplay",
+      "band": "Skip the Foreplay",
+      "stageId": "kevin-says",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "kevin-says-make-do-and-mend",
+      "band": "Make Do and Mend",
+      "stageId": "kevin-says",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "kevin-says-dead-sara",
+      "band": "Dead Sara",
+      "stageId": "kevin-says",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "kevin-says-lost-in-society",
+      "band": "Lost in Society",
+      "stageId": "kevin-says",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "acoustic-basement-dennis-caravello",
+      "band": "Dennis Caravello",
+      "stageId": "acoustic-basement",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "acoustic-basement-to-paint-the-sky",
+      "band": "To Paint the Sky",
+      "stageId": "acoustic-basement",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "acoustic-basement-into-it-over-it",
+      "band": "Into It. Over It.",
+      "stageId": "acoustic-basement",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "acoustic-basement-braid",
+      "band": "Braid",
+      "stageId": "acoustic-basement",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "acoustic-basement-anthony-raneri",
+      "band": "Anthony Raneri",
+      "stageId": "acoustic-basement",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "acoustic-basement-the-company-we-keep",
+      "band": "The Company We Keep",
+      "stageId": "acoustic-basement",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "acoustic-basement-sleeping-with-sirens",
+      "band": "Sleeping With Sirens",
+      "stageId": "acoustic-basement",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "acoustic-basement-koji",
+      "band": "Koji",
+      "stageId": "acoustic-basement",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "acoustic-basement-brian-marquis",
+      "band": "Brian Marquis",
+      "stageId": "acoustic-basement",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "acoustic-basement-a-loss-for-words",
+      "band": "A Loss for Words",
+      "stageId": "acoustic-basement",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "acoustic-basement-owen-plant",
+      "band": "Owen Plant",
+      "stageId": "acoustic-basement",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "acoustic-basement-transit",
+      "band": "Transit",
+      "stageId": "acoustic-basement",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "silent-disco-young-london",
+      "band": "Young London",
+      "stageId": "silent-disco",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "silent-disco-tony-d-angelo",
+      "band": "Tony D'Angelo",
+      "stageId": "silent-disco",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "silent-disco-dj-saucy",
+      "band": "DJ Saucy",
+      "stageId": "silent-disco",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "silent-disco-wick-it-the-instigator",
+      "band": "Wick-it the Instigator",
+      "stageId": "silent-disco",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "ourstage-com-potent-da-rockstar",
+      "band": "Potent da Rockstar",
+      "stageId": "ourstage-com",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "ourstage-com-goodgrandkidz",
+      "band": "GoodGrandKidz",
+      "stageId": "ourstage-com",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "ourstage-com-larry-gee",
+      "band": "Larry Gee",
+      "stageId": "ourstage-com",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "ourstage-com-phone-calls-from-home",
+      "band": "Phone Calls From Home",
+      "stageId": "ourstage-com",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "ourstage-com-junior-doctor",
+      "band": "Junior Doctor",
+      "stageId": "ourstage-com",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "ourstage-com-patent-pending",
+      "band": "Patent Pending",
+      "stageId": "ourstage-com",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "ourstage-com-atlantic-avenue",
+      "band": "Atlantic Avenue",
+      "stageId": "ourstage-com",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "ourstage-com-avion-roe",
+      "band": "Avion Roe",
+      "stageId": "ourstage-com",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "ourstage-com-war-games",
+      "band": "War Games",
+      "stageId": "ourstage-com",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    }
+  ]
+}

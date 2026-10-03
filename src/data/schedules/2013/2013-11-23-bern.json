@@ -1,0 +1,172 @@
+{
+  "stages": [
+    {
+      "id": "monster-energy-west",
+      "name": "Monster Energy West Stage"
+    },
+    {
+      "id": "monster-energy-east",
+      "name": "Monster Energy East Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "monster-energy-west-like-moths-to-flames",
+      "band": "Like Moths to Flames",
+      "stageId": "monster-energy-west",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "monster-energy-west-rdgldgrn",
+      "band": "RDGLDGRN",
+      "stageId": "monster-energy-west",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "monster-energy-west-the-wonder-years",
+      "band": "The Wonder Years",
+      "stageId": "monster-energy-west",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "monster-energy-west-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy-west",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "monster-energy-west-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "monster-energy-west",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "monster-energy-west-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "monster-energy-west",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "monster-energy-west-enter-shikari",
+      "band": "Enter Shikari",
+      "stageId": "monster-energy-west",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "monster-energy-west-flogging-molly",
+      "band": "Flogging Molly",
+      "stageId": "monster-energy-west",
+      "startTime": "22:00",
+      "displayTime": "10:00"
+    },
+    {
+      "id": "monster-energy-east-the-color-morale",
+      "band": "The Color Morale",
+      "stageId": "monster-energy-east",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "monster-energy-east-scream-your-name",
+      "band": "Scream Your Name",
+      "stageId": "monster-energy-east",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "monster-energy-east-the-maine",
+      "band": "The Maine",
+      "stageId": "monster-energy-east",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "monster-energy-east-crossfaith",
+      "band": "Crossfaith",
+      "stageId": "monster-energy-east",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "monster-energy-east-chiodos",
+      "band": "Chiodos",
+      "stageId": "monster-energy-east",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "monster-energy-east-we-are-the-ocean",
+      "band": "We are the Ocean",
+      "stageId": "monster-energy-east",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "monster-energy-east-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "monster-energy-east",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "monster-energy-east-parkway-drive",
+      "band": "Parkway Drive",
+      "stageId": "monster-energy-east",
+      "startTime": "21:10",
+      "displayTime": "9:10"
+    },
+    {
+      "id": "kevin-says-aliens-ate-my-setlist",
+      "band": "Aliens Ate My Setlist",
+      "stageId": "kevin-says",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "kevin-says-norman-die",
+      "band": "Norman Die",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-barbie-sailers",
+      "band": "Barbie Sailers",
+      "stageId": "kevin-says",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "kevin-says-like-torches",
+      "band": "Like Torches",
+      "stageId": "kevin-says",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "kevin-says-blood-command",
+      "band": "Blood Command",
+      "stageId": "kevin-says",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "kevin-says-watsky-wax",
+      "band": "Watsky & Wax",
+      "stageId": "kevin-says",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

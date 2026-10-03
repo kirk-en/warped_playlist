@@ -1,0 +1,735 @@
+{
+  "stages": [
+    {
+      "id": "shark",
+      "name": "Shark Stage"
+    },
+    {
+      "id": "unicorn",
+      "name": "Unicorn Stage"
+    },
+    {
+      "id": "monster",
+      "name": "Monster Stage"
+    },
+    {
+      "id": "journeys-left-foot",
+      "name": "Journeys Left Foot Stage"
+    },
+    {
+      "id": "journeys-right-foot",
+      "name": "Journeys Right Foot Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "beatport",
+      "name": "Beatport Stage"
+    },
+    {
+      "id": "acoustic-basement",
+      "name": "Acoustic Basement Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "shark-moose-blood",
+      "band": "Moose Blood",
+      "stageId": "shark",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "shark-mallory-knox",
+      "band": "Mallory Knox",
+      "stageId": "shark",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "shark-blessthefall",
+      "band": "Blessthefall",
+      "stageId": "shark",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "shark-august-burns-red",
+      "band": "August Burns Red",
+      "stageId": "shark",
+      "startTime": "14:25",
+      "displayTime": "2:25"
+    },
+    {
+      "id": "shark-black-veil-brides",
+      "band": "Black Veil Brides",
+      "stageId": "shark",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "shark-never-shout-never",
+      "band": "Never Shout Never",
+      "stageId": "shark",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "shark-asking-alexandria",
+      "band": "Asking Alexandria",
+      "stageId": "shark",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "shark-the-wonder-years",
+      "band": "The Wonder Years",
+      "stageId": "shark",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "unicorn-senses-fail",
+      "band": "Senses Fail",
+      "stageId": "unicorn",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "unicorn-family-force-5",
+      "band": "Family Force 5",
+      "stageId": "unicorn",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "unicorn-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "unicorn",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "unicorn-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "unicorn",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "unicorn-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "unicorn",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "unicorn-pvris",
+      "band": "PVRIS",
+      "stageId": "unicorn",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "unicorn-pierce-the-veil",
+      "band": "Pierce the Veil",
+      "stageId": "unicorn",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "unicorn-attila",
+      "band": "Attila",
+      "stageId": "unicorn",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "monster-being-as-an-ocean",
+      "band": "Being As An Ocean",
+      "stageId": "monster",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "monster-crossfaith",
+      "band": "Crossfaith",
+      "stageId": "monster",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "monster-68",
+      "band": "'68",
+      "stageId": "monster",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "monster-silverstein",
+      "band": "Silverstein",
+      "stageId": "monster",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "monster-i-killed-the-prom-queen",
+      "band": "I Killed the Prom Queen",
+      "stageId": "monster",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "monster-beartooth",
+      "band": "Beartooth",
+      "stageId": "monster",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "monster-hundredth",
+      "band": "Hundredth",
+      "stageId": "monster",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "monster-fit-for-a-king",
+      "band": "Fit for a King",
+      "stageId": "monster",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "monster-the-amity-affliction",
+      "band": "The Amity Affliction",
+      "stageId": "monster",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "monster-while-she-sleeps",
+      "band": "While She Sleeps",
+      "stageId": "monster",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "monster-our-last-night",
+      "band": "Our Last Night",
+      "stageId": "monster",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "monster-escape-the-fate",
+      "band": "Escape the Fate",
+      "stageId": "monster",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "journeys-left-foot-this-wild-life",
+      "band": "This Wild Life",
+      "stageId": "journeys-left-foot",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "journeys-left-foot-transit",
+      "band": "Transit",
+      "stageId": "journeys-left-foot",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "journeys-left-foot-set-it-off",
+      "band": "Set It Off",
+      "stageId": "journeys-left-foot",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "journeys-left-foot-icon-for-hire",
+      "band": "Icon For Hire",
+      "stageId": "journeys-left-foot",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "journeys-left-foot-riff-raff",
+      "band": "Riff Raff",
+      "stageId": "journeys-left-foot",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "journeys-left-foot-neck-deep",
+      "band": "Neck Deep",
+      "stageId": "journeys-left-foot",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "journeys-left-foot-bebe-rexha",
+      "band": "Bebe Rexha",
+      "stageId": "journeys-left-foot",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "journeys-left-foot-new-years-day",
+      "band": "New Years Day",
+      "stageId": "journeys-left-foot",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "journeys-left-foot-mod-sun",
+      "band": "Mod Sun",
+      "stageId": "journeys-left-foot",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "journeys-right-foot-hands-like-houses",
+      "band": "Hands Like Houses",
+      "stageId": "journeys-right-foot",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "journeys-right-foot-night-riots",
+      "band": "Night Riots",
+      "stageId": "journeys-right-foot",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "journeys-right-foot-juliet-simms",
+      "band": "Juliet Simms",
+      "stageId": "journeys-right-foot",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "journeys-right-foot-tat",
+      "band": "TAT",
+      "stageId": "journeys-right-foot",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "journeys-right-foot-as-it-is",
+      "band": "As It Is",
+      "stageId": "journeys-right-foot",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "journeys-right-foot-lee-corey-oswald",
+      "band": "Lee Corey Oswald",
+      "stageId": "journeys-right-foot",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "journeys-right-foot-metro-station",
+      "band": "Metro Station",
+      "stageId": "journeys-right-foot",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "journeys-right-foot-beautiful-bodies",
+      "band": "Beautiful Bodies",
+      "stageId": "journeys-right-foot",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "journeys-right-foot-citizen",
+      "band": "Citizen",
+      "stageId": "journeys-right-foot",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "ernie-ball-oh-be-clever",
+      "band": "Oh, Be Clever",
+      "stageId": "ernie-ball",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "ernie-ball-asfirefalls",
+      "band": "AsFireFalls",
+      "stageId": "ernie-ball",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "ernie-ball-the-clay-temples",
+      "band": "The Clay Temples",
+      "stageId": "ernie-ball",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "ernie-ball-alumni",
+      "band": "Alumni",
+      "stageId": "ernie-ball",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "ernie-ball-hollow-i-am",
+      "band": "Hollow I Am",
+      "stageId": "ernie-ball",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "ernie-ball-night-argent",
+      "band": "Night Argent",
+      "stageId": "ernie-ball",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "ernie-ball-the-bunny-the-bear",
+      "band": "The Bunny The Bear",
+      "stageId": "ernie-ball",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "ernie-ball-the-dirty-nil",
+      "band": "The Dirty Nil",
+      "stageId": "ernie-ball",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "ernie-ball-false-puppet",
+      "band": "False Puppet",
+      "stageId": "ernie-ball",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "ernie-ball-the-karma-killers",
+      "band": "The Karma Killers",
+      "stageId": "ernie-ball",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "ernie-ball-boymeetsworld",
+      "band": "BoyMeetsWorld",
+      "stageId": "ernie-ball",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "ernie-ball-seaway",
+      "band": "Seaway",
+      "stageId": "ernie-ball",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "ernie-ball-sirens-sailors",
+      "band": "Sirens & Sailors",
+      "stageId": "ernie-ball",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "ernie-ball-youth-in-revolt",
+      "band": "Youth in Revolt",
+      "stageId": "ernie-ball",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "kevin-says-alvarez-kings",
+      "band": "Alvarez Kings",
+      "stageId": "kevin-says",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "kevin-says-major-league",
+      "band": "Major League",
+      "stageId": "kevin-says",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "kevin-says-candy-hearts",
+      "band": "Candy Hearts",
+      "stageId": "kevin-says",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "kevin-says-trophy-eyes",
+      "band": "Trophy Eyes",
+      "stageId": "kevin-says",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "kevin-says-knuckle-puck",
+      "band": "Knuckle Puck",
+      "stageId": "kevin-says",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "kevin-says-jule-vera",
+      "band": "Jule Vera",
+      "stageId": "kevin-says",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "kevin-says-have-mercy",
+      "band": "Have Mercy",
+      "stageId": "kevin-says",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "kevin-says-svetlanas",
+      "band": "Svetlanas",
+      "stageId": "kevin-says",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "kevin-says-kaya-stewart",
+      "band": "Kaya Stewart",
+      "stageId": "kevin-says",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "kevin-says-corrin-campbell-and-the-election",
+      "band": "Corrin Campbell and the Election",
+      "stageId": "kevin-says",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "kevin-says-the-kenneths",
+      "band": "The Kenneths",
+      "stageId": "kevin-says",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "kevin-says-carousel-kings",
+      "band": "Carousel Kings",
+      "stageId": "kevin-says",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "kevin-says-baby-baby",
+      "band": "Baby Baby",
+      "stageId": "kevin-says",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "kevin-says-palisades",
+      "band": "Palisades",
+      "stageId": "kevin-says",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "kevin-says-rkdn",
+      "band": "RKDN",
+      "stageId": "kevin-says",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "beatport-chrisb",
+      "band": "ChrisB",
+      "stageId": "beatport",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "beatport-drama-club",
+      "band": "Drama Club",
+      "stageId": "beatport",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "beatport-splitbreed",
+      "band": "Splitbreed",
+      "stageId": "beatport",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "beatport-born-cages",
+      "band": "Born Cages",
+      "stageId": "beatport",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "beatport-new-beat-fund",
+      "band": "New Beat Fund",
+      "stageId": "beatport",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "beatport-black-boots",
+      "band": "Black Boots",
+      "stageId": "beatport",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "beatport-m4sonic",
+      "band": "M4Sonic",
+      "stageId": "beatport",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "beatport-le-castle-vania",
+      "band": "Le Castle Vania",
+      "stageId": "beatport",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "beatport-koo-koo-kanga-roo",
+      "band": "Koo Koo Kanga Roo",
+      "stageId": "beatport",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "beatport-waka-flocka-flame",
+      "band": "Waka Flocka Flame",
+      "stageId": "beatport",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "beatport-mc-lars",
+      "band": "MC Lars",
+      "stageId": "beatport",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "beatport-kosha-dillz",
+      "band": "Kosha Dillz",
+      "stageId": "beatport",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "acoustic-basement-buttons",
+      "band": "Buttons",
+      "stageId": "acoustic-basement",
+      "startTime": "11:35",
+      "displayTime": "11:35"
+    },
+    {
+      "id": "acoustic-basement-brian-marquis",
+      "band": "Brian Marquis",
+      "stageId": "acoustic-basement",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "acoustic-basement-koji",
+      "band": "Koji",
+      "stageId": "acoustic-basement",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "acoustic-basement-meghann-wright",
+      "band": "Meghann Wright",
+      "stageId": "acoustic-basement",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "acoustic-basement-american-opera",
+      "band": "American Opera",
+      "stageId": "acoustic-basement",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "acoustic-basement-moose-blood",
+      "band": "Moose Blood",
+      "stageId": "acoustic-basement",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "acoustic-basement-alvarez-kings",
+      "band": "Alvarez Kings",
+      "stageId": "acoustic-basement",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "acoustic-basement-aaron-west-and-the-roaring-twenties",
+      "band": "Aaron West and the Roaring Twenties",
+      "stageId": "acoustic-basement",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "acoustic-basement-transit",
+      "band": "Transit",
+      "stageId": "acoustic-basement",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "acoustic-basement-trey-the-ruler",
+      "band": "Trey the Ruler",
+      "stageId": "acoustic-basement",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "acoustic-basement-saywecanfly",
+      "band": "SayWeCanFly",
+      "stageId": "acoustic-basement",
+      "startTime": "17:25",
+      "displayTime": "5:25"
+    },
+    {
+      "id": "acoustic-basement-onward-etc",
+      "band": "Onward, Etc.",
+      "stageId": "acoustic-basement",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "stages": [
+    {
+      "id": "monster-energy-west",
+      "name": "Monster Energy West Stage"
+    },
+    {
+      "id": "monster-energy-east",
+      "name": "Monster Energy East Stage"
+    },
+    {
+      "id": "jukley",
+      "name": "Jukley Stage"
+    },
+    {
+      "id": "jagermeister",
+      "name": "Jägermeister Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "monster-energy-west-ghost-town",
+      "band": "Ghost Town",
+      "stageId": "monster-energy-west",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "monster-energy-west-metro-station",
+      "band": "Metro Station",
+      "stageId": "monster-energy-west",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "monster-energy-west-august-burns-red",
+      "band": "August Burns Red",
+      "stageId": "monster-energy-west",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "monster-energy-west-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy-west",
+      "startTime": "18:25",
+      "displayTime": "6:25"
+    },
+    {
+      "id": "monster-energy-west-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "monster-energy-west",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "monster-energy-west-black-veil-brides",
+      "band": "Black Veil Brides",
+      "stageId": "monster-energy-west",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "monster-energy-east-the-word-alive",
+      "band": "The Word Alive",
+      "stageId": "monster-energy-east",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "monster-energy-east-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "monster-energy-east",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "monster-energy-east-the-rocket-summer",
+      "band": "The Rocket Summer",
+      "stageId": "monster-energy-east",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "monster-energy-east-attila",
+      "band": "Attila",
+      "stageId": "monster-energy-east",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "monster-energy-east-never-shout-never",
+      "band": "Never Shout Never",
+      "stageId": "monster-energy-east",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "monster-energy-east-asking-alexandria",
+      "band": "Asking Alexandria",
+      "stageId": "monster-energy-east",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "jukley-the-kenneths",
+      "band": "The Kenneths",
+      "stageId": "jukley",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "jukley-forever-came-calling",
+      "band": "Forever Came Calling",
+      "stageId": "jukley",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "jukley-fearless-vampire-killers",
+      "band": "Fearless Vampire Killers",
+      "stageId": "jukley",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "jukley-beautiful-bodies",
+      "band": "Beautiful Bodies",
+      "stageId": "jukley",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "jukley-in-hearts-wake",
+      "band": "In Hearts Wake",
+      "stageId": "jukley",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "jukley-frank-carter-and-the-rattlesnakes",
+      "band": "Frank Carter and the Rattlesnakes",
+      "stageId": "jukley",
+      "startTime": "20:05",
+      "displayTime": "8:05"
+    },
+    {
+      "id": "jukley-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "jukley",
+      "startTime": "21:15",
+      "displayTime": "9:15"
+    },
+    {
+      "id": "jagermeister-twin-wild",
+      "band": "Twin Wild",
+      "stageId": "jagermeister",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "jagermeister-rob-lynch",
+      "band": "Rob Lynch",
+      "stageId": "jagermeister",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "jagermeister-trophy-eyes",
+      "band": "Trophy Eyes",
+      "stageId": "jagermeister",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "jagermeister-roam",
+      "band": "Roam",
+      "stageId": "jagermeister",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "jagermeister-chunk-no-captain-chunk",
+      "band": "Chunk! No, Captain Chunk!",
+      "stageId": "jagermeister",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    },
+    {
+      "id": "jagermeister-moose-blood",
+      "band": "Moose Blood",
+      "stageId": "jagermeister",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "jagermeister-young-guns",
+      "band": "Young Guns",
+      "stageId": "jagermeister",
+      "startTime": "20:35",
+      "displayTime": "8:35"
+    },
+    {
+      "id": "kevin-says-black-foxxes",
+      "band": "Black Foxxes",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-tigress",
+      "band": "Tigress",
+      "stageId": "kevin-says",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "kevin-says-boy-jumps-ship",
+      "band": "Boy Jumps Ship",
+      "stageId": "kevin-says",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "kevin-says-john-coffey",
+      "band": "John Coffey",
+      "stageId": "kevin-says",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "kevin-says-creeper",
+      "band": "Creeper",
+      "stageId": "kevin-says",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "kevin-says-the-one-hundred",
+      "band": "The One Hundred",
+      "stageId": "kevin-says",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "kevin-says-heck",
+      "band": "Heck",
+      "stageId": "kevin-says",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    }
+  ]
+}

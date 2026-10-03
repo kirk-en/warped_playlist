@@ -1,0 +1,314 @@
+[
+  {
+    "id": "2017-06-16-seattle",
+    "year": 2017,
+    "date": "2017-06-16",
+    "city": "Seattle",
+    "state": "WA",
+    "venue": "CenturyLink Field North Lot"
+  },
+  {
+    "id": "2017-06-17-salem",
+    "year": 2017,
+    "date": "2017-06-17",
+    "city": "Salem",
+    "state": "OR",
+    "venue": "Oregon State Fairgrounds"
+  },
+  {
+    "id": "2017-06-21-albuquerque",
+    "year": 2017,
+    "date": "2017-06-21",
+    "city": "Albuquerque",
+    "state": "NM",
+    "venue": "Balloon Fiesta Park"
+  },
+  {
+    "id": "2017-06-22-phoenix",
+    "year": 2017,
+    "date": "2017-06-22",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Fear Farm Festival Grounds"
+  },
+  {
+    "id": "2017-06-23-las-vegas",
+    "year": 2017,
+    "date": "2017-06-23",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Hard Rock Hotel & Casino"
+  },
+  {
+    "id": "2017-06-24-salt-lake-city",
+    "year": 2017,
+    "date": "2017-06-24",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark"
+  },
+  {
+    "id": "2017-06-25-denver",
+    "year": 2017,
+    "date": "2017-06-25",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Pepsi Center"
+  },
+  {
+    "id": "2017-06-27-nashville",
+    "year": 2017,
+    "date": "2017-06-27",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Tennessee State Fairgrounds"
+  },
+  {
+    "id": "2017-06-29-atlanta",
+    "year": 2017,
+    "date": "2017-06-29",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Lakewood Amphitheatre"
+  },
+  {
+    "id": "2017-06-30-orlando",
+    "year": 2017,
+    "date": "2017-06-30",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Tinker Field"
+  },
+  {
+    "id": "2017-07-01-st-petersburg",
+    "year": 2017,
+    "date": "2017-07-01",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2017-07-02-west-palm-beach",
+    "year": 2017,
+    "date": "2017-07-02",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "venue": "Perfect Vodka Amphitheatre"
+  },
+  {
+    "id": "2017-07-06-charlotte",
+    "year": 2017,
+    "date": "2017-07-06",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "PNC Music Pavilion"
+  },
+  {
+    "id": "2017-07-07-camden",
+    "year": 2017,
+    "date": "2017-07-07",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "BB&T Pavilion"
+  },
+  {
+    "id": "2017-07-08-wantagh",
+    "year": 2017,
+    "date": "2017-07-08",
+    "city": "Wantagh",
+    "state": "NY",
+    "venue": "Northwell Health at Jones Beach Theater"
+  },
+  {
+    "id": "2017-07-09-hartford",
+    "year": 2017,
+    "date": "2017-07-09",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "XFINITY Theatre"
+  },
+  {
+    "id": "2017-07-10-scranton",
+    "year": 2017,
+    "date": "2017-07-10",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "The Pavilion at Montage Mountain"
+  },
+  {
+    "id": "2017-07-11-virginia-beach",
+    "year": 2017,
+    "date": "2017-07-11",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Veterans United Home Loans Amphitheater"
+  },
+  {
+    "id": "2017-07-12-mansfield",
+    "year": 2017,
+    "date": "2017-07-12",
+    "city": "Mansfield",
+    "state": "MA",
+    "venue": "XFINITY Center"
+  },
+  {
+    "id": "2017-07-13-darien",
+    "year": 2017,
+    "date": "2017-07-13",
+    "city": "Darien",
+    "state": "NY",
+    "venue": "Darien Lake Performing Arts Center"
+  },
+  {
+    "id": "2017-07-14-burgettstown",
+    "year": 2017,
+    "date": "2017-07-14",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "KeyBank Pavilion"
+  },
+  {
+    "id": "2017-07-15-holmdel",
+    "year": 2017,
+    "date": "2017-07-15",
+    "city": "Holmdel",
+    "state": "NJ",
+    "venue": "PNC Bank Arts Center"
+  },
+  {
+    "id": "2017-07-16-columbia",
+    "year": 2017,
+    "date": "2017-07-16",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2017-07-18-cuyahoga-falls",
+    "year": 2017,
+    "date": "2017-07-18",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "venue": "Blossom Music Center"
+  },
+  {
+    "id": "2017-07-19-cincinnati",
+    "year": 2017,
+    "date": "2017-07-19",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2017-07-20-noblesville",
+    "year": 2017,
+    "date": "2017-07-20",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Klipsch Music Center"
+  },
+  {
+    "id": "2017-07-21-auburn-hills",
+    "year": 2017,
+    "date": "2017-07-21",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "venue": "The Palace of Auburn Hills"
+  },
+  {
+    "id": "2017-07-22-tinley-park",
+    "year": 2017,
+    "date": "2017-07-22",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "Hollywood Casino Amphitheatre"
+  },
+  {
+    "id": "2017-07-23-shakopee",
+    "year": 2017,
+    "date": "2017-07-23",
+    "city": "Shakopee",
+    "state": "MN",
+    "venue": "Canterbury Park"
+  },
+  {
+    "id": "2017-07-24-milwaukee",
+    "year": 2017,
+    "date": "2017-07-24",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Henry Maier Festival Park"
+  },
+  {
+    "id": "2017-07-26-maryland-heights",
+    "year": 2017,
+    "date": "2017-07-26",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Hollywood Casino Amphitheatre"
+  },
+  {
+    "id": "2017-07-27-bonner-springs",
+    "year": 2017,
+    "date": "2017-07-27",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Providence Medical Center Amphitheater"
+  },
+  {
+    "id": "2017-07-28-dallas",
+    "year": 2017,
+    "date": "2017-07-28",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Starplex Pavilion"
+  },
+  {
+    "id": "2017-07-29-san-antonio",
+    "year": 2017,
+    "date": "2017-07-29",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "AT&T Center"
+  },
+  {
+    "id": "2017-07-30-houston",
+    "year": 2017,
+    "date": "2017-07-30",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "NRG Park Main Street Lot"
+  },
+  {
+    "id": "2017-08-01-las-cruces",
+    "year": 2017,
+    "date": "2017-08-01",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Intramural Field"
+  },
+  {
+    "id": "2017-08-04-mountain-view",
+    "year": 2017,
+    "date": "2017-08-04",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2017-08-05-san-diego",
+    "year": 2017,
+    "date": "2017-08-05",
+    "city": "San Diego",
+    "state": "CA",
+    "venue": "Qualcomm Stadium at Jack Murphy Field"
+  },
+  {
+    "id": "2017-08-06-pomona",
+    "year": 2017,
+    "date": "2017-08-06",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex"
+  }
+]

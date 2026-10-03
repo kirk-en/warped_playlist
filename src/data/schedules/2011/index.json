@@ -1,0 +1,354 @@
+[
+  {
+    "id": "2011-06-24-dallas",
+    "year": 2011,
+    "date": "2011-06-24",
+    "city": "Dallas",
+    "state": "TX",
+    "venue": "Gexa Energy Pavilion"
+  },
+  {
+    "id": "2011-06-25-houston",
+    "year": 2011,
+    "date": "2011-06-25",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "The Showgrounds at Sam Houston Race Park"
+  },
+  {
+    "id": "2011-06-26-san-antonio",
+    "year": 2011,
+    "date": "2011-06-26",
+    "city": "San Antonio",
+    "state": "TX",
+    "venue": "AT&T Center"
+  },
+  {
+    "id": "2011-06-29-las-cruces",
+    "year": 2011,
+    "date": "2011-06-29",
+    "city": "Las Cruces",
+    "state": "NM",
+    "venue": "NMSU Practice Field"
+  },
+  {
+    "id": "2011-06-30-las-vegas",
+    "year": 2011,
+    "date": "2011-06-30",
+    "city": "Las Vegas",
+    "state": "NV",
+    "venue": "Plaza Hotel & Casino"
+  },
+  {
+    "id": "2011-07-01-pomona",
+    "year": 2011,
+    "date": "2011-07-01",
+    "city": "Pomona",
+    "state": "CA",
+    "venue": "Pomona Fairplex"
+  },
+  {
+    "id": "2011-07-02-mountain-view",
+    "year": 2011,
+    "date": "2011-07-02",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2011-07-03-ventura",
+    "year": 2011,
+    "date": "2011-07-03",
+    "city": "Ventura",
+    "state": "CA",
+    "venue": "Ventura County Fairgrounds at Seaside Park"
+  },
+  {
+    "id": "2011-07-06-bonner-springs",
+    "year": 2011,
+    "date": "2011-07-06",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "venue": "Sandstone Amphitheater"
+  },
+  {
+    "id": "2011-07-07-noblesville",
+    "year": 2011,
+    "date": "2011-07-07",
+    "city": "Noblesville",
+    "state": "IN",
+    "venue": "Verizon Wireless Music Center"
+  },
+  {
+    "id": "2011-07-08-detroit",
+    "year": 2011,
+    "date": "2011-07-08",
+    "city": "Detroit",
+    "state": "MI",
+    "venue": "Comerica Park"
+  },
+  {
+    "id": "2011-07-09-tinley-park",
+    "year": 2011,
+    "date": "2011-07-09",
+    "city": "Tinley Park",
+    "state": "IL",
+    "venue": "First Midwest Bank Amphitheatre"
+  },
+  {
+    "id": "2011-07-10-shakopee",
+    "year": 2011,
+    "date": "2011-07-10",
+    "city": "Shakopee",
+    "state": "MN",
+    "venue": "Canterbury Park"
+  },
+  {
+    "id": "2011-07-12-corfu",
+    "year": 2011,
+    "date": "2011-07-12",
+    "city": "Corfu",
+    "state": "NY",
+    "venue": "Darien Lake Fields"
+  },
+  {
+    "id": "2011-07-13-mansfield",
+    "year": 2011,
+    "date": "2011-07-13",
+    "city": "Mansfield",
+    "state": "MA",
+    "venue": "Comcast Center for the Performing Arts"
+  },
+  {
+    "id": "2011-07-14-scranton",
+    "year": 2011,
+    "date": "2011-07-14",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Toyota Pavilion at Montage Mountain"
+  },
+  {
+    "id": "2011-07-15-mississauga",
+    "year": 2011,
+    "date": "2011-07-15",
+    "city": "Mississauga",
+    "state": "ON",
+    "venue": "The Flats at Arrow Hall"
+  },
+  {
+    "id": "2011-07-16-montreal",
+    "year": 2011,
+    "date": "2011-07-16",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2011-07-17-hartford",
+    "year": 2011,
+    "date": "2011-07-17",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "Comcast Theatre"
+  },
+  {
+    "id": "2011-07-19-milwaukee",
+    "year": 2011,
+    "date": "2011-07-19",
+    "city": "Milwaukee",
+    "state": "WI",
+    "venue": "Marcus Amphitheater"
+  },
+  {
+    "id": "2011-07-20-cuyahoga-falls",
+    "year": 2011,
+    "date": "2011-07-20",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "venue": "Blossom Music Center"
+  },
+  {
+    "id": "2011-07-21-camden",
+    "year": 2011,
+    "date": "2011-07-21",
+    "city": "Camden",
+    "state": "NJ",
+    "venue": "Susquehanna Bank Center"
+  },
+  {
+    "id": "2011-07-22-burgettstown",
+    "year": 2011,
+    "date": "2011-07-22",
+    "city": "Burgettstown",
+    "state": "PA",
+    "venue": "First Niagara Pavilion"
+  },
+  {
+    "id": "2011-07-23-uniondale",
+    "year": 2011,
+    "date": "2011-07-23",
+    "city": "Uniondale",
+    "state": "NY",
+    "venue": "Nassau Veterans Memorial Coliseum"
+  },
+  {
+    "id": "2011-07-24-oceanport",
+    "year": 2011,
+    "date": "2011-07-24",
+    "city": "Oceanport",
+    "state": "NJ",
+    "venue": "Monmouth Park Racetrack"
+  },
+  {
+    "id": "2011-07-26-columbia",
+    "year": 2011,
+    "date": "2011-07-26",
+    "city": "Columbia",
+    "state": "MD",
+    "venue": "Merriweather Post Pavilion"
+  },
+  {
+    "id": "2011-07-27-virginia-beach",
+    "year": 2011,
+    "date": "2011-07-27",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "venue": "Farm Bureau Live at Virginia Beach"
+  },
+  {
+    "id": "2011-07-28-charlotte",
+    "year": 2011,
+    "date": "2011-07-28",
+    "city": "Charlotte",
+    "state": "NC",
+    "venue": "Verizon Wireless Amphitheatre"
+  },
+  {
+    "id": "2011-07-29-orlando",
+    "year": 2011,
+    "date": "2011-07-29",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Central Florida Fairgrounds"
+  },
+  {
+    "id": "2011-07-30-west-palm-beach",
+    "year": 2011,
+    "date": "2011-07-30",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "venue": "Cruzan Amphitheatre"
+  },
+  {
+    "id": "2011-07-31-st-petersburg",
+    "year": 2011,
+    "date": "2011-07-31",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "venue": "Vinoy Park"
+  },
+  {
+    "id": "2011-08-01-atlanta",
+    "year": 2011,
+    "date": "2011-08-01",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Aaron's Amphitheatre at Lakewood"
+  },
+  {
+    "id": "2011-08-02-cincinnati",
+    "year": 2011,
+    "date": "2011-08-02",
+    "city": "Cincinnati",
+    "state": "OH",
+    "venue": "Riverbend Music Center"
+  },
+  {
+    "id": "2011-08-03-maryland-heights",
+    "year": 2011,
+    "date": "2011-08-03",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "venue": "Verizon Wireless Amphitheater"
+  },
+  {
+    "id": "2011-08-04-council-bluffs",
+    "year": 2011,
+    "date": "2011-08-04",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "venue": "Westfair Amphitheatre"
+  },
+  {
+    "id": "2011-08-05-denver",
+    "year": 2011,
+    "date": "2011-08-05",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Invesco Field at Mile High"
+  },
+  {
+    "id": "2011-08-06-salt-lake-city",
+    "year": 2011,
+    "date": "2011-08-06",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "Utah State Fairpark"
+  },
+  {
+    "id": "2011-08-07-phoenix",
+    "year": 2011,
+    "date": "2011-08-07",
+    "city": "Phoenix",
+    "state": "AZ",
+    "venue": "Ashley Furniture HomeStore Pavilion"
+  },
+  {
+    "id": "2011-08-09-chula-vista",
+    "year": 2011,
+    "date": "2011-08-09",
+    "city": "Chula Vista",
+    "state": "CA",
+    "venue": "Cricket Wireless Amphitheatre"
+  },
+  {
+    "id": "2011-08-10-carson",
+    "year": 2011,
+    "date": "2011-08-10",
+    "city": "Carson",
+    "state": "CA",
+    "venue": "California State University, Dominguez Hills"
+  },
+  {
+    "id": "2011-08-11-wheatland",
+    "year": 2011,
+    "date": "2011-08-11",
+    "city": "Wheatland",
+    "state": "CA",
+    "venue": "Sleep Train Amphitheatre"
+  },
+  {
+    "id": "2011-08-12-nampa",
+    "year": 2011,
+    "date": "2011-08-12",
+    "city": "Nampa",
+    "state": "ID",
+    "venue": "Idaho Center Amphitheater"
+  },
+  {
+    "id": "2011-08-13-george",
+    "year": 2011,
+    "date": "2011-08-13",
+    "city": "George",
+    "state": "WA",
+    "venue": "The Gorge Amphitheatre"
+  },
+  {
+    "id": "2011-08-14-hillsboro",
+    "year": 2011,
+    "date": "2011-08-14",
+    "city": "Hillsboro",
+    "state": "OR",
+    "venue": "Washington County Fairgrounds"
+  }
+]

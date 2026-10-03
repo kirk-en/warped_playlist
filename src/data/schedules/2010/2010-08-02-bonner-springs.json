@@ -1,0 +1,545 @@
+{
+  "stages": [
+    {
+      "id": "teggart",
+      "name": "Teggart Stage"
+    },
+    {
+      "id": "altec-lansing",
+      "name": "Altec Lansing Stage"
+    },
+    {
+      "id": "ap-advent",
+      "name": "AP/Advent Stage"
+    },
+    {
+      "id": "glamour-kills",
+      "name": "Glamour Kills Stage"
+    },
+    {
+      "id": "skullcandy",
+      "name": "Skullcandy Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "teggart-emmure",
+      "band": "Emmure",
+      "stageId": "teggart",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "teggart-alkaline-trio",
+      "band": "Alkaline Trio",
+      "stageId": "teggart",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "teggart-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "teggart",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "teggart-the-dillinger-escape-plan",
+      "band": "The Dillinger Escape Plan",
+      "stageId": "teggart",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "teggart-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "teggart",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "teggart-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "teggart",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "teggart-face-to-face",
+      "band": "Face to Face",
+      "stageId": "teggart",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "teggart-every-time-i-die",
+      "band": "Every Time I Die",
+      "stageId": "teggart",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "altec-lansing-attack-attack",
+      "band": "Attack Attack!",
+      "stageId": "altec-lansing",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "altec-lansing-breathe-carolina",
+      "band": "Breathe Carolina",
+      "stageId": "altec-lansing",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "altec-lansing-parkway-drive",
+      "band": "Parkway Drive",
+      "stageId": "altec-lansing",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "altec-lansing-pierce-the-veil",
+      "band": "Pierce the Veil",
+      "stageId": "altec-lansing",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "altec-lansing-hey-monday",
+      "band": "Hey Monday",
+      "stageId": "altec-lansing",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "altec-lansing-you-me-at-six",
+      "band": "You Me at Six",
+      "stageId": "altec-lansing",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "altec-lansing-whitechapel",
+      "band": "Whitechapel",
+      "stageId": "altec-lansing",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "altec-lansing-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "altec-lansing",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "altec-lansing-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "altec-lansing",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "altec-lansing-suicide-silence",
+      "band": "Suicide Silence",
+      "stageId": "altec-lansing",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "ap-advent-the-pretty-reckless",
+      "band": "The Pretty Reckless",
+      "stageId": "ap-advent",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "ap-advent-pennywise",
+      "band": "Pennywise",
+      "stageId": "ap-advent",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "ap-advent-dirty-little-rabbits",
+      "band": "Dirty Little Rabbits",
+      "stageId": "ap-advent",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "ap-advent-the-reverend-peyton-s-big-damn-band",
+      "band": "The Reverend Peyton's Big Damn Band",
+      "stageId": "ap-advent",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "ap-advent-fake-problems",
+      "band": "Fake Problems",
+      "stageId": "ap-advent",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "ap-advent-anarbor",
+      "band": "Anarbor",
+      "stageId": "ap-advent",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "ap-advent-never-shout-never",
+      "band": "Never Shout Never",
+      "stageId": "ap-advent",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "ap-advent-the-casualties",
+      "band": "The Casualties",
+      "stageId": "ap-advent",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "ap-advent-the-cab",
+      "band": "The Cab",
+      "stageId": "ap-advent",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "glamour-kills-i-can-make-a-mess-like-nobody-s-business",
+      "band": "I Can Make a Mess Like Nobody's Business",
+      "stageId": "glamour-kills",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "glamour-kills-artist-vs-poet",
+      "band": "Artist Vs Poet",
+      "stageId": "glamour-kills",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "glamour-kills-haste-the-day",
+      "band": "Haste the Day",
+      "stageId": "glamour-kills",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "glamour-kills-iwrestledabearonce",
+      "band": "Iwrestledabearonce",
+      "stageId": "glamour-kills",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "glamour-kills-alesana",
+      "band": "Alesana",
+      "stageId": "glamour-kills",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "glamour-kills-versaemerge",
+      "band": "VersaEmerge",
+      "stageId": "glamour-kills",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "glamour-kills-the-word-alive",
+      "band": "The Word Alive",
+      "stageId": "glamour-kills",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "glamour-kills-the-summer-set",
+      "band": "The Summer Set",
+      "stageId": "glamour-kills",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "glamour-kills-the-rocket-summer",
+      "band": "The Rocket Summer",
+      "stageId": "glamour-kills",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "skullcandy-confide",
+      "band": "Confide",
+      "stageId": "skullcandy",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "skullcandy-passafire",
+      "band": "Passafire",
+      "stageId": "skullcandy",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "skullcandy-in-fear-and-faith",
+      "band": "In Fear and Faith",
+      "stageId": "skullcandy",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "skullcandy-fight-fair",
+      "band": "Fight Fair",
+      "stageId": "skullcandy",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "skullcandy-breathe-electric",
+      "band": "Breathe Electric",
+      "stageId": "skullcandy",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "skullcandy-am-taxi",
+      "band": "AM Taxi",
+      "stageId": "skullcandy",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "skullcandy-disco-curtis",
+      "band": "Disco Curtis",
+      "stageId": "skullcandy",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "skullcandy-we-are-the-in-crowd",
+      "band": "We are the In Crowd",
+      "stageId": "skullcandy",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "skullcandy-after-midnight-project",
+      "band": "After Midnight Project",
+      "stageId": "skullcandy",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "skullcandy-far-from-finished",
+      "band": "Far From Finished",
+      "stageId": "skullcandy",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "skullcandy-of-mice-and-men",
+      "band": "Of Mice and Men",
+      "stageId": "skullcandy",
+      "startTime": "19:50",
+      "displayTime": "7:50"
+    },
+    {
+      "id": "ernie-ball-amiamuse",
+      "band": "AmIAMuse",
+      "stageId": "ernie-ball",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "ernie-ball-final-alibi",
+      "band": "Final Alibi",
+      "stageId": "ernie-ball",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "ernie-ball-highland-fall",
+      "band": "Highland Fall",
+      "stageId": "ernie-ball",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "ernie-ball-uno",
+      "band": "Uno",
+      "stageId": "ernie-ball",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "ernie-ball-the-lost-colors",
+      "band": "The Lost Colors",
+      "stageId": "ernie-ball",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "ernie-ball-the-browning",
+      "band": "The Browning",
+      "stageId": "ernie-ball",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "ernie-ball-the-sparring",
+      "band": "The Sparring",
+      "stageId": "ernie-ball",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "ernie-ball-closure-in-moscow",
+      "band": "Closure in Moscow",
+      "stageId": "ernie-ball",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "ernie-ball-automatic-loveletter",
+      "band": "Automatic Loveletter",
+      "stageId": "ernie-ball",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "ernie-ball-riverboat-gamblers",
+      "band": "Riverboat Gamblers",
+      "stageId": "ernie-ball",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "ernie-ball-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "ernie-ball",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "ernie-ball-emarosa",
+      "band": "Emarosa",
+      "stageId": "ernie-ball",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "ernie-ball-eyes-set-to-kill",
+      "band": "Eyes Set to Kill",
+      "stageId": "ernie-ball",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "kevin-says-cold-forty-three",
+      "band": "Cold Forty Three",
+      "stageId": "kevin-says",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "kevin-says-modern-day-express",
+      "band": "Modern Day Express",
+      "stageId": "kevin-says",
+      "startTime": "11:55",
+      "displayTime": "11:55"
+    },
+    {
+      "id": "kevin-says-gardening-not-architecture",
+      "band": "Gardening, Not Architecture",
+      "stageId": "kevin-says",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "kevin-says-terrible-things",
+      "band": "Terrible Things",
+      "stageId": "kevin-says",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "kevin-says-left-alone",
+      "band": "Left Alone",
+      "stageId": "kevin-says",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "kevin-says-hot-chelle-rae",
+      "band": "Hot Chelle Rae",
+      "stageId": "kevin-says",
+      "startTime": "14:35",
+      "displayTime": "2:35"
+    },
+    {
+      "id": "kevin-says-flatfoot-56",
+      "band": "Flatfoot 56",
+      "stageId": "kevin-says",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "kevin-says-tip-the-van",
+      "band": "Tip the Van",
+      "stageId": "kevin-says",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "kevin-says-vanna",
+      "band": "Vanna",
+      "stageId": "kevin-says",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "kevin-says-the-early-strike",
+      "band": "The Early Strike",
+      "stageId": "kevin-says",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "kevin-says-deals-gone-bad",
+      "band": "Deals Gone Bad",
+      "stageId": "kevin-says",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "kevin-says-this-time-next-year",
+      "band": "This Time Next Year",
+      "stageId": "kevin-says",
+      "startTime": "18:35",
+      "displayTime": "6:35"
+    },
+    {
+      "id": "kevin-says-deas-vail",
+      "band": "Deas Vail",
+      "stageId": "kevin-says",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    }
+  ]
+}

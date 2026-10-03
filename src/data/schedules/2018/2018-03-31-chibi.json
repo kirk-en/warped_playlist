@@ -1,0 +1,162 @@
+{
+  "stages": [
+    {
+      "id": "east",
+      "name": "East Stage"
+    },
+    {
+      "id": "west",
+      "name": "West Stage"
+    },
+    {
+      "id": "north-park",
+      "name": "North Park Stage"
+    },
+    {
+      "id": "north-park-ramp",
+      "name": "North Park Ramp"
+    }
+  ],
+  "sets": [
+    {
+      "id": "east-the-bonez",
+      "band": "The Bonez",
+      "stageId": "east",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "east-mucc",
+      "band": "Mucc",
+      "stageId": "east",
+      "startTime": "13:25",
+      "displayTime": "1:25"
+    },
+    {
+      "id": "east-tonight-alive",
+      "band": "Tonight Alive",
+      "stageId": "east",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "east-issues",
+      "band": "Issues",
+      "stageId": "east",
+      "startTime": "16:25",
+      "displayTime": "4:25"
+    },
+    {
+      "id": "east-monoeyes",
+      "band": "Monoeyes",
+      "stageId": "east",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "east-korn",
+      "band": "Korn",
+      "stageId": "east",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "west-old-codex",
+      "band": "Old Codex",
+      "stageId": "west",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "west-coldrain",
+      "band": "Coldrain",
+      "stageId": "west",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "west-crossfaith",
+      "band": "Crossfaith",
+      "stageId": "west",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "west-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "west",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "west-limp-bizkit",
+      "band": "Limp Bizkit",
+      "stageId": "west",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "north-park-survive-said-the-prophet",
+      "band": "Survive Said the Prophet",
+      "stageId": "north-park",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "north-park-shishinodoshi",
+      "band": "Shishinodoshi",
+      "stageId": "north-park",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "north-park-deadly-apples",
+      "band": "Deadly Apples",
+      "stageId": "north-park",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "north-park-xmas-eileen",
+      "band": "Xmas Eileen",
+      "stageId": "north-park",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "north-park-bish",
+      "band": "Bish",
+      "stageId": "north-park",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "north-park-ramp-xflag-extreme-show",
+      "band": "XFLAG Extreme Show",
+      "stageId": "north-park-ramp",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "north-park-ramp-bmx-show-by-vans",
+      "band": "BMX Show by Vans",
+      "stageId": "north-park-ramp",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "north-park-ramp-bmx-show-by-vans-2",
+      "band": "BMX Show by Vans",
+      "stageId": "north-park-ramp",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "north-park-ramp-xflag-extreme-show-2",
+      "band": "XFLAG Extreme Show",
+      "stageId": "north-park-ramp",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    }
+  ]
+}

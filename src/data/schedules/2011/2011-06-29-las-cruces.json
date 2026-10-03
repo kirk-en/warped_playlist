@@ -1,0 +1,556 @@
+{
+  "stages": [
+    {
+      "id": "main",
+      "name": "Main Stage"
+    },
+    {
+      "id": "advent",
+      "name": "Advent Stage"
+    },
+    {
+      "id": "tilly-s-alternative-press",
+      "name": "Tilly's/Alternative Press Stage"
+    },
+    {
+      "id": "nintendo-3ds",
+      "name": "Nintendo 3DS Stage"
+    },
+    {
+      "id": "skullcandy",
+      "name": "Skullcandy Stage"
+    },
+    {
+      "id": "ernie-ball",
+      "name": "Ernie Ball Stage"
+    },
+    {
+      "id": "kevin-says",
+      "name": "Kevin Says Stage"
+    },
+    {
+      "id": "local",
+      "name": "Local Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "main-the-devil-wears-prada",
+      "band": "The Devil Wears Prada",
+      "stageId": "main",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "main-august-burns-red",
+      "band": "August Burns Red",
+      "stageId": "main",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "main-against-me",
+      "band": "Against Me!",
+      "stageId": "main",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "main-asking-alexandria",
+      "band": "Asking Alexandria",
+      "stageId": "main",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "main-pepper",
+      "band": "Pepper",
+      "stageId": "main",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "main-attack-attack",
+      "band": "Attack Attack!",
+      "stageId": "main",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "main-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "main",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "main-a-day-to-remember",
+      "band": "A Day to Remember",
+      "stageId": "main",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "main-3oh-3",
+      "band": "3OH!3",
+      "stageId": "main",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "advent-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "advent",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "advent-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "advent",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "advent-enter-shikari",
+      "band": "Enter Shikari",
+      "stageId": "advent",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "advent-the-word-alive",
+      "band": "The Word Alive",
+      "stageId": "advent",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "advent-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "advent",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "advent-miss-may-i",
+      "band": "Miss May I",
+      "stageId": "advent",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "advent-woe-is-me",
+      "band": "Woe, Is Me",
+      "stageId": "advent",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "advent-the-acacia-strain",
+      "band": "The Acacia Strain",
+      "stageId": "advent",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "advent-winds-of-plague",
+      "band": "Winds Of Plague",
+      "stageId": "advent",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "advent-dance-gavin-dance",
+      "band": "Dance Gavin Dance",
+      "stageId": "advent",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "tilly-s-alternative-press-the-ready-set",
+      "band": "The Ready Set",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-the-aggrolites",
+      "band": "The Aggrolites",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-lucero",
+      "band": "Lucero",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-street-dogs",
+      "band": "Street Dogs",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-big-d-and-the-kids-table",
+      "band": "Big D and the Kids Table",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-lionize",
+      "band": "Lionize",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-the-expendables",
+      "band": "The Expendables",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "tilly-s-alternative-press-unwritten-law",
+      "band": "Unwritten Law",
+      "stageId": "tilly-s-alternative-press",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "nintendo-3ds-i-set-my-friends-on-fire",
+      "band": "I Set My Friends on Fire",
+      "stageId": "nintendo-3ds",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "nintendo-3ds-the-wonder-years",
+      "band": "The Wonder Years",
+      "stageId": "nintendo-3ds",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "nintendo-3ds-every-avenue",
+      "band": "Every Avenue",
+      "stageId": "nintendo-3ds",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "nintendo-3ds-go-radio",
+      "band": "Go Radio",
+      "stageId": "nintendo-3ds",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "nintendo-3ds-relient-k",
+      "band": "Relient K",
+      "stageId": "nintendo-3ds",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "nintendo-3ds-hellogoodbye",
+      "band": "Hellogoodbye",
+      "stageId": "nintendo-3ds",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "nintendo-3ds-the-dangerous-summer",
+      "band": "The Dangerous Summer",
+      "stageId": "nintendo-3ds",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "nintendo-3ds-moving-mountains",
+      "band": "Moving Mountains",
+      "stageId": "nintendo-3ds",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "skullcandy-grieves-with-budo",
+      "band": "Grieves With Budo",
+      "stageId": "skullcandy",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "skullcandy-bad-rabbits",
+      "band": "Bad Rabbits",
+      "stageId": "skullcandy",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "skullcandy-big-chocolate",
+      "band": "Big Chocolate",
+      "stageId": "skullcandy",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "skullcandy-big-b",
+      "band": "Big B",
+      "stageId": "skullcandy",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "skullcandy-passafire",
+      "band": "Passafire",
+      "stageId": "skullcandy",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "skullcandy-illscarlett",
+      "band": "illScarlett",
+      "stageId": "skullcandy",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "skullcandy-blood-on-the-dance-floor",
+      "band": "Blood On The Dance Floor",
+      "stageId": "skullcandy",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "skullcandy-foxy-shazam",
+      "band": "Foxy Shazam",
+      "stageId": "skullcandy",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "skullcandy-stephen-jerzak",
+      "band": "Stephen Jerzak",
+      "stageId": "skullcandy",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "skullcandy-ivy-league",
+      "band": "Ivy League",
+      "stageId": "skullcandy",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "skullcandy-mc-lars-with-weerd-science",
+      "band": "MC Lars With Weerd Science",
+      "stageId": "skullcandy",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "ernie-ball-emerson-grey",
+      "band": "Emerson Grey",
+      "stageId": "ernie-ball",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "ernie-ball-epitaph-romance",
+      "band": "Epitaph Romance",
+      "stageId": "ernie-ball",
+      "startTime": "12:05",
+      "displayTime": "12:05"
+    },
+    {
+      "id": "ernie-ball-bat-wings-for-lab-rats",
+      "band": "Bat Wings For Lab Rats",
+      "stageId": "ernie-ball",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "ernie-ball-oldson",
+      "band": "OldSon",
+      "stageId": "ernie-ball",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "ernie-ball-larry-and-his-flask",
+      "band": "Larry And His Flask",
+      "stageId": "ernie-ball",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "ernie-ball-terrible-things",
+      "band": "Terrible Things",
+      "stageId": "ernie-ball",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "ernie-ball-freshman-15",
+      "band": "Freshman 15",
+      "stageId": "ernie-ball",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "ernie-ball-madina-lake",
+      "band": "Madina Lake",
+      "stageId": "ernie-ball",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "ernie-ball-cold-forty-three",
+      "band": "Cold Forty Three",
+      "stageId": "ernie-ball",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "ernie-ball-there-for-tomorrow",
+      "band": "There For Tomorrow",
+      "stageId": "ernie-ball",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "kevin-says-new-years-day",
+      "band": "New Years Day",
+      "stageId": "kevin-says",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "kevin-says-the-ill-motion",
+      "band": "The Ill Motion",
+      "stageId": "kevin-says",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "kevin-says-shut-up-and-deal",
+      "band": "Shut Up And Deal",
+      "stageId": "kevin-says",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "kevin-says-the-dance-party",
+      "band": "The Dance Party",
+      "stageId": "kevin-says",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "kevin-says-vonnegutt",
+      "band": "Vonnegutt",
+      "stageId": "kevin-says",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "kevin-says-rawrr",
+      "band": "RAWRR!",
+      "stageId": "kevin-says",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "kevin-says-the-bots",
+      "band": "The Bots",
+      "stageId": "kevin-says",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "kevin-says-good-guys-in-black",
+      "band": "Good Guys in Black",
+      "stageId": "kevin-says",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "kevin-says-the-sheds",
+      "band": "The Sheds",
+      "stageId": "kevin-says",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "kevin-says-sharks",
+      "band": "Sharks",
+      "stageId": "kevin-says",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "kevin-says-the-exposed",
+      "band": "The Exposed",
+      "stageId": "kevin-says",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "kevin-says-it-boys",
+      "band": "It Boys!",
+      "stageId": "kevin-says",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "local-terror-eyes",
+      "band": "Terror Eyes",
+      "stageId": "local",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "local-friday-night",
+      "band": "Friday Night",
+      "stageId": "local",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "local-stabbed-in-back",
+      "band": "Stabbed in Back",
+      "stageId": "local",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "local-the-caskets",
+      "band": "The Caskets",
+      "stageId": "local",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "local-cloud-9-murders",
+      "band": "Cloud 9 Murders",
+      "stageId": "local",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    }
+  ]
+}
