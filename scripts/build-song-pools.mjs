@@ -12,6 +12,8 @@
 //   --band <name>   only this schedule band name (repeatable; for debugging; needs --year or --pilot years)
 //   --offline       never touch the network; a cache miss fails that band (use to retune params)
 //   --batch <n>     bands per batch between registry/year-file/report writes (default 10)
+//   --sample <n>    with --year: only a seeded random draw of n still-pending bands per year (seed = the year),
+//                   to measure cost and no-data share before a full run; re-running draws n new bands
 //
 // Env (from the environment, or the .env file at SONG_POOLS_ENV, default ./.env; never written anywhere):
 //   LASTFM_API_KEY  Last.fm API key
@@ -605,7 +607,7 @@ async function writeOutputs(groups, registry, overrides, years) {
 // ---------- main ----------
 
 function parseArgs(argv) {
-  const opts = { years: [], bands: [], pilot: false, offline: false, batch: 10 };
+  const opts = { years: [], bands: [], pilot: false, offline: false, batch: 10, sample: 0 };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--year') opts.years.push(Number(argv[++i]));
@@ -613,6 +615,7 @@ function parseArgs(argv) {
     else if (a === '--pilot') opts.pilot = true;
     else if (a === '--offline') opts.offline = true;
     else if (a === '--batch') opts.batch = Number(argv[++i]);
+    else if (a === '--sample') opts.sample = Number(argv[++i]);
     else throw new Error(`unknown flag ${a}`);
   }
   if (opts.years.some((y) => !(y >= 1995 && y <= 2018))) throw new Error('--year must be 1995 to 2018');
@@ -652,6 +655,21 @@ async function main() {
   for (const g of groups.values()) {
     const prev = registry.bands[g.name] ?? {};
     registry.bands[g.name] = { status: 'pending', computeYears: [], ...prev, name: g.name, names: g.names, years: g.years };
+  }
+  if (opts.sample) {
+    const picked = new Map();
+    for (const y of years) {
+      const pool = selected
+        .filter((g) => g.years.includes(y) && registry.bands[g.name].status === 'pending' && !picked.has(g.key))
+        .sort((a, b) => a.key.localeCompare(b.key));
+      const rand = mulberry32(y);
+      for (let i = pool.length - 1; i > 0; i--) {
+        const j = Math.floor(rand() * (i + 1));
+        [pool[i], pool[j]] = [pool[j], pool[i]];
+      }
+      for (const g of pool.slice(0, opts.sample)) picked.set(g.key, g);
+    }
+    selected = [...picked.values()];
   }
   for (const g of selected) {
     const e = registry.bands[g.name];

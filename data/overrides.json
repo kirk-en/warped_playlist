@@ -4,6 +4,10 @@
       "exclude": true,
       "reason": "wrong artist: Last.fm is a UK drum & bass producer; the 2008 Warped act played the Mix Tent (pilot review 2026-10-03)"
     },
+    "Eldridge": {
+      "exclude": true,
+      "reason": "wrong artist: MusicBrainz matched jazz trumpeter Roy Eldridge (albums 1952-1991); the Warped 2009 act is a different Eldridge (review 2026-10-04)"
+    },
     "Dodger": {
       "exclude": true,
       "reason": "wrong artist: matched via a Last.fm ID with no MusicBrainz releases (pilot review 2026-10-03)"
@@ -15,6 +19,10 @@
     "Stay": {
       "exclude": true,
       "reason": "wrong artist: matched a Barcelona psych band (pilot review 2026-10-03)"
+    },
+    "The Residence": {
+      "exclude": true,
+      "reason": "wrong artist: MusicBrainz matched a different The Residence (2002 album Don't Forget To Breathe); the Warped act is the Nelson, BC metalcore band (Of This Earth, 2013) (review 2026-10-04)"
     },
     "The Host": {
       "exclude": true,
