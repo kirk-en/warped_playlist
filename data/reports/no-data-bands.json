@@ -1,5 +1,3505 @@
 [
   {
+    "band": "Face to Face",
+    "year": 1995,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Minority",
+    "year": 1995,
+    "reason": "no release by 1997"
+  },
+  {
+    "band": "Supernova",
+    "year": 1995,
+    "reason": "no release by 1997"
+  },
+  {
+    "band": "Your Mom",
+    "year": 1995,
+    "reason": "no release by 1997"
+  },
+  {
+    "band": "Face to Face",
+    "year": 1996,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Jalopy",
+    "year": 1996,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Lo Presher",
+    "year": 1996,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Piller",
+    "year": 1996,
+    "reason": "no release by 1998"
+  },
+  {
+    "band": "Scrapple",
+    "year": 1996,
+    "reason": "no release by 1998"
+  },
+  {
+    "band": "Cellophane Solution",
+    "year": 1997,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Face to Face",
+    "year": 1997,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Fat",
+    "year": 1997,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "H2O",
+    "year": 1997,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Joe Keithly",
+    "year": 1997,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Level",
+    "year": 1997,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Lo Presher",
+    "year": 1997,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Norman",
+    "year": 1997,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Speed Dog Champion",
+    "year": 1997,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Spike & Mike's Sick and Twisted Festival of Animation",
+    "year": 1997,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Sunchild",
+    "year": 1997,
+    "reason": "no release by 1999"
+  },
+  {
+    "band": "Big Shirley",
+    "year": 1998,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bitter Flesh Thing",
+    "year": 1998,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "H2O",
+    "year": 1998,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Mel",
+    "year": 1998,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Plastic Holiday",
+    "year": 1998,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Plastique",
+    "year": 1998,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Punk Rock Karaoke",
+    "year": 1998,
+    "reason": "no release by 2000"
+  },
+  {
+    "band": "Shamrock",
+    "year": 1998,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Shuttle Cocks",
+    "year": 1998,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sunchild",
+    "year": 1998,
+    "reason": "no release by 2000"
+  },
+  {
+    "band": "Wade",
+    "year": 1998,
+    "reason": "no release by 2000"
+  },
+  {
+    "band": "10 Minutes Down",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "40 Watt Domain",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "5 on 1",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "All Systems Go",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "Anxiety",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Area 7",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Backhand",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Billy Mack",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "Black Eyed Peas backup band",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Bungi Orange",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Camical",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Chine",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Cuffs",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Dianna Anaid",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Disfigured",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "DJ",
+    "year": 1999,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DJ Mantia",
+    "year": 1999,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DJ Mantis",
+    "year": 1999,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DMS",
+    "year": 1999,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Dysfunctional Ray",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "EB",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Fall City Creepers",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Fashion Show",
+    "year": 1999,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Flatus",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "H2O",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Houndsmen",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Inland Empire Orchestra/Fashion Show",
+    "year": 1999,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Jollymon",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "Live Cookie",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Livertine",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Locki",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Meloncoly",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mother Freedom",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Piper Downs",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Reach",
+    "year": 1999,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Simi",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Size 5",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Sold Separately",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sound Company",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "Star Swing",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Stranded",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Subterrain",
+    "year": 1999,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Supernova",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "Taste O Flavor",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ten Pin",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The 4-40's",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "The Amazing Crowns",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Budgets",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Inland Empire Orchestra",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "The NC-13's",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Tollerance",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Undergirl",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "Union Spirit",
+    "year": 1999,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Unspoken",
+    "year": 1999,
+    "reason": "no release by 2001"
+  },
+  {
+    "band": "UVBC",
+    "year": 1999,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Bueno",
+    "year": 2000,
+    "reason": "no release by 2002"
+  },
+  {
+    "band": "Cheap Leis",
+    "year": 2000,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Full Metal Racket",
+    "year": 2000,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "KROQ Band",
+    "year": 2000,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Lefty",
+    "year": 2000,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Lickwid X",
+    "year": 2000,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Long Beach Dub Allstars",
+    "year": 2000,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Texas Teri",
+    "year": 2000,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Cover Ups",
+    "year": 2000,
+    "reason": "no release by 2002"
+  },
+  {
+    "band": "Toledo Show",
+    "year": 2000,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Turn Down",
+    "year": 2000,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "7th House",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "All Access",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Anchor Man",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Atomic 9",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Benevolent Souls",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bird3",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Black Halos",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Blacklight Sunshine",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Blend Engine",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Bottom Line",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Bravo",
+    "year": 2001,
+    "reason": "excluded in overrides.json: wrong artist: matched Spanish 90s pop group Bravo; the Warped act is a local band on the 2001 Ernie Ball stage (ID-mismatch review 2026-10-04)"
+  },
+  {
+    "band": "Breaking Spree",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bruise Bros.",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bumrukus",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Defiance of Authority",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Deroot",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "DJ Add.Verse",
+    "year": 2001,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DJ Minfo",
+    "year": 2001,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DJ Pollywog",
+    "year": 2001,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DJ Polywog",
+    "year": 2001,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DJ Star Eyes",
+    "year": 2001,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Dysfunctional Ray",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Edinburgh",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Empty Minds",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Evil Engine 9",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Explosion Nine",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Fall Back Plan",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Fixit",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Flipside",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Gage",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Going Nowhere",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "H2O",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Hank 3 & Assjack",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hollywood Beach Brian",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hot Box",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Incredibly Strange Wrestling",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Japetto",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Jersey",
+    "year": 2001,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Jones",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Judge Drain",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Last Place Champs",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Lefty",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Lovetone",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Madcap",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Mid Cause in July",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Miseuphoria",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mulligrubs",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Nine Lives",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "No Faced",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Nose Dive",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Now Serving #38",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Nulsee",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Obtik",
+    "year": 2001,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Racecar",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Rogue's March",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sick",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Skalami",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Slingshot 9",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "SubVert",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Supergiant",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Sweatergirl",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ten Ninety",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ten Times a Day",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Enemy",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "The Fonzarellis",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Mimsies",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Monjees",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Vacancies",
+    "year": 2001,
+    "reason": "no release by 2003"
+  },
+  {
+    "band": "Twice the Sun",
+    "year": 2001,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Unwell",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Userfriendly",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "White Collar Crime",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Zooloft",
+    "year": 2001,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "48 Monanas",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "7th House",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "All Access",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Arkham",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "ATM",
+    "year": 2002,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Black Holiday",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Canterburry Effect",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Contingency Plan",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Cultifadaz",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Don't Look Down",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Duke 45",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Dysfunctional Ray",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Etiquette",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Fairview",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Five Cent Deposit",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Five Speed",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Gibler",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hidden by Authority",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Idiot Savant",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Intak",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Jet Eye",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Kremlin",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "Last Place Champs",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Little League",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "Luck Be A Lady",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Moodfyre",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Neighbours Dog",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "New Tomorrow",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "No Reason",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Overlooked",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "Preston",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Reconstructing Heather",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Riot Farmer",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Ripshaw",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "RST Video",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Shattered Fall",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Sparechange",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Special Guest",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Split Fifty",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "Sweatergirl",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Tantor",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Ten Times a Day",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Ten Years From Now",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Brodys",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "The Dissenters",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Huntingtons",
+    "year": 2002,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Mimsies",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The New Sound Theory",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Three Week Yesterday",
+    "year": 2002,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Willknots",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "Willow Tree",
+    "year": 2002,
+    "reason": "no release by 2004"
+  },
+  {
+    "band": "Youngfellow",
+    "year": 2002,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "2 Cents",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "369th Regiment",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "A.T.W.",
+    "year": 2003,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Absent",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Add.Verse",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "All Purpose Industries",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Almost Cool",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Anarchaos",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Arcane",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Arkham",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Breaking Even",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Cent Deposit",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Crisis Center",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Don't Look Down",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Doomer",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "Down Felix",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Dynamix",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Face to Face",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Fight the Locals",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Fortitude",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "Funny Looking Kid",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Gregg Wood",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Headkrack the Gat",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Hollywood Beach Brian",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Home of the Brave",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "It Rains for Caleb",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Jam Session w/Breakers",
+    "year": 2003,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Lylah",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "Mightas Well",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "N.S.P.",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "NSP Crew",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "One of Many",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "One Year Nothing",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Pickled Corpse Squad",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Popart Monkey",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Scullywagon",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Second Before the Crash",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Skyline Victory",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Spenser",
+    "year": 2003,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Sweatergirl",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Switett Stand",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "The Guild",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "The Harp Project",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Monjees",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Narcoleptics X 5",
+    "year": 2003,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "The Skanktronics",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Spacepimps",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "Time Will Tell",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "Travii the 7th",
+    "year": 2003,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Van Stone",
+    "year": 2003,
+    "reason": "no release by 2005"
+  },
+  {
+    "band": "10 Cent Deposit",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Abstract Giants",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "Adrenakrome",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Arcane",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Arkham",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Artful Dodgers",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Baseshot Scenario",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Break the Silence",
+    "year": 2004,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Camren",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Chaotic Link",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Code 4-15",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Dark Starz",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Day Two",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Dead Society",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "DJ JE & Addverse",
+    "year": 2004,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Don't Look Down",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "DORK",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Entrophy",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Flex Matthews",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "From Here on Out",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Ginger Slang",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Glue",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "God-Des",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hieruspecs",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hurry Up Offense",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Iolo",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Jag Off",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Jersey",
+    "year": 2004,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "K Banger/Balance Project",
+    "year": 2004,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "King Size",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Last Annual",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Lennon",
+    "year": 2004,
+    "reason": "excluded in overrides.json: wrong artist: matched John Lennon; the Warped act is rock singer Lennon (Lennon Murphy) (ID-mismatch review 2026-10-04)"
+  },
+  {
+    "band": "Losers Luck",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Made in China",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "Madison",
+    "year": 2004,
+    "reason": "excluded in overrides.json: wrong artist: matched 1980s heavy metal band Madison; the Warped act is the New Jersey rock band Madison (ID-mismatch review 2026-10-04)"
+  },
+  {
+    "band": "Mark Live",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Milton",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Murphy's Law",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "NBA Breakers",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Non Phixion & Q Unique",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Punk Rock Karaoke",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "Rolling Blackouts",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Shankini & Add.Verse",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Shriner Massive",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Silent the Wok",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Sound Riot",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Spell Toronto",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Still Not Sexy",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Switch Stance",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Bottom Line",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "The Janet Theory",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Lingua Franca",
+    "year": 2004,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "The Prime",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "The Q",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Skyline",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Third Kind",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "TNA",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Transition",
+    "year": 2004,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Underscore",
+    "year": 2004,
+    "reason": "no release by 2006"
+  },
+  {
+    "band": "We're All Broken",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Westcott",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Yesterdays Rising",
+    "year": 2004,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "360 Degrees & Sign One",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "A Fall From Grace",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Arcane",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Asylum7 & Kasheer",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Autobomb & False Image",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Avoid",
+    "year": 2005,
+    "reason": "no release by 2007"
+  },
+  {
+    "band": "Bad Feathers",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Baghead",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Bomb Skwad",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Breakers with DJ Saake",
+    "year": 2005,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Brutally Frank",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Bullymouth",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Calentura",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Chief",
+    "year": 2005,
+    "reason": "no release by 2007"
+  },
+  {
+    "band": "ClearviewPA",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "D-Shade",
+    "year": 2005,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Day Two",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Delson Drive",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "DJ Benny Ben",
+    "year": 2005,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "DORK",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Eclectic Blue with Mr. Chips",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Eros",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Ethos Music Camp Band",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Eye 2 Eye",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Five Minutes to Freedom",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Five Speed",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Freaks of Nature",
+    "year": 2005,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Gatsbys American Dream",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Generik",
+    "year": 2005,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Glue",
+    "year": 2005,
+    "reason": "no release by 2007"
+  },
+  {
+    "band": "Hidden Characters",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "High Deafinition",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Howl",
+    "year": 2005,
+    "reason": "no release by 2007"
+  },
+  {
+    "band": "Isadora",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kairos",
+    "year": 2005,
+    "reason": "no release by 2007"
+  },
+  {
+    "band": "Losers Luck",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Majestic Legend",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Mike Watt & Peter DiStefano",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Miss Pie",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mother Mae I",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Now On",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Off Track",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Omni",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Open Mic with Add.Verse",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Open Mic with Prizmatik",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Pako N Pesh",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Playing With Matches",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Quese I MC",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Rags to Bitches",
+    "year": 2005,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Shall We Dance",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Simple & Supreem",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Six Hung Sprung",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Tabularasa",
+    "year": 2005,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "The Art of Safecracking",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Feds",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Misses",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Preps",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Real Deal",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Silence",
+    "year": 2005,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "The Victory Year",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Tommy Coma",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Toothless George and his One Man Band",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Unsensored",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Victory Lane",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Who Needs Shoes?",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Yesterdays Rising",
+    "year": 2005,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Youthinasia",
+    "year": 2005,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "30 Seconds to Mars",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "A Chance Without",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Adair (Acoustic)",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "After Drama",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "After It's Over",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "All's Fair",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Apathy for Enemy",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Baby Shakes",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Bleeding Orange",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Boy Meets Heart",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Brave Rifles",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Calentura",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Can't Stand Losing",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Candy Band",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Candy From Strangers",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Casket Casket",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Castles in the Sky",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Centereline",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Check Your Face",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Chuck Brunswick",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Code 4-15",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Corrupted Youth",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Crash Boom Bang",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Dark Sunrise",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Demas the Thief",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Dirty Little Monkey",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Dirty Tactics",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Disorient Express",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "DORK",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Down on Bedford",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Dropping Daylight (Acoustic)",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Dynamite 8",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Eighteen Days",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Fall Prey",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Five State Affair",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Flash Bathory",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "FNB",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Four Stories",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Furthest from the Star",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Goodbye Tiger",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Gym Class Heroes (Acoustic)",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Hand Me Down Buick",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Handcuffs & Heels",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Headturners",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "In Theory",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "J4",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Jada Bloom",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Juke",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "June",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kandi Coded",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kara Dupuy",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kennedy",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kim Pulsive",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Lady Milk",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Loko Phylum",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mackenzie First",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Maple Street Impressions",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Martin Reef",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Mastema",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Milk Carton Mug Shots",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Morning Abroad",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Morningside Drive",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mystery Hang Up",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Nandi",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Narwhal",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "New Crash",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Noon Blue",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Onset of Effect",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Outernational",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Outlaw",
+    "year": 2006,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Over It (Acoustic)",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "P.O.S.",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Patterns",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Phathom",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Pleasant Problem",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Prevail Within",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Psychotic Four",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Radio Pirate DJ",
+    "year": 2006,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Red October",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Robots & Butterflies",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Round 3 Fight",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Rubbing Down Debbie",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sandbar",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Saves the Day (acoustic)",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Senses Fail (acoustic)",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Seventy Times Seven",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Shoot To Kill",
+    "year": 2006,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Single File (Acoustic)",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Skyline's End",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sliders Fault",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "So Unloved",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Soclal Ghost",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "State of Revolution",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Stigma 13",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Stuckbackwards",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sunset Grey",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Sunset West",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Super Geek League",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Switchblade Riot",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Syndey",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ted",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The American Black Lung",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Brain Saw",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Departed",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "The Falling View",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Flipside",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Germs",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Grandentls",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "The Hatchetwounds",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Honour Recital",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Last Car in Alaska",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Lordz",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Neon Hookers",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The New Sincerity",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The One Night Band",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Real You",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Red Alert",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Skunk 11",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Stick Up",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Tale Of",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Valley Kids",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Weakend",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "This Solemn Vow",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Tubshadow",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Ultimate Power Duo",
+    "year": 2006,
+    "reason": "no release by 2008"
+  },
+  {
+    "band": "Upside",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Valera",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Victory Lane",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Victory Within",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Volera",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Whiskey Diaries",
+    "year": 2006,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "X Tropos",
+    "year": 2006,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Zox",
+    "year": 2006,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "16th Avenue",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "A .12 Gauge Tragedy",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "A Chance Without",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "A Permanent Holiday",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Add.Verse",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Afilio",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Allura",
+    "year": 2007,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Amaretta",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ambush",
+    "year": 2007,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Amelie",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Another Found Self",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Astrea",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Awaiting the End",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Awakened by Dreams",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Azusa",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Better Off Tomorrow",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Black in the Mind",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bleeding a Memory",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bombay Doors",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Breaking Tides",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Broken by Fire",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Broken Fire",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Bullets and Romance",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Burning Daylight",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Cali AC",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Capitol Risk",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Centerpointe",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Cetra",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "City of Sound",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Comedians",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Comedy Hour",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Cove",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "CrimZin",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Danger Boys",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Dante",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Dark Siren",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Demos",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Destroy the Witness",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Dingus",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "DownfromtheGallows",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Dr. Manhattan",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Draffin",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Duct Tape Heroes",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Eleven 84",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Enjoy the Fall",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ethans Ride",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Everybody Else Wins",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Farewell to February",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Fentruck",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Finding Apathy",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Fire in the Eyes of the City",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Flight to Athena",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "For All We Know",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "For Your Eyes Only",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Forget About the Stars",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Forgotten Tragedy",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "From Man in Ghost",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Full Switch Coma",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Go Crash Audio",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Going 2nd",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Grab the Camera",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hello Beautiful",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Her Alibye",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "High Tide in Tucson",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Hollywood in September",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Honesty Eyes",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Idea of Beauty",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "In Her Memory",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "In Times of Distress",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Inbryo",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Jameson",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kevin Goes 2 College",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Kings Field",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Kiss to Betray",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Know Lyfe",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Lacerda",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Lannen Fall",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Laurel",
+    "year": 2007,
+    "reason": "excluded in overrides.json: wrong artist: matched singer Laurel (songs 2014-2020); the Warped act is a 2007 Ernie Ball Battle of the Bands winner (ID-mismatch review 2026-10-04)"
+  },
+  {
+    "band": "LetterPerfect",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Longway",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Lookout Point",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Madison Fadeout",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Majestik Legend",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Malison",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Mas Nova",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Massive Monkees",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "My Fiction",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Neighborhood Friendly",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Never Ending Story",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "No Fair Fights",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "No One Comes Home",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "No One's Hero",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "NoCallToArms",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Nortpointe",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Novista",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "OCEANSleave",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "P.D.H.",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "P.O.S.",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Paxton",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Phathom",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Plague the City",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ports of Aidia",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Pretty in Stereo",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Pull the Pin",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "RC Dub",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Red Hot Radio",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Reflective Insight",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Remsa & Event",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Rise Phoenix Rise",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Saturday Morning Heroes",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Saving Verona",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "SDC Soundcheck",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Sessions",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Seven Story Fall",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Shipshape and Bristol Fashion",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Simple Complexity",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Simply Waiting",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Skate Demos",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Skullcandy Mix",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Skywire",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Soapbox Havoc",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Soren",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Sound and Fury",
+    "year": 2007,
+    "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
+  },
+  {
+    "band": "Sounding the Silence",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Spinlight City",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Springwood",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Stealing Jane",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Stillframe",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Suburban Camoflauge",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Supernova",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "Symera",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Take the City",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Tasherre D'Enajetic",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Ten Count Fall",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Brotherhood of the Dae Han",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Day Before",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Dead Songwriters",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Drive Home",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Hunters",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Main Event",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Prospect",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Runts",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "The Saint Alvia Cartel",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Vanity Light",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "The Void",
+    "year": 2007,
+    "reason": "no release by 2009"
+  },
+  {
+    "band": "The White Kaps",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Widow Jenkins",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "The Year That Was",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "This Awkward Silence",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "This Legacy",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "This Time It's War",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "This Waking Moment",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Throw the Heat",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Tokyo",
+    "year": 2007,
+    "reason": "excluded in overrides.json: wrong artist: matched early-80s rock band Tokyo; the Warped act is a 2007 Ernie Ball Battle of the Bands winner (ID-mismatch review 2026-10-04)"
+  },
+  {
+    "band": "Tree Kills Arson",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Turned Up Missing",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Urgency",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "UTS",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Victim Effect",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "We Leave at Midnight",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "We Spell Disaster",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Western Aerials",
+    "year": 2007,
+    "reason": "no Last.fm match"
+  },
+  {
+    "band": "Westview",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Yellow, the Vertical",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Your Greatest Mistake",
+    "year": 2007,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Youthinasia",
+    "year": 2007,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
     "band": "3AM",
     "year": 2008,
     "reason": "ambiguous MusicBrainz artist (see ambiguous-bands.json)"
@@ -1710,6 +5210,11 @@
     "reason": "no MusicBrainz artist"
   },
   {
+    "band": "Orange",
+    "year": 2009,
+    "reason": "excluded in overrides.json: wrong artist: matched non-English act Orange (Chenebua/Hu); the Warped act is LA punk band Orange (ID-mismatch review 2026-10-04)"
+  },
+  {
     "band": "Our Finest Hour",
     "year": 2009,
     "reason": "no MusicBrainz artist"
@@ -3265,6 +6770,11 @@
     "reason": "no MusicBrainz artist"
   },
   {
+    "band": "Uno",
+    "year": 2010,
+    "reason": "excluded in overrides.json: wrong artist: matched Swedish pop singer Uno Svenningsson; the 2010 Warped act is unidentified (ID-mismatch review 2026-10-04)"
+  },
+  {
     "band": "Uprise of the Fallen",
     "year": 2010,
     "reason": "no MusicBrainz artist"
@@ -3333,6 +6843,11 @@
     "band": "Willpowerless",
     "year": 2010,
     "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Wilson",
+    "year": 2010,
+    "reason": "excluded in overrides.json: wrong artist: matched Brian Wilson; the Warped act is Detroit rock band Wilson (ID-mismatch review 2026-10-04)"
   },
   {
     "band": "With Our Teeth",
@@ -4515,6 +8030,11 @@
     "reason": "no MusicBrainz artist"
   },
   {
+    "band": "Wilson",
+    "year": 2011,
+    "reason": "excluded in overrides.json: wrong artist: matched Brian Wilson; the Warped act is Detroit rock band Wilson (ID-mismatch review 2026-10-04)"
+  },
+  {
     "band": "World's Most Dangerous",
     "year": 2011,
     "reason": "no MusicBrainz artist"
@@ -5268,6 +8788,11 @@
     "band": "Moving Brooklyn",
     "year": 2012,
     "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mu",
+    "year": 2012,
+    "reason": "excluded in overrides.json: wrong artist: matched 1971 psych band Mu; the Warped act played the Kevin Says stage 2012-2013 (ID-mismatch review 2026-10-04)"
   },
   {
     "band": "Nathan Rowe",
@@ -6025,6 +9550,11 @@
     "reason": "MusicBrainz artist found, but no song could be dated"
   },
   {
+    "band": "Clementine",
+    "year": 2013,
+    "reason": "excluded in overrides.json: wrong artist: matched bossa-nova singer Clementine; the Warped act is a local band on the 2013 KUKQ stage in Mesa AZ (ID-mismatch review 2026-10-04)"
+  },
+  {
     "band": "Cogito",
     "year": 2013,
     "reason": "MusicBrainz artist found, but no song could be dated"
@@ -6355,6 +9885,11 @@
     "reason": "no MusicBrainz artist"
   },
   {
+    "band": "Itch",
+    "year": 2013,
+    "reason": "excluded in overrides.json: wrong artist: matched 90s band Itch; the Warped act is Itch, solo project of The King Blues singer (ID-mismatch review 2026-10-04)"
+  },
+  {
     "band": "Itchy Poopzkid",
     "year": 2013,
     "reason": "no MusicBrainz artist"
@@ -6513,6 +10048,11 @@
     "band": "Modest Roots",
     "year": 2013,
     "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Mu",
+    "year": 2013,
+    "reason": "excluded in overrides.json: wrong artist: matched 1971 psych band Mu; the Warped act played the Kevin Says stage 2012-2013 (ID-mismatch review 2026-10-04)"
   },
   {
     "band": "Murder on Her Mind",
@@ -7008,6 +10548,11 @@
     "band": "Undesirable People",
     "year": 2013,
     "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Unlimited",
+    "year": 2013,
+    "reason": "excluded in overrides.json: wrong artist: matched 2 Unlimited; the 2013 Warped act is unidentified (ID-mismatch review 2026-10-04)"
   },
   {
     "band": "Us, Ghosts",
@@ -9088,6 +12633,11 @@
     "band": "Aureate",
     "year": 2016,
     "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Barbarian",
+    "year": 2016,
+    "reason": "excluded in overrides.json: wrong artist: matched Italian thrash/black metal band Barbarian; the Warped act is an unidentified local band on the 2016 Break Thru stage (ID-mismatch review 2026-10-04)"
   },
   {
     "band": "Beebs featuring B.Lay",

@@ -40,6 +40,37 @@
     ]
   },
   {
+    "band": "A.T.W.",
+    "names": [
+      "A.T.W."
+    ],
+    "years": [
+      2003
+    ],
+    "lastfmName": "A.T.W.",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0c9601d5-0c9b-4411-8560-85303966cf01",
+        "name": "ATW",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 2,
+        "score": 2
+      },
+      {
+        "id": "1c80f1ca-4ebd-4e9b-8038-c1c631296cd5",
+        "name": "ATW",
+        "disambiguation": "Adam Emil (main phase), Zachary Bruce (interplanetary criminal)",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      }
+    ]
+  },
+  {
     "band": "Allura",
     "names": [
       "Allura"
@@ -70,6 +101,117 @@
         "releaseGroups": 2,
         "studio": 2,
         "score": 7
+      }
+    ]
+  },
+  {
+    "band": "Ambush",
+    "names": [
+      "Ambush"
+    ],
+    "years": [
+      2007
+    ],
+    "lastfmName": "Ambush",
+    "lastfmMbid": "a8b9ad31-61d2-4f34-a922-5423e5c2af19",
+    "candidates": [
+      {
+        "id": "1e31bf41-3f2d-4b1a-b39c-72ed3723e719",
+        "name": "Ambush",
+        "disambiguation": "Canadian country music band",
+        "country": "CA",
+        "releaseGroups": 4,
+        "studio": 3,
+        "score": 11
+      },
+      {
+        "id": "740f3174-0c04-440d-bd2e-eb6f37143636",
+        "name": "Ambush",
+        "disambiguation": "Swedish heavy metal band from Växjö",
+        "country": "",
+        "releaseGroups": 8,
+        "studio": 5,
+        "score": 10
+      },
+      {
+        "id": "add768fa-3081-4312-a939-482445ef4118",
+        "name": "Ambush",
+        "disambiguation": "a.k.a. MC Ambush",
+        "country": "NL",
+        "releaseGroups": 16,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "ATM",
+    "names": [
+      "ATM"
+    ],
+    "years": [
+      2002
+    ],
+    "lastfmName": "ATM",
+    "lastfmMbid": "45b26227-f024-4d6f-b80a-e15900f6f8eb",
+    "candidates": [
+      {
+        "id": "a311c36f-6133-44ca-b8ef-8a44b5c52886",
+        "name": "ATM",
+        "disambiguation": "US rapper",
+        "country": "US",
+        "releaseGroups": 4,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "744f529f-396c-423f-9082-21501213d78e",
+        "name": "ATM",
+        "disambiguation": "USA punk band",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "9adbeadd-2289-48d1-8773-6e38e91b5727",
+        "name": "ATM",
+        "disambiguation": "Electornic artists Perfume Advert & M/M",
+        "country": "",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 2
+      }
+    ]
+  },
+  {
+    "band": "Break the Silence",
+    "names": [
+      "Break the Silence"
+    ],
+    "years": [
+      2004
+    ],
+    "lastfmName": "Break The Silence",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "68512fb8-0afc-48e1-a78c-f6588b3e8be3",
+        "name": "Break the Silence",
+        "disambiguation": "Chicago punk band",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "429384e5-4397-4803-9359-68fcdc0c2bf4",
+        "name": "Break the Silence",
+        "disambiguation": "Malaysian Death Metal band",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 6
       }
     ]
   },
@@ -137,6 +279,37 @@
     ]
   },
   {
+    "band": "D-Shade",
+    "names": [
+      "D-Shade"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "D-Shade",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "07f4dbad-c19d-4640-85a9-21be5043798b",
+        "name": "D‐Shade",
+        "disambiguation": "Montréal hip hop",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 5
+      },
+      {
+        "id": "cc4abb99-1328-409d-9d3c-141ee9bab3ab",
+        "name": "D-SHADE",
+        "disambiguation": "Japanese visual kei",
+        "country": "JP",
+        "releaseGroups": 11,
+        "studio": 3,
+        "score": 3
+      }
+    ]
+  },
+  {
     "band": "Descendant",
     "names": [
       "Descendant"
@@ -160,6 +333,86 @@
         "id": "9adabefe-c82b-4b3d-8960-66af4656b8a2",
         "name": "Descendant",
         "disambiguation": "Chillsynth artist",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "DMS",
+    "names": [
+      "DMS"
+    ],
+    "years": [
+      1999
+    ],
+    "lastfmName": "Dms",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "df60c7e1-1818-4c38-853c-80fdf7d0a738",
+        "name": "DMS",
+        "disambiguation": "UK breakbeat/hardcore techno producer Danny Pereira",
+        "country": "GB",
+        "releaseGroups": 7,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "c882ad2b-5883-484d-93d5-1f72f554dbca",
+        "name": "DMS",
+        "disambiguation": "Slovak hip-hop group",
+        "country": "SK",
+        "releaseGroups": 7,
+        "studio": 6,
+        "score": 6
+      },
+      {
+        "id": "c21b646e-3dce-4663-b96a-5fc88fa947cb",
+        "name": "DMS",
+        "disambiguation": "French Rapper",
+        "country": "FR",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "Freaks of Nature",
+    "names": [
+      "Freaks of Nature"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "Freaks Of Nature",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0ec935d6-4a9f-454d-9125-0b05570d586f",
+        "name": "Freaks of Nature",
+        "disambiguation": "Psychedelic trance project",
+        "country": "US",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 3
+      },
+      {
+        "id": "9b34948c-9252-4649-a69e-c7fcfdb377da",
+        "name": "Freaks of Nature",
+        "disambiguation": "Rob Sparks & Search",
+        "country": "GB",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "687f7c90-971d-441a-9f56-63c91d6c89b2",
+        "name": "Freaks of Nature",
+        "disambiguation": "Franken",
         "country": "",
         "releaseGroups": 0,
         "studio": 0,
@@ -204,6 +457,46 @@
         "releaseGroups": 7,
         "studio": 5,
         "score": 10
+      }
+    ]
+  },
+  {
+    "band": "Generik",
+    "names": [
+      "Generik"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "generik",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "3560d048-0624-43d8-8804-93766d2c4545",
+        "name": "Generik",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "75e8d86e-549a-4996-bf60-248adabe6956",
+        "name": "GenErik",
+        "disambiguation": "Australian producer",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "2173b30b-c6c7-464e-94cd-3719401c81e1",
+        "name": "GENERIK*",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
       }
     ]
   },
@@ -399,6 +692,47 @@
     ]
   },
   {
+    "band": "Jersey",
+    "names": [
+      "Jersey"
+    ],
+    "years": [
+      2001,
+      2004
+    ],
+    "lastfmName": "Jersey",
+    "lastfmMbid": "88e09216-eb6b-4278-9854-6c5d503bc86c",
+    "candidates": [
+      {
+        "id": "f6ea730b-6eb6-4839-b5ad-e1226e04a0d6",
+        "name": "Jersey",
+        "disambiguation": "Canadian punk band",
+        "country": "CA",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 13
+      },
+      {
+        "id": "ef1d24b0-f4fd-46e1-9855-d170cf80c224",
+        "name": "Jersey",
+        "disambiguation": "German indie band",
+        "country": "DE",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "100c65f1-90dd-42fd-9674-950ac3e5ae8d",
+        "name": "Jersey",
+        "disambiguation": "hyperdub duo",
+        "country": "FR",
+        "releaseGroups": 6,
+        "studio": 1,
+        "score": 1
+      }
+    ]
+  },
+  {
     "band": "Makeout",
     "names": [
       "Makeout"
@@ -457,6 +791,46 @@
         "releaseGroups": 2,
         "studio": 1,
         "score": 6
+      }
+    ]
+  },
+  {
+    "band": "Outlaw",
+    "names": [
+      "Outlaw"
+    ],
+    "years": [
+      2006
+    ],
+    "lastfmName": "Outlaw",
+    "lastfmMbid": "b7be284b-fe4e-4afa-9fab-0fc06d611243",
+    "candidates": [
+      {
+        "id": "fca261a1-9507-490c-823b-e933d9f30641",
+        "name": "Outlaw",
+        "disambiguation": "Brazilian/German black metal band",
+        "country": "",
+        "releaseGroups": 6,
+        "studio": 5,
+        "score": 10
+      },
+      {
+        "id": "1aa57956-9010-49d2-bcf6-89c06c175ab7",
+        "name": "OUTLAW",
+        "disambiguation": "Japanese band",
+        "country": "JP",
+        "releaseGroups": 5,
+        "studio": 1,
+        "score": 6
+      },
+      {
+        "id": "b9c3a9de-df11-4368-8b0c-52190ff7a0b0",
+        "name": "Outlaw",
+        "disambiguation": "released Family First",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
       }
     ]
   },
@@ -644,6 +1018,37 @@
     ]
   },
   {
+    "band": "Shoot To Kill",
+    "names": [
+      "Shoot To Kill"
+    ],
+    "years": [
+      2006
+    ],
+    "lastfmName": "Shoot To Kill",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "80136e24-e549-46fd-b2a9-e3f5195b2899",
+        "name": "Shoot to Kill",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      },
+      {
+        "id": "5157d0a4-b9c3-41ae-be71-151150577528",
+        "name": "Shoot to Kill",
+        "disambiguation": "photographer",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
     "band": "Shot In The Dark",
     "names": [
       "Shot In The Dark"
@@ -725,6 +1130,86 @@
     ]
   },
   {
+    "band": "Sound and Fury",
+    "names": [
+      "Sound and Fury"
+    ],
+    "years": [
+      2007
+    ],
+    "lastfmName": "Sound And Fury",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "16ae2ef0-0563-4c96-a2c0-4198c7df887b",
+        "name": "Sound and Fury",
+        "disambiguation": "Canadian punk band",
+        "country": "CA",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 11
+      },
+      {
+        "id": "02df82ec-91ff-4669-9614-09e48740e084",
+        "name": "Sound and Fury",
+        "disambiguation": "Shoegaze band from China",
+        "country": "CN",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "019c2329-6ce6-4a8a-8db1-d38641301543",
+        "name": "Edward Vesala Sound & Fury",
+        "disambiguation": "Finnish jazz group",
+        "country": "FI",
+        "releaseGroups": 4,
+        "studio": 4,
+        "score": 4
+      }
+    ]
+  },
+  {
+    "band": "Tabularasa",
+    "names": [
+      "Tabularasa"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "Tabula Rasa",
+    "lastfmMbid": "aec46835-2dc4-4dd4-8ea6-eb183578fb06",
+    "candidates": [
+      {
+        "id": "b9ac4e97-e0b8-4081-a3da-ce8cbf6c90ce",
+        "name": "Tabula Rasa",
+        "disambiguation": "Finnish progressive rock band",
+        "country": "FI",
+        "releaseGroups": 4,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "5997d773-21ad-424a-b322-c6e619e72c26",
+        "name": "Tabula Rasa",
+        "disambiguation": "German folk/medieval band",
+        "country": "DE",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "91b0c462-ed7e-4a9a-b358-3e697a7b6225",
+        "name": "Tabula Rasa",
+        "disambiguation": "Based on Richard Garriott's game",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
     "band": "The Plague",
     "names": [
       "The Plague"
@@ -761,6 +1246,46 @@
         "releaseGroups": 2,
         "studio": 1,
         "score": 6
+      }
+    ]
+  },
+  {
+    "band": "The Silence",
+    "names": [
+      "The Silence"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "The Silence",
+    "lastfmMbid": "537b47ab-35e1-4345-8b5b-810b178632f4",
+    "candidates": [
+      {
+        "id": "57d9367c-87bd-4c8d-8570-df732b7b0d34",
+        "name": "The Silence",
+        "disambiguation": "United States, Orange County",
+        "country": "US",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 6
+      },
+      {
+        "id": "3444738b-9b73-45fc-b0a9-90a01fb586fd",
+        "name": "The Silence",
+        "disambiguation": "Japanese",
+        "country": "JP",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 5
+      },
+      {
+        "id": "462acfdc-6e05-4c24-9417-dfed93dff53c",
+        "name": "The Silence",
+        "disambiguation": "A group formed by Ophidian and Eye-D.",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 3
       }
     ]
   },
