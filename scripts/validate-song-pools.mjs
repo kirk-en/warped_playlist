@@ -71,7 +71,8 @@ const getFacts = async (name) => {
 for (const f of yearFiles) {
   const year = Number(f.slice(0, 4));
   const raw = await readFile(path.join(SONGS_DIR, f), 'utf8');
-  if (raw.includes('\r')) err(`${f}: has CR line endings`);
+  // The build writes LF; with core.autocrlf=true a checkout turns it into CRLF, which git undoes on commit.
+  if (raw.includes('\r')) warnings.push(`${f}: has CR line endings in the working copy (fine if core.autocrlf is on)`);
   const doc = JSON.parse(raw);
   if (doc.schemaVersion !== 1) err(`${f}: schemaVersion is ${doc.schemaVersion}`);
   if (doc.year !== year) err(`${f}: year field is ${doc.year}`);
