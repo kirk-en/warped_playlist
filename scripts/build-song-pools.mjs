@@ -6,7 +6,8 @@
 //   node scripts/build-song-pools.mjs --year 2008    # every band in 2008; --year is repeatable
 //
 // Flags:
-//   --year <YYYY>   only process bands that played that year, and only write that year's pools (repeatable)
+//   --year <YYYY>   only process bands that played that year (repeatable); every run ends by rebuilding
+//                   the year files for all computed years from the cached facts
 //   --pilot         the 4 reference bands + 46 random 2008 bands + 2 off-year extras (cover band, &/and
 //                   variant); computes 2008 plus every year the reference and extra bands appear
 //   --band <name>   only this schedule band name (repeatable; for debugging; needs --year or --pilot years)
@@ -744,7 +745,11 @@ async function main() {
     if (n % opts.batch === 0) await writeOutputs(groups, registry, overrides, years);
   }
   bandCounter = null;
-  await writeOutputs(groups, registry, overrides, years);
+  // End every run by rebuilding every computed year from the cached facts, not just the requested ones:
+  // a run can rebuild a multi-year band's facts (e.g. a second Last.fm page for an early year), and its
+  // pools in other years would otherwise go stale (12 such pools after the 1996-2007 run).
+  const allYears = [...new Set(Object.values(registry.bands).flatMap((e) => e.computeYears ?? []))].sort();
+  await writeOutputs(groups, registry, overrides, allYears);
 
   const secs = (Date.now() - started) / 1000;
   console.log(`network requests: lastfm ${net.lastfm}, musicbrainz ${net.mb} (retries ${net.retries}); cache hits ${net.cacheHits}; ${secs.toFixed(0)}s`);
