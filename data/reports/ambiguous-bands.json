@@ -1,0 +1,148 @@
+[
+  {
+    "band": "3AM",
+    "names": [
+      "3AM"
+    ],
+    "years": [
+      2008
+    ],
+    "lastfmName": "3am",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0167e10d-017b-424b-811d-e0fbd7ff2c7c",
+        "name": "3AM",
+        "disambiguation": "US Emo/Indie Folk Group",
+        "country": "",
+        "releaseGroups": 8,
+        "studio": 7,
+        "score": 12
+      },
+      {
+        "id": "d442fc39-be8d-484c-b826-5f7c4f0f3817",
+        "name": "3AM",
+        "disambiguation": "German rap collective",
+        "country": "DE",
+        "releaseGroups": 16,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "7f87dcd2-bb1b-4212-b78b-e8e76618d942",
+        "name": "3AM",
+        "disambiguation": "drone project of Chino Burga",
+        "country": "PE",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "Allura",
+    "names": [
+      "Allura"
+    ],
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lastfmName": "AllurA",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "e471f760-9717-49db-a3ec-cde6b08c5495",
+        "name": "Allura",
+        "disambiguation": "Los Angeles Metal Band",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "1c28f19a-0e98-4cb1-86b7-ab6c6a6fc917",
+        "name": "Allura",
+        "disambiguation": "Singapore rock band",
+        "country": "SG",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      }
+    ]
+  },
+  {
+    "band": "Peg Leg",
+    "names": [
+      "Peg Leg"
+    ],
+    "years": [
+      2008
+    ],
+    "lastfmName": "Peg Leg",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "1a4024b9-af4e-4481-8944-febb73ac2943",
+        "name": "Peg-Leg",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      },
+      {
+        "id": "a8fb509e-450b-47f9-ad1f-d422730ac1a1",
+        "name": "Peg Leg",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Reach",
+    "names": [
+      "Reach"
+    ],
+    "years": [
+      1999,
+      2008
+    ],
+    "lastfmName": "Reach",
+    "lastfmMbid": "19f04a7e-b04f-46b9-b115-029886e88f67",
+    "candidates": [
+      {
+        "id": "b1f57c8c-8b62-48f7-95fe-0cf143782deb",
+        "name": "Reach",
+        "disambiguation": "US rapper Stacy D. Smith",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "69d52bbb-056b-4170-9dd5-72c724808e8e",
+        "name": "Reach",
+        "disambiguation": "Reach Sweden",
+        "country": "",
+        "releaseGroups": 10,
+        "studio": 5,
+        "score": 5
+      },
+      {
+        "id": "5f0b4ebb-dddf-4377-a58b-650763e09951",
+        "name": "Reach",
+        "disambiguation": "New York producer",
+        "country": "",
+        "releaseGroups": 9,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  }
+]

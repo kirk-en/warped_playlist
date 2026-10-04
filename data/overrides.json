@@ -1,0 +1,32 @@
+{
+  "artists": {
+    "Culture Shock": {
+      "exclude": true,
+      "reason": "wrong artist: Last.fm is a UK drum & bass producer; the 2008 Warped act played the Mix Tent (pilot review 2026-10-03)"
+    },
+    "Dodger": {
+      "exclude": true,
+      "reason": "wrong artist: matched via a Last.fm ID with no MusicBrainz releases (pilot review 2026-10-03)"
+    },
+    "Skip": {
+      "exclude": true,
+      "reason": "wrong artist: matched a New Orleans rapper; the 2008 Warped act was a Mix Tent DJ act (pilot review 2026-10-03)"
+    },
+    "Stay": {
+      "exclude": true,
+      "reason": "wrong artist: matched a Barcelona psych band (pilot review 2026-10-03)"
+    },
+    "The Host": {
+      "exclude": true,
+      "reason": "wrong artist: Last.fm's top songs belong to a vaporwave act (pilot review 2026-10-03)"
+    }
+  },
+  "songs": {
+    "Paramore": {
+      "Decode": {
+        "year": 2008,
+        "reason": "first released Oct 2008 (Twilight soundtrack); MusicBrainz lists it on every Brand New Eyes edition as a bonus track"
+      }
+    }
+  }
+}
