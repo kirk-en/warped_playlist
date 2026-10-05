@@ -1,0 +1,253 @@
+{
+  "stages": [
+    {
+      "id": "vans-off-the-wall",
+      "name": "Vans Off the Wall Stage"
+    },
+    {
+      "id": "monster-energy",
+      "name": "Monster Energy Stage"
+    },
+    {
+      "id": "blackcraft",
+      "name": "Blackcraft Stage"
+    },
+    {
+      "id": "full-sail",
+      "name": "Full Sail Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-off-the-wall-riley",
+      "band": "RILEY",
+      "stageId": "vans-off-the-wall",
+      "startTime": "12:05",
+      "displayTime": "12:05"
+    },
+    {
+      "id": "vans-off-the-wall-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "vans-off-the-wall",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "vans-off-the-wall-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "vans-off-the-wall",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "vans-off-the-wall-travie-mccoy",
+      "band": "Travie McCoy",
+      "stageId": "vans-off-the-wall",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "vans-off-the-wall-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "vans-off-the-wall",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "vans-off-the-wall-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "vans-off-the-wall",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "vans-off-the-wall-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "vans-off-the-wall",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "vans-off-the-wall-atmosphere",
+      "band": "Atmosphere",
+      "stageId": "vans-off-the-wall",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "vans-off-the-wall-good-charlotte",
+      "band": "Good Charlotte",
+      "stageId": "vans-off-the-wall",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "vans-off-the-wall-bad-religion",
+      "band": "Bad Religion",
+      "stageId": "vans-off-the-wall",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "vans-off-the-wall-311",
+      "band": "311",
+      "stageId": "vans-off-the-wall",
+      "startTime": "21:05",
+      "displayTime": "9:05"
+    },
+    {
+      "id": "vans-off-the-wall-a-day-to-remember",
+      "band": "A Day to Remember",
+      "stageId": "vans-off-the-wall",
+      "startTime": "21:50",
+      "displayTime": "9:50"
+    },
+    {
+      "id": "monster-energy-matt-butler",
+      "band": "Matt Butler",
+      "stageId": "monster-energy",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "monster-energy-eyes-set-to-kill",
+      "band": "Eyes Set to Kill",
+      "stageId": "monster-energy",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "monster-energy-can-t-swim",
+      "band": "Can't Swim",
+      "stageId": "monster-energy",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "monster-energy-the-pink-spiders",
+      "band": "The Pink Spiders",
+      "stageId": "monster-energy",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "monster-energy-cky",
+      "band": "CKY",
+      "stageId": "monster-energy",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "monster-energy-varials",
+      "band": "Varials",
+      "stageId": "monster-energy",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "monster-energy-wage-war",
+      "band": "Wage War",
+      "stageId": "monster-energy",
+      "startTime": "20:05",
+      "displayTime": "8:05"
+    },
+    {
+      "id": "monster-energy-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "monster-energy",
+      "startTime": "20:55",
+      "displayTime": "8:55"
+    },
+    {
+      "id": "blackcraft-save-face",
+      "band": "Save Face",
+      "stageId": "blackcraft",
+      "startTime": "12:05",
+      "displayTime": "12:05"
+    },
+    {
+      "id": "blackcraft-deadly-apples",
+      "band": "Deadly Apples",
+      "stageId": "blackcraft",
+      "startTime": "13:25",
+      "displayTime": "1:25"
+    },
+    {
+      "id": "blackcraft-tatiana-demaria",
+      "band": "Tatiana DeMaria",
+      "stageId": "blackcraft",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "blackcraft-mc-lars",
+      "band": "MC Lars",
+      "stageId": "blackcraft",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "blackcraft-hidden-in-plain-view",
+      "band": "Hidden in Plain View",
+      "stageId": "blackcraft",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "blackcraft-valencia",
+      "band": "Valencia",
+      "stageId": "blackcraft",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "blackcraft-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "blackcraft",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "full-sail-the-ones-you-forgot",
+      "band": "The Ones You Forgot",
+      "stageId": "full-sail",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "full-sail-oxymorrons",
+      "band": "Oxymorrons",
+      "stageId": "full-sail",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "full-sail-shiragirl",
+      "band": "Shiragirl",
+      "stageId": "full-sail",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "full-sail-kaleido",
+      "band": "Kaleido",
+      "stageId": "full-sail",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "full-sail-meg-dia",
+      "band": "Meg & Dia",
+      "stageId": "full-sail",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "full-sail-the-aquabats",
+      "band": "The Aquabats",
+      "stageId": "full-sail",
+      "startTime": "20:25",
+      "displayTime": "8:25"
+    }
+  ]
+}

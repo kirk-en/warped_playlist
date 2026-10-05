@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2019-06-29-atlantic-city",
+    "year": 2019,
+    "date": "2019-06-29",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "venue": "Atlantic City Beach"
+  },
+  {
+    "id": "2019-06-30-atlantic-city",
+    "year": 2019,
+    "date": "2019-06-30",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "venue": "Atlantic City Beach"
+  },
+  {
+    "id": "2019-07-20-mountain-view",
+    "year": 2019,
+    "date": "2019-07-20",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  },
+  {
+    "id": "2019-07-21-mountain-view",
+    "year": 2019,
+    "date": "2019-07-21",
+    "city": "Mountain View",
+    "state": "CA",
+    "venue": "Shoreline Amphitheatre"
+  }
+]

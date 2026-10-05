@@ -1,0 +1,274 @@
+{
+  "stages": [
+    {
+      "id": "vans-off-the-wall",
+      "name": "Vans Off the Wall Stage"
+    },
+    {
+      "id": "monster-energy",
+      "name": "Monster Energy Stage"
+    },
+    {
+      "id": "blackcraft",
+      "name": "Blackcraft Stage"
+    },
+    {
+      "id": "full-sail",
+      "name": "Full Sail Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-off-the-wall-atreyu",
+      "band": "Atreyu",
+      "stageId": "vans-off-the-wall",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "vans-off-the-wall-anti-flag",
+      "band": "Anti-Flag",
+      "stageId": "vans-off-the-wall",
+      "startTime": "12:40",
+      "displayTime": "12:40"
+    },
+    {
+      "id": "vans-off-the-wall-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "vans-off-the-wall",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "vans-off-the-wall-the-story-so-far",
+      "band": "The Story So Far",
+      "stageId": "vans-off-the-wall",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "vans-off-the-wall-circa-survive",
+      "band": "Circa Survive",
+      "stageId": "vans-off-the-wall",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "vans-off-the-wall-thrice",
+      "band": "Thrice",
+      "stageId": "vans-off-the-wall",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "vans-off-the-wall-the-menzingers",
+      "band": "The Menzingers",
+      "stageId": "vans-off-the-wall",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "vans-off-the-wall-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "vans-off-the-wall",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "vans-off-the-wall-dirty-heads",
+      "band": "Dirty Heads",
+      "stageId": "vans-off-the-wall",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "vans-off-the-wall-the-used",
+      "band": "The Used",
+      "stageId": "vans-off-the-wall",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "vans-off-the-wall-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "vans-off-the-wall",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "vans-off-the-wall-the-offspring",
+      "band": "The Offspring",
+      "stageId": "vans-off-the-wall",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "vans-off-the-wall-blink-182",
+      "band": "Blink-182",
+      "stageId": "vans-off-the-wall",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "monster-energy-keep-flying",
+      "band": "Keep Flying",
+      "stageId": "monster-energy",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "monster-energy-h2o",
+      "band": "H2O",
+      "stageId": "monster-energy",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "monster-energy-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "monster-energy-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "monster-energy",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "monster-energy-set-it-off",
+      "band": "Set It Off",
+      "stageId": "monster-energy",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "monster-energy-sleeping-with-sirens",
+      "band": "Sleeping With Sirens",
+      "stageId": "monster-energy",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "monster-energy-quicksand",
+      "band": "Quicksand",
+      "stageId": "monster-energy",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "monster-energy-andy-black",
+      "band": "Andy Black",
+      "stageId": "monster-energy",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    },
+    {
+      "id": "monster-energy-varials",
+      "band": "Varials",
+      "stageId": "monster-energy",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "blackcraft-stacked-like-pancakes",
+      "band": "Stacked Like Pancakes",
+      "stageId": "blackcraft",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "blackcraft-juliet-simms",
+      "band": "Juliet Simms",
+      "stageId": "blackcraft",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "blackcraft-hyro-the-hero",
+      "band": "Hyro the Hero",
+      "stageId": "blackcraft",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "blackcraft-trophy-eyes",
+      "band": "Trophy Eyes",
+      "stageId": "blackcraft",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "blackcraft-the-skatalites",
+      "band": "The Skatalites",
+      "stageId": "blackcraft",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "blackcraft-neck-deep",
+      "band": "Neck Deep",
+      "stageId": "blackcraft",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "blackcraft-reel-big-fish",
+      "band": "Reel Big Fish",
+      "stageId": "blackcraft",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "full-sail-dem-atlas",
+      "band": "Dem Atlas",
+      "stageId": "full-sail",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "full-sail-not-ur-girlfrenz",
+      "band": "Not Ur Girlfrenz",
+      "stageId": "full-sail",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "full-sail-the-doped-up-dollies",
+      "band": "The Doped Up Dollies",
+      "stageId": "full-sail",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "full-sail-big-d-and-the-kids-table",
+      "band": "Big D and the Kids Table",
+      "stageId": "full-sail",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "full-sail-frank-iero-and-the-future-violents",
+      "band": "Frank Iero and the Future Violents",
+      "stageId": "full-sail",
+      "startTime": "16:50",
+      "displayTime": "4:50"
+    },
+    {
+      "id": "full-sail-chali-2na-cut-chemist",
+      "band": "Chali 2na & Cut Chemist",
+      "stageId": "full-sail",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "full-sail-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "full-sail",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    }
+  ]
+}

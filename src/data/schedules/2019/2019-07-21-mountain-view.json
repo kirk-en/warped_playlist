@@ -1,0 +1,260 @@
+{
+  "stages": [
+    {
+      "id": "vans-off-the-wall",
+      "name": "Vans Off the Wall Stage"
+    },
+    {
+      "id": "monster-energy",
+      "name": "Monster Energy Stage"
+    },
+    {
+      "id": "blackcraft",
+      "name": "Blackcraft Stage"
+    },
+    {
+      "id": "full-sail",
+      "name": "Full Sail Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-off-the-wall-circa-survive",
+      "band": "Circa Survive",
+      "stageId": "vans-off-the-wall",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "vans-off-the-wall-thrice",
+      "band": "Thrice",
+      "stageId": "vans-off-the-wall",
+      "startTime": "13:15",
+      "displayTime": "1:15"
+    },
+    {
+      "id": "vans-off-the-wall-dance-gavin-dance",
+      "band": "Dance Gavin Dance",
+      "stageId": "vans-off-the-wall",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "vans-off-the-wall-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "vans-off-the-wall",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "vans-off-the-wall-atreyu",
+      "band": "Atreyu",
+      "stageId": "vans-off-the-wall",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "vans-off-the-wall-the-story-so-far",
+      "band": "The Story So Far",
+      "stageId": "vans-off-the-wall",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "vans-off-the-wall-the-all-american-rejects",
+      "band": "The All-American Rejects",
+      "stageId": "vans-off-the-wall",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "vans-off-the-wall-sum-41",
+      "band": "Sum 41",
+      "stageId": "vans-off-the-wall",
+      "startTime": "18:15",
+      "displayTime": "6:15"
+    },
+    {
+      "id": "vans-off-the-wall-the-used",
+      "band": "The Used",
+      "stageId": "vans-off-the-wall",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "vans-off-the-wall-jawbreaker",
+      "band": "Jawbreaker",
+      "stageId": "vans-off-the-wall",
+      "startTime": "20:20",
+      "displayTime": "8:20"
+    },
+    {
+      "id": "vans-off-the-wall-nofx",
+      "band": "NOFX",
+      "stageId": "vans-off-the-wall",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "monster-energy-farewell-winters",
+      "band": "Farewell Winters",
+      "stageId": "monster-energy",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "monster-energy-confide",
+      "band": "Confide",
+      "stageId": "monster-energy",
+      "startTime": "12:55",
+      "displayTime": "12:55"
+    },
+    {
+      "id": "monster-energy-hyro-the-hero",
+      "band": "Hyro the Hero",
+      "stageId": "monster-energy",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "monster-energy-twiztid",
+      "band": "Twiztid",
+      "stageId": "monster-energy",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "monster-energy-quicksand",
+      "band": "Quicksand",
+      "stageId": "monster-energy",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "monster-energy-memphis-may-fire",
+      "band": "Memphis May Fire",
+      "stageId": "monster-energy",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "monster-energy-sleeping-with-sirens",
+      "band": "Sleeping With Sirens",
+      "stageId": "monster-energy",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "monster-energy-yungblud",
+      "band": "Yungblud",
+      "stageId": "monster-energy",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "monster-energy-andy-black",
+      "band": "Andy Black",
+      "stageId": "monster-energy",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "blackcraft-shiragirl",
+      "band": "Shiragirl",
+      "stageId": "blackcraft",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "blackcraft-the-dollyrots",
+      "band": "The Dollyrots",
+      "stageId": "blackcraft",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "blackcraft-juliet-simms",
+      "band": "Juliet Simms",
+      "stageId": "blackcraft",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "blackcraft-go-betty-go",
+      "band": "Go Betty Go",
+      "stageId": "blackcraft",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "blackcraft-tsunami-bomb",
+      "band": "Tsunami Bomb",
+      "stageId": "blackcraft",
+      "startTime": "17:20",
+      "displayTime": "5:20"
+    },
+    {
+      "id": "blackcraft-man-overboard",
+      "band": "Man Overboard",
+      "stageId": "blackcraft",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "blackcraft-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "blackcraft",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "full-sail-street-drum-corps",
+      "band": "Street Drum Corps",
+      "stageId": "full-sail",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "full-sail-elder-brother",
+      "band": "Elder Brother",
+      "stageId": "full-sail",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "full-sail-vigil-of-war",
+      "band": "Vigil of War",
+      "stageId": "full-sail",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "full-sail-whitney-peyton",
+      "band": "Whitney Peyton",
+      "stageId": "full-sail",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "full-sail-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "full-sail",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "full-sail-teenage-bottlerocket",
+      "band": "Teenage Bottlerocket",
+      "stageId": "full-sail",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "full-sail-andrew-w-k",
+      "band": "Andrew W.K.",
+      "stageId": "full-sail",
+      "startTime": "19:20",
+      "displayTime": "7:20"
+    }
+  ]
+}
