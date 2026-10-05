@@ -6,7 +6,8 @@
       "computeYears": [
         1996,
         1998,
-        2001
+        2001,
+        2019
       ],
       "name": "311",
       "names": [
@@ -15,13 +16,14 @@
       "years": [
         1996,
         1998,
-        2001
+        2001,
+        2019
       ],
       "lastfmName": "311",
       "topListeners": 938604,
       "requests": {
         "lastfm": 1,
-        "mb": 13
+        "mb": 21
       },
       "mbid": "bf600e2b-dc2d-4839-a1be-6ebef4087cd0",
       "resolvedBy": "single-match"
@@ -1539,7 +1541,8 @@
         2008,
         2009,
         2011,
-        2014
+        2014,
+        2019
       ],
       "name": "A Day to Remember",
       "names": [
@@ -1549,13 +1552,14 @@
         2008,
         2009,
         2011,
-        2014
+        2014,
+        2019
       ],
       "lastfmName": "A Day to Remember",
       "topListeners": 631870,
       "requests": {
         "lastfm": 1,
-        "mb": 13
+        "mb": 14
       },
       "mbid": "db008806-16f6-48fc-8521-3d953709689d",
       "resolvedBy": "single-match"
@@ -6927,7 +6931,8 @@
         2003,
         2004,
         2010,
-        2018
+        2018,
+        2019
       ],
       "name": "Andrew W.K.",
       "names": [
@@ -6938,7 +6943,8 @@
         2003,
         2004,
         2010,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Andrew W.K.",
       "topListeners": 307168,
@@ -6952,14 +6958,16 @@
     "Andy Black": {
       "status": "done",
       "computeYears": [
-        2017
+        2017,
+        2019
       ],
       "name": "Andy Black",
       "names": [
         "Andy Black"
       ],
       "years": [
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Andy Black",
       "topListeners": 182471,
@@ -7395,7 +7403,8 @@
         2011,
         2012,
         2015,
-        2017
+        2017,
+        2019
       ],
       "name": "Anti-Flag",
       "names": [
@@ -7412,13 +7421,14 @@
         2011,
         2012,
         2015,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Anti-Flag",
       "topListeners": 287672,
       "requests": {
         "lastfm": 1,
-        "mb": 39
+        "mb": 41
       },
       "mbid": "b88f21a7-a1b9-48fd-bbc4-ae758026f17f",
       "resolvedBy": "single-match"
@@ -9176,7 +9186,8 @@
       "status": "done",
       "computeYears": [
         2003,
-        2004
+        2004,
+        2019
       ],
       "name": "Atmosphere",
       "names": [
@@ -9184,13 +9195,14 @@
       ],
       "years": [
         2003,
-        2004
+        2004,
+        2019
       ],
       "lastfmName": "Atmosphere",
       "topListeners": 204090,
       "requests": {
         "lastfm": 1,
-        "mb": 18
+        "mb": 37
       },
       "mbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8",
       "resolvedBy": "single-match"
@@ -9242,7 +9254,8 @@
       "status": "done",
       "computeYears": [
         2005,
-        2016
+        2016,
+        2019
       ],
       "name": "Atreyu",
       "names": [
@@ -9250,13 +9263,14 @@
       ],
       "years": [
         2005,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "Atreyu",
       "topListeners": 367406,
       "requests": {
         "lastfm": 1,
-        "mb": 12
+        "mb": 14
       },
       "mbid": "17e137fb-59e5-4fd7-af48-afc34995396c",
       "resolvedBy": "single-match"
@@ -9475,7 +9489,8 @@
         2011,
         2013,
         2015,
-        2018
+        2018,
+        2019
       ],
       "name": "August Burns Red",
       "names": [
@@ -9486,13 +9501,14 @@
         2011,
         2013,
         2015,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "August Burns Red",
       "topListeners": 182017,
       "requests": {
         "lastfm": 1,
-        "mb": 14
+        "mb": 15
       },
       "mbid": "5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
       "resolvedBy": "single-match"
@@ -10690,7 +10706,8 @@
       "status": "no-data",
       "computeYears": [
         2015,
-        2017
+        2017,
+        2019
       ],
       "name": "Bad Cop/Bad Cop",
       "names": [
@@ -10698,7 +10715,8 @@
       ],
       "years": [
         2015,
-        2017
+        2017,
+        2019
       ],
       "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
     },
@@ -10815,7 +10833,8 @@
         2002,
         2004,
         2007,
-        2009
+        2009,
+        2019
       ],
       "name": "Bad Religion",
       "names": [
@@ -10826,13 +10845,14 @@
         2002,
         2004,
         2007,
-        2009
+        2009,
+        2019
       ],
       "lastfmName": "Bad Religion",
       "topListeners": 397039,
       "requests": {
         "lastfm": 1,
-        "mb": 24
+        "mb": 29
       },
       "mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
       "resolvedBy": "single-match"
@@ -12830,7 +12850,8 @@
         2009,
         2011,
         2013,
-        2017
+        2017,
+        2019
       ],
       "name": "Big D and the Kids Table",
       "names": [
@@ -12844,13 +12865,14 @@
         2009,
         2011,
         2013,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Big D And The Kids Table",
       "topListeners": 81175,
       "requests": {
         "lastfm": 1,
-        "mb": 23
+        "mb": 24
       },
       "mbid": "acb31795-164b-49b5-b50e-1422bbf13898",
       "resolvedBy": "single-match"
@@ -13977,7 +13999,8 @@
         1996,
         1997,
         1998,
-        1999
+        1999,
+        2019
       ],
       "name": "Blink-182",
       "names": [
@@ -13987,13 +14010,14 @@
         1996,
         1997,
         1998,
-        1999
+        1999,
+        2019
       ],
       "lastfmName": "blink-182",
       "topListeners": 2364958,
       "requests": {
         "lastfm": 2,
-        "mb": 10
+        "mb": 17
       },
       "mbid": "0743b15a-3c32-48c8-ad58-cb325350befa",
       "resolvedBy": "single-match"
@@ -14635,7 +14659,8 @@
         2013,
         2014,
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Bowling for Soup",
       "names": [
@@ -14649,7 +14674,8 @@
         2013,
         2014,
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Bowling for Soup",
       "topListeners": 934812,
@@ -20083,7 +20109,8 @@
       "status": "done",
       "computeYears": [
         2005,
-        2007
+        2007,
+        2019
       ],
       "name": "Circa Survive",
       "names": [
@@ -20091,13 +20118,14 @@
       ],
       "years": [
         2005,
-        2007
+        2007,
+        2019
       ],
       "lastfmName": "Circa Survive",
       "topListeners": 310887,
       "requests": {
         "lastfm": 1,
-        "mb": 6
+        "mb": 11
       },
       "mbid": "a2496a3c-8f42-4b98-b780-6f8d64f56441",
       "resolvedBy": "single-match"
@@ -20457,20 +20485,22 @@
     "CKY": {
       "status": "done",
       "computeYears": [
-        2017
+        2017,
+        2019
       ],
       "name": "CKY",
       "names": [
         "CKY"
       ],
       "years": [
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "CKY",
       "topListeners": 415415,
       "requests": {
         "lastfm": 1,
-        "mb": 9
+        "mb": 10
       },
       "mbid": "4ed35152-5207-4101-8904-6cb5d159b545",
       "resolvedBy": "single-match"
@@ -21679,7 +21709,8 @@
       "status": "done",
       "computeYears": [
         2008,
-        2010
+        2010,
+        2019
       ],
       "name": "Confide",
       "names": [
@@ -21687,13 +21718,14 @@
       ],
       "years": [
         2008,
-        2010
+        2010,
+        2019
       ],
       "lastfmName": "Confide",
       "topListeners": 72047,
       "requests": {
         "lastfm": 1,
-        "mb": 7
+        "mb": 8
       },
       "mbid": "01ce947f-e7b1-4702-a25b-1bb9461fe48b",
       "resolvedBy": "single-match"
@@ -23615,7 +23647,8 @@
       "computeYears": [
         2009,
         2011,
-        2017
+        2017,
+        2019
       ],
       "name": "Dance Gavin Dance",
       "names": [
@@ -23624,13 +23657,14 @@
       "years": [
         2009,
         2011,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Dance Gavin Dance",
       "topListeners": 323168,
       "requests": {
         "lastfm": 1,
-        "mb": 11
+        "mb": 12
       },
       "mbid": "16456fed-c9f2-4adf-b6ea-97b648c474d2",
       "resolvedBy": "single-match"
@@ -24758,14 +24792,16 @@
     "Deadly Apples": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Deadly Apples",
       "names": [
         "Deadly Apples"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Deadly Apples",
       "topListeners": 9364,
@@ -27360,7 +27396,8 @@
       "status": "done",
       "computeYears": [
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Doll Skin",
       "names": [
@@ -27368,13 +27405,14 @@
       ],
       "years": [
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Doll Skin",
       "topListeners": 33131,
       "requests": {
         "lastfm": 1,
-        "mb": 8
+        "mb": 7
       },
       "mbid": "ed21c214-6833-4f55-8fd4-ce4cd259dfa0",
       "resolvedBy": "single-match"
@@ -29903,14 +29941,16 @@
     "Elder Brother": {
       "status": "done",
       "computeYears": [
-        2014
+        2014,
+        2019
       ],
       "name": "Elder Brother",
       "names": [
         "Elder Brother"
       ],
       "years": [
-        2014
+        2014,
+        2019
       ],
       "lastfmName": "Elder Brother",
       "topListeners": 13205,
@@ -31725,7 +31765,8 @@
         2007,
         2009,
         2010,
-        2011
+        2011,
+        2019
       ],
       "name": "Eyes Set to Kill",
       "names": [
@@ -31735,13 +31776,14 @@
         2007,
         2009,
         2010,
-        2011
+        2011,
+        2019
       ],
       "lastfmName": "Eyes Set to Kill",
       "topListeners": 170561,
       "requests": {
         "lastfm": 1,
-        "mb": 7
+        "mb": 9
       },
       "mbid": "5c56a575-f1f4-4290-9f41-d7193c9657c4",
       "resolvedBy": "single-match"
@@ -31867,7 +31909,8 @@
         1996,
         1997,
         2003,
-        2010
+        2010,
+        2019
       ],
       "name": "Face to Face",
       "names": [
@@ -31878,7 +31921,8 @@
         1996,
         1997,
         2003,
-        2010
+        2010,
+        2019
       ],
       "lastfmName": "Face to Face",
       "topListeners": 112824,
@@ -32738,7 +32782,8 @@
       "status": "done",
       "computeYears": [
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Farewell Winters",
       "names": [
@@ -32746,7 +32791,8 @@
       ],
       "years": [
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Farewell Winters",
       "topListeners": 123,
@@ -34130,7 +34176,8 @@
       "computeYears": [
         1996,
         2007,
-        2009
+        2009,
+        2019
       ],
       "name": "Fishbone",
       "names": [
@@ -34139,13 +34186,14 @@
       "years": [
         1996,
         2007,
-        2009
+        2009,
+        2019
       ],
       "lastfmName": "Fishbone",
       "topListeners": 60805,
       "requests": {
         "lastfm": 1,
-        "mb": 14
+        "mb": 16
       },
       "mbid": "9f3764c0-c9f4-4e20-b7a8-9993124fb1b2",
       "resolvedBy": "single-match"
@@ -35825,7 +35873,8 @@
         2014,
         2015,
         2016,
-        2018
+        2018,
+        2019
       ],
       "name": "Four Year Strong",
       "names": [
@@ -35838,7 +35887,8 @@
         2014,
         2015,
         2016,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Four Year Strong",
       "topListeners": 159843,
@@ -38044,7 +38094,8 @@
       "status": "done",
       "computeYears": [
         2002,
-        2003
+        2003,
+        2019
       ],
       "name": "Glassjaw",
       "names": [
@@ -38052,13 +38103,14 @@
       ],
       "years": [
         2002,
-        2003
+        2003,
+        2019
       ],
       "lastfmName": "Glassjaw",
       "topListeners": 189696,
       "requests": {
         "lastfm": 1,
-        "mb": 7
+        "mb": 10
       },
       "mbid": "429f9fbf-0a0b-4a9e-a88c-94d48aa466ed",
       "resolvedBy": "single-match"
@@ -38176,7 +38228,8 @@
       "computeYears": [
         2004,
         2005,
-        2014
+        2014,
+        2019
       ],
       "name": "Go Betty Go",
       "names": [
@@ -38185,13 +38238,14 @@
       "years": [
         2004,
         2005,
-        2014
+        2014,
+        2019
       ],
       "lastfmName": "Go Betty Go",
       "topListeners": 37230,
       "requests": {
         "lastfm": 2,
-        "mb": 5
+        "mb": 6
       },
       "mbid": "32357e32-58d7-46e9-8a8d-875a6dbfaa99",
       "resolvedBy": "single-match"
@@ -38439,7 +38493,8 @@
       "status": "done",
       "computeYears": [
         2013,
-        2017
+        2017,
+        2019
       ],
       "name": "Goldfinger",
       "names": [
@@ -38447,13 +38502,14 @@
       ],
       "years": [
         2013,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Goldfinger",
       "topListeners": 513108,
       "requests": {
         "lastfm": 1,
-        "mb": 12
+        "mb": 13
       },
       "mbid": "87fc1871-b74e-4bf5-a00d-8a89c288008b",
       "resolvedBy": "single-match"
@@ -38554,7 +38610,8 @@
         2002,
         2004,
         2016,
-        2018
+        2018,
+        2019
       ],
       "name": "Good Charlotte",
       "names": [
@@ -38565,7 +38622,8 @@
         2002,
         2004,
         2016,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Good Charlotte",
       "topListeners": 1130476,
@@ -39948,7 +40006,8 @@
         1997,
         1998,
         1999,
-        2001
+        2001,
+        2019
       ],
       "name": "H2O",
       "names": [
@@ -39958,7 +40017,8 @@
         1997,
         1998,
         1999,
-        2001
+        2001,
+        2019
       ],
       "lastfmName": "H2O",
       "topListeners": 62274,
@@ -41883,7 +41943,8 @@
       "status": "done",
       "computeYears": [
         2004,
-        2005
+        2005,
+        2019
       ],
       "name": "Hidden in Plain View",
       "names": [
@@ -41891,13 +41952,14 @@
       ],
       "years": [
         2004,
-        2005
+        2005,
+        2019
       ],
       "lastfmName": "Hidden in Plain View",
       "topListeners": 100149,
       "requests": {
         "lastfm": 1,
-        "mb": 9
+        "mb": 10
       },
       "mbid": "d3389cbe-3413-48d6-9cef-6b25c52b7ad3",
       "resolvedBy": "single-match"
@@ -44085,20 +44147,22 @@
     "I The Mighty": {
       "status": "done",
       "computeYears": [
-        2014
+        2014,
+        2019
       ],
       "name": "I The Mighty",
       "names": [
         "I The Mighty"
       ],
       "years": [
-        2014
+        2014,
+        2019
       ],
       "lastfmName": "I the Mighty",
       "topListeners": 28427,
       "requests": {
         "lastfm": 1,
-        "mb": 10
+        "mb": 11
       },
       "mbid": "7ede4d81-056c-4e08-8e5f-bb7165b9c2f2",
       "resolvedBy": "single-match"
@@ -48347,7 +48411,8 @@
       "computeYears": [
         2011,
         2013,
-        2015
+        2015,
+        2019
       ],
       "name": "Juliet Simms",
       "names": [
@@ -48356,13 +48421,14 @@
       "years": [
         2011,
         2013,
-        2015
+        2015,
+        2019
       ],
       "lastfmName": "Juliet Simms",
       "topListeners": 11041,
       "requests": {
         "lastfm": 2,
-        "mb": 6
+        "mb": 7
       },
       "mbid": "0cd47028-76b6-4baf-a89c-38069385da5c",
       "resolvedBy": "single-match"
@@ -49051,7 +49117,8 @@
         2012,
         2013,
         2014,
-        2018
+        2018,
+        2019
       ],
       "name": "Kaleido",
       "names": [
@@ -49061,7 +49128,8 @@
         2012,
         2013,
         2014,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Kaleido",
       "topListeners": 3192,
@@ -49380,7 +49448,8 @@
       "status": "done",
       "computeYears": [
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Keep Flying",
       "names": [
@@ -49388,7 +49457,8 @@
       ],
       "years": [
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Keep Flying",
       "topListeners": 5182,
@@ -51082,7 +51152,8 @@
         1995,
         1996,
         1997,
-        2002
+        2002,
+        2019
       ],
       "name": "Lagwagon",
       "names": [
@@ -51092,13 +51163,14 @@
         1995,
         1996,
         1997,
-        2002
+        2002,
+        2019
       ],
       "lastfmName": "Lagwagon",
       "topListeners": 222609,
       "requests": {
         "lastfm": 1,
-        "mb": 9
+        "mb": 13
       },
       "mbid": "c7788fba-e635-4d8b-a937-01a68ab154e3",
       "resolvedBy": "single-match"
@@ -52146,7 +52218,8 @@
         2012,
         2014,
         2016,
-        2018
+        2018,
+        2019
       ],
       "name": "Less Than Jake",
       "names": [
@@ -52165,7 +52238,8 @@
         2012,
         2014,
         2016,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Less Than Jake",
       "topListeners": 277969,
@@ -52875,14 +52949,16 @@
     "Lighterburns": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Lighterburns",
       "names": [
         "Lighterburns"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Lighterburns",
       "topListeners": 281,
@@ -56433,7 +56509,8 @@
       "computeYears": [
         2012,
         2013,
-        2015
+        2015,
+        2019
       ],
       "name": "Man Overboard",
       "names": [
@@ -56442,7 +56519,8 @@
       "years": [
         2012,
         2013,
-        2015
+        2015,
+        2019
       ],
       "lastfmName": "Man Overboard",
       "topListeners": 79760,
@@ -57254,14 +57332,16 @@
     "Matt Butler": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Matt Butler",
       "names": [
         "Matt Butler"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Matt Butler",
       "topListeners": 402,
@@ -57613,7 +57693,8 @@
         2012,
         2013,
         2015,
-        2018
+        2018,
+        2019
       ],
       "name": "MC Lars",
       "names": [
@@ -57623,13 +57704,14 @@
         2012,
         2013,
         2015,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "MC Lars",
       "topListeners": 34987,
       "requests": {
         "lastfm": 1,
-        "mb": 26
+        "mb": 30
       },
       "mbid": "fdf0d5e1-e773-4740-a50f-a032c96c63d3",
       "resolvedBy": "single-match"
@@ -57989,7 +58071,8 @@
       "computeYears": [
         2006,
         2007,
-        2009
+        2009,
+        2019
       ],
       "name": "Meg & Dia",
       "names": [
@@ -57999,11 +58082,12 @@
       "years": [
         2006,
         2007,
-        2009
+        2009,
+        2019
       ],
       "requests": {
         "lastfm": 1,
-        "mb": 7
+        "mb": 12
       },
       "lastfmName": "Meg & Dia",
       "topListeners": 298228,
@@ -58185,7 +58269,8 @@
         2012,
         2013,
         2015,
-        2017
+        2017,
+        2019
       ],
       "name": "Memphis May Fire",
       "names": [
@@ -58195,13 +58280,14 @@
         2012,
         2013,
         2015,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Memphis May Fire",
       "topListeners": 116148,
       "requests": {
         "lastfm": 1,
-        "mb": 11
+        "mb": 12
       },
       "mbid": "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
       "resolvedBy": "single-match"
@@ -62397,7 +62483,8 @@
         2014,
         2015,
         2016,
-        2017
+        2017,
+        2019
       ],
       "name": "Neck Deep",
       "names": [
@@ -62408,7 +62495,8 @@
         2014,
         2015,
         2016,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Neck Deep",
       "topListeners": 226006,
@@ -63944,7 +64032,8 @@
         2002,
         2004,
         2006,
-        2009
+        2009,
+        2019
       ],
       "name": "NOFX",
       "names": [
@@ -63957,11 +64046,12 @@
         2002,
         2004,
         2006,
-        2009
+        2009,
+        2019
       ],
       "requests": {
         "lastfm": 1,
-        "mb": 31
+        "mb": 37
       },
       "lastfmName": "NOFX",
       "topListeners": 407680,
@@ -64374,14 +64464,16 @@
     "Not Ur Girlfrenz": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Not Ur Girlfrenz",
       "names": [
         "Not Ur Girlfrenz"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Not Ur Girlfrenz",
       "topListeners": 732,
@@ -66112,20 +66204,22 @@
     "One OK Rock": {
       "status": "done",
       "computeYears": [
-        2014
+        2014,
+        2019
       ],
       "name": "One OK Rock",
       "names": [
         "One OK Rock"
       ],
       "years": [
-        2014
+        2014,
+        2019
       ],
       "lastfmName": "ONE OK ROCK",
       "topListeners": 150024,
       "requests": {
         "lastfm": 1,
-        "mb": 14
+        "mb": 18
       },
       "mbid": "6ef00829-fa94-4fee-a5a6-b28e1208e96a",
       "resolvedBy": "single-match"
@@ -67275,7 +67369,8 @@
       "status": "done",
       "computeYears": [
         1998,
-        2004
+        2004,
+        2019
       ],
       "name": "Ozomatli",
       "names": [
@@ -67283,13 +67378,14 @@
       ],
       "years": [
         1998,
-        2004
+        2004,
+        2019
       ],
       "lastfmName": "Ozomatli",
       "topListeners": 46344,
       "requests": {
         "lastfm": 1,
-        "mb": 8
+        "mb": 12
       },
       "mbid": "7e54639b-ee66-4452-a612-918d4c3c73c4",
       "resolvedBy": "single-match"
@@ -69380,14 +69476,16 @@
     "Plague Vendor": {
       "status": "done",
       "computeYears": [
-        2014
+        2014,
+        2019
       ],
       "name": "Plague Vendor",
       "names": [
         "Plague Vendor"
       ],
       "years": [
-        2014
+        2014,
+        2019
       ],
       "lastfmName": "Plague Vendor",
       "topListeners": 28373,
@@ -71197,20 +71295,22 @@
     "Quicksand": {
       "status": "done",
       "computeYears": [
-        1995
+        1995,
+        2019
       ],
       "name": "Quicksand",
       "names": [
         "Quicksand"
       ],
       "years": [
-        1995
+        1995,
+        2019
       ],
       "lastfmName": "Quicksand",
       "topListeners": 99339,
       "requests": {
         "lastfm": 1,
-        "mb": 6
+        "mb": 8
       },
       "mbid": "3c9f8bef-a658-4204-9ee8-7e95d2535b32",
       "resolvedBy": "lastfm-mbid"
@@ -72469,7 +72569,8 @@
         2013,
         2015,
         2016,
-        2018
+        2018,
+        2019
       ],
       "name": "Reel Big Fish",
       "names": [
@@ -72484,7 +72585,8 @@
         2013,
         2015,
         2016,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Reel Big Fish",
       "topListeners": 351492,
@@ -73448,14 +73550,16 @@
     "RILEY": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "RILEY",
       "names": [
         "RILEY"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Riley",
       "topListeners": 74922,
@@ -75809,7 +75913,8 @@
       "status": "done",
       "computeYears": [
         1998,
-        2017
+        2017,
+        2019
       ],
       "name": "Save Ferris",
       "names": [
@@ -75817,7 +75922,8 @@
       ],
       "years": [
         1998,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Save Ferris",
       "topListeners": 165518,
@@ -77560,7 +77666,8 @@
         2015,
         2016,
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Set It Off",
       "names": [
@@ -77573,7 +77680,8 @@
         2015,
         2016,
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Set It Off",
       "topListeners": 401889,
@@ -77704,7 +77812,8 @@
         2008,
         2010,
         2011,
-        2016
+        2016,
+        2019
       ],
       "name": "Set Your Goals",
       "names": [
@@ -77715,7 +77824,8 @@
         2008,
         2010,
         2011,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "Set Your Goals",
       "topListeners": 111311,
@@ -78639,7 +78749,8 @@
         2010,
         2014,
         2015,
-        2018
+        2018,
+        2019
       ],
       "name": "Shiragirl",
       "names": [
@@ -78652,7 +78763,8 @@
         2010,
         2014,
         2015,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Shiragirl",
       "topListeners": 1874,
@@ -79551,7 +79663,8 @@
       "status": "done",
       "computeYears": [
         2016,
-        2017
+        2017,
+        2019
       ],
       "name": "Silent Planet",
       "names": [
@@ -79559,13 +79672,14 @@
       ],
       "years": [
         2016,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Silent Planet",
       "topListeners": 112171,
       "requests": {
         "lastfm": 1,
-        "mb": 11
+        "mb": 12
       },
       "mbid": "c62afc98-8596-4532-a1dd-bc1a595c927e",
       "resolvedBy": "single-match"
@@ -79641,7 +79755,8 @@
         2013,
         2015,
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Silverstein",
       "names": [
@@ -79655,7 +79770,8 @@
         2013,
         2015,
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Silverstein",
       "topListeners": 435800,
@@ -79807,7 +79923,8 @@
         2011,
         2013,
         2015,
-        2018
+        2018,
+        2019
       ],
       "name": "Simple Plan",
       "names": [
@@ -79821,7 +79938,8 @@
         2011,
         2013,
         2015,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Simple Plan",
       "topListeners": 903569,
@@ -81182,7 +81300,8 @@
         2013,
         2014,
         2015,
-        2016
+        2016,
+        2019
       ],
       "name": "Sleeping With Sirens",
       "names": [
@@ -81193,13 +81312,14 @@
         2013,
         2014,
         2015,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "Sleeping With Sirens",
       "topListeners": 779221,
       "requests": {
         "lastfm": 1,
-        "mb": 8
+        "mb": 9
       },
       "mbid": "3267d5a3-c72c-4c3b-bafe-ec8a569c0b74",
       "resolvedBy": "single-match"
@@ -83433,7 +83553,8 @@
         2014,
         2015,
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Stacked Like Pancakes",
       "names": [
@@ -83443,7 +83564,8 @@
         2014,
         2015,
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Stacked Like Pancakes",
       "topListeners": 17745,
@@ -84930,20 +85052,22 @@
     "Street Drum Corps": {
       "status": "done",
       "computeYears": [
-        2007
+        2007,
+        2019
       ],
       "name": "Street Drum Corps",
       "names": [
         "Street Drum Corps"
       ],
       "years": [
-        2007
+        2007,
+        2019
       ],
       "lastfmName": "Street Drum Corps",
       "topListeners": 10152,
       "requests": {
         "lastfm": 1,
-        "mb": 6
+        "mb": 7
       },
       "mbid": "315c4b00-1b16-4419-89e9-4d6a6aa766f3",
       "resolvedBy": "single-match"
@@ -85552,7 +85676,8 @@
         2010,
         2011,
         2016,
-        2018
+        2018,
+        2019
       ],
       "name": "Sum 41",
       "names": [
@@ -85565,13 +85690,14 @@
         2010,
         2011,
         2016,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Sum 41",
       "topListeners": 1454412,
       "requests": {
         "lastfm": 1,
-        "mb": 10
+        "mb": 11
       },
       "mbid": "f2eef649-a6d5-4114-afba-e50ab26254d2",
       "resolvedBy": "single-match"
@@ -87131,7 +87257,8 @@
         2003,
         2004,
         2012,
-        2018
+        2018,
+        2019
       ],
       "name": "Taking Back Sunday",
       "names": [
@@ -87141,7 +87268,8 @@
         2003,
         2004,
         2012,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Taking Back Sunday",
       "topListeners": 749886,
@@ -87423,14 +87551,16 @@
     "Tatiana DeMaria": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Tatiana DeMaria",
       "names": [
         "Tatiana DeMaria"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Tatiana DeMaria",
       "topListeners": 552,
@@ -87555,7 +87685,8 @@
       "status": "done",
       "computeYears": [
         2014,
-        2016
+        2016,
+        2019
       ],
       "name": "Teenage Bottlerocket",
       "names": [
@@ -87563,13 +87694,14 @@
       ],
       "years": [
         2014,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "Teenage Bottlerocket",
       "topListeners": 83931,
       "requests": {
         "lastfm": 1,
-        "mb": 13
+        "mb": 15
       },
       "mbid": "b2905cf4-10cc-46e2-a2cb-8b40ade3138d",
       "resolvedBy": "single-match"
@@ -88584,7 +88716,8 @@
         2003,
         2004,
         2005,
-        2010
+        2010,
+        2019
       ],
       "name": "The All-American Rejects",
       "names": [
@@ -88594,13 +88727,14 @@
         2003,
         2004,
         2005,
-        2010
+        2010,
+        2019
       ],
       "lastfmName": "The All-American Rejects",
       "topListeners": 1673382,
       "requests": {
         "lastfm": 1,
-        "mb": 10
+        "mb": 11
       },
       "mbid": "09885b8e-f235-4b80-a02a-055539493173",
       "resolvedBy": "single-match"
@@ -88914,7 +89048,8 @@
       "computeYears": [
         1998,
         2004,
-        2013
+        2013,
+        2019
       ],
       "name": "The Aquabats",
       "names": [
@@ -88923,7 +89058,8 @@
       "years": [
         1998,
         2004,
-        2013
+        2013,
+        2019
       ],
       "lastfmName": "The Aquabats",
       "topListeners": 47571,
@@ -92095,7 +92231,8 @@
         2006,
         2008,
         2011,
-        2018
+        2018,
+        2019
       ],
       "name": "The Dollyrots",
       "names": [
@@ -92105,13 +92242,14 @@
         2006,
         2008,
         2011,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "The Dollyrots",
       "topListeners": 27220,
       "requests": {
         "lastfm": 1,
-        "mb": 17
+        "mb": 18
       },
       "mbid": "f121deb7-0668-4ace-b36e-4b3a9e804b4f",
       "resolvedBy": "single-match"
@@ -96445,20 +96583,22 @@
     "The Menzingers": {
       "status": "done",
       "computeYears": [
-        2011
+        2011,
+        2019
       ],
       "name": "The Menzingers",
       "names": [
         "The Menzingers"
       ],
       "years": [
-        2011
+        2011,
+        2019
       ],
       "lastfmName": "The Menzingers",
       "topListeners": 88668,
       "requests": {
         "lastfm": 1,
-        "mb": 10
+        "mb": 13
       },
       "mbid": "3071d829-b9ca-4499-b4f5-74d6d8531aed",
       "resolvedBy": "single-match"
@@ -97501,7 +97641,8 @@
       "status": "done",
       "computeYears": [
         2005,
-        2013
+        2013,
+        2019
       ],
       "name": "The Offspring",
       "names": [
@@ -97509,13 +97650,14 @@
       ],
       "years": [
         2005,
-        2013
+        2013,
+        2019
       ],
       "lastfmName": "The Offspring",
       "topListeners": 1931533,
       "requests": {
         "lastfm": 1,
-        "mb": 16
+        "mb": 17
       },
       "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
       "resolvedBy": "single-match"
@@ -97913,7 +98055,8 @@
       "status": "done",
       "computeYears": [
         2006,
-        2008
+        2008,
+        2019
       ],
       "name": "The Pink Spiders",
       "names": [
@@ -97921,13 +98064,14 @@
       ],
       "years": [
         2006,
-        2008
+        2008,
+        2019
       ],
       "lastfmName": "The Pink Spiders",
       "topListeners": 52247,
       "requests": {
         "lastfm": 1,
-        "mb": 7
+        "mb": 8
       },
       "mbid": "183fbb58-f28e-4f2a-aae7-22f3cbcd8876",
       "resolvedBy": "lastfm-mbid"
@@ -100413,7 +100557,8 @@
         2002,
         2003,
         2005,
-        2007
+        2007,
+        2019
       ],
       "name": "The Starting Line",
       "names": [
@@ -100423,13 +100568,14 @@
         2002,
         2003,
         2005,
-        2007
+        2007,
+        2019
       ],
       "lastfmName": "The Starting Line",
       "topListeners": 240030,
       "requests": {
         "lastfm": 1,
-        "mb": 10
+        "mb": 12
       },
       "mbid": "9701356d-08d9-45ba-975d-977ab466e7be",
       "resolvedBy": "single-match"
@@ -100634,7 +100780,8 @@
         2012,
         2013,
         2014,
-        2016
+        2016,
+        2019
       ],
       "name": "The Story So Far",
       "names": [
@@ -100644,7 +100791,8 @@
         2012,
         2013,
         2014,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "The Story So Far",
       "topListeners": 183232,
@@ -101588,7 +101736,8 @@
         2004,
         2012,
         2013,
-        2018
+        2018,
+        2019
       ],
       "name": "The Used",
       "names": [
@@ -101600,7 +101749,8 @@
         2004,
         2012,
         2013,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "The Used",
       "topListeners": 788629,
@@ -101709,7 +101859,8 @@
         2004,
         2007,
         2008,
-        2016
+        2016,
+        2019
       ],
       "name": "The Vandals",
       "names": [
@@ -101723,7 +101874,8 @@
         2004,
         2007,
         2008,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "The Vandals",
       "topListeners": 100680,
@@ -102371,14 +102523,16 @@
     "The World Over": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "The World Over",
       "names": [
         "The World Over"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "The World Over",
       "topListeners": 4168,
@@ -103380,7 +103534,8 @@
         2002,
         2003,
         2005,
-        2009
+        2009,
+        2019
       ],
       "name": "Thrice",
       "names": [
@@ -103390,13 +103545,14 @@
         2002,
         2003,
         2005,
-        2009
+        2009,
+        2019
       ],
       "lastfmName": "Thrice",
       "topListeners": 343297,
       "requests": {
         "lastfm": 1,
-        "mb": 15
+        "mb": 19
       },
       "mbid": "244afcb7-fa9a-49b1-9aa6-0149512d1c52",
       "resolvedBy": "single-match"
@@ -105485,7 +105641,8 @@
       "status": "done",
       "computeYears": [
         2015,
-        2017
+        2017,
+        2019
       ],
       "name": "Trophy Eyes",
       "names": [
@@ -105493,7 +105650,8 @@
       ],
       "years": [
         2015,
-        2017
+        2017,
+        2019
       ],
       "lastfmName": "Trophy Eyes",
       "topListeners": 53427,
@@ -105777,7 +105935,8 @@
         2002,
         2003,
         2005,
-        2016
+        2016,
+        2019
       ],
       "name": "Tsunami Bomb",
       "names": [
@@ -105787,13 +105946,14 @@
         2002,
         2003,
         2005,
-        2016
+        2016,
+        2019
       ],
       "lastfmName": "Tsunami Bomb",
       "topListeners": 59568,
       "requests": {
         "lastfm": 1,
-        "mb": 9
+        "mb": 10
       },
       "mbid": "7d75def9-7b9e-45f4-9437-22601c5dc862",
       "resolvedBy": "single-match"
@@ -106155,20 +106315,22 @@
     "Twiztid": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Twiztid",
       "names": [
         "Twiztid"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Twiztid",
       "topListeners": 39159,
       "requests": {
         "lastfm": 1,
-        "mb": 27
+        "mb": 28
       },
       "mbid": "cbf882cd-5fb3-4324-b212-32ed0b985ba8",
       "resolvedBy": "single-match"
@@ -107444,7 +107606,8 @@
         2006,
         2007,
         2008,
-        2009
+        2009,
+        2019
       ],
       "name": "Valencia",
       "names": [
@@ -107454,13 +107617,14 @@
         2006,
         2007,
         2008,
-        2009
+        2009,
+        2019
       ],
       "lastfmName": "Valencia",
       "topListeners": 142753,
       "requests": {
         "lastfm": 1,
-        "mb": 6
+        "mb": 7
       },
       "mbid": "825e45ca-796e-471a-908f-8bfe2453a454",
       "resolvedBy": "lastfm-mbid"
@@ -107819,14 +107983,16 @@
     "Varials": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Varials",
       "names": [
         "Varials"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Varials",
       "topListeners": 140040,
@@ -109041,7 +109207,8 @@
       "computeYears": [
         2016,
         2017,
-        2018
+        2018,
+        2019
       ],
       "name": "Wage War",
       "names": [
@@ -109050,7 +109217,8 @@
       "years": [
         2016,
         2017,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Wage War",
       "topListeners": 124433,
@@ -110106,7 +110274,8 @@
         2012,
         2014,
         2016,
-        2018
+        2018,
+        2019
       ],
       "name": "We the Kings",
       "names": [
@@ -110119,7 +110288,8 @@
         2012,
         2014,
         2016,
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "We the Kings",
       "topListeners": 555339,
@@ -110965,14 +111135,16 @@
     "Whitney Peyton": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Whitney Peyton",
       "names": [
         "Whitney Peyton"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "Whitney Peyton",
       "topListeners": 2958,
@@ -113197,14 +113369,16 @@
     "Yungblud": {
       "status": "done",
       "computeYears": [
-        2018
+        2018,
+        2019
       ],
       "name": "Yungblud",
       "names": [
         "Yungblud"
       ],
       "years": [
-        2018
+        2018,
+        2019
       ],
       "lastfmName": "YUNGBLUD",
       "topListeners": 492080,
@@ -113427,7 +113601,408 @@
       },
       "mbid": "42227c69-2278-424b-8e10-3de325b7ab53",
       "resolvedBy": "lastfm-mbid"
+    },
+    "Ariana and the Rose": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Ariana and the Rose",
+      "names": [
+        "Ariana and the Rose"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Ariana & The Rose",
+      "topListeners": 1832,
+      "requests": {
+        "lastfm": 1,
+        "mb": 7
+      },
+      "mbid": "32ca25bb-1a6e-4373-8b6e-ad9b85861998",
+      "resolvedBy": "single-match"
+    },
+    "Can't Swim": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Can't Swim",
+      "names": [
+        "Can't Swim"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Can't Swim",
+      "topListeners": 69270,
+      "requests": {
+        "lastfm": 2,
+        "mb": 6
+      },
+      "mbid": "d194e3e0-2965-4e83-a589-8a33fed22e4d",
+      "resolvedBy": "lastfm-mbid"
+    },
+    "Chali 2na & Cut Chemist": {
+      "status": "no-data",
+      "computeYears": [
+        2019
+      ],
+      "name": "Chali 2na & Cut Chemist",
+      "names": [
+        "Chali 2na & Cut Chemist"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Chali 2na & Cut Chemist",
+      "topListeners": 46,
+      "requests": {
+        "lastfm": 1,
+        "mb": 1
+      },
+      "mbid": null,
+      "resolvedBy": null,
+      "reason": "no MusicBrainz artist"
+    },
+    "Dem Atlas": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Dem Atlas",
+      "names": [
+        "Dem Atlas"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "deM atlaS",
+      "topListeners": 15137,
+      "requests": {
+        "lastfm": 1,
+        "mb": 9
+      },
+      "mbid": "8bc2eaa3-dbd3-4c3b-a6ce-82bc66f28bcc",
+      "resolvedBy": "single-match"
+    },
+    "Dirty Heads": {
+      "status": "no-data",
+      "computeYears": [
+        2019
+      ],
+      "name": "Dirty Heads",
+      "names": [
+        "Dirty Heads"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "The Dirty Heads",
+      "topListeners": 82073,
+      "requests": {
+        "lastfm": 1,
+        "mb": 1
+      },
+      "mbid": null,
+      "resolvedBy": null,
+      "reason": "no MusicBrainz artist"
+    },
+    "Fea": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Fea",
+      "names": [
+        "Fea"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Fea",
+      "topListeners": 14934,
+      "requests": {
+        "lastfm": 1,
+        "mb": 4
+      },
+      "mbid": "008a237e-2935-4867-a8f2-0430b28d6e2f",
+      "resolvedBy": "lastfm-mbid"
+    },
+    "Frank Iero and the Future Violents": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Frank Iero and the Future Violents",
+      "names": [
+        "Frank Iero and the Future Violents"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Frank Iero And The Future Violents",
+      "topListeners": 1501,
+      "requests": {
+        "lastfm": 1,
+        "mb": 7
+      },
+      "mbid": "f2158df2-39b6-461c-a33c-07355ed7c941",
+      "resolvedBy": "single-match"
+    },
+    "Hyro the Hero": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Hyro the Hero",
+      "names": [
+        "Hyro the Hero"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Hyro The Hero",
+      "topListeners": 16882,
+      "requests": {
+        "lastfm": 1,
+        "mb": 9
+      },
+      "mbid": "e1047bc2-d71e-4b65-81ad-3cc6270cfeec",
+      "resolvedBy": "single-match"
+    },
+    "Jawbreaker": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Jawbreaker",
+      "names": [
+        "Jawbreaker"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Jawbreaker",
+      "topListeners": 151966,
+      "requests": {
+        "lastfm": 1,
+        "mb": 9
+      },
+      "mbid": "ec88cdc3-0517-4951-b5ef-7323e7316db0",
+      "resolvedBy": "single-match"
+    },
+    "OFF!": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "OFF!",
+      "names": [
+        "OFF!"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "OFF!",
+      "topListeners": 55686,
+      "requests": {
+        "lastfm": 1,
+        "mb": 9
+      },
+      "mbid": "da9a1492-47c2-4e93-8b2b-04555be23efb",
+      "resolvedBy": "lastfm-mbid"
+    },
+    "Oxymorrons": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Oxymorrons",
+      "names": [
+        "Oxymorrons"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "OXYMORRONS",
+      "topListeners": 13501,
+      "requests": {
+        "lastfm": 1,
+        "mb": 7
+      },
+      "mbid": "290385cf-ad84-4127-966d-5cc029a5aea4",
+      "resolvedBy": "single-match"
+    },
+    "Save Face": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Save Face",
+      "names": [
+        "Save Face"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Save Face",
+      "topListeners": 20786,
+      "requests": {
+        "lastfm": 1,
+        "mb": 9
+      },
+      "mbid": "eaca70aa-cffa-4561-9ce9-380317136277",
+      "resolvedBy": "lastfm-mbid"
+    },
+    "Skating Polly": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Skating Polly",
+      "names": [
+        "Skating Polly"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Skating Polly",
+      "topListeners": 36240,
+      "requests": {
+        "lastfm": 1,
+        "mb": 9
+      },
+      "mbid": "bc0a3a57-94bf-4e17-aa42-677ccd5a8250",
+      "resolvedBy": "single-match"
+    },
+    "The Aquadolls": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "The Aquadolls",
+      "names": [
+        "The Aquadolls"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "The Aquadolls",
+      "topListeners": 33177,
+      "requests": {
+        "lastfm": 1,
+        "mb": 6
+      },
+      "mbid": "86171523-e50e-478a-be92-6eafdea1ca69",
+      "resolvedBy": "single-match"
+    },
+    "The Doped Up Dollies": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "The Doped Up Dollies",
+      "names": [
+        "The Doped Up Dollies"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "The Doped Up Dollies",
+      "topListeners": 731,
+      "requests": {
+        "lastfm": 1,
+        "mb": 6
+      },
+      "mbid": "1d868ea9-0291-48ab-b84b-88dde98f699b",
+      "resolvedBy": "single-match"
+    },
+    "The Ones You Forgot": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "The Ones You Forgot",
+      "names": [
+        "The Ones You Forgot"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "The Ones You Forgot",
+      "topListeners": 292,
+      "requests": {
+        "lastfm": 1,
+        "mb": 6
+      },
+      "mbid": "41df49ec-133b-4096-975a-39c3b3cab71d",
+      "resolvedBy": "single-match"
+    },
+    "The Skatalites": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "The Skatalites",
+      "names": [
+        "The Skatalites"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "The Skatalites",
+      "topListeners": 87071,
+      "requests": {
+        "lastfm": 1,
+        "mb": 37
+      },
+      "mbid": "87ac7e25-f278-47a0-b109-5eb131dc96b6",
+      "resolvedBy": "single-match"
+    },
+    "Travie McCoy": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Travie McCoy",
+      "names": [
+        "Travie McCoy"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Travie McCoy",
+      "topListeners": 1026838,
+      "requests": {
+        "lastfm": 1,
+        "mb": 5
+      },
+      "mbid": "76bf7aec-83f0-47a9-8964-eea180b99ac2",
+      "resolvedBy": "single-match"
+    },
+    "Vigil of War": {
+      "status": "done",
+      "computeYears": [
+        2019
+      ],
+      "name": "Vigil of War",
+      "names": [
+        "Vigil of War"
+      ],
+      "years": [
+        2019
+      ],
+      "lastfmName": "Vigil Of War",
+      "topListeners": 7772,
+      "requests": {
+        "lastfm": 1,
+        "mb": 6
+      },
+      "mbid": "70c094fb-a80e-4162-af51-207f1f8344e1",
+      "resolvedBy": "single-match"
     }
   },
-  "updatedAt": "2026-10-04T16:10:31.664Z"
+  "updatedAt": "2026-10-05T19:37:55.164Z"
 }

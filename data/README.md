@@ -1,6 +1,6 @@
 # Song data: what it is and how to build a playlist from it
 
-For every band at every Warped Tour year in `src/data/schedules/` (1995–2018), the repo holds a small,
+For every band at every Warped Tour year in `src/data/schedules/` (1995–2019), the repo holds a small,
 pre-computed, **weighted pool of up to six songs** that fit that band at that moment. The site turns a
 user's band picks into a playlist by drawing songs from these pools. Everything is computed offline
 from Last.fm (popularity) and MusicBrainz (release years). **The site makes no live lookups.** It only
@@ -11,7 +11,7 @@ or regenerating the data.
 
 | Path | In git? | What it is | Who reads it |
 |---|---|---|---|
-| `src/data/songs/<year>.json` | yes | **The product.** One file per tour year (24 files) with each band's song pool. | The site |
+| `src/data/songs/<year>.json` | yes | **The product.** One file per tour year (25 files, 1995–2019) with each band's song pool. | The site |
 | `data/reports/*.json` | yes | Which band-years have no pool and why, which are low confidence, which are ambiguous. | People, the validator |
 | `data/bands.json` | yes | Registry of every band name with its lookup status and IDs. | The build script |
 | `data/overrides.json` | yes | Manual fixes: excluded wrong-artist bands, forced MusicBrainz IDs, song-year corrections. | The build script |
@@ -254,7 +254,7 @@ the classic weights win (Jet Lag Gemini 2008 above: 100, 80, 60, 45, 35, 25).
 ### 3.3 Pool size
 
 Six songs when the band has at least six eligible songs with data, otherwise fewer. Across all years:
-3,530 pools have 6 songs, 141 have 5, 87 have 4, 72 have 3, 65 have 2, and 287 have 1.
+3,616 pools have 6 songs, 144 have 5, 89 have 4, 74 have 3, 65 have 2, and 289 have 1.
 
 ### 3.4 Weights are relative
 
@@ -273,7 +273,7 @@ change can be detected; the site should not need to read it.
   reviewed by hand and wrong ones excluded);
 - the pool is `released-after-tour`.
 
-About 65% of pools are low confidence, mostly from the listener threshold. It is a data-quality signal,
+About 64% of pools are low confidence, mostly from the listener threshold. It is a data-quality signal,
 not an error.
 
 ### 3.6 `released-after-tour`
@@ -281,12 +281,12 @@ not an error.
 If a band had released nothing by the tour year (common for openers), its pool is built from its earliest
 release **if that came out at most 2 years after the tour**, flagged `released-after-tour`, and marked low
 confidence. These pools are the only place where `song.year > file year` (by at most 2). Later than that,
-the band-year is no-data. 283 pools carry this flag.
+the band-year is no-data. 284 pools carry this flag.
 
 ### 3.7 Coverage
 
-All 7,043 band-years in the schedules (5,208 band names) are accounted for: **4,182 have a pool** and
-**2,861 are no-data**.
+All 7,149 band-years in the schedules (5,227 band names) are accounted for: **4,277 have a pool** and
+**2,872 are no-data**.
 
 | Year | Pools | No-data | | Year | Pools | No-data |
 |---|---|---|---|---|---|---|
@@ -302,10 +302,11 @@ All 7,043 band-years in the schedules (5,208 band names) are accounted for: **4,
 | 2004 | 180 | 62 | | 2016 | 125 | 54 |
 | 2005 | 174 | 67 | | 2017 | 131 | 79 |
 | 2006 | 260 | 133 | | 2018 | 317 | 205 |
+| | | | | 2019 | 95 | 11 |
 
-No-data reasons (all years): no MusicBrainz artist 1,493; MusicBrainz artist found but no song could be
-dated 733; no Last.fm match 287; nothing released by 2 years after the tour 243; ambiguous MusicBrainz
-artist 45; excluded as a wrong-artist match 23; name looks like a non-band (DJ set, "w/", "/", festival) 37.
+No-data reasons (all years): no MusicBrainz artist 1,495; MusicBrainz artist found but no song could be
+dated 741; no Last.fm match 287; nothing released by 2 years after the tour 243; ambiguous MusicBrainz
+artist 45; excluded as a wrong-artist match 23; name looks like a non-band (DJ set, "w/", "/", festival) 38.
 
 ---
 
@@ -383,11 +384,12 @@ Keys are the band's **primary name** in `data/bands.json` (usually the spelling 
   Last.fm song with listeners, year, album and year source). Pools are computed from these.
 
 Each response file is `{ key, status, fetchedAt, body }`, keyed by a hash of the request (never containing
-the API key). A cached request is never re-fetched. The cache is about 440 MB and took about 10 hours of
+the API key). A cached request is never re-fetched. The cache is about 440 MB and took about 10.5 hours of
 rate-limited requests to build. On Kirk's machine it lives in the worktree, in the main checkout at
 `H:\warped_playlist\data\cache`, and as an archive at
-`H:\warped_cache\warped-song-cache-2026-10-05.tar.gz`. Restore with
-`tar -xzf /h/warped_cache/warped-song-cache-2026-10-05.tar.gz -C data` from the repo root (Git Bash;
+`H:\warped_cache\warped-song-cache-2026-10-05-with-2019.tar.gz` (the newest; the older archive without 2019 is
+alongside it). Restore with
+`tar -xzf /h/warped_cache/warped-song-cache-2026-10-05-with-2019.tar.gz -C data` from the repo root (Git Bash;
 GNU tar reads `H:` as a host name, so use `/h/…`). Without it, any regeneration re-fetches from the APIs.
 
 ---
@@ -400,7 +402,7 @@ not at the repo root. Never write either value into a committed file, log or rep
 
 ```bash
 # Rebuild everything from the cache, no network (fails on a cache miss):
-node scripts/build-song-pools.mjs --year 1995 --year 1996 … --year 2018 --offline
+node scripts/build-song-pools.mjs --year 1995 --year 1996 … --year 2019 --offline
 
 # Process one year (fetches only what is not cached):
 node scripts/build-song-pools.mjs --year 2008

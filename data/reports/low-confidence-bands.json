@@ -7089,8 +7089,7 @@
     "band": "Street Drum Corps",
     "year": 2007,
     "reasons": [
-      "top Last.fm song has 10152 listeners",
-      "only 35% of the Last.fm top 20 have a year"
+      "top Last.fm song has 10152 listeners"
     ],
     "poolSize": 6
   },
@@ -13189,14 +13188,6 @@
     "year": 2011,
     "reasons": [
       "top Last.fm song has 12529 listeners"
-    ],
-    "poolSize": 6
-  },
-  {
-    "band": "The Menzingers",
-    "year": 2011,
-    "reasons": [
-      "a classic is dated from a non-studio release"
     ],
     "poolSize": 6
   },
@@ -23677,6 +23668,281 @@
     "reasons": [
       "no song out by 2018; uses its first release (2019)",
       "top Last.fm song has 17083 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "311",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Andy Black",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Ariana and the Rose",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 1832 listeners",
+      "only 45% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Deadly Apples",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 9364 listeners",
+      "only 25% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "Dem Atlas",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 15137 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Doll Skin",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Elder Brother",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 13205 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Farewell Winters",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 123 listeners",
+      "only 10% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Fea",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 14934 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Frank Iero and the Future Violents",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 1501 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Hyro the Hero",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 16882 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Juliet Simms",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 11041 listeners",
+      "only 60% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Keep Flying",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 5182 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Lighterburns",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 281 listeners",
+      "only 44% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "Man Overboard",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Memphis May Fire",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Not Ur Girlfrenz",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 732 listeners",
+      "only 25% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 5
+  },
+  {
+    "band": "OFF!",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Oxymorrons",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 13501 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Reel Big Fish",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Save Face",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 20786 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Shiragirl",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 1874 listeners",
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 3
+  },
+  {
+    "band": "Stacked Like Pancakes",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 17745 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Street Drum Corps",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 10152 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Tatiana DeMaria",
+    "year": 2019,
+    "reasons": [
+      "no song out by 2019; uses its first release (2020)",
+      "top Last.fm song has 552 listeners",
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 3
+  },
+  {
+    "band": "The Doped Up Dollies",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 731 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Ones You Forgot",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 292 listeners",
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "The World Over",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 4168 listeners",
+      "only 25% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 5
+  },
+  {
+    "band": "Travie McCoy",
+    "year": 2019,
+    "reasons": [
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Vigil of War",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 7772 listeners",
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 5
+  },
+  {
+    "band": "Whitney Peyton",
+    "year": 2019,
+    "reasons": [
+      "top Last.fm song has 2958 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Yungblud",
+    "year": 2019,
+    "reasons": [
+      "a classic is dated from a non-studio release"
     ],
     "poolSize": 6
   }

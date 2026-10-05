@@ -14303,5 +14303,60 @@
     "band": "Your Favorite Color",
     "year": 2018,
     "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Bad Cop/Bad Cop",
+    "year": 2019,
+    "reason": "name looks like a non-band (DJ, w/, /, festival); not looked up"
+  },
+  {
+    "band": "Can't Swim",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Chali 2na & Cut Chemist",
+    "year": 2019,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Dirty Heads",
+    "year": 2019,
+    "reason": "no MusicBrainz artist"
+  },
+  {
+    "band": "Face to Face",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "H2O",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Kaleido",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Matt Butler",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Neck Deep",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "RILEY",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
+  },
+  {
+    "band": "Set It Off",
+    "year": 2019,
+    "reason": "MusicBrainz artist found, but no song could be dated"
   }
 ]
