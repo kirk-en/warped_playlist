@@ -28,3 +28,9 @@ docs
 
 # TypeScript incremental build info
 *.tsbuildinfo
+
+# Claude Code worktree copy list (local only)
+.worktreeinclude
+# Song-pool build cache (raw Last.fm/MusicBrainz responses and per-band facts; kept local)
+data/cache/
+.claude/worktrees/
