@@ -28,3 +28,6 @@ docs
 
 # TypeScript incremental build info
 *.tsbuildinfo
+
+# Song-pool build cache (raw Last.fm/MusicBrainz responses and per-band facts; kept local)
+data/cache/

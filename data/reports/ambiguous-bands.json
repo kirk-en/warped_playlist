@@ -1,0 +1,1355 @@
+[
+  {
+    "band": "3AM",
+    "names": [
+      "3AM"
+    ],
+    "years": [
+      2008
+    ],
+    "lastfmName": "3am",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0167e10d-017b-424b-811d-e0fbd7ff2c7c",
+        "name": "3AM",
+        "disambiguation": "US Emo/Indie Folk Group",
+        "country": "",
+        "releaseGroups": 8,
+        "studio": 7,
+        "score": 12
+      },
+      {
+        "id": "d442fc39-be8d-484c-b826-5f7c4f0f3817",
+        "name": "3AM",
+        "disambiguation": "German rap collective",
+        "country": "DE",
+        "releaseGroups": 16,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "7f87dcd2-bb1b-4212-b78b-e8e76618d942",
+        "name": "3AM",
+        "disambiguation": "drone project of Chino Burga",
+        "country": "PE",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "A.T.W.",
+    "names": [
+      "A.T.W."
+    ],
+    "years": [
+      2003
+    ],
+    "lastfmName": "A.T.W.",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0c9601d5-0c9b-4411-8560-85303966cf01",
+        "name": "ATW",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 2,
+        "score": 2
+      },
+      {
+        "id": "1c80f1ca-4ebd-4e9b-8038-c1c631296cd5",
+        "name": "ATW",
+        "disambiguation": "Adam Emil (main phase), Zachary Bruce (interplanetary criminal)",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      }
+    ]
+  },
+  {
+    "band": "Allura",
+    "names": [
+      "Allura"
+    ],
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "lastfmName": "AllurA",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "e471f760-9717-49db-a3ec-cde6b08c5495",
+        "name": "Allura",
+        "disambiguation": "Los Angeles Metal Band",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "1c28f19a-0e98-4cb1-86b7-ab6c6a6fc917",
+        "name": "Allura",
+        "disambiguation": "Singapore rock band",
+        "country": "SG",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      }
+    ]
+  },
+  {
+    "band": "Ambush",
+    "names": [
+      "Ambush"
+    ],
+    "years": [
+      2007
+    ],
+    "lastfmName": "Ambush",
+    "lastfmMbid": "a8b9ad31-61d2-4f34-a922-5423e5c2af19",
+    "candidates": [
+      {
+        "id": "1e31bf41-3f2d-4b1a-b39c-72ed3723e719",
+        "name": "Ambush",
+        "disambiguation": "Canadian country music band",
+        "country": "CA",
+        "releaseGroups": 4,
+        "studio": 3,
+        "score": 11
+      },
+      {
+        "id": "740f3174-0c04-440d-bd2e-eb6f37143636",
+        "name": "Ambush",
+        "disambiguation": "Swedish heavy metal band from Växjö",
+        "country": "",
+        "releaseGroups": 8,
+        "studio": 5,
+        "score": 10
+      },
+      {
+        "id": "add768fa-3081-4312-a939-482445ef4118",
+        "name": "Ambush",
+        "disambiguation": "a.k.a. MC Ambush",
+        "country": "NL",
+        "releaseGroups": 16,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "ATM",
+    "names": [
+      "ATM"
+    ],
+    "years": [
+      2002
+    ],
+    "lastfmName": "ATM",
+    "lastfmMbid": "45b26227-f024-4d6f-b80a-e15900f6f8eb",
+    "candidates": [
+      {
+        "id": "a311c36f-6133-44ca-b8ef-8a44b5c52886",
+        "name": "ATM",
+        "disambiguation": "US rapper",
+        "country": "US",
+        "releaseGroups": 4,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "744f529f-396c-423f-9082-21501213d78e",
+        "name": "ATM",
+        "disambiguation": "USA punk band",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "9adbeadd-2289-48d1-8773-6e38e91b5727",
+        "name": "ATM",
+        "disambiguation": "Electornic artists Perfume Advert & M/M",
+        "country": "",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 2
+      }
+    ]
+  },
+  {
+    "band": "Break the Silence",
+    "names": [
+      "Break the Silence"
+    ],
+    "years": [
+      2004
+    ],
+    "lastfmName": "Break The Silence",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "68512fb8-0afc-48e1-a78c-f6588b3e8be3",
+        "name": "Break the Silence",
+        "disambiguation": "Chicago punk band",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "429384e5-4397-4803-9359-68fcdc0c2bf4",
+        "name": "Break the Silence",
+        "disambiguation": "Malaysian Death Metal band",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 6
+      }
+    ]
+  },
+  {
+    "band": "Bright and Early",
+    "names": [
+      "Bright and Early"
+    ],
+    "years": [
+      2010,
+      2012
+    ],
+    "lastfmName": "Bright and Early",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "ba9c5594-8413-4f3f-845b-cd3c8e9e7388",
+        "name": "Bright & Early",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 4,
+        "studio": 3,
+        "score": 3
+      },
+      {
+        "id": "3106dd7f-f89b-4beb-854b-d91701abaf4b",
+        "name": "Bright & Early",
+        "disambiguation": "Arthur Russell & Steven Hall",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "City of Lions",
+    "names": [
+      "City of Lions"
+    ],
+    "years": [
+      2015
+    ],
+    "lastfmName": "City Of Lions",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "d62832de-3425-451f-9bb0-c79d4559a221",
+        "name": "City of Lions",
+        "disambiguation": "City of Lions is a Rock/Pop group",
+        "country": "",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "21ded569-0c0d-4220-bc05-178e4f842536",
+        "name": "City of Lions",
+        "disambiguation": "German Alternative Group",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "D-Shade",
+    "names": [
+      "D-Shade"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "D-Shade",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "07f4dbad-c19d-4640-85a9-21be5043798b",
+        "name": "D‐Shade",
+        "disambiguation": "Montréal hip hop",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 5
+      },
+      {
+        "id": "cc4abb99-1328-409d-9d3c-141ee9bab3ab",
+        "name": "D-SHADE",
+        "disambiguation": "Japanese visual kei",
+        "country": "JP",
+        "releaseGroups": 11,
+        "studio": 3,
+        "score": 3
+      }
+    ]
+  },
+  {
+    "band": "Descendant",
+    "names": [
+      "Descendant"
+    ],
+    "years": [
+      2018
+    ],
+    "lastfmName": "Descendant",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "3e5de17d-dacf-470d-932f-937c60490cdc",
+        "name": "Descendant",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "9adabefe-c82b-4b3d-8960-66af4656b8a2",
+        "name": "Descendant",
+        "disambiguation": "Chillsynth artist",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "DMS",
+    "names": [
+      "DMS"
+    ],
+    "years": [
+      1999
+    ],
+    "lastfmName": "Dms",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "df60c7e1-1818-4c38-853c-80fdf7d0a738",
+        "name": "DMS",
+        "disambiguation": "UK breakbeat/hardcore techno producer Danny Pereira",
+        "country": "GB",
+        "releaseGroups": 7,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "c882ad2b-5883-484d-93d5-1f72f554dbca",
+        "name": "DMS",
+        "disambiguation": "Slovak hip-hop group",
+        "country": "SK",
+        "releaseGroups": 7,
+        "studio": 6,
+        "score": 6
+      },
+      {
+        "id": "c21b646e-3dce-4663-b96a-5fc88fa947cb",
+        "name": "DMS",
+        "disambiguation": "French Rapper",
+        "country": "FR",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "Freaks of Nature",
+    "names": [
+      "Freaks of Nature"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "Freaks Of Nature",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0ec935d6-4a9f-454d-9125-0b05570d586f",
+        "name": "Freaks of Nature",
+        "disambiguation": "Psychedelic trance project",
+        "country": "US",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 3
+      },
+      {
+        "id": "9b34948c-9252-4649-a69e-c7fcfdb377da",
+        "name": "Freaks of Nature",
+        "disambiguation": "Rob Sparks & Search",
+        "country": "GB",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "687f7c90-971d-441a-9f56-63c91d6c89b2",
+        "name": "Freaks of Nature",
+        "disambiguation": "Franken",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Gates",
+    "names": [
+      "Gates"
+    ],
+    "years": [
+      2013
+    ],
+    "lastfmName": "Gates",
+    "lastfmMbid": "527718d8-95de-4ea5-b58c-11b9ec308fe5",
+    "candidates": [
+      {
+        "id": "696c1839-7b24-4fd3-88d5-407bdbd748a2",
+        "name": "G.A.T.E.S.",
+        "disambiguation": "Japanese metal/punk band",
+        "country": "JP",
+        "releaseGroups": 14,
+        "studio": 8,
+        "score": 13
+      },
+      {
+        "id": "d51a9033-a21a-4975-90a2-86078287cd4b",
+        "name": "David Gates",
+        "disambiguation": "singer/songwriter, lead singer of Bread",
+        "country": "US",
+        "releaseGroups": 15,
+        "studio": 7,
+        "score": 10
+      },
+      {
+        "id": "0eed4535-8cd8-437c-be6e-c7e703a273c5",
+        "name": "gates",
+        "disambiguation": "New Jersey post‐rock",
+        "country": "",
+        "releaseGroups": 7,
+        "studio": 5,
+        "score": 10
+      }
+    ]
+  },
+  {
+    "band": "Generik",
+    "names": [
+      "Generik"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "generik",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "3560d048-0624-43d8-8804-93766d2c4545",
+        "name": "Generik",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "75e8d86e-549a-4996-bf60-248adabe6956",
+        "name": "GenErik",
+        "disambiguation": "Australian producer",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "2173b30b-c6c7-464e-94cd-3719401c81e1",
+        "name": "GENERIK*",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Gibby",
+    "names": [
+      "Gibby"
+    ],
+    "years": [
+      2018
+    ],
+    "lastfmName": "GIBBY",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "434f0bd4-f722-4fc6-b750-da1c1c9bff7c",
+        "name": "Gibby",
+        "disambiguation": "choon artist",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "5669c74d-07f5-4499-992d-8bd4b49589dc",
+        "name": "Gibby",
+        "disambiguation": "appears on an electronic/ambient/industrial compilation",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "ec6e539c-a7b0-4701-90f5-3046f50691ce",
+        "name": "Gibby",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Green Means Go",
+    "names": [
+      "Green Means Go"
+    ],
+    "years": [
+      2009
+    ],
+    "lastfmName": "Green means go",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "d65b6ab7-2121-4428-b476-9fb551750a0e",
+        "name": "Green Means Go",
+        "disambiguation": "US pop punk band from New Berlin, WI",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 6
+      },
+      {
+        "id": "359a878a-f269-4db7-ab9a-2574840703da",
+        "name": "Green Means Go",
+        "disambiguation": "Skatepunk Band Berlin/Germany",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 5
+      },
+      {
+        "id": "af3b7253-c995-4038-9eee-ae03fce93bb2",
+        "name": "Green Means Go",
+        "disambiguation": "Swedish",
+        "country": "SE",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Grizzly",
+    "names": [
+      "Grizzly"
+    ],
+    "years": [
+      2014
+    ],
+    "lastfmName": "Grizzly",
+    "lastfmMbid": "b3eed809-3647-48b3-80e6-6fdfc1504621",
+    "candidates": [
+      {
+        "id": "c8a6e780-de91-4413-acdd-b156235b5f0b",
+        "name": "Grizzly",
+        "disambiguation": "Korean singer-songwriter",
+        "country": "KR",
+        "releaseGroups": 18,
+        "studio": 9,
+        "score": 9
+      },
+      {
+        "id": "3880020b-d318-4465-b4a8-1405423a1cae",
+        "name": "Grizzly",
+        "disambiguation": "German pop punk band",
+        "country": "DE",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 8
+      },
+      {
+        "id": "d8fb3c98-792c-4ccc-92a1-0e63d54b7855",
+        "name": "Grizzly",
+        "disambiguation": "ThisIzGrizzly, Grime Mc/ Rapper",
+        "country": "GB",
+        "releaseGroups": 3,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Harbors",
+    "names": [
+      "Harbors"
+    ],
+    "years": [
+      2015
+    ],
+    "lastfmName": "Harbors",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "b354ad2a-2b19-4a40-845b-ef06924d25b0",
+        "name": "Harbors",
+        "disambiguation": "Albuquerque, New Mexico",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 3
+      },
+      {
+        "id": "c0b89bf8-ff74-4d47-af4c-dfded5e21380",
+        "name": "Harbors",
+        "disambiguation": "Hollie Kenniff & Goldmund",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      }
+    ]
+  },
+  {
+    "band": "JAX",
+    "names": [
+      "JAX"
+    ],
+    "years": [
+      2011
+    ],
+    "lastfmName": "Jax",
+    "lastfmMbid": "c005b1d3-eac7-48a8-a663-a01398fe2dc4",
+    "candidates": [
+      {
+        "id": "91450f97-d44a-4364-acf4-882433df30a8",
+        "name": "Jax",
+        "disambiguation": "American Idol",
+        "country": "US",
+        "releaseGroups": 20,
+        "studio": 2,
+        "score": 10
+      },
+      {
+        "id": "ecc090a3-557f-4b93-b2e5-2142c821b0ab",
+        "name": "jax.",
+        "disambiguation": "LoFi Hip Hop producer",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 8
+      },
+      {
+        "id": "70e10cf3-2730-4b73-b099-59e055ae5001",
+        "name": "JAX",
+        "disambiguation": "Hair metal band from NY, USA",
+        "country": "",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      }
+    ]
+  },
+  {
+    "band": "Jersey",
+    "names": [
+      "Jersey"
+    ],
+    "years": [
+      2001,
+      2004
+    ],
+    "lastfmName": "Jersey",
+    "lastfmMbid": "88e09216-eb6b-4278-9854-6c5d503bc86c",
+    "candidates": [
+      {
+        "id": "f6ea730b-6eb6-4839-b5ad-e1226e04a0d6",
+        "name": "Jersey",
+        "disambiguation": "Canadian punk band",
+        "country": "CA",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 13
+      },
+      {
+        "id": "ef1d24b0-f4fd-46e1-9855-d170cf80c224",
+        "name": "Jersey",
+        "disambiguation": "German indie band",
+        "country": "DE",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "100c65f1-90dd-42fd-9674-950ac3e5ae8d",
+        "name": "Jersey",
+        "disambiguation": "hyperdub duo",
+        "country": "FR",
+        "releaseGroups": 6,
+        "studio": 1,
+        "score": 1
+      }
+    ]
+  },
+  {
+    "band": "Makeout",
+    "names": [
+      "Makeout"
+    ],
+    "years": [
+      2018
+    ],
+    "lastfmName": "makeout",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "6e033dee-de16-48a9-a799-7eb2d85753c6",
+        "name": "MAKEOUT",
+        "disambiguation": "Massachusetts Group signed with Rise Records",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 1,
+        "score": 1
+      },
+      {
+        "id": "21c09384-ef57-4802-8b5c-5d2ef524bc32",
+        "name": "Makeout!",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "On the Run",
+    "names": [
+      "On the Run"
+    ],
+    "years": [
+      2010
+    ],
+    "lastfmName": "On The Run",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "e01e301b-9305-47b3-a167-982cca0506a8",
+        "name": "On the Run.",
+        "disambiguation": "Chicago, IL area rock band, later became Fixed Emotion",
+        "country": "US",
+        "releaseGroups": 2,
+        "studio": 0,
+        "score": 8
+      },
+      {
+        "id": "1db26eae-9e59-4104-8c56-2a67ce0fea95",
+        "name": "On The Run",
+        "disambiguation": "Hardcore Band from Mönchengladbach",
+        "country": "",
+        "releaseGroups": 2,
+        "studio": 1,
+        "score": 6
+      }
+    ]
+  },
+  {
+    "band": "Outlaw",
+    "names": [
+      "Outlaw"
+    ],
+    "years": [
+      2006
+    ],
+    "lastfmName": "Outlaw",
+    "lastfmMbid": "b7be284b-fe4e-4afa-9fab-0fc06d611243",
+    "candidates": [
+      {
+        "id": "fca261a1-9507-490c-823b-e933d9f30641",
+        "name": "Outlaw",
+        "disambiguation": "Brazilian/German black metal band",
+        "country": "",
+        "releaseGroups": 6,
+        "studio": 5,
+        "score": 10
+      },
+      {
+        "id": "1aa57956-9010-49d2-bcf6-89c06c175ab7",
+        "name": "OUTLAW",
+        "disambiguation": "Japanese band",
+        "country": "JP",
+        "releaseGroups": 5,
+        "studio": 1,
+        "score": 6
+      },
+      {
+        "id": "b9c3a9de-df11-4368-8b0c-52190ff7a0b0",
+        "name": "Outlaw",
+        "disambiguation": "released Family First",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      }
+    ]
+  },
+  {
+    "band": "Pawz",
+    "names": [
+      "Pawz"
+    ],
+    "years": [
+      2012
+    ],
+    "lastfmName": "Pawz",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "0f749b20-3527-4ddd-a3f0-b11efeca9abc",
+        "name": "PAWZ",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "cd0edf53-c091-470f-ad77-7c2bb00088aa",
+        "name": "Pawz",
+        "disambiguation": "Grime",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Peg Leg",
+    "names": [
+      "Peg Leg"
+    ],
+    "years": [
+      2008
+    ],
+    "lastfmName": "Peg Leg",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "1a4024b9-af4e-4481-8944-febb73ac2943",
+        "name": "Peg-Leg",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      },
+      {
+        "id": "a8fb509e-450b-47f9-ad1f-d422730ac1a1",
+        "name": "Peg Leg",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Reach",
+    "names": [
+      "Reach"
+    ],
+    "years": [
+      1999,
+      2008
+    ],
+    "lastfmName": "Reach",
+    "lastfmMbid": "19f04a7e-b04f-46b9-b115-029886e88f67",
+    "candidates": [
+      {
+        "id": "b1f57c8c-8b62-48f7-95fe-0cf143782deb",
+        "name": "Reach",
+        "disambiguation": "US rapper Stacy D. Smith",
+        "country": "US",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 9
+      },
+      {
+        "id": "69d52bbb-056b-4170-9dd5-72c724808e8e",
+        "name": "Reach",
+        "disambiguation": "Reach Sweden",
+        "country": "",
+        "releaseGroups": 10,
+        "studio": 5,
+        "score": 5
+      },
+      {
+        "id": "5f0b4ebb-dddf-4377-a58b-650763e09951",
+        "name": "Reach",
+        "disambiguation": "New York producer",
+        "country": "",
+        "releaseGroups": 9,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "REIGN",
+    "names": [
+      "REIGN"
+    ],
+    "years": [
+      2017
+    ],
+    "lastfmName": "Reign",
+    "lastfmMbid": "dc7eacb6-ef40-4d96-b5fd-2ec81d7cfc22",
+    "candidates": [
+      {
+        "id": "c6fe77d0-b65f-49e6-9e6d-597c0fa41083",
+        "name": "Reign.",
+        "disambiguation": "techno producer",
+        "country": "",
+        "releaseGroups": 9,
+        "studio": 9,
+        "score": 9
+      },
+      {
+        "id": "d2f4a800-8114-45a3-b537-79f59997445a",
+        "name": "Reign",
+        "disambiguation": "hardcore techno",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 6
+      },
+      {
+        "id": "80ff2981-d23a-4014-8913-45ffe1f5f499",
+        "name": "REIGN",
+        "disambiguation": "visual kei",
+        "country": "",
+        "releaseGroups": 20,
+        "studio": 4,
+        "score": 4
+      }
+    ]
+  },
+  {
+    "band": "Scarlett",
+    "names": [
+      "Scarlett"
+    ],
+    "years": [
+      2010
+    ],
+    "lastfmName": "Scarlett",
+    "lastfmMbid": "d5599cda-dd78-4d74-96ec-f94c8004acc1",
+    "candidates": [
+      {
+        "id": "5b2672f4-bd01-45a7-b846-f9c1c754002b",
+        "name": "Scarlett",
+        "disambiguation": "German country music singer and songwriter",
+        "country": "DE",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      },
+      {
+        "id": "c11ab36f-b49a-4620-8de9-2ff09cc5bd29",
+        "name": "Scarlett",
+        "disambiguation": "Gimme Gimme Gimme (Just A Little Bit)",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      },
+      {
+        "id": "116d7d26-7e8f-4480-91eb-3d81179dcc64",
+        "name": "Scarlett",
+        "disambiguation": "Jim Yosef singer",
+        "country": "",
+        "releaseGroups": 17,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Shoot To Kill",
+    "names": [
+      "Shoot To Kill"
+    ],
+    "years": [
+      2006
+    ],
+    "lastfmName": "Shoot To Kill",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "80136e24-e549-46fd-b2a9-e3f5195b2899",
+        "name": "Shoot to Kill",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 1
+      },
+      {
+        "id": "5157d0a4-b9c3-41ae-be71-151150577528",
+        "name": "Shoot to Kill",
+        "disambiguation": "photographer",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "Shot In The Dark",
+    "names": [
+      "Shot In The Dark"
+    ],
+    "years": [
+      2014
+    ],
+    "lastfmName": "Shot In The Dark",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "54bd5467-7470-4280-a8ac-89f33e0800a0",
+        "name": "Shot in the Dark",
+        "disambiguation": "Al Stewart back up band",
+        "country": "GB",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "0b0c9d28-9237-4a8e-be9c-959ea86555ca",
+        "name": "Shot in the Dark",
+        "disambiguation": "Jonah Matranga's high school band",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 5
+      },
+      {
+        "id": "deac8226-8fab-462f-892a-59d1e15d2508",
+        "name": "Shot in the Dark",
+        "disambiguation": "Modern Rock",
+        "country": "",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "Sirens",
+    "names": [
+      "Sirens"
+    ],
+    "years": [
+      2013,
+      2015
+    ],
+    "lastfmName": "Sirens",
+    "lastfmMbid": "e7df1f7c-1416-49a5-9f36-dfb0e816e4b0",
+    "candidates": [
+      {
+        "id": "bc757775-a9f3-418a-965a-21c65ee2179f",
+        "name": "Sirens",
+        "disambiguation": "London, Ontario, Canada band",
+        "country": "",
+        "releaseGroups": 5,
+        "studio": 4,
+        "score": 9
+      },
+      {
+        "id": "ecff6b98-1993-4d05-8728-d1ab4b9276f3",
+        "name": "Sirens",
+        "disambiguation": "Hardcore aus Deutschland Mitglieder: Daniel Gerigk, Jörg Burkhardt, Micha Schraven, Torsten Heil",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 8
+      },
+      {
+        "id": "7345fb5e-556b-40a3-9269-9e59d312cf0c",
+        "name": "Sirens",
+        "disambiguation": "UK electro pop trio",
+        "country": "",
+        "releaseGroups": 4,
+        "studio": 1,
+        "score": 6
+      }
+    ]
+  },
+  {
+    "band": "Sound and Fury",
+    "names": [
+      "Sound and Fury"
+    ],
+    "years": [
+      2007
+    ],
+    "lastfmName": "Sound And Fury",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "16ae2ef0-0563-4c96-a2c0-4198c7df887b",
+        "name": "Sound and Fury",
+        "disambiguation": "Canadian punk band",
+        "country": "CA",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 11
+      },
+      {
+        "id": "02df82ec-91ff-4669-9614-09e48740e084",
+        "name": "Sound and Fury",
+        "disambiguation": "Shoegaze band from China",
+        "country": "CN",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "019c2329-6ce6-4a8a-8db1-d38641301543",
+        "name": "Edward Vesala Sound & Fury",
+        "disambiguation": "Finnish jazz group",
+        "country": "FI",
+        "releaseGroups": 4,
+        "studio": 4,
+        "score": 4
+      }
+    ]
+  },
+  {
+    "band": "Tabularasa",
+    "names": [
+      "Tabularasa"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "Tabula Rasa",
+    "lastfmMbid": "aec46835-2dc4-4dd4-8ea6-eb183578fb06",
+    "candidates": [
+      {
+        "id": "b9ac4e97-e0b8-4081-a3da-ce8cbf6c90ce",
+        "name": "Tabula Rasa",
+        "disambiguation": "Finnish progressive rock band",
+        "country": "FI",
+        "releaseGroups": 4,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "5997d773-21ad-424a-b322-c6e619e72c26",
+        "name": "Tabula Rasa",
+        "disambiguation": "German folk/medieval band",
+        "country": "DE",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 7
+      },
+      {
+        "id": "91b0c462-ed7e-4a9a-b358-3e697a7b6225",
+        "name": "Tabula Rasa",
+        "disambiguation": "Based on Richard Garriott's game",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "band": "The Plague",
+    "names": [
+      "The Plague"
+    ],
+    "years": [
+      2017
+    ],
+    "lastfmName": "The Plague",
+    "lastfmMbid": "383122fd-b7e3-49be-b367-aee21791a00c",
+    "candidates": [
+      {
+        "id": "dde9bc0e-930e-4e5b-b2f3-b786f30db675",
+        "name": "The Plague",
+        "disambiguation": "00's US goth rock band",
+        "country": "",
+        "releaseGroups": 18,
+        "studio": 3,
+        "score": 8
+      },
+      {
+        "id": "27419341-3abf-4c09-8a09-5ea066a4d68d",
+        "name": "The Plague",
+        "disambiguation": "Death Thrash Metal from Australia",
+        "country": "AU",
+        "releaseGroups": 4,
+        "studio": 3,
+        "score": 8
+      },
+      {
+        "id": "f2ffa807-355f-4e1e-ad52-bd547efb9e44",
+        "name": "The Plague",
+        "disambiguation": "UK punk band",
+        "country": "GB",
+        "releaseGroups": 2,
+        "studio": 1,
+        "score": 6
+      }
+    ]
+  },
+  {
+    "band": "The Silence",
+    "names": [
+      "The Silence"
+    ],
+    "years": [
+      2005
+    ],
+    "lastfmName": "The Silence",
+    "lastfmMbid": "537b47ab-35e1-4345-8b5b-810b178632f4",
+    "candidates": [
+      {
+        "id": "57d9367c-87bd-4c8d-8570-df732b7b0d34",
+        "name": "The Silence",
+        "disambiguation": "United States, Orange County",
+        "country": "US",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 6
+      },
+      {
+        "id": "3444738b-9b73-45fc-b0a9-90a01fb586fd",
+        "name": "The Silence",
+        "disambiguation": "Japanese",
+        "country": "JP",
+        "releaseGroups": 5,
+        "studio": 5,
+        "score": 5
+      },
+      {
+        "id": "462acfdc-6e05-4c24-9417-dfed93dff53c",
+        "name": "The Silence",
+        "disambiguation": "A group formed by Ophidian and Eye-D.",
+        "country": "",
+        "releaseGroups": 3,
+        "studio": 3,
+        "score": 3
+      }
+    ]
+  },
+  {
+    "band": "The Wee-Beasties",
+    "names": [
+      "The Wee-Beasties"
+    ],
+    "years": [
+      2011
+    ],
+    "lastfmName": "The Wee-Beasties",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "c1bc10fe-2653-4525-ba86-3e8b5eebce64",
+        "name": "The Wee Beasties",
+        "disambiguation": "60s Canadian band",
+        "country": "CA",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 8
+      },
+      {
+        "id": "240ad1a0-85e1-4f0b-9796-3e210b05e47c",
+        "name": "The Wee Beasties",
+        "disambiguation": "Denton, TX band",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 0,
+        "score": 5
+      }
+    ]
+  },
+  {
+    "band": "Westland",
+    "names": [
+      "Westland"
+    ],
+    "years": [
+      2011,
+      2012
+    ],
+    "lastfmName": "WESTLAND",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "e9c4dd89-cd2a-4c1c-b0f0-59151db43788",
+        "name": "Westland",
+        "disambiguation": "",
+        "country": "",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 2
+      },
+      {
+        "id": "7ea1f367-89b4-41a4-9917-6f4a6a88478b",
+        "name": "Westland",
+        "disambiguation": "French industrial",
+        "country": "FR",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 0
+      }
+    ]
+  }
+]
