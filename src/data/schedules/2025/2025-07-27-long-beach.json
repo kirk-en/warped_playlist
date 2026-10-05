@@ -1,0 +1,725 @@
+{
+  "stages": [
+    {
+      "id": "vans-left-foot",
+      "name": "Vans Left Foot Stage"
+    },
+    {
+      "id": "vans-right-foot",
+      "name": "Vans Right Foot Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "beatbox",
+      "name": "Beatbox Stage"
+    },
+    {
+      "id": "shapiro",
+      "name": "Shapiro Stage"
+    },
+    {
+      "id": "octopus",
+      "name": "Octopus Stage"
+    },
+    {
+      "id": "rex",
+      "name": "Rex Stage"
+    },
+    {
+      "id": "pike",
+      "name": "Pike Stage"
+    },
+    {
+      "id": "warped-unplugged",
+      "name": "Warped Unplugged Stage"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent",
+      "name": "Smartpunk/Loyal to the Craft Tent"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-left-foot-royal-the-serpent",
+      "band": "Royal & the Serpent",
+      "stageId": "vans-left-foot",
+      "startTime": "11:53",
+      "displayTime": "11:53"
+    },
+    {
+      "id": "vans-left-foot-fever-333",
+      "band": "Fever 333",
+      "stageId": "vans-left-foot",
+      "startTime": "12:54",
+      "displayTime": "12:54"
+    },
+    {
+      "id": "vans-left-foot-the-red-jumpsuit-apparatus",
+      "band": "The Red Jumpsuit Apparatus",
+      "stageId": "vans-left-foot",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "vans-left-foot-dance-hall-crashers",
+      "band": "Dance Hall Crashers",
+      "stageId": "vans-left-foot",
+      "startTime": "15:31",
+      "displayTime": "3:31"
+    },
+    {
+      "id": "vans-left-foot-the-interrupters",
+      "band": "The Interrupters",
+      "stageId": "vans-left-foot",
+      "startTime": "16:52",
+      "displayTime": "4:52"
+    },
+    {
+      "id": "vans-left-foot-311",
+      "band": "311",
+      "stageId": "vans-left-foot",
+      "startTime": "18:33",
+      "displayTime": "6:33"
+    },
+    {
+      "id": "vans-left-foot-falling-in-reverse",
+      "band": "Falling in Reverse",
+      "stageId": "vans-left-foot",
+      "startTime": "20:49",
+      "displayTime": "8:49"
+    },
+    {
+      "id": "vans-right-foot-all-hype",
+      "band": "All Hype",
+      "stageId": "vans-right-foot",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "vans-right-foot-honey-revenge",
+      "band": "Honey Revenge",
+      "stageId": "vans-right-foot",
+      "startTime": "12:21",
+      "displayTime": "12:21"
+    },
+    {
+      "id": "vans-right-foot-we-the-kings",
+      "band": "We the Kings",
+      "stageId": "vans-right-foot",
+      "startTime": "13:27",
+      "displayTime": "1:27"
+    },
+    {
+      "id": "vans-right-foot-boys-like-girls",
+      "band": "Boys Like Girls",
+      "stageId": "vans-right-foot",
+      "startTime": "14:48",
+      "displayTime": "2:48"
+    },
+    {
+      "id": "vans-right-foot-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "vans-right-foot",
+      "startTime": "16:09",
+      "displayTime": "4:09"
+    },
+    {
+      "id": "vans-right-foot-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "vans-right-foot",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "vans-right-foot-rise-against",
+      "band": "Rise Against",
+      "stageId": "vans-right-foot",
+      "startTime": "19:36",
+      "displayTime": "7:36"
+    },
+    {
+      "id": "ghost-magnolia-park",
+      "band": "Magnolia Park",
+      "stageId": "ghost",
+      "startTime": "11:40",
+      "displayTime": "11:40"
+    },
+    {
+      "id": "ghost-millionaires",
+      "band": "Millionaires",
+      "stageId": "ghost",
+      "startTime": "12:44",
+      "displayTime": "12:44"
+    },
+    {
+      "id": "ghost-kim-dracula",
+      "band": "Kim Dracula",
+      "stageId": "ghost",
+      "startTime": "13:48",
+      "displayTime": "1:48"
+    },
+    {
+      "id": "ghost-blessthefall",
+      "band": "Blessthefall",
+      "stageId": "ghost",
+      "startTime": "14:52",
+      "displayTime": "2:52"
+    },
+    {
+      "id": "ghost-the-wonder-years",
+      "band": "The Wonder Years",
+      "stageId": "ghost",
+      "startTime": "15:56",
+      "displayTime": "3:56"
+    },
+    {
+      "id": "ghost-anberlin",
+      "band": "Anberlin",
+      "stageId": "ghost",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "ghost-atmosphere",
+      "band": "Atmosphere",
+      "stageId": "ghost",
+      "startTime": "18:04",
+      "displayTime": "6:04"
+    },
+    {
+      "id": "ghost-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "ghost",
+      "startTime": "19:18",
+      "displayTime": "7:18"
+    },
+    {
+      "id": "ghost-chiodos",
+      "band": "Chiodos",
+      "stageId": "ghost",
+      "startTime": "20:37",
+      "displayTime": "8:37"
+    },
+    {
+      "id": "beatbox-nothing-nowhere",
+      "band": "Nothing, Nowhere.",
+      "stageId": "beatbox",
+      "startTime": "12:12",
+      "displayTime": "12:12"
+    },
+    {
+      "id": "beatbox-the-paradox",
+      "band": "The Paradox",
+      "stageId": "beatbox",
+      "startTime": "13:16",
+      "displayTime": "1:16"
+    },
+    {
+      "id": "beatbox-miss-may-i",
+      "band": "Miss May I",
+      "stageId": "beatbox",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "beatbox-from-ashes-to-new",
+      "band": "From Ashes to New",
+      "stageId": "beatbox",
+      "startTime": "15:24",
+      "displayTime": "3:24"
+    },
+    {
+      "id": "beatbox-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "beatbox",
+      "startTime": "16:28",
+      "displayTime": "4:28"
+    },
+    {
+      "id": "beatbox-saosin",
+      "band": "Saosin",
+      "stageId": "beatbox",
+      "startTime": "17:32",
+      "displayTime": "5:32"
+    },
+    {
+      "id": "beatbox-yung-gravy",
+      "band": "Yung Gravy",
+      "stageId": "beatbox",
+      "startTime": "18:41",
+      "displayTime": "6:41"
+    },
+    {
+      "id": "beatbox-asking-alexandria",
+      "band": "Asking Alexandria",
+      "stageId": "beatbox",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "beatbox-cobra-starship",
+      "band": "Cobra Starship",
+      "stageId": "beatbox",
+      "startTime": "21:19",
+      "displayTime": "9:19"
+    },
+    {
+      "id": "shapiro-the-dark",
+      "band": "The Dark",
+      "stageId": "shapiro",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "shapiro-ho99o9",
+      "band": "HO99O9",
+      "stageId": "shapiro",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "shapiro-lil-lotus",
+      "band": "Lil Lotus",
+      "stageId": "shapiro",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "shapiro-stray-from-the-path",
+      "band": "Stray From The Path",
+      "stageId": "shapiro",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "shapiro-sweet-pill",
+      "band": "Sweet Pill",
+      "stageId": "shapiro",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "shapiro-scene-queen",
+      "band": "Scene Queen",
+      "stageId": "shapiro",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "shapiro-point-north",
+      "band": "Point North",
+      "stageId": "shapiro",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "shapiro-bryce-vine",
+      "band": "Bryce Vine",
+      "stageId": "shapiro",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "shapiro-comeback-kid",
+      "band": "Comeback Kid",
+      "stageId": "shapiro",
+      "startTime": "21:20",
+      "displayTime": "9:20"
+    },
+    {
+      "id": "octopus-the-barbarians-of-california",
+      "band": "The Barbarians of California",
+      "stageId": "octopus",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "octopus-the-funeral-portrait",
+      "band": "The Funeral Portrait",
+      "stageId": "octopus",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "octopus-oxymorrons",
+      "band": "Oxymorrons",
+      "stageId": "octopus",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "octopus-vended",
+      "band": "Vended",
+      "stageId": "octopus",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "octopus-chandler-leighton",
+      "band": "Chandler Leighton",
+      "stageId": "octopus",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "octopus-destroy-boys",
+      "band": "Destroy Boys",
+      "stageId": "octopus",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "octopus-drug-church",
+      "band": "Drug Church",
+      "stageId": "octopus",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "octopus-iann-dior",
+      "band": "Iann Dior",
+      "stageId": "octopus",
+      "startTime": "19:25",
+      "displayTime": "7:25"
+    },
+    {
+      "id": "octopus-the-home-team",
+      "band": "The Home Team",
+      "stageId": "octopus",
+      "startTime": "20:40",
+      "displayTime": "8:40"
+    },
+    {
+      "id": "rex-forever-came-calling",
+      "band": "Forever Came Calling",
+      "stageId": "rex",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "rex-the-mainliners",
+      "band": "The Mainliners",
+      "stageId": "rex",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "rex-garzi",
+      "band": "Garzi",
+      "stageId": "rex",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "rex-slaughterhouse",
+      "band": "Slaughterhouse",
+      "stageId": "rex",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "rex-haarper",
+      "band": "Haarper",
+      "stageId": "rex",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "rex-cliffdiver",
+      "band": "Cliffdiver",
+      "stageId": "rex",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "rex-world-s-first-cinema",
+      "band": "World's First Cinema",
+      "stageId": "rex",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "rex-johnnie-guilbert",
+      "band": "Johnnie Guilbert",
+      "stageId": "rex",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "rex-408",
+      "band": "408",
+      "stageId": "rex",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "rex-treaty-oak-revival",
+      "band": "Treaty Oak Revival",
+      "stageId": "rex",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "pike-indigo-forever",
+      "band": "Indigo Forever",
+      "stageId": "pike",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "pike-screams-of-syrens",
+      "band": "Screams of Syrens",
+      "stageId": "pike",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "pike-grave-secrets",
+      "band": "Grave Secrets",
+      "stageId": "pike",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "pike-noelle-sucks",
+      "band": "Noelle Sucks",
+      "stageId": "pike",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "pike-ekoh",
+      "band": "Ekoh",
+      "stageId": "pike",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "pike-terror-reid",
+      "band": "Terror Reid",
+      "stageId": "pike",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "pike-wiplash",
+      "band": "Wiplash",
+      "stageId": "pike",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "pike-mgna-crrta",
+      "band": "Mgna Crrta",
+      "stageId": "pike",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "pike-left-to-suffer",
+      "band": "Left to Suffer",
+      "stageId": "pike",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "pike-6arelyhuman",
+      "band": "6arelyhuman",
+      "stageId": "pike",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "pike-gogol-bordello",
+      "band": "Gogol Bordello",
+      "stageId": "pike",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "warped-unplugged-bryce-wettstein",
+      "band": "Bryce Wettstein",
+      "stageId": "warped-unplugged",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "warped-unplugged-lisa-curry",
+      "band": "Lisa Curry",
+      "stageId": "warped-unplugged",
+      "startTime": "11:55",
+      "displayTime": "11:55"
+    },
+    {
+      "id": "warped-unplugged-myverse",
+      "band": "MyVerse",
+      "stageId": "warped-unplugged",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "warped-unplugged-phil-koehler-of-fuck-cancer",
+      "band": "Phil Koehler of Fuck Cancer",
+      "stageId": "warped-unplugged",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "warped-unplugged-stacey-dee-linh-le",
+      "band": "Stacey Dee & Linh Le",
+      "stageId": "warped-unplugged",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "warped-unplugged-brandie-posey",
+      "band": "Brandie Posey",
+      "stageId": "warped-unplugged",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "warped-unplugged-garrett-p-braukman-of-the-kyle-pavone-foundation",
+      "band": "Garrett P. Braukman of the Kyle Pavone Foundation",
+      "stageId": "warped-unplugged",
+      "startTime": "14:20",
+      "displayTime": "2:20"
+    },
+    {
+      "id": "warped-unplugged-jakob-nowell-svnburnt-present",
+      "band": "Jakob Nowell & Svnburnt Present",
+      "stageId": "warped-unplugged",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "warped-unplugged-john-feldmann",
+      "band": "John Feldmann",
+      "stageId": "warped-unplugged",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "warped-unplugged-joann-schinderle",
+      "band": "Joann Schinderle",
+      "stageId": "warped-unplugged",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "warped-unplugged-shaney-jo-darden-of-keep-a-breast",
+      "band": "Shaney Jo Darden of Keep A Breast",
+      "stageId": "warped-unplugged",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "warped-unplugged-kat-hall",
+      "band": "Kat Hall",
+      "stageId": "warped-unplugged",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "warped-unplugged-zach-peterson",
+      "band": "Zach Peterson",
+      "stageId": "warped-unplugged",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "warped-unplugged-jesse-wagner",
+      "band": "Jesse Wagner",
+      "stageId": "warped-unplugged",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "warped-unplugged-who-wants-to-be-an-emo-millionaire",
+      "band": "Who Wants to Be an Emo Millionaire?",
+      "stageId": "warped-unplugged",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "warped-unplugged-dylan-flynn-of-pass-the-bass",
+      "band": "Dylan Flynn of Pass the Bass",
+      "stageId": "warped-unplugged",
+      "startTime": "19:25",
+      "displayTime": "7:25"
+    },
+    {
+      "id": "warped-unplugged-maylee-todd",
+      "band": "Maylee Todd",
+      "stageId": "warped-unplugged",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "warped-unplugged-poli-van-dam",
+      "band": "Poli Van Dam",
+      "stageId": "warped-unplugged",
+      "startTime": "20:15",
+      "displayTime": "8:15"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-san-diego",
+      "band": "School of Rock San Diego",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-green-valley",
+      "band": "School of Rock Green Valley",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "12:05",
+      "displayTime": "12:05"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-roseville",
+      "band": "School of Rock Roseville",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "12:55",
+      "displayTime": "12:55"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-san-diego-2",
+      "band": "School of Rock San Diego",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-green-valley-2",
+      "band": "School of Rock Green Valley",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-roseville-2",
+      "band": "School of Rock Roseville",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-standby",
+      "band": "Standby",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-suck-brick-kid",
+      "band": "Suck Brick Kid",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    }
+  ]
+}

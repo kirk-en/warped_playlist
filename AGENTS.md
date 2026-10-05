@@ -1,6 +1,7 @@
 # Agent notes: Warped playlist
 
-A React + Vite site where people pick bands from Warped Tour schedules (1995–2018) and get a playlist.
+A React + Vite site where people pick bands from Warped Tour schedules (any tour year; folders under
+`src/data/schedules/` are the source of truth for which years exist) and get a playlist.
 
 ## Song data (read before building anything with songs or playlists)
 

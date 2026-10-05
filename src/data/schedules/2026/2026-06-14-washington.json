@@ -1,0 +1,524 @@
+{
+  "stages": [
+    {
+      "id": "vans",
+      "name": "Vans Stage"
+    },
+    {
+      "id": "off-the-wall",
+      "name": "Off The Wall Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "beatbox",
+      "name": "Beatbox Stage"
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon Stage"
+    },
+    {
+      "id": "eagle",
+      "name": "Eagle Stage"
+    },
+    {
+      "id": "warped-unplugged",
+      "name": "Warped Unplugged Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-oxymorrons",
+      "band": "Oxymorrons",
+      "stageId": "vans",
+      "startTime": "11:53",
+      "displayTime": "11:53"
+    },
+    {
+      "id": "vans-sunami",
+      "band": "Sunami",
+      "stageId": "vans",
+      "startTime": "12:59",
+      "displayTime": "12:59"
+    },
+    {
+      "id": "vans-the-academy-is",
+      "band": "The Academy Is...",
+      "stageId": "vans",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "vans-hot-mulligan",
+      "band": "Hot Mulligan",
+      "stageId": "vans",
+      "startTime": "15:31",
+      "displayTime": "3:31"
+    },
+    {
+      "id": "vans-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "vans",
+      "startTime": "17:02",
+      "displayTime": "5:02"
+    },
+    {
+      "id": "vans-coheed-and-cambria",
+      "band": "Coheed and Cambria",
+      "stageId": "vans",
+      "startTime": "18:58",
+      "displayTime": "6:58"
+    },
+    {
+      "id": "vans-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "vans",
+      "startTime": "20:59",
+      "displayTime": "8:59"
+    },
+    {
+      "id": "off-the-wall-midfield",
+      "band": "Midfield",
+      "stageId": "off-the-wall",
+      "startTime": "11:25",
+      "displayTime": "11:25"
+    },
+    {
+      "id": "off-the-wall-jutes",
+      "band": "Jutes",
+      "stageId": "off-the-wall",
+      "startTime": "12:26",
+      "displayTime": "12:26"
+    },
+    {
+      "id": "off-the-wall-american-hi-fi",
+      "band": "American Hi-Fi",
+      "stageId": "off-the-wall",
+      "startTime": "13:32",
+      "displayTime": "1:32"
+    },
+    {
+      "id": "off-the-wall-mxpx",
+      "band": "MxPx",
+      "stageId": "off-the-wall",
+      "startTime": "14:48",
+      "displayTime": "2:48"
+    },
+    {
+      "id": "off-the-wall-3oh-3",
+      "band": "3OH!3",
+      "stageId": "off-the-wall",
+      "startTime": "16:14",
+      "displayTime": "4:14"
+    },
+    {
+      "id": "off-the-wall-the-story-so-far",
+      "band": "The Story So Far",
+      "stageId": "off-the-wall",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "off-the-wall-jimmy-eat-world",
+      "band": "Jimmy Eat World",
+      "stageId": "off-the-wall",
+      "startTime": "20:01",
+      "displayTime": "8:01"
+    },
+    {
+      "id": "ghost-xcomm",
+      "band": "XCOMM",
+      "stageId": "ghost",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "ghost-from-first-to-last",
+      "band": "From First to Last",
+      "stageId": "ghost",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "ghost-iann-dior",
+      "band": "Iann Dior",
+      "stageId": "ghost",
+      "startTime": "13:23",
+      "displayTime": "1:23"
+    },
+    {
+      "id": "ghost-boston-manor",
+      "band": "Boston Manor",
+      "stageId": "ghost",
+      "startTime": "14:27",
+      "displayTime": "2:27"
+    },
+    {
+      "id": "ghost-hoobastank",
+      "band": "Hoobastank",
+      "stageId": "ghost",
+      "startTime": "15:31",
+      "displayTime": "3:31"
+    },
+    {
+      "id": "ghost-machine-head",
+      "band": "Machine Head",
+      "stageId": "ghost",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "ghost-all-that-remains",
+      "band": "All That Remains",
+      "stageId": "ghost",
+      "startTime": "17:59",
+      "displayTime": "5:59"
+    },
+    {
+      "id": "ghost-joyce-manor",
+      "band": "Joyce Manor",
+      "stageId": "ghost",
+      "startTime": "19:13",
+      "displayTime": "7:13"
+    },
+    {
+      "id": "ghost-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "ghost",
+      "startTime": "20:37",
+      "displayTime": "8:37"
+    },
+    {
+      "id": "beatbox-sace6",
+      "band": "Sace6",
+      "stageId": "beatbox",
+      "startTime": "11:47",
+      "displayTime": "11:47"
+    },
+    {
+      "id": "beatbox-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "beatbox",
+      "startTime": "12:51",
+      "displayTime": "12:51"
+    },
+    {
+      "id": "beatbox-breathe-carolina",
+      "band": "Breathe Carolina",
+      "stageId": "beatbox",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "beatbox-grandson",
+      "band": "Grandson",
+      "stageId": "beatbox",
+      "startTime": "14:59",
+      "displayTime": "2:59"
+    },
+    {
+      "id": "beatbox-plain-white-t-s",
+      "band": "Plain White T's",
+      "stageId": "beatbox",
+      "startTime": "16:08",
+      "displayTime": "4:08"
+    },
+    {
+      "id": "beatbox-citizen",
+      "band": "Citizen",
+      "stageId": "beatbox",
+      "startTime": "17:22",
+      "displayTime": "5:22"
+    },
+    {
+      "id": "beatbox-the-devil-wears-prada",
+      "band": "The Devil Wears Prada",
+      "stageId": "beatbox",
+      "startTime": "18:36",
+      "displayTime": "6:36"
+    },
+    {
+      "id": "beatbox-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "beatbox",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "beatbox-killswitch-engage",
+      "band": "Killswitch Engage",
+      "stageId": "beatbox",
+      "startTime": "21:19",
+      "displayTime": "9:19"
+    },
+    {
+      "id": "verizon-everchanger",
+      "band": "EverChanger",
+      "stageId": "verizon",
+      "startTime": "11:45",
+      "displayTime": "11:45"
+    },
+    {
+      "id": "verizon-fluorescents",
+      "band": "Fluorescents",
+      "stageId": "verizon",
+      "startTime": "12:35",
+      "displayTime": "12:35"
+    },
+    {
+      "id": "verizon-rosecoloredworld",
+      "band": "Rosecoloredworld",
+      "stageId": "verizon",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "verizon-millington",
+      "band": "Millington",
+      "stageId": "verizon",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "verizon-initiate",
+      "band": "Initiate",
+      "stageId": "verizon",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "verizon-fox-lake",
+      "band": "Fox Lake",
+      "stageId": "verizon",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "verizon-daisy-grenade",
+      "band": "Daisy Grenade",
+      "stageId": "verizon",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "verizon-lambrini-girls",
+      "band": "Lambrini Girls",
+      "stageId": "verizon",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "verizon-caskets",
+      "band": "Caskets",
+      "stageId": "verizon",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "verizon-saturdays-at-your-place",
+      "band": "Saturdays at Your Place",
+      "stageId": "verizon",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "verizon-kennyhoopla",
+      "band": "KennyHoopla",
+      "stageId": "verizon",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "eagle-the-dollyrots",
+      "band": "The Dollyrots",
+      "stageId": "eagle",
+      "startTime": "11:20",
+      "displayTime": "11:20"
+    },
+    {
+      "id": "eagle-vienna-vienna",
+      "band": "Vienna Vienna",
+      "stageId": "eagle",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "eagle-villanelle",
+      "band": "Villanelle",
+      "stageId": "eagle",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "eagle-holy-wars",
+      "band": "Holy Wars",
+      "stageId": "eagle",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "eagle-raue",
+      "band": "Raue",
+      "stageId": "eagle",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "eagle-carolesdaughter",
+      "band": "Carolesdaughter",
+      "stageId": "eagle",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "eagle-arm-s-length",
+      "band": "Arm's Length",
+      "stageId": "eagle",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "eagle-drug-church",
+      "band": "Drug Church",
+      "stageId": "eagle",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "eagle-hot-chelle-rae",
+      "band": "Hot Chelle Rae",
+      "stageId": "eagle",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "eagle-deathbyromy",
+      "band": "DeathByRomy",
+      "stageId": "eagle",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "eagle-the-early-november",
+      "band": "The Early November",
+      "stageId": "eagle",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "warped-unplugged-myverse",
+      "band": "MyVerse",
+      "stageId": "warped-unplugged",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "warped-unplugged-gloria-alexander",
+      "band": "Gloria Alexander",
+      "stageId": "warped-unplugged",
+      "startTime": "12:05",
+      "displayTime": "12:05"
+    },
+    {
+      "id": "warped-unplugged-ben-lapidus",
+      "band": "Ben Lapidus",
+      "stageId": "warped-unplugged",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "warped-unplugged-zach-peterson",
+      "band": "Zach Peterson",
+      "stageId": "warped-unplugged",
+      "startTime": "13:25",
+      "displayTime": "1:25"
+    },
+    {
+      "id": "warped-unplugged-rob-rushing-of-punk-rock-saves-lives",
+      "band": "Rob Rushing of Punk Rock Saves Lives",
+      "stageId": "warped-unplugged",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "warped-unplugged-zach-ross",
+      "band": "Zach Ross",
+      "stageId": "warped-unplugged",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "warped-unplugged-taylor-williams",
+      "band": "Taylor Williams",
+      "stageId": "warped-unplugged",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "warped-unplugged-anna-valenzuela",
+      "band": "Anna Valenzuela",
+      "stageId": "warped-unplugged",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "warped-unplugged-eddie-bauer-of-headcount",
+      "band": "Eddie Bauer of Headcount",
+      "stageId": "warped-unplugged",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "warped-unplugged-rdgldgrn",
+      "band": "RDGLDGRN",
+      "stageId": "warped-unplugged",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "warped-unplugged-kevin-casey-white",
+      "band": "Kevin Casey White",
+      "stageId": "warped-unplugged",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "warped-unplugged-dave-stanley-of-the-bully-sanctuary",
+      "band": "Dave Stanley of The Bully Sanctuary",
+      "stageId": "warped-unplugged",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "warped-unplugged-water-tower",
+      "band": "Water Tower",
+      "stageId": "warped-unplugged",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "warped-unplugged-coolie-ranx",
+      "band": "Coolie Ranx",
+      "stageId": "warped-unplugged",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "warped-unplugged-kendra-morris",
+      "band": "Kendra Morris",
+      "stageId": "warped-unplugged",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "warped-unplugged-plain-white-t-s",
+      "band": "Plain White T's",
+      "stageId": "warped-unplugged",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    }
+  ]
+}

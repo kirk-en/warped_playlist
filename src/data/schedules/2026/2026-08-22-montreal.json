@@ -1,0 +1,306 @@
+{
+  "stages": [
+    {
+      "id": "vans",
+      "name": "Vans Stage"
+    },
+    {
+      "id": "off-the-wall",
+      "name": "Off The Wall Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "le-castor",
+      "name": "Le Castor Stage"
+    },
+    {
+      "id": "paget",
+      "name": "Paget Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-sunami",
+      "band": "Sunami",
+      "stageId": "vans",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "vans-the-devil-wears-prada",
+      "band": "The Devil Wears Prada",
+      "stageId": "vans",
+      "startTime": "13:06",
+      "displayTime": "1:06"
+    },
+    {
+      "id": "vans-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "vans",
+      "startTime": "14:27",
+      "displayTime": "2:27"
+    },
+    {
+      "id": "vans-chiodos",
+      "band": "Chiodos",
+      "stageId": "vans",
+      "startTime": "15:53",
+      "displayTime": "3:53"
+    },
+    {
+      "id": "vans-alkaline-trio",
+      "band": "Alkaline Trio",
+      "stageId": "vans",
+      "startTime": "17:29",
+      "displayTime": "5:29"
+    },
+    {
+      "id": "vans-jimmy-eat-world",
+      "band": "Jimmy Eat World",
+      "stageId": "vans",
+      "startTime": "19:15",
+      "displayTime": "7:15"
+    },
+    {
+      "id": "vans-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "vans",
+      "startTime": "09:21",
+      "displayTime": "9:21"
+    },
+    {
+      "id": "off-the-wall-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "off-the-wall",
+      "startTime": "12:33",
+      "displayTime": "12:33"
+    },
+    {
+      "id": "off-the-wall-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "off-the-wall",
+      "startTime": "13:44",
+      "displayTime": "1:44"
+    },
+    {
+      "id": "off-the-wall-3oh-3",
+      "band": "3OH!3",
+      "stageId": "off-the-wall",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "off-the-wall-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "off-the-wall",
+      "startTime": "16:41",
+      "displayTime": "4:41"
+    },
+    {
+      "id": "off-the-wall-ice-nine-kills",
+      "band": "Ice Nine Kills",
+      "stageId": "off-the-wall",
+      "startTime": "18:17",
+      "displayTime": "6:17"
+    },
+    {
+      "id": "off-the-wall-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "off-the-wall",
+      "startTime": "20:13",
+      "displayTime": "8:13"
+    },
+    {
+      "id": "ghost-sace6",
+      "band": "Sace6",
+      "stageId": "ghost",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "ghost-big-ass-truck-i-e",
+      "band": "Big Ass Truck I.E.",
+      "stageId": "ghost",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "ghost-jutes",
+      "band": "Jutes",
+      "stageId": "ghost",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "ghost-ll",
+      "band": "LØLØ",
+      "stageId": "ghost",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "ghost-bearings",
+      "band": "Bearings",
+      "stageId": "ghost",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "ghost-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "ghost",
+      "startTime": "17:35",
+      "displayTime": "5:35"
+    },
+    {
+      "id": "ghost-cartel",
+      "band": "Cartel",
+      "stageId": "ghost",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    },
+    {
+      "id": "ghost-counterparts",
+      "band": "Counterparts",
+      "stageId": "ghost",
+      "startTime": "19:45",
+      "displayTime": "7:45"
+    },
+    {
+      "id": "ghost-thursday",
+      "band": "Thursday",
+      "stageId": "ghost",
+      "startTime": "20:55",
+      "displayTime": "8:55"
+    },
+    {
+      "id": "le-castor-nothing-nowhere",
+      "band": "Nothing, Nowhere.",
+      "stageId": "le-castor",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "le-castor-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "le-castor",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "le-castor-origami-angel",
+      "band": "Origami Angel",
+      "stageId": "le-castor",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "le-castor-angel-du-t",
+      "band": "Angel Du$t",
+      "stageId": "le-castor",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "le-castor-acceptance",
+      "band": "Acceptance",
+      "stageId": "le-castor",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "le-castor-illscarlett",
+      "band": "illScarlett",
+      "stageId": "le-castor",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "le-castor-despised-icon",
+      "band": "Despised Icon",
+      "stageId": "le-castor",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "le-castor-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "le-castor",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "le-castor-strung-out",
+      "band": "Strung Out",
+      "stageId": "le-castor",
+      "startTime": "21:10",
+      "displayTime": "9:10"
+    },
+    {
+      "id": "paget-good-sleepy",
+      "band": "Good Sleepy",
+      "stageId": "paget",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "paget-bruiserweight",
+      "band": "Bruiserweight",
+      "stageId": "paget",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "paget-mulch",
+      "band": "Mulch",
+      "stageId": "paget",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "paget-desecrate",
+      "band": "Desecrate",
+      "stageId": "paget",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "paget-scorching-tomb",
+      "band": "Scorching Tomb",
+      "stageId": "paget",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "paget-sudden-waves",
+      "band": "Sudden Waves",
+      "stageId": "paget",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "paget-suckerpunch",
+      "band": "Suckerpunch!",
+      "stageId": "paget",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "paget-cross-check",
+      "band": "Cross Check",
+      "stageId": "paget",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "paget-beton-arme",
+      "band": "Beton Arme",
+      "stageId": "paget",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}
