@@ -3,6 +3,7 @@ import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import InflatableBoard from '../../components/InflatableBoard/InflatableBoard';
 import SelectionCards from '../../components/SelectionCards/SelectionCards';
 import { loadSchedule, loadYearIndex, scheduleYears } from '../../data/schedule';
+import { buildPlaylist, formatPlaylist } from '../../data/songs';
 import './HomePage.css';
 
 // Logos follow the naming convention assets/warped_tour_<year>_logo.<ext>. A year
@@ -40,6 +41,9 @@ function dayFor(date) {
   });
 }
 
+// Songs drawn per picked band. Pools hold up to six; smaller pools give fewer.
+const SONGS_PER_BAND = 2;
+
 // The URL is the source of truth for where the user is:
 //   /            landing card
 //   /years       year picker
@@ -50,6 +54,8 @@ function HomePage() {
   const { pathname } = useLocation();
   const { year: yearParam, id } = useParams();
   const [replaySignal, setReplaySignal] = useState(0);
+  // Sets picked on the board, reported by InflatableBoard.
+  const [picks, setPicks] = useState([]);
   const [comingSoonYear, setComingSoonYear] = useState(null);
   // Shown under the date cards when a date has no set times yet.
   const [note, setNote] = useState(null);
@@ -163,7 +169,24 @@ function HomePage() {
             stages={chosen.stages}
             sets={chosen.sets}
             replaySignal={replaySignal}
+            onPicksChange={setPicks}
           />
+          <button
+            type="button"
+            className="replay-button generate-button"
+            disabled={picks.length === 0}
+            onClick={() =>
+              // Logged for now; the Soundiiz export comes later.
+              buildPlaylist(year, picks, SONGS_PER_BAND)
+                .then((playlist) => {
+                  console.log(formatPlaylist(playlist).join('\n'));
+                  console.table(playlist.tracks);
+                })
+                .catch((error) => console.error('[playlist] failed to build', year, error))
+            }
+          >
+            Generate playlist
+          </button>
           <button
             type="button"
             className="replay-button"

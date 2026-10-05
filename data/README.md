@@ -119,20 +119,22 @@ The intended flow:
 5. Emit tracks as `{ artist: song.artist ?? set.band, title: song.title }`. The playlist export (Soundiiz)
    matches on these text strings only.
 
-**How many songs per band is not decided yet** (1 or 2 were discussed). The pools never depend on it;
-just never draw more than the pool holds (pools can have 1–5 songs).
+**Songs per band:** the site draws 2 per band (`SONGS_PER_BAND` in `src/pages/HomePage/HomePage.jsx`).
+The pools never depend on it; a pool with fewer songs simply gives fewer.
 
 **Weighted draw without replacement.** Pick one song with probability `weight / sum of weights still in
 the pool`, remove it, repeat. A song's chance of being the single pick is its weight divided by the
 pool's total weight. For Jet Lag Gemini 2008 that is 100 / 345 ≈ 29% for "Run This City".
 
-### Reference code (TypeScript, matching `src/data/schedule.ts`)
+### The code: `src/data/songs.ts`
 
-Nothing below exists in `src/` yet. A loader, types and the draw are a planned later piece of work.
-This is the intended shape:
+Implemented in `src/data/songs.ts` (types, a lazy per-year loader, the draw, `buildPlaylist` and a
+`formatPlaylist` helper for logging). On the board page, `InflatableBoard` reports the picked sets through
+its `onPicksChange` prop, and the **Generate playlist** button in `HomePage.jsx` builds a playlist and logs
+it to the browser console (the Soundiiz export comes later). The core of the module:
 
 ```ts
-// src/data/songs.ts (suggested)
+// src/data/songs.ts (abridged)
 import type { SetTime } from './schedule';
 
 export type SongRole = 'classic' | 'era' | 'both' | 'filler';
@@ -178,23 +180,25 @@ export function drawSongs(pool: PoolSong[], n: number, random: () => number = Ma
   return picked;
 }
 
-export type PlaylistTrack = { band: string; artist: string; title: string };
+export type PlaylistTrack = { band: string; artist: string; title: string; year: number };
 
-export async function buildPlaylist(year: number, chosen: SetTime[], perBand: number) {
+/** Draws `perBand` songs for each distinct band picked, in the order the sets start. */
+export async function buildPlaylist(year: number, chosen: SetTime[], perBand: number, random = Math.random) {
   const songs = await loadYearSongs(year);
+  const ordered = [...chosen].sort((a, b) => a.startTime.localeCompare(b.startTime));
   const tracks: PlaylistTrack[] = [];
   const noSongs: string[] = [];
-  for (const band of new Set(chosen.map((set) => set.band))) {
+  for (const band of new Set(ordered.map((set) => set.band))) {
     const entry = songs.bands[band];
     if (!entry) {
       noSongs.push(band);
       continue;
     }
-    for (const song of drawSongs(entry.pool, perBand)) {
-      tracks.push({ band, artist: song.artist ?? band, title: song.title });
+    for (const song of drawSongs(entry.pool, perBand, random)) {
+      tracks.push({ band, artist: song.artist ?? band, title: song.title, year: song.year });
     }
   }
-  return { tracks, noSongs };
+  return { year, tracks, noSongs };
 }
 ```
 
@@ -203,7 +207,7 @@ Notes for implementers:
 - **One file per show year.** A `SetTime` has no year; take it from the selected show (`ScheduleSummary.year`).
 - **Determinism.** The draw is random by design (re-rolling gives a different playlist). Pass a seeded
   `random` if you need a reproducible or shareable playlist.
-- **Order** within the playlist is up to the feature (set time order is a natural choice).
+- **Order:** `buildPlaylist` returns tracks in set start-time order.
 - **Optional, not decided:** drawing the first song for a band from `era`/`both` songs only, to guarantee a
   song from the album the band was touring. It is a product decision; ask before doing it.
 - **Do not show `weight` as a percentage of anything except its own pool.**

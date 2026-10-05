@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { CSSProperties } from 'react';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
@@ -24,12 +24,15 @@ type InflatableBoardProps = {
   sets: SetTime[];
   /** Bump to replay the inflation from the deflated state. */
   replaySignal?: number;
+  /** Called with the chosen sets whenever the picks change. */
+  onPicksChange?: (picked: SetTime[]) => void;
 };
 
 export default function InflatableBoard({
   stages,
   sets,
   replaySignal = 0,
+  onPicksChange,
 }: InflatableBoardProps) {
   const rootRef = useRef<HTMLDivElement>(null);
   const stageRef = useRef<HTMLDivElement>(null);
@@ -195,6 +198,16 @@ export default function InflatableBoard({
     [sets, pickedIds],
   );
   const blocked = useMemo(() => blockedIds(sets, picked), [sets, picked]);
+
+  // Report picks upward. The callback lives in a ref so a new function from the parent
+  // on every render doesn't re-fire this.
+  const onPicksChangeRef = useRef(onPicksChange);
+  useEffect(() => {
+    onPicksChangeRef.current = onPicksChange;
+  });
+  useEffect(() => {
+    onPicksChangeRef.current?.(picked);
+  }, [picked]);
 
   const handlePick = (set: SetTime) => {
     setPickedIds((ids) => {

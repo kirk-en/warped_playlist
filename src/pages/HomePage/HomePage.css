@@ -173,3 +173,13 @@
     animation-duration: 2.4s;
   }
 }
+
+/* Sits beside Replay; logs a playlist built from the picked sets. */
+.generate-button {
+  right: 84px;
+}
+
+.generate-button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
