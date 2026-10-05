@@ -619,7 +619,9 @@ function parseArgs(argv) {
     else if (a === '--sample') opts.sample = Number(argv[++i]);
     else throw new Error(`unknown flag ${a}`);
   }
-  if (opts.years.some((y) => !(y >= 1995 && y <= 2018))) throw new Error('--year must be 1995 to 2018');
+  // Any year with a schedules folder is valid, so new years need no code change.
+  const bad = opts.years.filter((y) => !Number.isInteger(y) || !existsSync(path.join(SCHEDULES, String(y))));
+  if (bad.length) throw new Error(`--year ${bad.join(', ')}: no folder in src/data/schedules/`);
   if (!opts.pilot && !opts.years.length) throw new Error('pass --pilot or at least one --year');
   return opts;
 }

@@ -21,7 +21,7 @@ const complete = new Set();
 for (let i = 2; i < process.argv.length; i++) {
   if (process.argv[i] !== '--complete') continue;
   const y = Number(process.argv[i + 1]);
-  if (!(y >= 1995 && y <= 2018)) {
+  if (!Number.isInteger(y) || !existsSync(path.join(ROOT, 'src/data/schedules', String(y)))) {
     console.error('--complete needs a year, e.g. --complete 2008');
     process.exit(1);
   }
