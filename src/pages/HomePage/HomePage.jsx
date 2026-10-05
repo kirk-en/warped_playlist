@@ -180,7 +180,7 @@ function HomePage() {
               buildPlaylist(year, picks, SONGS_PER_BAND)
                 .then((playlist) => {
                   console.log(formatPlaylist(playlist).join('\n'));
-                  console.table(playlist.tracks);
+                  console.table(playlist.tracks, ['artist', 'title', 'year']);
                 })
                 .catch((error) => console.error('[playlist] failed to build', year, error))
             }
