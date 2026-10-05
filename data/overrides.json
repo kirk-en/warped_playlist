@@ -1,0 +1,92 @@
+{
+  "artists": {
+    "Barbarian": {
+      "exclude": true,
+      "reason": "wrong artist: matched Italian thrash/black metal band Barbarian; the Warped act is an unidentified local band on the 2016 Break Thru stage (ID-mismatch review 2026-10-04)"
+    },
+    "Bravo": {
+      "exclude": true,
+      "reason": "wrong artist: matched Spanish 90s pop group Bravo; the Warped act is a local band on the 2001 Ernie Ball stage (ID-mismatch review 2026-10-04)"
+    },
+    "Clementine": {
+      "exclude": true,
+      "reason": "wrong artist: matched bossa-nova singer Clementine; the Warped act is a local band on the 2013 KUKQ stage in Mesa AZ (ID-mismatch review 2026-10-04)"
+    },
+    "Culture Shock": {
+      "exclude": true,
+      "reason": "wrong artist: Last.fm is a UK drum & bass producer; the 2008 Warped act played the Mix Tent (pilot review 2026-10-03)"
+    },
+    "Dodger": {
+      "exclude": true,
+      "reason": "wrong artist: matched via a Last.fm ID with no MusicBrainz releases (pilot review 2026-10-03)"
+    },
+    "Eldridge": {
+      "exclude": true,
+      "reason": "wrong artist: MusicBrainz matched jazz trumpeter Roy Eldridge (albums 1952-1991); the Warped 2009 act is a different Eldridge (review 2026-10-04)"
+    },
+    "Itch": {
+      "exclude": true,
+      "reason": "wrong artist: matched 90s band Itch; the Warped act is Itch, solo project of The King Blues singer (ID-mismatch review 2026-10-04)"
+    },
+    "Laurel": {
+      "exclude": true,
+      "reason": "wrong artist: matched singer Laurel (songs 2014-2020); the Warped act is a 2007 Ernie Ball Battle of the Bands winner (ID-mismatch review 2026-10-04)"
+    },
+    "Lennon": {
+      "exclude": true,
+      "reason": "wrong artist: matched John Lennon; the Warped act is rock singer Lennon (Lennon Murphy) (ID-mismatch review 2026-10-04)"
+    },
+    "Madison": {
+      "exclude": true,
+      "reason": "wrong artist: matched 1980s heavy metal band Madison; the Warped act is the New Jersey rock band Madison (ID-mismatch review 2026-10-04)"
+    },
+    "Mu": {
+      "exclude": true,
+      "reason": "wrong artist: matched 1971 psych band Mu; the Warped act played the Kevin Says stage 2012-2013 (ID-mismatch review 2026-10-04)"
+    },
+    "Orange": {
+      "exclude": true,
+      "reason": "wrong artist: matched non-English act Orange (Chenebua/Hu); the Warped act is LA punk band Orange (ID-mismatch review 2026-10-04)"
+    },
+    "Skip": {
+      "exclude": true,
+      "reason": "wrong artist: matched a New Orleans rapper; the 2008 Warped act was a Mix Tent DJ act (pilot review 2026-10-03)"
+    },
+    "Stay": {
+      "exclude": true,
+      "reason": "wrong artist: matched a Barcelona psych band (pilot review 2026-10-03)"
+    },
+    "The Host": {
+      "exclude": true,
+      "reason": "wrong artist: Last.fm's top songs belong to a vaporwave act (pilot review 2026-10-03)"
+    },
+    "The Residence": {
+      "exclude": true,
+      "reason": "wrong artist: MusicBrainz matched a different The Residence (2002 album Don't Forget To Breathe); the Warped act is the Nelson, BC metalcore band (Of This Earth, 2013) (review 2026-10-04)"
+    },
+    "Tokyo": {
+      "exclude": true,
+      "reason": "wrong artist: matched early-80s rock band Tokyo; the Warped act is a 2007 Ernie Ball Battle of the Bands winner (ID-mismatch review 2026-10-04)"
+    },
+    "Unlimited": {
+      "exclude": true,
+      "reason": "wrong artist: matched 2 Unlimited; the 2013 Warped act is unidentified (ID-mismatch review 2026-10-04)"
+    },
+    "Uno": {
+      "exclude": true,
+      "reason": "wrong artist: matched Swedish pop singer Uno Svenningsson; the 2010 Warped act is unidentified (ID-mismatch review 2026-10-04)"
+    },
+    "Wilson": {
+      "exclude": true,
+      "reason": "wrong artist: matched Brian Wilson; the Warped act is Detroit rock band Wilson (ID-mismatch review 2026-10-04)"
+    }
+  },
+  "songs": {
+    "Paramore": {
+      "Decode": {
+        "year": 2008,
+        "reason": "first released Oct 2008 (Twilight soundtrack); MusicBrainz lists it on every Brand New Eyes edition as a bonus track"
+      }
+    }
+  }
+}
