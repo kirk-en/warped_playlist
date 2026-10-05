@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2025-06-14-washington",
+    "year": 2025,
+    "date": "2025-06-14",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Festival Grounds at RFK Campus"
+  },
+  {
+    "id": "2025-06-15-washington",
+    "year": 2025,
+    "date": "2025-06-15",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Festival Grounds at RFK Campus"
+  },
+  {
+    "id": "2025-07-26-long-beach",
+    "year": 2025,
+    "date": "2025-07-26",
+    "city": "Long Beach",
+    "state": "CA",
+    "venue": "Shoreline Waterfront"
+  },
+  {
+    "id": "2025-07-27-long-beach",
+    "year": 2025,
+    "date": "2025-07-27",
+    "city": "Long Beach",
+    "state": "CA",
+    "venue": "Shoreline Waterfront"
+  },
+  {
+    "id": "2025-11-15-orlando",
+    "year": 2025,
+    "date": "2025-11-15",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Camping World Stadium"
+  },
+  {
+    "id": "2025-11-16-orlando",
+    "year": 2025,
+    "date": "2025-11-16",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Camping World Stadium"
+  }
+]

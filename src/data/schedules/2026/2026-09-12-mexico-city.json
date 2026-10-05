@@ -1,0 +1,440 @@
+{
+  "stages": [
+    {
+      "id": "vans",
+      "name": "Vans Stage"
+    },
+    {
+      "id": "corona",
+      "name": "Corona Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "beatbox",
+      "name": "Beatbox Stage"
+    },
+    {
+      "id": "little-caesars",
+      "name": "Little Caesars Stage"
+    },
+    {
+      "id": "corona-cero",
+      "name": "Corona Cero Stage"
+    },
+    {
+      "id": "warped-unplugged",
+      "name": "Warped Unplugged Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-letlive",
+      "band": "letlive.",
+      "stageId": "vans",
+      "startTime": "12:33",
+      "displayTime": "12:33"
+    },
+    {
+      "id": "vans-3oh-3",
+      "band": "3OH!3",
+      "stageId": "vans",
+      "startTime": "13:54",
+      "displayTime": "1:54"
+    },
+    {
+      "id": "vans-dropkick-murphys",
+      "band": "Dropkick Murphys",
+      "stageId": "vans",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "vans-insite",
+      "band": "Insite",
+      "stageId": "vans",
+      "startTime": "16:56",
+      "displayTime": "4:56"
+    },
+    {
+      "id": "vans-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "vans",
+      "startTime": "18:37",
+      "displayTime": "6:37"
+    },
+    {
+      "id": "vans-papa-roach",
+      "band": "Papa Roach",
+      "stageId": "vans",
+      "startTime": "10:44",
+      "displayTime": "10:44"
+    },
+    {
+      "id": "corona-girlfriends",
+      "band": "girlfriends",
+      "stageId": "corona",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "corona-finch",
+      "band": "Finch",
+      "stageId": "corona",
+      "startTime": "13:11",
+      "displayTime": "1:11"
+    },
+    {
+      "id": "corona-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "corona",
+      "startTime": "14:32",
+      "displayTime": "2:32"
+    },
+    {
+      "id": "corona-chiodos",
+      "band": "Chiodos",
+      "stageId": "corona",
+      "startTime": "16:08",
+      "displayTime": "4:08"
+    },
+    {
+      "id": "corona-allison",
+      "band": "Allison",
+      "stageId": "corona",
+      "startTime": "17:44",
+      "displayTime": "5:44"
+    },
+    {
+      "id": "corona-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "corona",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "corona-the-all-american-rejects",
+      "band": "The All-American Rejects",
+      "stageId": "corona",
+      "startTime": "09:36",
+      "displayTime": "9:36"
+    },
+    {
+      "id": "ghost-blnko",
+      "band": "Blnko",
+      "stageId": "ghost",
+      "startTime": "13:16",
+      "displayTime": "1:16"
+    },
+    {
+      "id": "ghost-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "ghost",
+      "startTime": "14:32",
+      "displayTime": "2:32"
+    },
+    {
+      "id": "ghost-joyce-manor",
+      "band": "Joyce Manor",
+      "stageId": "ghost",
+      "startTime": "15:58",
+      "displayTime": "3:58"
+    },
+    {
+      "id": "ghost-saosin",
+      "band": "Saosin",
+      "stageId": "ghost",
+      "startTime": "17:24",
+      "displayTime": "5:24"
+    },
+    {
+      "id": "ghost-the-devil-wears-prada",
+      "band": "The Devil Wears Prada",
+      "stageId": "ghost",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "ghost-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "ghost",
+      "startTime": "20:36",
+      "displayTime": "8:36"
+    },
+    {
+      "id": "ghost-bowling-for-soup",
+      "band": "Bowling for Soup",
+      "stageId": "ghost",
+      "startTime": "22:12",
+      "displayTime": "10:12"
+    },
+    {
+      "id": "beatbox-don-tetto",
+      "band": "Don Tetto",
+      "stageId": "beatbox",
+      "startTime": "12:38",
+      "displayTime": "12:38"
+    },
+    {
+      "id": "beatbox-goldfinger",
+      "band": "Goldfinger",
+      "stageId": "beatbox",
+      "startTime": "13:54",
+      "displayTime": "1:54"
+    },
+    {
+      "id": "beatbox-the-aquabats",
+      "band": "The Aquabats",
+      "stageId": "beatbox",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "beatbox-anberlin",
+      "band": "Anberlin",
+      "stageId": "beatbox",
+      "startTime": "16:41",
+      "displayTime": "4:41"
+    },
+    {
+      "id": "beatbox-of-mice-men",
+      "band": "Of Mice & Men",
+      "stageId": "beatbox",
+      "startTime": "18:12",
+      "displayTime": "6:12"
+    },
+    {
+      "id": "beatbox-atreyu",
+      "band": "Atreyu",
+      "stageId": "beatbox",
+      "startTime": "19:48",
+      "displayTime": "7:48"
+    },
+    {
+      "id": "beatbox-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "beatbox",
+      "startTime": "21:24",
+      "displayTime": "9:24"
+    },
+    {
+      "id": "beatbox-kevis-maykyy",
+      "band": "Kevis & Maykyy",
+      "stageId": "beatbox",
+      "startTime": "23:05",
+      "displayTime": "11:05"
+    },
+    {
+      "id": "little-caesars-omega",
+      "band": "Omega",
+      "stageId": "little-caesars",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "little-caesars-segundos-auxilios",
+      "band": "Segundos Auxilios",
+      "stageId": "little-caesars",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "little-caesars-raue",
+      "band": "Raue",
+      "stageId": "little-caesars",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "little-caesars-spanish-love-songs",
+      "band": "Spanish Love Songs",
+      "stageId": "little-caesars",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "little-caesars-winona-fighter",
+      "band": "Winona Fighter",
+      "stageId": "little-caesars",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "little-caesars-less-than-jake",
+      "band": "Less Than Jake",
+      "stageId": "little-caesars",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "little-caesars-here-comes-the-kraken",
+      "band": "Here Comes the Kraken",
+      "stageId": "little-caesars",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "little-caesars-destroy-boys",
+      "band": "Destroy Boys",
+      "stageId": "little-caesars",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "little-caesars-the-ataris",
+      "band": "The Ataris",
+      "stageId": "little-caesars",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "little-caesars-san-venus",
+      "band": "San Venus",
+      "stageId": "little-caesars",
+      "startTime": "20:55",
+      "displayTime": "8:55"
+    },
+    {
+      "id": "corona-cero-muerete-tu",
+      "band": "Muerete Tu",
+      "stageId": "corona-cero",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "corona-cero-perra-brava",
+      "band": "Perra Brava",
+      "stageId": "corona-cero",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "corona-cero-pedro-y-el-lobo",
+      "band": "Pedro y El Lobo",
+      "stageId": "corona-cero",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "corona-cero-big-ass-truck-i-e",
+      "band": "Big Ass Truck I.E.",
+      "stageId": "corona-cero",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "corona-cero-mod-sun",
+      "band": "Mod Sun",
+      "stageId": "corona-cero",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "corona-cero-cardiel",
+      "band": "Cardiel",
+      "stageId": "corona-cero",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "corona-cero-the-home-team",
+      "band": "The Home Team",
+      "stageId": "corona-cero",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "corona-cero-say-ocean",
+      "band": "Say Ocean",
+      "stageId": "corona-cero",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "corona-cero-jutes",
+      "band": "Jutes",
+      "stageId": "corona-cero",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "corona-cero-2-minutos",
+      "band": "2 Minutos",
+      "stageId": "corona-cero",
+      "startTime": "21:10",
+      "displayTime": "9:10"
+    },
+    {
+      "id": "warped-unplugged-myverse",
+      "band": "MyVerse",
+      "stageId": "warped-unplugged",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "warped-unplugged-saosin",
+      "band": "Saosin",
+      "stageId": "warped-unplugged",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "warped-unplugged-valeria-davila",
+      "band": "Valeria Davila",
+      "stageId": "warped-unplugged",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "warped-unplugged-tungas",
+      "band": "Tungas",
+      "stageId": "warped-unplugged",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "warped-unplugged-letlive",
+      "band": "letlive.",
+      "stageId": "warped-unplugged",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "warped-unplugged-elli-noise",
+      "band": "Elli Noise",
+      "stageId": "warped-unplugged",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "warped-unplugged-jose-meyer-ibarra",
+      "band": "Jose Meyer Ibarra",
+      "stageId": "warped-unplugged",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "warped-unplugged-spanish-love-songs",
+      "band": "Spanish Love Songs",
+      "stageId": "warped-unplugged",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "warped-unplugged-mod-sun",
+      "band": "Mod Sun",
+      "stageId": "warped-unplugged",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "warped-unplugged-winona-fighter",
+      "band": "Winona Fighter",
+      "stageId": "warped-unplugged",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    }
+  ]
+}

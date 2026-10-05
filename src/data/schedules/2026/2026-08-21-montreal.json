@@ -1,0 +1,313 @@
+{
+  "stages": [
+    {
+      "id": "vans",
+      "name": "Vans Stage"
+    },
+    {
+      "id": "off-the-wall",
+      "name": "Off The Wall Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "le-castor",
+      "name": "Le Castor Stage"
+    },
+    {
+      "id": "paget",
+      "name": "Paget Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-the-paradox",
+      "band": "The Paradox",
+      "stageId": "vans",
+      "startTime": "11:50",
+      "displayTime": "11:50"
+    },
+    {
+      "id": "vans-escape-the-fate",
+      "band": "Escape the Fate",
+      "stageId": "vans",
+      "startTime": "13:01",
+      "displayTime": "1:01"
+    },
+    {
+      "id": "vans-atreyu",
+      "band": "Atreyu",
+      "stageId": "vans",
+      "startTime": "14:17",
+      "displayTime": "2:17"
+    },
+    {
+      "id": "vans-thrice",
+      "band": "Thrice",
+      "stageId": "vans",
+      "startTime": "15:43",
+      "displayTime": "3:43"
+    },
+    {
+      "id": "vans-pennywise",
+      "band": "Pennywise",
+      "stageId": "vans",
+      "startTime": "17:14",
+      "displayTime": "5:14"
+    },
+    {
+      "id": "vans-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "vans",
+      "startTime": "19:05",
+      "displayTime": "7:05"
+    },
+    {
+      "id": "vans-a-day-to-remember",
+      "band": "A Day to Remember",
+      "stageId": "vans",
+      "startTime": "09:16",
+      "displayTime": "9:16"
+    },
+    {
+      "id": "off-the-wall-the-red-jumpsuit-apparatus",
+      "band": "The Red Jumpsuit Apparatus",
+      "stageId": "off-the-wall",
+      "startTime": "12:23",
+      "displayTime": "12:23"
+    },
+    {
+      "id": "off-the-wall-joyce-manor",
+      "band": "Joyce Manor",
+      "stageId": "off-the-wall",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "off-the-wall-silverstein",
+      "band": "Silverstein",
+      "stageId": "off-the-wall",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "off-the-wall-mxpx",
+      "band": "MxPx",
+      "stageId": "off-the-wall",
+      "startTime": "16:26",
+      "displayTime": "4:26"
+    },
+    {
+      "id": "off-the-wall-all-time-low",
+      "band": "All Time Low",
+      "stageId": "off-the-wall",
+      "startTime": "18:02",
+      "displayTime": "6:02"
+    },
+    {
+      "id": "off-the-wall-sublime",
+      "band": "Sublime",
+      "stageId": "off-the-wall",
+      "startTime": "20:08",
+      "displayTime": "8:08"
+    },
+    {
+      "id": "ghost-chase-petra",
+      "band": "Chase Petra",
+      "stageId": "ghost",
+      "startTime": "12:25",
+      "displayTime": "12:25"
+    },
+    {
+      "id": "ghost-initiate",
+      "band": "Initiate",
+      "stageId": "ghost",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "ghost-madball",
+      "band": "Madball",
+      "stageId": "ghost",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "ghost-the-planet-smashers",
+      "band": "The Planet Smashers",
+      "stageId": "ghost",
+      "startTime": "15:15",
+      "displayTime": "3:15"
+    },
+    {
+      "id": "ghost-drug-church",
+      "band": "Drug Church",
+      "stageId": "ghost",
+      "startTime": "16:15",
+      "displayTime": "4:15"
+    },
+    {
+      "id": "ghost-boston-manor",
+      "band": "Boston Manor",
+      "stageId": "ghost",
+      "startTime": "17:15",
+      "displayTime": "5:15"
+    },
+    {
+      "id": "ghost-spike-and-the-gimme-gimmes",
+      "band": "Spike and the Gimme Gimmes",
+      "stageId": "ghost",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "ghost-letlive",
+      "band": "letlive.",
+      "stageId": "ghost",
+      "startTime": "19:25",
+      "displayTime": "7:25"
+    },
+    {
+      "id": "ghost-comeback-kid",
+      "band": "Comeback Kid",
+      "stageId": "ghost",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "ghost-gob",
+      "band": "Gob",
+      "stageId": "ghost",
+      "startTime": "21:35",
+      "displayTime": "9:35"
+    },
+    {
+      "id": "le-castor-concrete-vehicles",
+      "band": "Concrete Vehicles",
+      "stageId": "le-castor",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "le-castor-oxymorrons",
+      "band": "Oxymorrons",
+      "stageId": "le-castor",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "le-castor-bigwig",
+      "band": "Bigwig",
+      "stageId": "le-castor",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "le-castor-agnostic-front",
+      "band": "Agnostic Front",
+      "stageId": "le-castor",
+      "startTime": "15:45",
+      "displayTime": "3:45"
+    },
+    {
+      "id": "le-castor-microwave",
+      "band": "Microwave",
+      "stageId": "le-castor",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "le-castor-the-ataris",
+      "band": "The Ataris",
+      "stageId": "le-castor",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "le-castor-the-menzingers",
+      "band": "The Menzingers",
+      "stageId": "le-castor",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "le-castor-good-riddance",
+      "band": "Good Riddance",
+      "stageId": "le-castor",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "le-castor-sleep-theory",
+      "band": "Sleep Theory",
+      "stageId": "le-castor",
+      "startTime": "21:10",
+      "displayTime": "9:10"
+    },
+    {
+      "id": "paget-the-last-mile",
+      "band": "The Last Mile",
+      "stageId": "paget",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "paget-colorsfade",
+      "band": "Colorsfade",
+      "stageId": "paget",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "paget-fair-warning",
+      "band": "Fair Warning",
+      "stageId": "paget",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "paget-punchline-13",
+      "band": "Punchline 13",
+      "stageId": "paget",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "paget-k-man-and-the-45s",
+      "band": "K-Man and the 45s",
+      "stageId": "paget",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "paget-basterds",
+      "band": "Basterds",
+      "stageId": "paget",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "paget-peer-pressure",
+      "band": "Peer Pressure",
+      "stageId": "paget",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "paget-spite-house",
+      "band": "Spite House",
+      "stageId": "paget",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "paget-the-anti-queens",
+      "band": "The Anti-Queens",
+      "stageId": "paget",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    }
+  ]
+}

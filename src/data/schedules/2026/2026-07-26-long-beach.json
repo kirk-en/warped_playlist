@@ -1,0 +1,686 @@
+{
+  "stages": [
+    {
+      "id": "vans",
+      "name": "Vans Stage"
+    },
+    {
+      "id": "off-the-wall",
+      "name": "Off The Wall Stage"
+    },
+    {
+      "id": "beatbox",
+      "name": "Beatbox Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon Stage"
+    },
+    {
+      "id": "doordash",
+      "name": "Doordash Stage"
+    },
+    {
+      "id": "octopus",
+      "name": "Octopus Stage"
+    },
+    {
+      "id": "rex",
+      "name": "Rex Stage"
+    },
+    {
+      "id": "warped-unplugged",
+      "name": "Warped Unplugged Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-free-throw",
+      "band": "Free Throw",
+      "stageId": "vans",
+      "startTime": "11:43",
+      "displayTime": "11:43"
+    },
+    {
+      "id": "vans-letlive",
+      "band": "letlive.",
+      "stageId": "vans",
+      "startTime": "12:49",
+      "displayTime": "12:49"
+    },
+    {
+      "id": "vans-waterparks",
+      "band": "Waterparks",
+      "stageId": "vans",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "vans-mayday-parade",
+      "band": "Mayday Parade",
+      "stageId": "vans",
+      "startTime": "15:21",
+      "displayTime": "3:21"
+    },
+    {
+      "id": "vans-mxpx",
+      "band": "MxPx",
+      "stageId": "vans",
+      "startTime": "16:52",
+      "displayTime": "4:52"
+    },
+    {
+      "id": "vans-third-eye-blind",
+      "band": "Third Eye Blind",
+      "stageId": "vans",
+      "startTime": "18:43",
+      "displayTime": "6:43"
+    },
+    {
+      "id": "vans-papa-roach",
+      "band": "Papa Roach",
+      "stageId": "vans",
+      "startTime": "20:49",
+      "displayTime": "8:49"
+    },
+    {
+      "id": "off-the-wall-mutant-beans",
+      "band": "Mutant Beans",
+      "stageId": "off-the-wall",
+      "startTime": "11:15",
+      "displayTime": "11:15"
+    },
+    {
+      "id": "off-the-wall-haywire",
+      "band": "Haywire",
+      "stageId": "off-the-wall",
+      "startTime": "12:16",
+      "displayTime": "12:16"
+    },
+    {
+      "id": "off-the-wall-bayside",
+      "band": "Bayside",
+      "stageId": "off-the-wall",
+      "startTime": "13:22",
+      "displayTime": "1:22"
+    },
+    {
+      "id": "off-the-wall-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "off-the-wall",
+      "startTime": "14:38",
+      "displayTime": "2:38"
+    },
+    {
+      "id": "off-the-wall-thrice",
+      "band": "Thrice",
+      "stageId": "off-the-wall",
+      "startTime": "16:04",
+      "displayTime": "4:04"
+    },
+    {
+      "id": "off-the-wall-taking-back-sunday",
+      "band": "Taking Back Sunday",
+      "stageId": "off-the-wall",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "off-the-wall-the-used",
+      "band": "The Used",
+      "stageId": "off-the-wall",
+      "startTime": "19:46",
+      "displayTime": "7:46"
+    },
+    {
+      "id": "beatbox-carolesdaughter",
+      "band": "Carolesdaughter",
+      "stageId": "beatbox",
+      "startTime": "11:25",
+      "displayTime": "11:25"
+    },
+    {
+      "id": "beatbox-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "beatbox",
+      "startTime": "12:29",
+      "displayTime": "12:29"
+    },
+    {
+      "id": "beatbox-boston-manor",
+      "band": "Boston Manor",
+      "stageId": "beatbox",
+      "startTime": "13:33",
+      "displayTime": "1:33"
+    },
+    {
+      "id": "beatbox-glassjaw",
+      "band": "Glassjaw",
+      "stageId": "beatbox",
+      "startTime": "14:37",
+      "displayTime": "2:37"
+    },
+    {
+      "id": "beatbox-the-cab",
+      "band": "The Cab",
+      "stageId": "beatbox",
+      "startTime": "15:41",
+      "displayTime": "3:41"
+    },
+    {
+      "id": "beatbox-crown-the-empire",
+      "band": "Crown the Empire",
+      "stageId": "beatbox",
+      "startTime": "16:45",
+      "displayTime": "4:45"
+    },
+    {
+      "id": "beatbox-breathe-carolina",
+      "band": "Breathe Carolina",
+      "stageId": "beatbox",
+      "startTime": "17:59",
+      "displayTime": "5:59"
+    },
+    {
+      "id": "beatbox-we-came-as-romans",
+      "band": "We Came As Romans",
+      "stageId": "beatbox",
+      "startTime": "19:13",
+      "displayTime": "7:13"
+    },
+    {
+      "id": "beatbox-alexisonfire",
+      "band": "Alexisonfire",
+      "stageId": "beatbox",
+      "startTime": "20:37",
+      "displayTime": "8:37"
+    },
+    {
+      "id": "ghost-from-first-to-last",
+      "band": "From First to Last",
+      "stageId": "ghost",
+      "startTime": "11:57",
+      "displayTime": "11:57"
+    },
+    {
+      "id": "ghost-acceptance",
+      "band": "Acceptance",
+      "stageId": "ghost",
+      "startTime": "13:01",
+      "displayTime": "1:01"
+    },
+    {
+      "id": "ghost-the-academy-is",
+      "band": "The Academy Is...",
+      "stageId": "ghost",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "ghost-drain",
+      "band": "Drain",
+      "stageId": "ghost",
+      "startTime": "15:09",
+      "displayTime": "3:09"
+    },
+    {
+      "id": "ghost-g-eazy",
+      "band": "G-Eazy",
+      "stageId": "ghost",
+      "startTime": "16:13",
+      "displayTime": "4:13"
+    },
+    {
+      "id": "ghost-motion-city-soundtrack",
+      "band": "Motion City Soundtrack",
+      "stageId": "ghost",
+      "startTime": "17:22",
+      "displayTime": "5:22"
+    },
+    {
+      "id": "ghost-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "ghost",
+      "startTime": "18:36",
+      "displayTime": "6:36"
+    },
+    {
+      "id": "ghost-silverstein",
+      "band": "Silverstein",
+      "stageId": "ghost",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "ghost-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "ghost",
+      "startTime": "21:19",
+      "displayTime": "9:19"
+    },
+    {
+      "id": "verizon-codefendants",
+      "band": "Codefendants",
+      "stageId": "verizon",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "verizon-millington",
+      "band": "Millington",
+      "stageId": "verizon",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "verizon-peelingflesh",
+      "band": "PeelingFlesh",
+      "stageId": "verizon",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "verizon-shakewell",
+      "band": "Shakewell",
+      "stageId": "verizon",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "verizon-i-set-my-friends-on-fire",
+      "band": "I Set My Friends on Fire",
+      "stageId": "verizon",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "verizon-the-paradox",
+      "band": "The Paradox",
+      "stageId": "verizon",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "verizon-the-ataris",
+      "band": "The Ataris",
+      "stageId": "verizon",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "verizon-nova-twins",
+      "band": "Nova Twins",
+      "stageId": "verizon",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "verizon-fame-on-fire",
+      "band": "Fame on Fire",
+      "stageId": "verizon",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "verizon-lagwagon",
+      "band": "Lagwagon",
+      "stageId": "verizon",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "doordash-rosecoloredworld",
+      "band": "rosecoloredworld",
+      "stageId": "doordash",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "doordash-kennyhoopla",
+      "band": "KennyHoopla",
+      "stageId": "doordash",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "doordash-sammy-adams",
+      "band": "Sammy Adams",
+      "stageId": "doordash",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "doordash-lower-definition",
+      "band": "Lower Definition",
+      "stageId": "doordash",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "doordash-origami-angel",
+      "band": "Origami Angel",
+      "stageId": "doordash",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "doordash-boundaries",
+      "band": "Boundaries",
+      "stageId": "doordash",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "doordash-division-minuscula",
+      "band": "Division Minuscula",
+      "stageId": "doordash",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "doordash-scary-kids-scaring-kids",
+      "band": "Scary Kids Scaring Kids",
+      "stageId": "doordash",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "doordash-amigo-the-devil",
+      "band": "Amigo the Devil",
+      "stageId": "doordash",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "doordash-hot-milk",
+      "band": "Hot Milk",
+      "stageId": "doordash",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "doordash-meet-me-the-altar",
+      "band": "Meet Me @ The Altar",
+      "stageId": "doordash",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "octopus-start-today",
+      "band": "Start Today",
+      "stageId": "octopus",
+      "startTime": "11:55",
+      "displayTime": "11:55"
+    },
+    {
+      "id": "octopus-scarlet-house",
+      "band": "Scarlet House",
+      "stageId": "octopus",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "octopus-xcomm",
+      "band": "XCOMM",
+      "stageId": "octopus",
+      "startTime": "13:35",
+      "displayTime": "1:35"
+    },
+    {
+      "id": "octopus-delux",
+      "band": "Delux",
+      "stageId": "octopus",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "octopus-daisy-grenade",
+      "band": "Daisy Grenade",
+      "stageId": "octopus",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "octopus-people-r-ugly",
+      "band": "People R Ugly",
+      "stageId": "octopus",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "octopus-hepcat",
+      "band": "Hepcat",
+      "stageId": "octopus",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "octopus-the-aggrolites",
+      "band": "The Aggrolites",
+      "stageId": "octopus",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "octopus-denm",
+      "band": "Denm",
+      "stageId": "octopus",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "octopus-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "octopus",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "octopus-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "octopus",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "rex-tllie",
+      "band": "tLLie",
+      "stageId": "rex",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "rex-leisure-hour",
+      "band": "Leisure Hour",
+      "stageId": "rex",
+      "startTime": "12:20",
+      "displayTime": "12:20"
+    },
+    {
+      "id": "rex-villanelle",
+      "band": "Villanelle",
+      "stageId": "rex",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "rex-dying-wish",
+      "band": "Dying Wish",
+      "stageId": "rex",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "rex-alemeda",
+      "band": "Alemeda",
+      "stageId": "rex",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "rex-guilt-trip",
+      "band": "Guilt Trip",
+      "stageId": "rex",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "rex-jiluka",
+      "band": "Jiluka",
+      "stageId": "rex",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "rex-lakeview",
+      "band": "Lakeview",
+      "stageId": "rex",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "rex-doobie",
+      "band": "Doobie",
+      "stageId": "rex",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "rex-surfer-girl",
+      "band": "Surfer Girl",
+      "stageId": "rex",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "rex-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "rex",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "warped-unplugged-addie-addie-addie",
+      "band": "Addie Addie Addie",
+      "stageId": "warped-unplugged",
+      "startTime": "11:30",
+      "displayTime": "11:30"
+    },
+    {
+      "id": "warped-unplugged-gloria-alexander",
+      "band": "Gloria Alexander",
+      "stageId": "warped-unplugged",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "warped-unplugged-rob-woronoff-of-anti-recidivism-coalition",
+      "band": "Rob Woronoff of Anti-Recidivism Coalition",
+      "stageId": "warped-unplugged",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "warped-unplugged-the-aggrolites",
+      "band": "The Aggrolites",
+      "stageId": "warped-unplugged",
+      "startTime": "12:45",
+      "displayTime": "12:45"
+    },
+    {
+      "id": "warped-unplugged-anna-valenzuela",
+      "band": "Anna Valenzuela",
+      "stageId": "warped-unplugged",
+      "startTime": "13:25",
+      "displayTime": "1:25"
+    },
+    {
+      "id": "warped-unplugged-humane-world-for-animals",
+      "band": "Humane World for Animals",
+      "stageId": "warped-unplugged",
+      "startTime": "13:45",
+      "displayTime": "1:45"
+    },
+    {
+      "id": "warped-unplugged-mad-caddies",
+      "band": "Mad Caddies",
+      "stageId": "warped-unplugged",
+      "startTime": "14:05",
+      "displayTime": "2:05"
+    },
+    {
+      "id": "warped-unplugged-particle-kid",
+      "band": "Particle Kid",
+      "stageId": "warped-unplugged",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "warped-unplugged-megan-holiday-of-life-of-the-party",
+      "band": "Megan Holiday of Life of the Party",
+      "stageId": "warped-unplugged",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "warped-unplugged-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "warped-unplugged",
+      "startTime": "15:40",
+      "displayTime": "3:40"
+    },
+    {
+      "id": "warped-unplugged-brandie-posey",
+      "band": "Brandie Posey",
+      "stageId": "warped-unplugged",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "warped-unplugged-shaney-jo-darden-of-keep-a-breast",
+      "band": "Shaney Jo Darden of Keep A Breast",
+      "stageId": "warped-unplugged",
+      "startTime": "16:40",
+      "displayTime": "4:40"
+    },
+    {
+      "id": "warped-unplugged-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "warped-unplugged",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "warped-unplugged-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "warped-unplugged",
+      "startTime": "17:40",
+      "displayTime": "5:40"
+    },
+    {
+      "id": "warped-unplugged-ruby-leigh",
+      "band": "Ruby Leigh",
+      "stageId": "warped-unplugged",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "warped-unplugged-larry-and-his-flask",
+      "band": "Larry And His Flask",
+      "stageId": "warped-unplugged",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "warped-unplugged-letlive",
+      "band": "letlive.",
+      "stageId": "warped-unplugged",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "stages": [
+    {
+      "id": "vans",
+      "name": "Vans Stage"
+    },
+    {
+      "id": "corona",
+      "name": "Corona Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "beatbox",
+      "name": "Beatbox Stage"
+    },
+    {
+      "id": "little-caesars",
+      "name": "Little Caesars Stage"
+    },
+    {
+      "id": "corona-cero",
+      "name": "Corona Cero Stage"
+    },
+    {
+      "id": "warped-unplugged",
+      "name": "Warped Unplugged Stage"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-magnolia-park",
+      "band": "Magnolia Park",
+      "stageId": "vans",
+      "startTime": "12:38",
+      "displayTime": "12:38"
+    },
+    {
+      "id": "vans-the-starting-line",
+      "band": "The Starting Line",
+      "stageId": "vans",
+      "startTime": "13:54",
+      "displayTime": "1:54"
+    },
+    {
+      "id": "vans-thrice",
+      "band": "Thrice",
+      "stageId": "vans",
+      "startTime": "15:20",
+      "displayTime": "3:20"
+    },
+    {
+      "id": "vans-alkaline-trio",
+      "band": "Alkaline Trio",
+      "stageId": "vans",
+      "startTime": "16:56",
+      "displayTime": "4:56"
+    },
+    {
+      "id": "vans-black-veil-brides",
+      "band": "Black Veil Brides",
+      "stageId": "vans",
+      "startTime": "18:42",
+      "displayTime": "6:42"
+    },
+    {
+      "id": "vans-all-time-low",
+      "band": "All Time Low",
+      "stageId": "vans",
+      "startTime": "20:33",
+      "displayTime": "8:33"
+    },
+    {
+      "id": "vans-division-minuscula",
+      "band": "Division Minuscula",
+      "stageId": "vans",
+      "startTime": "10:44",
+      "displayTime": "10:44"
+    },
+    {
+      "id": "corona-fiddlehead",
+      "band": "Fiddlehead",
+      "stageId": "corona",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "corona-four-year-strong",
+      "band": "Four Year Strong",
+      "stageId": "corona",
+      "startTime": "13:16",
+      "displayTime": "1:16"
+    },
+    {
+      "id": "corona-movements",
+      "band": "Movements",
+      "stageId": "corona",
+      "startTime": "14:32",
+      "displayTime": "2:32"
+    },
+    {
+      "id": "corona-the-story-so-far",
+      "band": "The Story So Far",
+      "stageId": "corona",
+      "startTime": "16:08",
+      "displayTime": "4:08"
+    },
+    {
+      "id": "corona-pennywise",
+      "band": "Pennywise",
+      "stageId": "corona",
+      "startTime": "17:49",
+      "displayTime": "5:49"
+    },
+    {
+      "id": "corona-mxpx",
+      "band": "MxPx",
+      "stageId": "corona",
+      "startTime": "19:35",
+      "displayTime": "7:35"
+    },
+    {
+      "id": "corona-simple-plan",
+      "band": "Simple Plan",
+      "stageId": "corona",
+      "startTime": "09:36",
+      "displayTime": "9:36"
+    },
+    {
+      "id": "ghost-origami-angel",
+      "band": "Origami Angel",
+      "stageId": "ghost",
+      "startTime": "12:00",
+      "displayTime": "12:00"
+    },
+    {
+      "id": "ghost-microwave",
+      "band": "Microwave",
+      "stageId": "ghost",
+      "startTime": "13:11",
+      "displayTime": "1:11"
+    },
+    {
+      "id": "ghost-motion-city-soundtrack",
+      "band": "Motion City Soundtrack",
+      "stageId": "ghost",
+      "startTime": "14:27",
+      "displayTime": "2:27"
+    },
+    {
+      "id": "ghost-thermo",
+      "band": "Thermo",
+      "stageId": "ghost",
+      "startTime": "15:58",
+      "displayTime": "3:58"
+    },
+    {
+      "id": "ghost-escape-the-fate",
+      "band": "Escape the Fate",
+      "stageId": "ghost",
+      "startTime": "17:24",
+      "displayTime": "5:24"
+    },
+    {
+      "id": "ghost-the-maine",
+      "band": "The Maine",
+      "stageId": "ghost",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "ghost-new-found-glory",
+      "band": "New Found Glory",
+      "stageId": "ghost",
+      "startTime": "20:36",
+      "displayTime": "8:36"
+    },
+    {
+      "id": "ghost-underoath",
+      "band": "Underoath",
+      "stageId": "ghost",
+      "startTime": "22:12",
+      "displayTime": "10:12"
+    },
+    {
+      "id": "beatbox-the-wrecks",
+      "band": "The Wrecks",
+      "stageId": "beatbox",
+      "startTime": "12:33",
+      "displayTime": "12:33"
+    },
+    {
+      "id": "beatbox-breathe-carolina",
+      "band": "Breathe Carolina",
+      "stageId": "beatbox",
+      "startTime": "13:49",
+      "displayTime": "1:49"
+    },
+    {
+      "id": "beatbox-state-champs",
+      "band": "State Champs",
+      "stageId": "beatbox",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "beatbox-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "beatbox",
+      "startTime": "16:41",
+      "displayTime": "4:41"
+    },
+    {
+      "id": "beatbox-citizen",
+      "band": "Citizen",
+      "stageId": "beatbox",
+      "startTime": "18:12",
+      "displayTime": "6:12"
+    },
+    {
+      "id": "beatbox-basement",
+      "band": "Basement",
+      "stageId": "beatbox",
+      "startTime": "19:48",
+      "displayTime": "7:48"
+    },
+    {
+      "id": "beatbox-alexisonfire",
+      "band": "Alexisonfire",
+      "stageId": "beatbox",
+      "startTime": "21:24",
+      "displayTime": "9:24"
+    },
+    {
+      "id": "little-caesars-yuno",
+      "band": "Yuno",
+      "stageId": "little-caesars",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "little-caesars-bloody-benders",
+      "band": "Bloody Benders",
+      "stageId": "little-caesars",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "little-caesars-13-anclas",
+      "band": "13 Anclas",
+      "stageId": "little-caesars",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "little-caesars-sace6",
+      "band": "Sace6",
+      "stageId": "little-caesars",
+      "startTime": "14:55",
+      "displayTime": "2:55"
+    },
+    {
+      "id": "little-caesars-emery",
+      "band": "Emery",
+      "stageId": "little-caesars",
+      "startTime": "15:55",
+      "displayTime": "3:55"
+    },
+    {
+      "id": "little-caesars-elli-noise",
+      "band": "Elli Noise",
+      "stageId": "little-caesars",
+      "startTime": "16:55",
+      "displayTime": "4:55"
+    },
+    {
+      "id": "little-caesars-set-your-goals",
+      "band": "Set Your Goals",
+      "stageId": "little-caesars",
+      "startTime": "17:55",
+      "displayTime": "5:55"
+    },
+    {
+      "id": "little-caesars-tungas",
+      "band": "Tungas",
+      "stageId": "little-caesars",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "little-caesars-agnostic-front",
+      "band": "Agnostic Front",
+      "stageId": "little-caesars",
+      "startTime": "19:55",
+      "displayTime": "7:55"
+    },
+    {
+      "id": "little-caesars-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "little-caesars",
+      "startTime": "20:55",
+      "displayTime": "8:55"
+    },
+    {
+      "id": "corona-cero-flores-y-fuego",
+      "band": "Flores y Fuego",
+      "stageId": "corona-cero",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "corona-cero-moorelo",
+      "band": "Moorelo",
+      "stageId": "corona-cero",
+      "startTime": "13:20",
+      "displayTime": "1:20"
+    },
+    {
+      "id": "corona-cero-deathbyromy",
+      "band": "DeathByRomy",
+      "stageId": "corona-cero",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "corona-cero-sgt-papers",
+      "band": "Sgt. Papers",
+      "stageId": "corona-cero",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "corona-cero-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "corona-cero",
+      "startTime": "16:10",
+      "displayTime": "4:10"
+    },
+    {
+      "id": "corona-cero-angel-du-t",
+      "band": "Angel Du$t",
+      "stageId": "corona-cero",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "corona-cero-ll",
+      "band": "LØLØ",
+      "stageId": "corona-cero",
+      "startTime": "18:10",
+      "displayTime": "6:10"
+    },
+    {
+      "id": "corona-cero-delux",
+      "band": "Delux",
+      "stageId": "corona-cero",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "corona-cero-the-casualties",
+      "band": "The Casualties",
+      "stageId": "corona-cero",
+      "startTime": "20:10",
+      "displayTime": "8:10"
+    },
+    {
+      "id": "corona-cero-los-blenders",
+      "band": "Los Blenders",
+      "stageId": "corona-cero",
+      "startTime": "21:10",
+      "displayTime": "9:10"
+    },
+    {
+      "id": "warped-unplugged-ll",
+      "band": "LØLØ",
+      "stageId": "warped-unplugged",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "warped-unplugged-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "warped-unplugged",
+      "startTime": "14:40",
+      "displayTime": "2:40"
+    },
+    {
+      "id": "warped-unplugged-beebs",
+      "band": "Beebs",
+      "stageId": "warped-unplugged",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "warped-unplugged-say-ocean",
+      "band": "Say Ocean",
+      "stageId": "warped-unplugged",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "warped-unplugged-save-ferris",
+      "band": "Save Ferris",
+      "stageId": "warped-unplugged",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "warped-unplugged-kar",
+      "band": "Kar",
+      "stageId": "warped-unplugged",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "warped-unplugged-erik-canales",
+      "band": "Erik Canales",
+      "stageId": "warped-unplugged",
+      "startTime": "18:50",
+      "displayTime": "6:50"
+    },
+    {
+      "id": "warped-unplugged-bad-cop-bad-cop",
+      "band": "Bad Cop/Bad Cop",
+      "stageId": "warped-unplugged",
+      "startTime": "19:40",
+      "displayTime": "7:40"
+    },
+    {
+      "id": "warped-unplugged-the-maine",
+      "band": "The Maine",
+      "stageId": "warped-unplugged",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    }
+  ]
+}

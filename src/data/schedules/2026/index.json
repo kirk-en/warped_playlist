@@ -1,0 +1,84 @@
+[
+  {
+    "id": "2026-06-13-washington",
+    "year": 2026,
+    "date": "2026-06-13",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Festival Grounds at RFK Campus"
+  },
+  {
+    "id": "2026-06-14-washington",
+    "year": 2026,
+    "date": "2026-06-14",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Festival Grounds at RFK Campus"
+  },
+  {
+    "id": "2026-07-25-long-beach",
+    "year": 2026,
+    "date": "2026-07-25",
+    "city": "Long Beach",
+    "state": "CA",
+    "venue": "Shoreline Waterfront"
+  },
+  {
+    "id": "2026-07-26-long-beach",
+    "year": 2026,
+    "date": "2026-07-26",
+    "city": "Long Beach",
+    "state": "CA",
+    "venue": "Shoreline Waterfront"
+  },
+  {
+    "id": "2026-08-21-montreal",
+    "year": 2026,
+    "date": "2026-08-21",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2026-08-22-montreal",
+    "year": 2026,
+    "date": "2026-08-22",
+    "city": "Montreal",
+    "state": "QC",
+    "venue": "Parc Jean-Drapeau"
+  },
+  {
+    "id": "2026-09-12-mexico-city",
+    "year": 2026,
+    "date": "2026-09-12",
+    "city": "Mexico City",
+    "state": "Mexico",
+    "venue": "Autódromo Hermanos Rodríguez"
+  },
+  {
+    "id": "2026-09-13-mexico-city",
+    "year": 2026,
+    "date": "2026-09-13",
+    "city": "Mexico City",
+    "state": "Mexico",
+    "venue": "Autódromo Hermanos Rodríguez"
+  },
+  {
+    "id": "2026-11-14-orlando",
+    "year": 2026,
+    "date": "2026-11-14",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Camping World Stadium",
+    "note": "Set times are not known for this date."
+  },
+  {
+    "id": "2026-11-15-orlando",
+    "year": 2026,
+    "date": "2026-11-15",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "Camping World Stadium",
+    "note": "Set times are not known for this date."
+  }
+]

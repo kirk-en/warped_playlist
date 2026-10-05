@@ -1,0 +1,697 @@
+{
+  "stages": [
+    {
+      "id": "vans-left-foot",
+      "name": "Vans Left Foot Stage"
+    },
+    {
+      "id": "vans-right-foot",
+      "name": "Vans Right Foot Stage"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost Stage"
+    },
+    {
+      "id": "beatbox",
+      "name": "Beatbox Stage"
+    },
+    {
+      "id": "club-wyndham",
+      "name": "Club Wyndham Stage"
+    },
+    {
+      "id": "trojan",
+      "name": "Trojan Stage"
+    },
+    {
+      "id": "owen-s-mixers",
+      "name": "Owen's Mixers Stage"
+    },
+    {
+      "id": "geico",
+      "name": "Geico Stage"
+    },
+    {
+      "id": "warped-unplugged",
+      "name": "Warped Unplugged Stage"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent",
+      "name": "Smartpunk/Loyal to the Craft Tent"
+    }
+  ],
+  "sets": [
+    {
+      "id": "vans-left-foot-walking-blue",
+      "band": "Walking Blue",
+      "stageId": "vans-left-foot",
+      "startTime": "12:10",
+      "displayTime": "12:10"
+    },
+    {
+      "id": "vans-left-foot-escape-the-fate",
+      "band": "Escape the Fate",
+      "stageId": "vans-left-foot",
+      "startTime": "13:21",
+      "displayTime": "1:21"
+    },
+    {
+      "id": "vans-left-foot-story-of-the-year",
+      "band": "Story of the Year",
+      "stageId": "vans-left-foot",
+      "startTime": "14:32",
+      "displayTime": "2:32"
+    },
+    {
+      "id": "vans-left-foot-slaughter-to-prevail",
+      "band": "Slaughter to Prevail",
+      "stageId": "vans-left-foot",
+      "startTime": "15:53",
+      "displayTime": "3:53"
+    },
+    {
+      "id": "vans-left-foot-black-veil-brides",
+      "band": "Black Veil Brides",
+      "stageId": "vans-left-foot",
+      "startTime": "17:29",
+      "displayTime": "5:29"
+    },
+    {
+      "id": "vans-left-foot-yellowcard",
+      "band": "Yellowcard",
+      "stageId": "vans-left-foot",
+      "startTime": "19:25",
+      "displayTime": "7:25"
+    },
+    {
+      "id": "vans-left-foot-falling-in-reverse",
+      "band": "Falling in Reverse",
+      "stageId": "vans-left-foot",
+      "startTime": "09:46",
+      "displayTime": "9:46"
+    },
+    {
+      "id": "vans-right-foot-the-maine",
+      "band": "The Maine",
+      "stageId": "vans-right-foot",
+      "startTime": "12:38",
+      "displayTime": "12:38"
+    },
+    {
+      "id": "vans-right-foot-mod-sun",
+      "band": "Mod Sun",
+      "stageId": "vans-right-foot",
+      "startTime": "13:54",
+      "displayTime": "1:54"
+    },
+    {
+      "id": "vans-right-foot-plain-white-t-s",
+      "band": "Plain White T's",
+      "stageId": "vans-right-foot",
+      "startTime": "15:10",
+      "displayTime": "3:10"
+    },
+    {
+      "id": "vans-right-foot-3oh-3",
+      "band": "3OH!3",
+      "stageId": "vans-right-foot",
+      "startTime": "16:36",
+      "displayTime": "4:36"
+    },
+    {
+      "id": "vans-right-foot-pennywise",
+      "band": "Pennywise",
+      "stageId": "vans-right-foot",
+      "startTime": "18:22",
+      "displayTime": "6:22"
+    },
+    {
+      "id": "vans-right-foot-mgk",
+      "band": "mgk",
+      "stageId": "vans-right-foot",
+      "startTime": "20:28",
+      "displayTime": "8:28"
+    },
+    {
+      "id": "ghost-head-automatica",
+      "band": "Head Automatica",
+      "stageId": "ghost",
+      "startTime": "12:32",
+      "displayTime": "12:32"
+    },
+    {
+      "id": "ghost-knuckle-puck",
+      "band": "Knuckle Puck",
+      "stageId": "ghost",
+      "startTime": "13:38",
+      "displayTime": "1:38"
+    },
+    {
+      "id": "ghost-fame-on-fire",
+      "band": "Fame on Fire",
+      "stageId": "ghost",
+      "startTime": "14:44",
+      "displayTime": "2:44"
+    },
+    {
+      "id": "ghost-movements",
+      "band": "Movements",
+      "stageId": "ghost",
+      "startTime": "15:50",
+      "displayTime": "3:50"
+    },
+    {
+      "id": "ghost-crown-the-empire",
+      "band": "Crown the Empire",
+      "stageId": "ghost",
+      "startTime": "16:56",
+      "displayTime": "4:56"
+    },
+    {
+      "id": "ghost-from-ashes-to-new",
+      "band": "From Ashes to New",
+      "stageId": "ghost",
+      "startTime": "18:12",
+      "displayTime": "6:12"
+    },
+    {
+      "id": "ghost-the-devil-wears-prada",
+      "band": "The Devil Wears Prada",
+      "stageId": "ghost",
+      "startTime": "19:28",
+      "displayTime": "7:28"
+    },
+    {
+      "id": "ghost-wage-war",
+      "band": "Wage War",
+      "stageId": "ghost",
+      "startTime": "20:54",
+      "displayTime": "8:54"
+    },
+    {
+      "id": "ghost-hawthorne-heights",
+      "band": "Hawthorne Heights",
+      "stageId": "ghost",
+      "startTime": "22:20",
+      "displayTime": "10:20"
+    },
+    {
+      "id": "beatbox-point-north",
+      "band": "Point North",
+      "stageId": "beatbox",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "beatbox-fever-333",
+      "band": "Fever 333",
+      "stageId": "beatbox",
+      "startTime": "14:11",
+      "displayTime": "2:11"
+    },
+    {
+      "id": "beatbox-the-home-team",
+      "band": "The Home Team",
+      "stageId": "beatbox",
+      "startTime": "15:17",
+      "displayTime": "3:17"
+    },
+    {
+      "id": "beatbox-letlive",
+      "band": "letlive.",
+      "stageId": "beatbox",
+      "startTime": "16:23",
+      "displayTime": "4:23"
+    },
+    {
+      "id": "beatbox-yung-gravy",
+      "band": "Yung Gravy",
+      "stageId": "beatbox",
+      "startTime": "17:34",
+      "displayTime": "5:34"
+    },
+    {
+      "id": "beatbox-anberlin",
+      "band": "Anberlin",
+      "stageId": "beatbox",
+      "startTime": "18:45",
+      "displayTime": "6:45"
+    },
+    {
+      "id": "beatbox-the-ghost-inside",
+      "band": "The Ghost Inside",
+      "stageId": "beatbox",
+      "startTime": "20:11",
+      "displayTime": "8:11"
+    },
+    {
+      "id": "beatbox-state-champs",
+      "band": "State Champs",
+      "stageId": "beatbox",
+      "startTime": "21:37",
+      "displayTime": "9:37"
+    },
+    {
+      "id": "club-wyndham-people-r-ugly",
+      "band": "People R Ugly",
+      "stageId": "club-wyndham",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "club-wyndham-oxymorrons",
+      "band": "Oxymorrons",
+      "stageId": "club-wyndham",
+      "startTime": "13:40",
+      "displayTime": "1:40"
+    },
+    {
+      "id": "club-wyndham-big-ass-truck-i-e",
+      "band": "Big Ass Truck I.E.",
+      "stageId": "club-wyndham",
+      "startTime": "14:50",
+      "displayTime": "2:50"
+    },
+    {
+      "id": "club-wyndham-games-we-play",
+      "band": "Games We Play",
+      "stageId": "club-wyndham",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "club-wyndham-angel-du-t",
+      "band": "Angel Du$t",
+      "stageId": "club-wyndham",
+      "startTime": "17:10",
+      "displayTime": "5:10"
+    },
+    {
+      "id": "club-wyndham-scowl",
+      "band": "Scowl",
+      "stageId": "club-wyndham",
+      "startTime": "18:20",
+      "displayTime": "6:20"
+    },
+    {
+      "id": "club-wyndham-sunami",
+      "band": "Sunami",
+      "stageId": "club-wyndham",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "club-wyndham-deathbyromy",
+      "band": "DeathByRomy",
+      "stageId": "club-wyndham",
+      "startTime": "20:40",
+      "displayTime": "8:40"
+    },
+    {
+      "id": "club-wyndham-gwar",
+      "band": "GWAR",
+      "stageId": "club-wyndham",
+      "startTime": "21:50",
+      "displayTime": "9:50"
+    },
+    {
+      "id": "trojan-grave-secrets",
+      "band": "Grave Secrets",
+      "stageId": "trojan",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "trojan-vended",
+      "band": "Vended",
+      "stageId": "trojan",
+      "startTime": "14:15",
+      "displayTime": "2:15"
+    },
+    {
+      "id": "trojan-millionaires",
+      "band": "Millionaires",
+      "stageId": "trojan",
+      "startTime": "15:25",
+      "displayTime": "3:25"
+    },
+    {
+      "id": "trojan-holywatr",
+      "band": "Holywatr",
+      "stageId": "trojan",
+      "startTime": "16:35",
+      "displayTime": "4:35"
+    },
+    {
+      "id": "trojan-koyo",
+      "band": "Koyo",
+      "stageId": "trojan",
+      "startTime": "17:45",
+      "displayTime": "5:45"
+    },
+    {
+      "id": "trojan-nothing-nowhere",
+      "band": "Nothing, Nowhere.",
+      "stageId": "trojan",
+      "startTime": "18:55",
+      "displayTime": "6:55"
+    },
+    {
+      "id": "trojan-bad-rabbits",
+      "band": "Bad Rabbits",
+      "stageId": "trojan",
+      "startTime": "20:05",
+      "displayTime": "8:05"
+    },
+    {
+      "id": "trojan-i-see-stars",
+      "band": "I See Stars",
+      "stageId": "trojan",
+      "startTime": "21:15",
+      "displayTime": "9:15"
+    },
+    {
+      "id": "trojan-thursday",
+      "band": "Thursday",
+      "stageId": "trojan",
+      "startTime": "22:25",
+      "displayTime": "10:25"
+    },
+    {
+      "id": "owen-s-mixers-pertinence",
+      "band": "Pertinence",
+      "stageId": "owen-s-mixers",
+      "startTime": "13:00",
+      "displayTime": "1:00"
+    },
+    {
+      "id": "owen-s-mixers-stratejacket",
+      "band": "Stratejacket",
+      "stageId": "owen-s-mixers",
+      "startTime": "14:00",
+      "displayTime": "2:00"
+    },
+    {
+      "id": "owen-s-mixers-narrow-head",
+      "band": "Narrow Head",
+      "stageId": "owen-s-mixers",
+      "startTime": "15:00",
+      "displayTime": "3:00"
+    },
+    {
+      "id": "owen-s-mixers-scene-queen",
+      "band": "Scene Queen",
+      "stageId": "owen-s-mixers",
+      "startTime": "16:00",
+      "displayTime": "4:00"
+    },
+    {
+      "id": "owen-s-mixers-ten56",
+      "band": "Ten56",
+      "stageId": "owen-s-mixers",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "owen-s-mixers-left-to-suffer",
+      "band": "Left to Suffer",
+      "stageId": "owen-s-mixers",
+      "startTime": "18:00",
+      "displayTime": "6:00"
+    },
+    {
+      "id": "owen-s-mixers-not-enough-space",
+      "band": "Not Enough Space",
+      "stageId": "owen-s-mixers",
+      "startTime": "19:00",
+      "displayTime": "7:00"
+    },
+    {
+      "id": "owen-s-mixers-sophie-powers",
+      "band": "Sophie Powers",
+      "stageId": "owen-s-mixers",
+      "startTime": "20:00",
+      "displayTime": "8:00"
+    },
+    {
+      "id": "owen-s-mixers-royal-the-serpent",
+      "band": "Royal & the Serpent",
+      "stageId": "owen-s-mixers",
+      "startTime": "21:00",
+      "displayTime": "9:00"
+    },
+    {
+      "id": "owen-s-mixers-the-elovaters",
+      "band": "The Elovaters",
+      "stageId": "owen-s-mixers",
+      "startTime": "22:00",
+      "displayTime": "10:00"
+    },
+    {
+      "id": "geico-chained-saint",
+      "band": "Chained Saint",
+      "stageId": "geico",
+      "startTime": "12:30",
+      "displayTime": "12:30"
+    },
+    {
+      "id": "geico-maryjo",
+      "band": "MaryJo",
+      "stageId": "geico",
+      "startTime": "13:30",
+      "displayTime": "1:30"
+    },
+    {
+      "id": "geico-flycatcher",
+      "band": "Flycatcher",
+      "stageId": "geico",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "geico-waves",
+      "band": "Waves",
+      "stageId": "geico",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "geico-good-riddance",
+      "band": "Good Riddance",
+      "stageId": "geico",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "geico-world-s-first-cinema",
+      "band": "World's First Cinema",
+      "stageId": "geico",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "geico-surfer-girl",
+      "band": "Surfer Girl",
+      "stageId": "geico",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "geico-boundaries",
+      "band": "Boundaries",
+      "stageId": "geico",
+      "startTime": "19:30",
+      "displayTime": "7:30"
+    },
+    {
+      "id": "geico-arrows-in-action",
+      "band": "Arrows in Action",
+      "stageId": "geico",
+      "startTime": "20:30",
+      "displayTime": "8:30"
+    },
+    {
+      "id": "geico-the-expendables",
+      "band": "The Expendables",
+      "stageId": "geico",
+      "startTime": "21:30",
+      "displayTime": "9:30"
+    },
+    {
+      "id": "geico-lacey-sturm",
+      "band": "Lacey Sturm",
+      "stageId": "geico",
+      "startTime": "22:30",
+      "displayTime": "10:30"
+    },
+    {
+      "id": "warped-unplugged-dan-kelly",
+      "band": "Dan Kelly",
+      "stageId": "warped-unplugged",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "warped-unplugged-joann-schinderle",
+      "band": "Joann Schinderle",
+      "stageId": "warped-unplugged",
+      "startTime": "12:50",
+      "displayTime": "12:50"
+    },
+    {
+      "id": "warped-unplugged-divina-jasso-helena-holleran",
+      "band": "Divina Jasso & Helena Holleran",
+      "stageId": "warped-unplugged",
+      "startTime": "13:10",
+      "displayTime": "1:10"
+    },
+    {
+      "id": "warped-unplugged-phil-koehler-of-fuck-cancer",
+      "band": "Phil Koehler of Fuck Cancer",
+      "stageId": "warped-unplugged",
+      "startTime": "13:50",
+      "displayTime": "1:50"
+    },
+    {
+      "id": "warped-unplugged-anna-valenzuela",
+      "band": "Anna Valenzuela",
+      "stageId": "warped-unplugged",
+      "startTime": "14:10",
+      "displayTime": "2:10"
+    },
+    {
+      "id": "warped-unplugged-reverie",
+      "band": "Reverie",
+      "stageId": "warped-unplugged",
+      "startTime": "14:30",
+      "displayTime": "2:30"
+    },
+    {
+      "id": "warped-unplugged-shaney-jo-darden-of-keep-a-breast",
+      "band": "Shaney Jo Darden of Keep A Breast",
+      "stageId": "warped-unplugged",
+      "startTime": "15:05",
+      "displayTime": "3:05"
+    },
+    {
+      "id": "warped-unplugged-beebs",
+      "band": "Beebs",
+      "stageId": "warped-unplugged",
+      "startTime": "15:30",
+      "displayTime": "3:30"
+    },
+    {
+      "id": "warped-unplugged-brandie-posey",
+      "band": "Brandie Posey",
+      "stageId": "warped-unplugged",
+      "startTime": "16:05",
+      "displayTime": "4:05"
+    },
+    {
+      "id": "warped-unplugged-niko-is",
+      "band": "Niko Is",
+      "stageId": "warped-unplugged",
+      "startTime": "16:30",
+      "displayTime": "4:30"
+    },
+    {
+      "id": "warped-unplugged-nate-hilpert-of-heart-support",
+      "band": "Nate Hilpert of Heart Support",
+      "stageId": "warped-unplugged",
+      "startTime": "17:05",
+      "displayTime": "5:05"
+    },
+    {
+      "id": "warped-unplugged-geoff-weers",
+      "band": "Geoff Weers",
+      "stageId": "warped-unplugged",
+      "startTime": "17:30",
+      "displayTime": "5:30"
+    },
+    {
+      "id": "warped-unplugged-kevin-casey-white",
+      "band": "Kevin Casey White",
+      "stageId": "warped-unplugged",
+      "startTime": "18:05",
+      "displayTime": "6:05"
+    },
+    {
+      "id": "warped-unplugged-water-tower",
+      "band": "Water Tower",
+      "stageId": "warped-unplugged",
+      "startTime": "18:30",
+      "displayTime": "6:30"
+    },
+    {
+      "id": "warped-unplugged-gritty-in-pink-all-grl-jam",
+      "band": "Gritty in Pink All GRL Jam",
+      "stageId": "warped-unplugged",
+      "startTime": "19:10",
+      "displayTime": "7:10"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock",
+      "band": "School of Rock",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "12:15",
+      "displayTime": "12:15"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-2",
+      "band": "School of Rock",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "13:05",
+      "displayTime": "1:05"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-3",
+      "band": "School of Rock",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "13:55",
+      "displayTime": "1:55"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-4",
+      "band": "School of Rock",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "14:45",
+      "displayTime": "2:45"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-5",
+      "band": "School of Rock",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "15:35",
+      "displayTime": "3:35"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-school-of-rock-6",
+      "band": "School of Rock",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "16:20",
+      "displayTime": "4:20"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-glazed",
+      "band": "Glazed",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "17:00",
+      "displayTime": "5:00"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-keep-flying",
+      "band": "Keep Flying",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "17:50",
+      "displayTime": "5:50"
+    },
+    {
+      "id": "smartpunk-loyal-to-the-craft-tent-wounded-touch",
+      "band": "Wounded Touch",
+      "stageId": "smartpunk-loyal-to-the-craft-tent",
+      "startTime": "18:40",
+      "displayTime": "6:40"
+    }
+  ]
+}
