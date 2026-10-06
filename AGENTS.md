@@ -26,6 +26,24 @@ The essentials:
 - Store only title, artist, year, role and weight: no audio, album art or lyrics. Last.fm data is for
   non-commercial use.
 
+## Backing up the song-data cache
+
+`data/cache/` (gitignored, about 500 MB) holds every Last.fm and MusicBrainz response; rebuilding it from
+scratch takes about 11.5 hours of rate-limited requests. It is not on GitHub, so keep it backed up:
+
+- **When:** after any build run that fetched from the network (a new year, new bands, a newly resolved
+  ambiguous band), or at the end of a working session that changed the cache. Offline rebuilds (`--offline`,
+  weight retuning, overrides that need no new requests) do not change the raw responses; no backup needed.
+- **How**, from the checkout you ran the build in (Git Bash):
+  1. Sync the copy in the main checkout: `cp -r data/cache/. /h/warped_playlist/data/cache/`
+  2. Write a dated archive outside the repo:
+     `tar -czf /h/warped_cache/warped-song-cache-<YYYY-MM-DD>[-<what changed>].tar.gz -C data cache`
+     (use the `/h/...` form: GNU tar reads `H:` as a host name).
+  3. Verify: extract the archive to a scratch folder and `diff -rq` it against `data/cache`, then delete the
+     scratch copy.
+  4. Keep the previous archives until the new one is verified; prune old ones only when the user asks.
+- Archives and how to restore one are listed in `data/README.md` section 5.
+
 ## Schedules
 
 `src/data/schedule.ts` defines the schedule types and lazy loaders (`import.meta.glob`) for

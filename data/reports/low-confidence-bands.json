@@ -2196,14 +2196,6 @@
     "poolSize": 6
   },
   {
-    "band": "Millionaires",
-    "year": 2002,
-    "reasons": [
-      "a classic is dated from a non-studio release"
-    ],
-    "poolSize": 1
-  },
-  {
     "band": "Morgan Heritage",
     "year": 2002,
     "reasons": [
@@ -4003,14 +3995,6 @@
     "poolSize": 1
   },
   {
-    "band": "Gogol Bordello",
-    "year": 2005,
-    "reasons": [
-      "a classic is dated from a non-studio release"
-    ],
-    "poolSize": 6
-  },
-  {
     "band": "Gratitude",
     "year": 2005,
     "reasons": [
@@ -4982,14 +4966,6 @@
     "reasons": [
       "top Last.fm song has 661 listeners",
       "only 35% of the Last.fm top 20 have a year",
-      "a classic is dated from a non-studio release"
-    ],
-    "poolSize": 6
-  },
-  {
-    "band": "Gogol Bordello",
-    "year": 2006,
-    "reasons": [
       "a classic is dated from a non-studio release"
     ],
     "poolSize": 6
@@ -18222,14 +18198,6 @@
     "poolSize": 6
   },
   {
-    "band": "State Champs",
-    "year": 2014,
-    "reasons": [
-      "a classic is dated from a non-studio release"
-    ],
-    "poolSize": 6
-  },
-  {
     "band": "Stay True",
     "year": 2014,
     "reasons": [
@@ -21523,7 +21491,7 @@
     "band": "Tillie",
     "year": 2017,
     "reasons": [
-      "top Last.fm song has 23094 listeners",
+      "top Last.fm song has 23097 listeners",
       "a classic is dated from a non-studio release"
     ],
     "poolSize": 6
@@ -23209,14 +23177,6 @@
     "poolSize": 1
   },
   {
-    "band": "State Champs",
-    "year": 2018,
-    "reasons": [
-      "a classic is dated from a non-studio release"
-    ],
-    "poolSize": 6
-  },
-  {
     "band": "States & Capitals",
     "year": 2018,
     "reasons": [
@@ -23943,6 +23903,1805 @@
     "year": 2019,
     "reasons": [
       "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "311",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "408",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 19388 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "All Hype",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 2464 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "American Television",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 827 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Anna Valenzuela",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 3 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Ava Maybee",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Bad Rabbits",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 9639 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Beauty School Dropout",
+    "year": 2025,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Big Ass Truck I.E.",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 24865 listeners",
+      "only 50% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Boundaries",
+    "year": 2025,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "Brandie Posey",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 466 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Carolesdaughter",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Carpool",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 14792 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Chained Saint",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 3537 listeners",
+      "only 69% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Chandler Leighton",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Cliffdiver",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 18258 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Combat",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 15795 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Coolie Ranx",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 64 listeners",
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Dan Kelly",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 3182 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Dance Hall Crashers",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "De'Wayne",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Drain",
+    "year": 2025,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 5
+  },
+  {
+    "band": "Dye",
+    "year": 2025,
+    "reasons": [
+      "only 55% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Ekoh",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 20495 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "El Centro",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 786 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Fame on Fire",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Forever Came Calling",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 13024 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Garzi",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Girlfriends",
+    "year": 2025,
+    "reasons": [
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Glasswaves",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 11938 listeners",
+      "only 50% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Grave Secrets",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 9421 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Gym Class Heroes",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Haarper",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Heart Attack Man",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Her Leather Jacket",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 1056 listeners",
+      "only 24% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "HO99O9",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Holding Absence",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Hollow Pact",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 4784 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Holywatr",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Huddy",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Hungover",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 6828 listeners",
+      "only 40% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "I See Stars",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Jakobs Castle",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 1432 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Johnnie Guilbert",
+    "year": 2025,
+    "reasons": [
+      "only 35% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Jon Gazi",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 183 listeners",
+      "only 33% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 2
+  },
+  {
+    "band": "Kat Hall",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 91 listeners",
+      "only 55% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Keep Flying",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 5182 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "KennyHoopla",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Kerosene Heights",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 20870 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Kim Dracula",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "King Green",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 11963 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Lacey Sturm",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 21564 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Landon Barker",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 19650 listeners",
+      "only 10% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Leisure Hour",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 10741 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Lisa Curry",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 20 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Magnolia Park",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "MaryJo",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 6776 listeners",
+      "only 10% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 2
+  },
+  {
+    "band": "Maylee Todd",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 2876 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Memphis May Fire",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Microwave",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Mod Sun",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Mode",
+    "year": 2025,
+    "reasons": [
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 3
+  },
+  {
+    "band": "MyVerse",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 48 listeners",
+      "only 30% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Noelle Sucks",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 3485 listeners",
+      "only 35% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Not Enough Space",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Nothing, Nowhere.",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 816 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Oxymorrons",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 13501 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Pennywise",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "People R Ugly",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 16638 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Pertinence",
+    "year": 2025,
+    "reasons": [
+      "only 25% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "Point North",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Pull the Curtain",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 1399 listeners",
+      "only 10% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 2
+  },
+  {
+    "band": "Reverie",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 20164 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Ringpop!",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 851 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Screams of Syrens",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 6494 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Selfish Sons",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 3569 listeners",
+      "only 40% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Silly Goose",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 12281 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Slaughterhouse",
+    "year": 2025,
+    "reasons": [
+      "only 55% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Speed of Light",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 11595 listeners",
+      "only 25% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Spray Allen",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 475 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Standby",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 6200 listeners",
+      "only 30% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Stratejacket",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 2049 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Suck Brick Kid",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 1022 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Taylor Acorn",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Ten56",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 50 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Terror Reid",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Barbarians of California",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 12639 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Dark",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 8181 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Dark.FM",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 8988 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Devil Wears Prada",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Dreaded Laramie",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 780 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Elovaters",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 10533 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Home Team",
+    "year": 2025,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Interrupters",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Mainliners",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 5231 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Paradox",
+    "year": 2025,
+    "reasons": [
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Traitors",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 17859 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 3
+  },
+  {
+    "band": "Trxvis",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 2756 listeners",
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 2
+  },
+  {
+    "band": "Twin Rova",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 1435 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Urethane",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 4649 listeners",
+      "only 10% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Vended",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Vic Fuentes",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 294 listeners",
+      "only 20% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "Walking Blue",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 3741 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Water Tower",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 795 listeners",
+      "only 40% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Watts",
+    "year": 2025,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Wiplash",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 4542 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 2
+  },
+  {
+    "band": "World's First Cinema",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 8722 listeners",
+      "only 55% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Wounded Touch",
+    "year": 2025,
+    "reasons": [
+      "top Last.fm song has 1326 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Yung Gravy",
+    "year": 2025,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Addie Addie Addie",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 591 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Alemeda",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Anna Valenzuela",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 3 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Basement",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Basterds",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 990 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Bearings",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 20194 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Beauty School Dropout",
+    "year": 2026,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Ben Lapidus",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 3207 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Big Ass Truck I.E.",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 24865 listeners",
+      "only 50% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Blnko",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 9297 listeners",
+      "only 5% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Bloody Benders",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 281 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Boundaries",
+    "year": 2026,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 4
+  },
+  {
+    "band": "Brandie Posey",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 466 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Brayton",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 10592 listeners",
+      "only 30% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Cardiel",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 1778 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Carolesdaughter",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Codefendants",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 5159 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Colorsfade",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 515 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Concrete Vehicles",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 1268 listeners",
+      "only 40% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Coolie Ranx",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 64 listeners",
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Cross Check",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 1430 listeners",
+      "only 25% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Daisy Grenade",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 22295 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Delux",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 9652 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Denm",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 18033 listeners",
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Desecrate",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 554 listeners",
+      "only 10% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Don Tetto",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 8072 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Drain",
+    "year": 2026,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 5
+  },
+  {
+    "band": "Elijah",
+    "year": 2026,
+    "reasons": [
+      "only 10% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Elli Noise",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4613 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Fair Warning",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4868 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Fame on Fire",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Flores y Fuego",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 380 listeners",
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "Fluorescents",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 5940 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Fox Lake",
+    "year": 2026,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "G-Eazy",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "girlfriends",
+    "year": 2026,
+    "reasons": [
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Good Terms",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 12158 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Grandson",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Guilt Trip",
+    "year": 2026,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Gym Class Heroes",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Haywire",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 5109 listeners",
+      "only 45% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Hepcat",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 22212 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Holy Wars",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 24021 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Hot Milk",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "illScarlett",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 16142 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Insite",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 15137 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Jiluka",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Jinjer",
+    "year": 2026,
+    "reasons": [
+      "Last.fm and MusicBrainz artist IDs differ"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "KennyHoopla",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Kevis & Maykyy",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 7767 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Lakeview",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 13147 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Lambrini Girls",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Leisure Hour",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 10741 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "LOLO",
+    "year": 2026,
+    "reasons": [
+      "only 20% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Los Blenders",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 16692 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Magnolia Park",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Meet Me @ The Altar",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Microwave",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Midfield",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4375 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Millington",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 8814 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Mod Sun",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Moorelo",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 348 listeners",
+      "only 25% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 5
+  },
+  {
+    "band": "Mulch",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 5165 listeners",
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "MyVerse",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 48 listeners",
+      "only 30% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Nothing, Nowhere.",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 816 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Omega",
+    "year": 2026,
+    "reasons": [
+      "only 55% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Oxymorrons",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 13501 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Particle Kid",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 5815 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Peer Pressure",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 8519 listeners",
+      "only 5% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Pennywise",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "People R Ugly",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 16638 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Raue",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "RDGLDGRN",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 14515 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Reel Big Fish",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "rosecoloredworld",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4465 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Rosecoloredworld",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4465 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Sammy Adams",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "San Venus",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 1118 listeners",
+      "only 35% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Say Ocean",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 3073 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Scorching Tomb",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 5856 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Segundos Auxilios",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 2015 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Sgt. Papers",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4291 listeners",
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Shauna Dean Cokeland",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Slay Squad",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 4952 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Start Today",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 3614 listeners",
+      "only 55% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Sudden Waves",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 1229 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Super Sometimes",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 9405 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Taylor Williams",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 8313 listeners",
+      "only 10% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 2
+  },
+  {
+    "band": "Teen Mortgage",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Anti-Queens",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 6478 listeners"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Devil Wears Prada",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Home Team",
+    "year": 2026,
+    "reasons": [
+      "only 0% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "The Last Mile",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 243 listeners",
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 3
+  },
+  {
+    "band": "The Paradox",
+    "year": 2026,
+    "reasons": [
+      "only 5% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 1
+  },
+  {
+    "band": "tiLLie",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 23097 listeners",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Trxvis",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 2756 listeners",
+      "only 15% of the Last.fm top 20 have a year",
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 3
+  },
+  {
+    "band": "Vana",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Vienna Vienna",
+    "year": 2026,
+    "reasons": [
+      "a classic is dated from a non-studio release"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Villanelle",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 6680 listeners",
+      "only 50% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Water Tower",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 795 listeners",
+      "only 40% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "Who Cares",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 1503 listeners",
+      "only 65% of the Last.fm top 20 have a year"
+    ],
+    "poolSize": 6
+  },
+  {
+    "band": "XCOMM",
+    "year": 2026,
+    "reasons": [
+      "top Last.fm song has 12287 listeners",
+      "only 55% of the Last.fm top 20 have a year"
     ],
     "poolSize": 6
   }

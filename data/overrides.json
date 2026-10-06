@@ -48,6 +48,10 @@
       "exclude": true,
       "reason": "wrong artist: matched non-English act Orange (Chenebua/Hu); the Warped act is LA punk band Orange (ID-mismatch review 2026-10-04)"
     },
+    "School of Rock": {
+      "exclude": true,
+      "reason": "wrong artist: matched the School of Rock film soundtrack (Jack Black); the 2025 Warped act is the music school student band (ID-mismatch review 2026-10-05)"
+    },
     "Skip": {
       "exclude": true,
       "reason": "wrong artist: matched a New Orleans rapper; the 2008 Warped act was a Mix Tent DJ act (pilot review 2026-10-03)"
@@ -76,6 +80,10 @@
       "exclude": true,
       "reason": "wrong artist: matched Swedish pop singer Uno Svenningsson; the 2010 Warped act is unidentified (ID-mismatch review 2026-10-04)"
     },
+    "Whispers": {
+      "exclude": true,
+      "reason": "wrong artist: matched the R&B group The Whispers (And the Beat Goes On, 1979); the 2026 Warped act is a different band (ID-mismatch review 2026-10-05)"
+    },
     "Wilson": {
       "exclude": true,
       "reason": "wrong artist: matched Brian Wilson; the Warped act is Detroit rock band Wilson (ID-mismatch review 2026-10-04)"
@@ -86,6 +94,16 @@
       "Decode": {
         "year": 2008,
         "reason": "first released Oct 2008 (Twilight soundtrack); MusicBrainz lists it on every Brand New Eyes edition as a bonus track"
+      }
+    },
+    "State Champs": {
+      "Stay The Night": {
+        "year": 2014,
+        "reason": "first released 2014; MusicBrainz otherwise dates it to the 2025 Around The World and Back 10 anniversary EP (re-recording)"
+      },
+      "Stitches": {
+        "year": 2017,
+        "reason": "first released 2017; MusicBrainz otherwise dates it to the 2025 Around The World and Back 10 anniversary EP (re-recording)"
       }
     }
   }

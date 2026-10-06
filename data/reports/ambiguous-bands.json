@@ -185,6 +185,37 @@
     ]
   },
   {
+    "band": "Beton Arme",
+    "names": [
+      "Beton Arme"
+    ],
+    "years": [
+      2026
+    ],
+    "lastfmName": "Beton Arme",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "bbb6da54-c151-4b96-9bbb-2c7af9e3c98d",
+        "name": "Béton Armé",
+        "disambiguation": "1997 Stain rap duo / Padsou Maillblé & Onys Boina",
+        "country": "FR",
+        "releaseGroups": 0,
+        "studio": 0,
+        "score": 5
+      },
+      {
+        "id": "5c496196-47a3-47b3-bfaa-b5562bbe6dde",
+        "name": "Béton Armé",
+        "disambiguation": "Oi! from Montreal, QC",
+        "country": "",
+        "releaseGroups": 5,
+        "studio": 3,
+        "score": 3
+      }
+    ]
+  },
+  {
     "band": "Break the Silence",
     "names": [
       "Break the Silence"
@@ -1166,6 +1197,46 @@
         "releaseGroups": 4,
         "studio": 4,
         "score": 4
+      }
+    ]
+  },
+  {
+    "band": "Suckerpunch!",
+    "names": [
+      "Suckerpunch!"
+    ],
+    "years": [
+      2026
+    ],
+    "lastfmName": "Suckerpunch!",
+    "lastfmMbid": null,
+    "candidates": [
+      {
+        "id": "2dc39ed9-36ec-41e1-9839-a95591de5036",
+        "name": "Suckerpunch",
+        "disambiguation": "90s Los Angeles indie rock band",
+        "country": "US",
+        "releaseGroups": 2,
+        "studio": 2,
+        "score": 10
+      },
+      {
+        "id": "76fb9335-17c6-4494-9e07-36c828f7f033",
+        "name": "SUCKERPUNCH!",
+        "disambiguation": "Canadian new wave pop punk band",
+        "country": "",
+        "releaseGroups": 10,
+        "studio": 3,
+        "score": 8
+      },
+      {
+        "id": "add56c6b-2979-467b-a0d6-82453c3f425d",
+        "name": "Suckerpunch",
+        "disambiguation": "Canadian rock band from the 90's",
+        "country": "",
+        "releaseGroups": 1,
+        "studio": 1,
+        "score": 6
       }
     ]
   },
