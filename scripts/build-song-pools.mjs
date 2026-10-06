@@ -655,9 +655,20 @@ async function main() {
 
   // Registry: every band, keyed by its primary name; earlier runs' statuses are kept.
   const registry = await readJson(REGISTRY, { schemaVersion: 1, bands: {} });
+  // A new year can add a spelling that changes a band's primary name ("Tillie" in 2017, "tiLLie" in
+  // 2026). Fold any entry kept under an older primary name into the current one, so its computed years
+  // are not lost and the band is not listed twice. Facts files are keyed by bandKey, so they carry over.
+  const byKey = new Map();
+  for (const e of Object.values(registry.bands)) {
+    const k = bandKey(e.name) || e.name;
+    byKey.set(k, [...(byKey.get(k) ?? []), e]);
+  }
   for (const g of groups.values()) {
-    const prev = registry.bands[g.name] ?? {};
-    registry.bands[g.name] = { status: 'pending', computeYears: [], ...prev, name: g.name, names: g.names, years: g.years };
+    const entries = byKey.get(g.key) ?? [];
+    const current = registry.bands[g.name] ?? entries.find((e) => e.status !== 'pending') ?? entries[0] ?? {};
+    const computeYears = [...new Set(entries.flatMap((e) => e.computeYears ?? []))].sort();
+    for (const e of entries) if (e.name !== g.name) delete registry.bands[e.name];
+    registry.bands[g.name] = { status: 'pending', ...current, computeYears, name: g.name, names: g.names, years: g.years };
   }
   if (opts.sample) {
     const picked = new Map();

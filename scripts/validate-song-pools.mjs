@@ -55,6 +55,13 @@ const noData = await readJson(path.join(REPORTS, 'no-data-bands.json'), []);
 const lowConf = await readJson(path.join(REPORTS, 'low-confidence-bands.json'), []);
 const ambiguous = await readJson(path.join(REPORTS, 'ambiguous-bands.json'), []);
 const noDataKey = new Set(noData.map((e) => `${e.year}|${e.band}`));
+// Overrides are keyed by a band's primary name; one that no longer matches (for example after a new
+// spelling changed the primary name) would silently stop applying.
+for (const section of ['artists', 'songs']) {
+  for (const name of Object.keys(overrides[section] ?? {})) {
+    if (!registry.bands[name]) err(`overrides.json ${section}."${name}" is not a primary band name in data/bands.json`);
+  }
+}
 const statusOfName = (name) => registry.bands[groupOf.get(name)?.name]?.status;
 
 // ---------- year files ----------
